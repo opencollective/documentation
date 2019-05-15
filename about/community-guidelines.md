@@ -2,10 +2,7 @@
 
 We are a community based on trust, transparency, contribution and we try to ensure that all participants in the community have the best possible experience. We are all here to help each other learn, grow our skillsets and have a good time!
 
-These Community guidelines take into consideration the behavior as members of the community in any form of correspondence .
-This isn't an exhaustive list of things that you can't do. Rather, it will be a matter of healthy discussion if you take these points in the spirit in which it's intended.
-
-Therefore, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.
+We expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.
 
 ### **Be honest**
 
@@ -17,11 +14,11 @@ Collectives are groups of people with a shared mission. People may come and go, 
 
 ### **Be inclusive**
 
-The reason we can do great things together is that each of us bring a different perspective. Whoever you are, you have a unique perspective and unique skills to contribute. Moreover as we strive towards becoming a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion and mental and physical ability.So be welcoming and inclusive .
+The reason we can do great things together is that each of us bring a different perspective. Whoever you are, you have a unique perspective and unique skills to contribute. We strive towards becoming a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion and mental and physical ability. So be welcoming and inclusive .
 
 ### **Be respectful** 
 
-We have zero tolerance for trolling or harassment. Being a jerk will not get you a place in this community; it will turn people away. We don’t want that noise in the system.We know that not all of us will agree on certain points all the time, but we strongly believe that disagreement is a strict no excuse for poor behavior and poor manners amongst the community. We as a community might experience some or other frustration now and then due to disagreements, but we cannot afford to make that frustration turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
+We have zero tolerance for trolling or harassment. Being a jerk will not get you a place in this community; it will turn people away. We don’t want that noise in the system. We know that not all of us will agree all the time, but we strongly believe that disagreement is a strict no excuse for poor behavior. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
 
 ### **Be mindful**
 
@@ -33,7 +30,7 @@ If something’s wrong, let us know. We believe in self-managing systems, so we 
 
 ### Be cautious with your words and actions. 
 
-Being an ever growing community , we always try to conduct ourselves professionally. Therefore you are required to not insult or put down other participants. Harassment and other exclusionary behavior is strictly not acceptable and should be reported as soon as possible. This includes but is not limited to:
+Being an ever growing community , we always try to conduct ourselves professionally. You are required to not insult or put down other participants. Harassment and other exclusionary behavior is strictly not acceptable and should be reported as soon as possible. This includes but is not limited to:
 
 - Violent threats or language directed against another person.
 - Discriminatory jokes and language.
