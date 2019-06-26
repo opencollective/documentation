@@ -1,5 +1,12 @@
 # Product
 
+## Table of Contents
+
+- [Comparison](./comparison.md)
+- [User Profile](./user-profile.md)
+- [Currencies](./currencies.md)
+- [Log-in System](./log-in-system.md)
+
 ## Features
 
 ### [Collectives](../collectives/)
