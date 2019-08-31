@@ -2,13 +2,16 @@
 
 ## FAQ
 
-### Why should I give to a Collective?
+### Why should I donate to a Collective?
 
-If you get value out of what a project produces, support them to maintain it well and make improvements. You can also get recognition by appearing on their page as a backer or sponsor.
+Collectives need support to maintain themselves. If you believe in the spirit of Open source and the work they produce, you can be a contributor in your own way. And you will also get recognition by appearing on their page as a backer or sponsor.
 
 ### How do I contribute financially to a Collective?
 
-Go to the Collective page of the project you want to support. Select a contribution tier and set up a recurring donation, or click "one time donation" to make a one-off payment.
+* Open [Open Collective](https://opencollective.com) website.
+* Search for the Collective page of the project you want to support.
+* Click on Contribute.
+* Select a contribution tier and set up a recurring donation, or click "one time donation" to make a one-off payment.
 
 ### How can I find Collectives to support?
 
@@ -26,7 +29,7 @@ It depends on the [fiscal host ](../hosts/)of the Collective. If the host has ta
 
 The Open Source Collective 501\(c\)\(6\) is a non-profit that serves as fiscal host to most open source software projects on Open Collective. **Donations to Collectives under the Open Source Collective 501\(c\)\(6\) are not tax deductible.**
 
-Unfortunately, the IRS does not consider producing open source software to be a charitable activity in and of itself, and therefore does not grant tax exempt status. Also, the Open Source Collective hosts projects around the world, and the US only grants tax deductible status to explicitly US-focused entities.  
+Unfortunately, the IRS does not consider producing open source software to be a charitable activity in itself. Therefore, it does not grant tax exempt status. Also, the Open Source Collective hosts projects around the world, and the US only grants tax deductible status to explicitly US-focused entities.  
 
 In contrast, the Open Collective Foundation 501\(c\)\(3\), which is home to many open-source related groups primarily focused on education, outreach, and social impact, does qualify for tax-exempt status. If you donate to a Collective under that host, it's tax deductible in the US.
 
