@@ -1,10 +1,10 @@
 ---
-description: Queries for relatedcollective's manual operations
+description: Queries for related collective's manual operations
 ---
 
-# Relatedcollective queries
+# Related collective queries
 
-## Create a relatedcollective
+## Create a related collective
 
 ```sql
 INSERT INTO "Members"  (

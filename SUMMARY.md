@@ -55,7 +55,7 @@
 * [Integrations](collectives/integrations.md)
 * [Zero Collective Balance](collectives/zero-collective-balance.md)
 * [Closing a Collective](collectives/closing-a-collective.md)
-* [Relatedcollectives](collectives/relatedcollectives.md)
+* [Related collectives](collectives/relatedcollectives.md)
 * [Conversations](collectives/conversations.md)
 * [Setting up GitHub Sponsored Organization](collectives/github-sponsored-organizations.md)
 
@@ -156,7 +156,7 @@
   * [Transactions](internal/queries/transactions.md)
   * [Ops](internal/queries/ops.md)
   * [Collectives](internal/queries/collectives.md)
-  * [Relatedcollective queries](internal/queries/relatedcollective-queries.md)
+  * [Related collective queries](internal/queries/relatedcollective-queries.md)
   * [Hosts](internal/queries/hosts.md)
   * [Analytics](internal/queries/analytics.md)
   * [Emails](internal/queries/emails.md)
