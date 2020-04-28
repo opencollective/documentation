@@ -1,10 +1,10 @@
 ---
-description: Queries for related collective's manual operations
+description: Queries for connected collective's manual operations
 ---
 
-# Related collective queries
+# Connected collective queries
 
-## Create a related collective
+## Create a connected collective
 
 ```sql
 INSERT INTO "Members"  (
@@ -22,7 +22,7 @@ INSERT INTO "Members"  (
   2,
   __MEMBER_COLLECTIVE_ID__,
   __COLLECTIVE_ID__,
-  'RELATED_COLLECTIVE'
+  'CONNECTED_COLLECTIVE'
 )
 ```
 
