@@ -16,7 +16,7 @@ Our team is distributed between New York, Guadalajara, Paris, Brussels, Berlin, 
 
 ### Can I see your company budget?
 
-We run our company via [mutiple Open Collectives](https://opencollective.com/opencollectiveinc) ourselves. You can also see the [Collective for the Open Source Collective](https://opencollective.com/opensource). We still have some work to do to be even more transparent, and we hope to continue improving in this area.
+We run our company via [multiple Open Collectives](https://opencollective.com/opencollectiveinc) ourselves. You can also see the [Collective for the Open Source Collective](https://opencollective.com/opensource). We still have some work to do to be even more transparent, and we hope to continue improving in this area.
 
 ### How much investment have you raised?
 

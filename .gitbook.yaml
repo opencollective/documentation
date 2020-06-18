@@ -5,9 +5,9 @@ structure:
   summary: SUMMARY.md
 
 redirects:
-  about: ./about/README.md
-  product: ./product/README.md
-  collectives: ./collectives/README.md
+  about: ./about/introduction.md
+  product: ./product/features.md
+  collectives: ./collectives/collectives.md
   backers-and-sponsors: ./financial-contributors/financial-contributors.md
   backers-and-sponsors/sponsor-faq: ./financial-contributors/organizations/README.md
   backers-and-sponsors/payment: ./financial-contributors/payments.md
@@ -16,7 +16,7 @@ redirects:
   backers-and-sponsors/bulk-transfers: ./financial-contributors/organizations/bulk-transfers.md
   backers-and-sponsors/website-badge: ./financial-contributors/website-badge.md
   backers-and-sponsors/sustainer-resources: ./financial-contributors/organizations/sustainer-resources.md
-  expenses: ./expenses/README.md
+  expenses: ./expenses-and-getting-paid/expenses.md
   hosts: ./fiscal-hosts/fiscal-hosts.md
   hosts/become-host: ./fiscal-hosts/become-a-fiscal-host.md
   hosts/create-a-fiscal-host: ./fiscal-hosts/create-a-fiscal-host.md
@@ -43,6 +43,7 @@ redirects:
   developers/architecture: ./contributing/development/architecture.md
   developers/postgres-database: ./contributing/development/postgres-database.md
   developers/paypal: ./contributing/development/paypal.md
+  developers/transferwise: ./contributing/development/transferwise.md
   developers/post-donation-redirect: ./contributing/development/post-donation-redirect.md
   developers/custom-tweets: ./contributing/development/custom-tweets.md
   developers/manual-reporting: ./contributing/development/manual-reporting.md
@@ -56,7 +57,8 @@ redirects:
   design: ./contributing/design/README.md
   design/understanding-the-design-workflow: ./contributing/design/understanding-the-design-workflow.md
   design/untitled: ./contributing/design/contribution-guidelines.md
-  the-open-collective-way: ./internal/the-open-collective-way/README.md
+  the-open-collective-way: ./about/the-open-collective-way/README.md
+  the-open-collective-way/community-guidelines: ./about/the-open-collective-way/community-guidelines.md
   the-open-collective-way/core-contributors-guidelines: ./about/the-open-collective-way/core-contributors-guidelines.md
   the-open-collective-way/core-contributors-communication: ./about/the-open-collective-way/core-contributors-communication.md
   the-open-collective-way/core-contributors-expenses: ./about/the-open-collective-way/core-contributors-expenses.md

@@ -1,56 +1,40 @@
 # Pricing
 
-## The short version
+**Setting up a Collective is free, but there are fees to accept and pay out money.**
 
-**Setting up a Collective is free, but there are fees if you want to accept and pay out money.**
+_If you are a..._
 
-_Read on for more details._
+### Single Collective with a bank account where you want to hold your funds.
 
-### Single collective and have a bank account.
+If you are a **single Collective** and **have a bank account** to receive money for your group or project, this will be your plan. The bank account can be someone's personal account or that of a company.
 
-If you are a **Single Collective and have a bank account** where to receive the money, this will be your plan. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive it. This is also free up to $1000. 
+If you just want to receive credit card contributions to your budget,  \(via Stripe\), the fees are 5% + Stripe fees. 
+
+You can also choose to receive funds directly to your bank account, or through other channels such as cash, another payment or fundraising app, a ticket sales platform, etc. This is free up to $1,000, then costs $10/month. 
 
 ![Starter Plan for Single Collectives.](../.gitbook/assets/screen-shot-2020-01-15-at-12.25.57-pm.png)
 
-### Single collective and don't have access to a bank account for your community.
+### Single Collective without a bank account where you want to hold your funds.
 
-If you are **Single Collective and don't have access to a bank account**, you need to apply to a Fiscal Host. If you join a Fiscal Host you don't have to pay Open Collective, pricing depends on each host. Check out the [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) on Open Collective.
+If you are **single Collective** and **don't have a bank account to hold your funds,** you need to apply to a Fiscal Host. Fiscal Hosts are organizations that provide fundholding services, handle taxes and liability, and take a lot of the pain out of receiving and spending funds. 
 
-### An organization and want to create multiple collectives.
+If you join a Fiscal Host, you don't have to pay Open Collective directly, because your Fiscal Host pays for use of the platform. Most Hosts charge a fee to Collectives for the services they provide, but each one is autonomous so these fees vary. 
 
-If you are an **Organization that wants to become a Fiscal Host** your plan will depend on how many collectives you host as well as your payments options. If you just want to receive money via Stripe - the fees are 5% + Stripe Fees. You can also choose to manage funds you are receiving elsewhere, for example on a PayPal account, another platform, a t-shirt shop, ticket sales, etc. We call this Add Funds and it's free up to $1000. You can also chose to enable bank transfer payments. This means, enabling your contributors to create a pending donation and receive email instructions with your bank details. You can reconcile the donation when you receive them. This is also free up to $1000. When you reach this limit you'll need to go into one of the paid plans according to the number of collectives you host. 
+Check out some [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md).
 
-![Plans for Fiscal Hosts](../.gitbook/assets/screen-shot-2020-01-15-at-12.41.38-pm.png)
+### An Organization that wants to create multiple Collectives.
+
+You are a Fiscal Host, which is an entity that holds funds on behalf of multiple Collectives. Your plan will depend on how many Collectives you host, as well as your payments options.
+
+If you just want to receive money via credit card payments \(using Stripe\), the fees are 5% + Stripe Fees. 
+
+You can also choose to receive funds directly to your bank account, or through other channels such as cash, another payment or fundraising app, a ticket sales platform, etc. This is free up to $1,000. After that limit, you'll need a paid plan according to the number of Collectives you host. 
+
+![](../.gitbook/assets/about_pricing_current-pricing-table-for-fiscal-hosts_2020-04-03.png)
 
 ### What is a Fiscal Host?
 
 A fiscal host is a legal company or individual who enables financial transactions, holds funds, and takes care of liability and taxes for a Collective. Fiscal Hosts make it possible for Collectives to transact without incorporating their own legal entity. Each Fiscal Host sets its own fees, most commonly 0% and 5%.
 
-[More info about Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md).
-
-## Examples <a id="docs-internal-guid-bbc579cc-7fff-c7e7-cc88-4b3cac120c2c"></a>
-
-| Collective | Fiscal Host | Cloud SaaS or own servers | Fee\* |
-| :--- | :--- | :--- | :--- |
-| Open Source Projects \(anywhere\) | Open Source Collective 501\(c\)\(6\) | SaaS | 5% platform fee + 5% fiscal host fee = 10% |
-| Charity projects \(US only\) | Open Collective Foundation 501\(c\)\(3\) | SaaS | 5% platform fee + 5% fiscal host fee = 10% |
-| Open Collective Paris | Paris-based Collectives | SaaS | 5% platform fee + 0% fiscal host fee = 5% |
-| Brussels Together | Brussels-based citizen initiatives | SaaS | 5% platform fee + €10/month fiscal host fee |
-| Independent Project | Independent Project, LLC | Own servers | 0% platform fee + 0% fiscal host fee = free |
-
-_\*plus payment processor fees_
-
-### How are Open Collective's fees determined?
-
-The standard fee for fiscal sponsorship, the service provided by Fiscal Hosts, is 10%. This service is commonly offered by foundations and other organizations who manage funds for unincorporated projects. Open Collective offers not only fiscal sponsorship, but also a great software platform for raising money, paying expenses, record keeping, and transparent budgeting. We charge 5% for Fiscal Hosting \(for those Fiscal Hosts that we manage—other hosts set their own fees\) and 5% for the software platform \(if you put money through the system\), so 10% all together. Payment processing fees are determined by the providers we use, [PayPal](https://www.paypal.com/us/webapps/mpp/paypal-fees) and [Stripe](https://stripe.com/pricing).
-
-### What about funds flowing outside the Open Collective platform, like manual bank transfers?
-
-If a Fiscal Host agrees to receive money outside the Open Collective system, for example via bank transfer, it’s possible for them to add the funds manually to your Collective so they show up in your budget. There's no % in this case, but the Fiscal Host needs to have a plan that enables it to do it.
-
-Fiscal Hosts managed by Open Collective charge only the regular platform fee and fiscal host fee for manual transfers, but we only agree to do them for large, infrequent payments or special circumstances, because it’s a time-consuming process.
-
-### Can I put money through the system and still use it for free somehow?
-
-Yes, it’s possible, up to $1000. To do so, you'd need to set up and manage both the Fiscal Hosting side and the software hosting side yourself. So, you’ll need to set up and maintain your own legal entity and your own servers running an instance of the Open Collective open source software. Maintaining a legal entity involves tax and legal liability, admin overhead, and a lot of paperwork, and maintaining servers running your own software involves a lot of technical skill and effort. That’s why many Collectives find that it’s good value to pay Open Collective to provide these services.
+[More info about Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md)
 

@@ -65,7 +65,7 @@ E.g. [https://opencollective.com/sustainoss/events/2017-442ev.json](https://open
     {
       "id": 10,
       "name": "sponsor",
-      "description": "Contribute to the travel & accomodation fund your logo/link on website\n$25 credit for sticker swap table.",
+      "description": "Contribute to the travel & accommodation fund your logo/link on website\n$25 credit for sticker swap table.",
       "amount": 100000
     }
   ],

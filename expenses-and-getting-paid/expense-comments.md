@@ -9,5 +9,5 @@ Common uses for expense comments:
 * Following up if an expense has not been paid for a while
 * Thanking the submitter for the work they did
 
-![](../.gitbook/assets/screen-shot-2019-02-02-at-5.47.40-pm.png)
+![](../.gitbook/assets/image.png)
 

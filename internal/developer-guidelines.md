@@ -12,7 +12,7 @@ The goal of this page is to document how we are developing Open Collective. What
 * The `README.md` should be kept up to date and should describe how to deploy to the different environments
 * "If you break something, it's not your fault". It's important when you develop a new feature or fix something to have confidence that nothing else will break. If tests pass, you shouldn't have to worry. The opposite is also true: "if someone else broke your code, it's your fault". That's why it's important to write tests. Think about it as a way to protect your code and to avoid having to fix it because someone else broke it.
 * All scripts should be referenced in `package.json` so that they can be run with `npm run $script`
-* We use "[config](https://www.npmjs.com/package/config)" to manage environemnt variables.
+* We use "[config](https://www.npmjs.com/package/config)" to manage environment variables.
 * Production or test environment variables should only be kept on heroku \(you can access them using the command `heroku config --json --app opencollective-staging-app`
 
 ## Version control \(GIT\)

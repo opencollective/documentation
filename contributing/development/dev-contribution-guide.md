@@ -58,7 +58,7 @@ This section explains how you can get Open Collective running locally on your co
 
 ### Frontend
 
-Setting up the frontend is straightforward. We've provided a comprehensive guide in a seperate document that explains how to set up the project.
+Setting up the frontend is straightforward. We've provided a comprehensive guide in a separate document that explains how to set up the project.
 
 #### Setup guide
 
@@ -70,7 +70,7 @@ _NOTE: If you're only contributing frontend code, you don't need to setup the AP
 
 The API setup requires more effort than the frontend, as it requires installing the [PostgreSQL](https://www.postgresql.org/download/) and [PostGIS](https://postgis.net/install/) extensions. You might experience difficulty setting up the API on a Windows environment. We recommend using a Unix environment. \(We're currently working to make it easier on Windows\).
 
-Just like the frontend, we have a seperate document for the setup.
+Just like the frontend, we have a separate document for the setup.
 
 #### Setup guide
 

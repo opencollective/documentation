@@ -1,10 +1,10 @@
 ---
-description: Queries for subcollective's manual operations
+description: Queries for connected collective's manual operations
 ---
 
-# Subcollective queries
+# Connected collective queries
 
-## Create a subcollective
+## Create a connected collective
 
 ```sql
 INSERT INTO "Members"  (
@@ -22,7 +22,7 @@ INSERT INTO "Members"  (
   2,
   __MEMBER_COLLECTIVE_ID__,
   __COLLECTIVE_ID__,
-  'SUB_COLLECTIVE'
+  'CONNECTED_COLLECTIVE'
 )
 ```
 
