@@ -8,7 +8,7 @@ When someone submits an [expense](../expenses-and-getting-paid/expenses.md) to y
 
 You can also view expenses on Open Collective. Click the link from the email notification, or go to your Collective page and click "View all Expenses".
 
-![](../.gitbook/assets/screen-shot-2019-02-05-at-5.22.40-pm.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### Should I approve this expense?
 

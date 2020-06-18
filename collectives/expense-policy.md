@@ -1,14 +1,10 @@
 # Expense Policy
 
-You can specify an expense policy, which appears on the top of the submit expense form, to give guidance to expense submitters. Making it clear what expenses will be approved and what submitters need to do will save time for you and them.
+You can specify an expense policy, which appears on the right of the submit expense form, to give guidance to expense submitters. Making it clear what expenses will be approved and what submitters need to do will save time for you and them.
 
 To update your expense policy, go to your Collective's page, click on the gear icon next to your Collective's logo and go to the **Expenses Policy** page.
 
 ![](../.gitbook/assets/collectives_expenses-policy.png)
-
-If you have not specified an expense policy, when you view the submit expense page for your Collective, you will see a button asking you to add one.
-
-![](../.gitbook/assets/screen-shot-2019-02-05-at-5.08.32-pm.png)
 
 ## Examples
 

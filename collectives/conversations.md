@@ -14,7 +14,7 @@ Conversations are a discussion forum for your Collective. They are public thread
 
 Conversations are enabled by default for new Collectives. If you want to enable conversations for an old Collective or an organization, go to Collective settings &gt; Conversations.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ## FAQ
 

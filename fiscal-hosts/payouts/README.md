@@ -8,7 +8,7 @@ Straight to the bank account attached to your Stripe account, which you connect 
 
 ### How do people withdraw funds from Collectives we host?
 
-To withdraw funds, people submit receipts or invoices as [Expenses](../expenses-and-getting-paid/expenses.md).
+To withdraw funds, people submit receipts or invoices as [Expenses](../../expenses-and-getting-paid/expenses.md).
 
 Expenses go through a two-step approval process:
 
@@ -19,7 +19,7 @@ Then the expense can be paid out.
 
 ### What payment methods do you support for withdrawals?
 
-Right now, we only support PayPal for one-click payouts through the platform. You can manually record any money that you receive or send outside of the Open Collective platform \(e.g. bank transfer, cryptocurrency, cash, etc\). In the future, we hope to build other payout methods into the platform.
+Right now, we only support PayPal and TransferWise for one-click payouts through the platform. You can manually record any money that you receive or send outside of the Open Collective platform \(e.g. bank transfer, cryptocurrency, cash, etc\). In the future, we hope to build other payout methods into the platform.
 
 ### How do I pay out Expenses with PayPal?
 
@@ -28,6 +28,12 @@ From your host dashboard you can connect your PayPal account and pre-approve up 
 On the host dashboard, expenses that have been approved and have sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\).
 
 For single payments larger than $2,000, make a manual payment.
+
+### How do I pay out Expenses with TransferWise?
+
+TransferWise is still in beta release so the first thing is to request access to the feature through support@opencollective.com.
+
+After getting access to the feature, you'll be able to connect to your TransferWise account through the Connected Accounts menu in your settings. You can follow [these instructions](payouts-with-transferwise.md) to do so.
 
 ### How can I make manual payments?
 

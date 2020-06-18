@@ -2,6 +2,10 @@
 
 ## Bank Transfers
 
+{% hint style="warning" %}
+[In January of 2020](https://blog.opencollective.com/new-host-plans), we introduced new paid plans for Fiscal Hosts. Bank Transfers are **free up to $1000 across Collectives** for Fiscal Hosts ****on the **Starter** plan. After you've reached that limit, you will need to upgrade your plan.
+{% endhint %}
+
 Hosts can receive money directly on their bank account \(via bank transfer\) and then allocate those funds to a given collective via the dashboard.
 
 Financial Contributors are able to choose 'Bank Transfer' as a payment method:

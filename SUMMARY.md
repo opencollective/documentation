@@ -55,9 +55,9 @@
 * [Integrations](collectives/integrations.md)
 * [Zero Collective Balance](collectives/zero-collective-balance.md)
 * [Closing a Collective](collectives/closing-a-collective.md)
-* [Subcollectives](collectives/subcollectives.md)
+* [Connected collectives](collectives/connectedcollectives.md)
 * [Conversations](collectives/conversations.md)
-* [Setting up GitHub Sponsored Organization](collectives/github-sponsored-organizations.md)
+* [Setting up GitHub Sponsors](collectives/github-sponsors.md)
 
 ## Financial Contributors
 
@@ -87,7 +87,8 @@
 * [Create a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings.md)
 * [Invoices](fiscal-hosts/invoices.md)
-* [Payouts](fiscal-hosts/payouts.md)
+* [Payouts](fiscal-hosts/payouts/README.md)
+  * [Payouts with TransferWise](fiscal-hosts/payouts/payouts-with-transferwise.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)
@@ -115,6 +116,7 @@
   * [Architecture](contributing/development/architecture.md)
   * [Postgres Database](contributing/development/postgres-database.md)
   * [PayPal](contributing/development/paypal.md)
+  * [TransferWise](contributing/development/transferwise.md)
   * [Post-Donation Redirect](contributing/development/post-donation-redirect.md)
   * [Custom Tweets](contributing/development/custom-tweets.md)
   * [Manual Reporting](contributing/development/manual-reporting.md)
@@ -154,7 +156,7 @@
   * [Transactions](internal/queries/transactions.md)
   * [Ops](internal/queries/ops.md)
   * [Collectives](internal/queries/collectives.md)
-  * [Subcollective queries](internal/queries/subcollective-queries.md)
+  * [Connected collective queries](internal/queries/connectedcollective-queries.md)
   * [Hosts](internal/queries/hosts.md)
   * [Analytics](internal/queries/analytics.md)
   * [Emails](internal/queries/emails.md)

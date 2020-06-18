@@ -69,7 +69,7 @@ LEFT JOIN "Users" u ON u."CollectiveId" = m."MemberCollectiveId"
 WHERE m.role='ADMIN' AND m."CollectiveId" IN (SELECT "CollectiveId" FROM "Members" WHERE role = 'HOST' AND "MemberCollectiveId"=11004)
 AND u.email IS NOT NULL
 AND c."isActive" IS TRUE
-AND c. "deletedAt" IS NULL
+AND c."deletedAt" IS NULL
 ```
 
 ## Opt-in newsletter emails

@@ -66,22 +66,7 @@ Use the search bar to filter repositories by name:
 
 ## Manual verification
 
-**To apply for manual verification, follow these steps:**
-
-1. Go to [https://opencollective.com/create](https://opencollective.com/create).
-2. Select 'other' instead of 'open source'.
-
-![](../.gitbook/assets/screen-shot-2019-11-04-at-11.52.14-am.png)
-
-1. Select 'Apply to an existing fiscal host'.
-
-![](../.gitbook/assets/screen-shot-2019-11-04-at-11.54.09-am.png)
-
-1. Click 'View all fiscal hosts'.
-2. Select Open Source Collective.
-
-![](../.gitbook/assets/screen-shot-2019-11-04-at-11.56.32-am.png)
-
-1. Click "apply with \[Collective name\]", accept the terms and conditions, and click 'continue'.
-2. The Collective will then be pending review by the fiscal host admins, who will be automatically notified of your application.
+1. On the Collective creation page, choose **For open source projects**.
+2. Check **I agree with the** [**terms of fiscal sponsorship**](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y_vKJ_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub) and click on **Request manual verification**.
+3. Proceed with the creation of your Collective!
 

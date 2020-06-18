@@ -1,6 +1,24 @@
 # Data Export
 
-To see the data export options, go to your Collective's page, click on the gear icon next to your logo and head to the **Export** page.
+To see the data export options, reveal the dropdown menu by clicking on your username and click on the gear icon next to the name of your Collective.
+
+{% hint style="info" %}
+The gear icon will only appear if you are a Collective admin.
+{% endhint %}
+
+![](../.gitbook/assets/collectives_data-export_dropdown-menu_2020-04-01.png)
+
+On the settings page, go to **Export**.
+
+![](../.gitbook/assets/collectives_data-export_settings-page_export-highlight_2020-04-01%20%281%29.png)
+
+On this page, you can export your data into:
+
+* Widgets
+* Badges
+* Contributors images
+* CSV files
+* JSON files
 
 ## Widget
 

@@ -21,7 +21,7 @@ description: Monthly job to publicly thank contributors on Open Collective
 4. Shortly summarize each contribution in the spreadsheet
 5. If the contributor doesn't have a Twitter handle set in the spreadsheet, ask them if therey're ok to be mentioned publicly, and their twitter handle.
 
-> Hi \_\_\_, thanks for your contribution! We have a monthly tweet to publicly thank our contributors. Would you be ok to be mentioned in it? If so, could you share your Twitter handle in it?
+> Hi \_\_\_, thanks for your recent contribution! We have a monthly tweet to publicly thank contributors, would you be ok to be mentioned in it? If so, could you share your Twitter handle with me?
 
 6. Prepare the Tweet thread on [this doc](https://docs.google.com/document/d/1OdAeOfvGrtyGXgtlLkVI2y7oH0Upozma6TeDtCK2vB8/edit) and send it to Pia
 

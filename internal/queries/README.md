@@ -877,7 +877,7 @@ ORDER BY t."GroupId"
 
 #### Active collectives in a month and how much they paid in fees.
 
-You'll need to update the month start and end dates to run it for a particular month and update %name for different organizatons.
+You'll need to update the month start and end dates to run it for a particular month and update %name for different organizations.
 
 ```text
 select 
