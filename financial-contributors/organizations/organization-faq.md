@@ -30,10 +30,7 @@ Yes, you can cancel a recurring contribution at any time. To do so, go to 'subsc
 
 ## How do I reach a Collective?
 
-If you want to set up a sponsorship arrangement different to the pre-configured options, or have any other questions for the core contributors \(admins\) of a Collective, you can email them.
-
-_info@collectivename.opencollective.com_  
-\(insert the Collective's name from their URL for _collectivename_\).
+If you want to set up a sponsorship arrangement different to the pre-configured options, or have any other questions for the admins of a Collective, you can usually contact them using the `Contact` button on the Collective page.
 
 Most Collectives are happy to discus alternative arrangements and hear sponsor feedback and requests. We encourage sponsors to start conversations.
 

@@ -1,16 +1,5 @@
 # Integrations
 
-## Zapier Integration
-
-We now provide a Zapier App! Zapier should be the default choice whenever you need to integrate Open Collective with a third party service. All you need is:
-
-* To create an API key on [http://opencollective.com/applications](http://opencollective.com/applications)
-* To add the app on [https://zapier.com/developer/public-invite/21484/63399c65bb01d75e00fe091ae7f58683/](https://zapier.com/developer/public-invite/21484/63399c65bb01d75e00fe091ae7f58683/)
-
-Like everything we do, our Zapier app is open source \(MIT\). If you need an action that's not yet on the Zapier app and feel ready to work on the integration: check [https://github.com/opencollective/opencollective-zapier/settings](https://github.com/opencollective/opencollective-zapier/settings)
-
-Otherwise feel free to open an issue on [https://github.com/opencollective/opencollective/issues](https://github.com/opencollective/opencollective/issues) to ask for it. Please tell us about our use case, we love to understand why our users do what they do!
-
 ## Twitter Integration
 
 Connect your Twitter to automatically thank new backers who contribute to your Collective! To do so, go to your Collective page, click on the gear icon and head to the **Connected Accounts** page.

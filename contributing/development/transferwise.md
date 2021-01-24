@@ -8,6 +8,21 @@ description: >-
 
 TransferWise integration can be used to automate expense payment as a way to provide one-click wire transfer for expenses.
 
+## Strong Customer Authentication
+
+In order to create a new `TRANSFERWISE_PRIVATE_KEY` you'll need to generate a new key pair:
+
+```text
+openssl genrsa -out private.pem 2048
+openssl rsa -pubout -in private.pem -out public.pem
+```
+
+After that, you can encode the private key using **base64** and save it as an environment variable:
+
+```text
+TRANSFERWISE_PRIVATE_KEY=$(cat private.pem | base64 -w 0)
+```
+
 ## Developer Sandbox
 
 ### API Token

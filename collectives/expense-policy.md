@@ -18,7 +18,7 @@ To update your expense policy, go to your Collective's page, click on the gear i
 
 ## Fiscal Host Expense Policy
 
-Your Fiscal Host can also set an [expense policy](../fiscal-hosts/fiscal-host-settings.md#expenses). It will appear on the submit expense page, underneath the Collective policy.
+Your Fiscal Host can also set an [expense policy](../fiscal-hosts/fiscal-host-settings/#expenses). It will appear on the submit expense page, underneath the Collective policy.
 
 Often times, Collective expense policies are focused on what categories of things are allowed as expenses, while the Fiscal Host policy pertains to required documentation, like details on invoices.
 

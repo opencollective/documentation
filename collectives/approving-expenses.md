@@ -4,7 +4,7 @@
 
 ### How do I know when an expense is pending?
 
-When someone submits an [expense](../expenses-and-getting-paid/expenses.md) to your Collective, the Core Contributors will get an email notification. The email will show all the details of the expense, like who submitted it, the amount, and the receipt or invoice.
+When someone submits an [expense](../expenses-and-getting-paid/expenses.md) to your Collective, the admins will get an email notification. The email will show all the details of the expense, like who submitted it, the amount, and the receipt or invoice.
 
 You can also view expenses on Open Collective. Click the link from the email notification, or go to your Collective page and click "View all Expenses".
 

@@ -14,7 +14,7 @@ Especially, these types of contents are never welcome on the website:
 
 ## How to report abusive content
 
-Please send all your reports for SPAM and abusive content to [support@opencollective.com](mailto:support@opencollective.com).
+Please send all your reports for spam and abusive content to: [support@opencollective.com](mailto:support@opencollective.com).
 
 ## Limited user account
 

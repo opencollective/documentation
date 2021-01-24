@@ -22,7 +22,7 @@ Levels or rewards for backers and sponsors.
 
 ## [Events](../collectives/events.md)
 
-Tickets sales go straight to your Collective budget.
+Ticket sales go straight to your Collective budget.
 
 ## [Gift Cards](../financial-contributors/organizations/gift-cards.md)
 

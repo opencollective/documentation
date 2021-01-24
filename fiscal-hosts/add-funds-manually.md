@@ -6,31 +6,26 @@
 
 You can manually add funds to a Collective directly. This is useful when you receive a donation for a Collective outside the Open Collective system \(like a bank transfer\) and want to apply it to a Collective's budget.
 
-Log in and go to your [Fiscal Host dashboard](fiscal-host-dashboard.md). Use the search bar to find the Collective you want to add funds for and click on **Add Funds**.
+Log in and go to your [Fiscal Host dashboard](fiscal-host-dashboard.md). Click on the **Hosted Collectives** tab.
 
-![Using the search bar to find the Metadocumentation Collective.](../.gitbook/assets/fiscal-hosts_add_funds_manually_looking-for-collective_2019-11-25.gif)
+![An overview of your Fiscal Host dashboard. The Hosted Collectives tab is the last one listed.](../.gitbook/assets/fiscal-hosts-add-funds-manually-hosted-collectives-2020-09-18.png)
 
-Clicking on **Add Funds** should direct you to this form:
+ Use the search bar to find the Collective you want to add funds for.
 
-![](../.gitbook/assets/fiscal-hosts_add-funds-manually_add-funds-screen_2019-11-25.png)
+![Using the search bar to find the right Collective.](../.gitbook/assets/fiscal-hosts-add-funds-manually-search-bar-2020-09-20.gif)
 
+Click on the **Add Funds** button.
 
+![After finding the right Collective, clicking on the Add Funds button will open the right form.](../.gitbook/assets/fiscal-hosts-add-funds-manually-add-funds-2020-09-20.gif)
 
-### Amount
+And fill the form with all required information to add the funds to that Collective with the following information:
 
-The amount of funds you want to send to a Collective.
+![The form to manually add funds to a Collective.](../.gitbook/assets/fiscal-hosts-add-funds-manually-addition-form-2020-09-18.png)
 
-### Description
+* The **amount** of funds you want to send to a Collective.
+* Your **host fee**, which is the you charge your Collectives. It's already set to your default, but you change it to an one-time fee of your preference.
+* A short **description** of those funds.
+* The **source** of those funds. It can be your Fiscal Host, another Collective, or an Organization.
 
-A short description of those funds.
-
-### Source
-
-The origin of those funds. It can be your Fiscal Host, another Collective, or an Organization.
-
-### Host fee
-
-Your host fee, already set to your default.
-
-
+Once you're done, just click on **Add Funds**.
 

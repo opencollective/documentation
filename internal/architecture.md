@@ -16,8 +16,8 @@ A Collective can be of type:
 A Member connects a User to a Collective. It can have multiple roles \(one role per row\):
 
 * **HOST** legal holder of the bank account that holds the money on behalf of the collective
-* **ADMIN** users who can approve expenses for the collective \(aka core contributors\)
-* **MEMBER** aka contributors
+* **ADMIN** users who can approve expenses for the collective
+* **MEMBER** aka core contributors
 * **BACKER** users who gave money to the collective
 * **FOLLOWER** used atm for users interested in an event collective
 

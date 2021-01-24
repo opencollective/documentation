@@ -2,22 +2,22 @@
 
 ## What is an Organization?
 
-An Organization is a profile that represents a a legal entity instead of an individual. Companies that become Financial Contributors, as well as legal entities that are Fiscal Hosts, are all Organizations on Open Collective.
+An Organization is a profile that represents a company or entity instead of an individual. Companies that become Financial Contributors, as well as legal entities that are Fiscal Hosts, are Organizations on Open Collective.
 
 ## Why Create an Organization?
 
-* Have your company show up as a Financial Contributor of Collectives
+* Have your company show up as a Financial Contributor to Collectives
 * Enable your employees to support Collectives on behalf of your company
 * Make [bulk transfers](bulk-transfers.md) so you can send money once and distribute it to Collectives as you wish
-* Create a profile to host \(become a Fiscal Host\) for a project. [Read more about Fiscal Hosts](../../fiscal-hosts/fiscal-hosts.md)
+* Become a Fiscal Host \([read more](../../fiscal-hosts/become-a-fiscal-host.md)\)
 
 ## **How to** Create an Organization
 
 ### **If you already have an individual profile**
 
-Go to your profile menu \(top right\) and look for the My Organizations section. Click **+New**. 
+Go to your profile menu \(top right\) and look for the My Organizations section. Click "**+"**. 
 
-![](../../.gitbook/assets/organizations_new_dropdown-menu.png)
+![User menu - click on &quot;+&quot; to create a new organization](../../.gitbook/assets/image%20%2845%29.png)
 
 Once set up, you will be able to select your individual or organization profile when making a contribution.
 
@@ -25,15 +25,19 @@ Once set up, you will be able to select your individual or organization profile 
 
 ### **If you don't have an individual profile yet**
 
-Go through the process of contributing to a Collective, and you'll be able to create both the individual and organization profile during check out.
+Go through the process of contributing to a Collective, and you'll be able to create both the individual and organization profile during checkout.
 
 ## How to Edit an Organization
 
-Head to the top right menu to navigate to your Organization profile \(make sure you're logged into your Organization, not your personal account\).
+#### From your user menu
 
-![](../../.gitbook/assets/organizations_edit_gear-icon.png)
+Use the cog icon next to the organization that you want to edit.
 
-Click on the gear icon next to your logo to change your **Info**, add or remove **Core Contributors**, create or edit your **Expenses Policy**, ****manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
+![](../../.gitbook/assets/image%20%2823%29.png)
+
+
+
+From there you can change your **Info**, add or remove **Team members**, create or edit your **Expenses Policy**, ****manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
 
 Don't forget to **save your changes**!
 
@@ -41,5 +45,9 @@ Don't forget to **save your changes**!
 
 To access your Organization's contributions, go to the Organization's page and click on **Manage Contributions** in the navigation bar menu. From there you can access the action options to update amount or payment method, or cancel the contribution.
 
-![](../../.gitbook/assets/organizations_manage-contributions.png)
+{% hint style="info" %}
+Sometimes, the **`Manage contributions`** button can  be nested inside the **Actions** menu
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%2843%29.png)
 

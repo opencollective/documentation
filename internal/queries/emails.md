@@ -118,3 +118,19 @@ FROM "Users" u LEFT JOIN "orgAdminCollectives" ac ON u."CollectiveId" = ac.id
 WHERE u."deletedAt" IS NULL AND email IS NOT NULL AND ac.id IS NOT NULL
 ```
 
+## All admins of hosts
+
+```sql
+SELECT DISTINCT hosts.slug AS host, u.email, uc.name
+FROM "Members" m
+INNER JOIN "Collectives" hosts ON hosts.id = m."CollectiveId" AND hosts."isHostAccount" = TRUE
+INNER JOIN "Collectives" uc ON uc.id = m."MemberCollectiveId"
+INNER JOIN "Users" u ON m."MemberCollectiveId" = u."CollectiveId" 
+WHERE m."deletedAt" IS NULL
+AND m."role" = 'ADMIN'
+AND hosts."deletedAt" IS NULL
+AND u."deletedAt" IS NULL
+AND uc."deletedAt" IS NULL
+ORDER BY hosts.slug
+```
+

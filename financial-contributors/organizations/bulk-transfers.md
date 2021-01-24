@@ -19,20 +19,3 @@ Different fiscal hosts may have different processes for bulk transfers. Before s
 9. Select your Organization as the source of funds
 10. Done!
 
-## Open Source Collective bank details
-
-The Open Source Collective is the fiscal host which houses most open source software projects on the platform.
-
-**Address:**  
-Open Source Collective  
-340 S Lemon Ave \#3717  
-Walnut, CA. 91789, USA
-
-**Bank details:**  
-Bank name: Umpqua Bank  
-Bank address: 450 Sansome St.  
-Account name: Open Source Collective  
-Account Number: 4866342233  
-ABA: 123205054  
-SWIFT: UMPQUS6P
-

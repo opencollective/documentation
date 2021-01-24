@@ -23,7 +23,7 @@ Below are the hosts that Open Collective manages, plus some more examples.
 | Fiscal Host | Hosted Collectives | Fee |
 | :--- | :--- | :--- |
 | Open Source Collective | Open source projects | 5% |
-| Open Collective Foundation | US-based charity projects | 5% |
+| Open Collective Foundation | US-based charity projects | 5% for credit card payments, progressive fee structure for manual payments \(8% down to 4% for larger budgets\) |
 | Open Collective Inc | Our own transparent budget | 0% |
 | Open Collective Europe ASBL | EU-based Collectives | 5% |
 | Open Collective Paris | Paris-based collectives | 0% |
@@ -35,15 +35,15 @@ Below are the hosts that Open Collective manages, plus some more examples.
 
 We want to enable all kinds of diverse Collectives, so we make our platform available to a network of fiscal hosts with different missions in different geographies. Each fiscal host determines its own policies and fees.
 
-Some projects can’t be fiscally hosted by the entities Open Collective runs itself, because they are in a country we don’t cover or don’t fit under our entities' missions. For example, Open Source Collective is only for Open Source software projects, and Open Source Foundation is for US-only charity projects.
+Some projects can’t be fiscally hosted by the entities Open Collective runs itself, because they are in a country we don’t cover or don’t fit under our entities' missions. For example, Open Source Collective is only for Open Source software projects, and Open Source Foundation is for US-only charity projects. So we welcome external hosts on the platform.
 
 ### Do all Collectives need a Fiscal Host?
 
-Every Collective that receives or pays out money needs a fiscal host, because they need to connect the host's bank account, Stripe account, and PayPal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](become-a-fiscal-host.md).
+Every Collective that receives or pays out money needs a fiscal host, because they need to connect the host's bank account, Stripe account, and PayPal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](become-a-fiscal-host.md). If not, you can join an existing host.
 
 ### How do I find a Fiscal Host?
 
-Go to the fiscal host's page and click “Apply to create a Collective”. You can see [all hosts here](https://opencollective.com/hosts).
+Go to the fiscal host's page and click “Apply”. You can see [all hosts here](https://opencollective.com/hosts).
 
 ### I'm interested in becoming a Fiscal Host
 

@@ -1,4 +1,4 @@
-# Connected collectives
+# Connected Collectives
 
 {% hint style="info" %}
 Creating connected collectives is [a manual process](../internal/queries/connectedcollective-queries.md) at the moment. If you want to do it, please send an email to [support@opencollective.com](mailto:support@opencollective.com) describing what you'd like.

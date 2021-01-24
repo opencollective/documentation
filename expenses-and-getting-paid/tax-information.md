@@ -10,17 +10,15 @@ For tax purposes, you will likely be treated as an independent contractor and yo
 
 If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes.
 
-### For the Open Source Collective
+### For the Open Source Collective & Open Collective Foundation
 
-As US-based entity, Open Source Collective must collect tax forms as described above. Unlike other hosts, it has an automated tax form system.
+Open Source Collective and Open Collective Foundation fiscal hosts must collect tax forms as described above. They utilize an automated tax form system.
 
 When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks, the system we use to handle the forms.
 
 Your expenses will not be paid out to you until you submit the tax form.
 
 ![](../.gitbook/assets/tax_banner.png)
-
-_**Note:** Going forward, invoice expenses and receipt expenses will be differentiated. However, they were not in the past, so receipt expenses might be mistakenly counting toward the $600 threshold. If that's the case for you and you don't wish to submit the tax form, please contact_ [_support@opencollective.com_](mailto:support@opencollective.com) _so we can sort it out._
 
 ## Info For Collectives Paying Expenses
 

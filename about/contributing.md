@@ -30,15 +30,15 @@ Suggest changes to this documentation!
 
 ## **Marketing**
 
-Write blog posts and share success stories!
+Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Just reach out to [support@opencollective.com](mailto:support@opencollective.com) if you're interested.
 
 ## **Design**
 
-Help Collectives make a logo or a background image!
+Help Collectives make a logo or a background image! Check out the [Design Collective and how they work](https://blog.opencollective.com/open-collective-design/).
 
 ## **Code**
 
-There are always plenty of [open issues](https://github.com/OpenCollective/OpenCollective/issues)! We also have [Bounties](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/developers/bounties.md).
+There are always plenty of [open issues](https://github.com/OpenCollective/OpenCollective/issues)! We also have [Bounties](../contributing/development/bounties.md).
 
 {% page-ref page="../contributing/development/" %}
 
@@ -48,7 +48,7 @@ There are always plenty of [open issues](https://github.com/OpenCollective/OpenC
 
 ## **Peer Support**
 
-Answer questions [on our Slack](https://opencollective.slack.com)!
+Answer questions [on our Slack](https://slack.opencollective.com)!
 
 ## Code Contributions
 
