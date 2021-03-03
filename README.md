@@ -1,4 +1,4 @@
-# Welcome
+Welcome
 
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
