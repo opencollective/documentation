@@ -24,9 +24,9 @@ In order to achieve this common ground, the design collective has created a **co
 
 The following diagram describes the ideal workflow of a sprint of 10 working days, all the way from planning the sprint to the demo day where the series of design solutions are presented with a public release.
 
-![](../../.gitbook/assets/contributing_design_design-workflow_ideal-sprint-cycle_2019-07-09.png)
+![](../../.gitbook/assets/2%20%283%29%20%283%29.png)
 
 ### Sprint workflow and key players
 
-![](../../.gitbook/assets/contributing_design_design-workflow_sprint-workflow-and-key-players_2019-07-09.png)
+![](../../.gitbook/assets/5%20%282%29.png)
 

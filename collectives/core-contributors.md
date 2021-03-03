@@ -24,7 +24,7 @@ Only **Admins** can edit the Collective and approve expenses. Be sure to select 
 
 3. Once you are done, click on **Save** at the bottom of the page.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29%20%281%29.png)
 
 4. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted.
 

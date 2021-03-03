@@ -30,7 +30,7 @@ You can also write and publish Updates through email by sending a message to **b
 
 We offer a rich editor to write your fantastic updates to your Contributors!
 
-![](../.gitbook/assets/collectives_updates-and-comms_regular-update.png.png)
+![](../.gitbook/assets/collectives_updates-and-comms_regular-update.png%20%281%29.png)
 
 #### Private updates
 

@@ -2,7 +2,7 @@
 
 ## Open Collective Design
 
-![](../../.gitbook/assets/contributing_design_open-collective-design-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_open-collective-design-2019-07-09%20%281%29.png)
 
 ### What is Open Collective Design?
 

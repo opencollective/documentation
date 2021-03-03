@@ -64,6 +64,7 @@
 ## Financial Contributors
 
 * [FAQ](financial-contributors/financial-contributors.md)
+* [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)

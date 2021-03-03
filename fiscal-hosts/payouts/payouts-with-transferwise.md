@@ -38,7 +38,7 @@ If you're already in the beta test group, you can follow these instructions:
 
    ![](../../.gitbook/assets/transferwise_settings.png)
 
-3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2831%29.png)
+3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2827%29%20%281%29.png)
    * Name this token after Open Collective, this way you'll always remember where this is being used.
    * Set the token permission to _Full access_, we'll need that to create and fund transactions for your expenses.
    * As a **security measure**, make sure you whitelist the IPs: `54.173.229.200`  `54.175.230.252`.  ![](../../.gitbook/assets/transferwise_token.png)

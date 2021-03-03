@@ -64,7 +64,9 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 ### Connecting to PayPal Payouts
 
-PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through support@opencollective.com.
+{% hint style="info" %}
+PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through **support@opencollective.com**.
+{% endhint %}
 
 If you're already in the beta test group, you can follow these instructions:
 
