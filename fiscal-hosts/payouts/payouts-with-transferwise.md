@@ -4,10 +4,6 @@ description: Instructions on how to safely connect to TransferWise.
 
 # Payouts with TransferWise
 
-{% hint style="info" %}
-This feature is currently in **Beta** test, [read more about it here](payouts-with-transferwise.md#the-beta-test).
-{% endhint %}
-
 For hosts that are using TransferWise, this integration can be used to automate expense payment by providing a one-click solution for paying expenses.
 
 After connecting your TransferWise account, users submitting new expenses will have access to a structured form for providing a valid bank account information and you will be able to pay those expenses automatically with the _Pay with TransferWise_ button.
@@ -24,12 +20,6 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 ![An expense submitted to Open Collective Engineering paid using TransferWise.](../../.gitbook/assets/image%20%2817%29.png)
 
-## The Beta test
-
-We're currently testing this feature with the help of selected Host collectives.
-
-If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
-
 ## Limitations
 
 * Payments through TransferWise require a borderless account.
@@ -41,16 +31,14 @@ If you're interested in testing this feature, please reach out through support@o
 
 ## Connecting TransferWise
 
-TransferWise is currently in beta test, if you're interested in testing this feature, please reach out through support@opencollective.com.
-
 If you're already in the beta test group, you can follow these instructions:
 
-1. Open TransferWise website and login with your borderless account;
+1. Open TransferWise website and login with your account; **Important:** If you're using a bussiness account, make sure you log in with the _Owner's_ account \(an _Admin_ is not enough\) and you're in the business profile's dashboard.
 2. Go to your settings menu in TransferWise;
 
    ![](../../.gitbook/assets/transferwise_settings.png)
 
-3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2831%29.png)
+3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2827%29%20%281%29.png)
    * Name this token after Open Collective, this way you'll always remember where this is being used.
    * Set the token permission to _Full access_, we'll need that to create and fund transactions for your expenses.
    * As a **security measure**, make sure you whitelist the IPs: `54.173.229.200`  `54.175.230.252`.  ![](../../.gitbook/assets/transferwise_token.png)

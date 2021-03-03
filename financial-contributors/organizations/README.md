@@ -15,9 +15,9 @@ An Organization is a profile that represents a company or entity instead of an i
 
 ### **If you already have an individual profile**
 
-Go to your profile menu \(top right\) and look for the My Organizations section. Click **+New**. 
+Go to your profile menu \(top right\) and look for the My Organizations section. Click "**+"**. 
 
-![](../../.gitbook/assets/organizations_new_dropdown-menu.png)
+![User menu - click on &quot;+&quot; to create a new organization](../../.gitbook/assets/image%20%2845%29.png)
 
 Once set up, you will be able to select your individual or organization profile when making a contribution.
 
@@ -29,11 +29,15 @@ Go through the process of contributing to a Collective, and you'll be able to cr
 
 ## How to Edit an Organization
 
-Head to the top right menu to navigate to your Organization profile \(make sure you're logged into your Organization, not your personal account\).
+#### From your user menu
 
-![](../../.gitbook/assets/organizations_edit_gear-icon.png)
+Use the cog icon next to the organization that you want to edit.
 
-Click on the gear icon next to your logo to change your **Info**, add or remove **Core Contributors**, create or edit your **Expenses Policy**, ****manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
+![](../../.gitbook/assets/image%20%2823%29.png)
+
+
+
+From there you can change your **Info**, add or remove **Team members**, create or edit your **Expenses Policy**, ****manage your **Payment Methods**, **Gift Cards**, **Connected Accounts**, **Webhooks** and to access **Advanced** settings.
 
 Don't forget to **save your changes**!
 
@@ -41,5 +45,9 @@ Don't forget to **save your changes**!
 
 To access your Organization's contributions, go to the Organization's page and click on **Manage Contributions** in the navigation bar menu. From there you can access the action options to update amount or payment method, or cancel the contribution.
 
-![](../../.gitbook/assets/organizations_manage-contributions.png)
+{% hint style="info" %}
+Sometimes, the **`Manage contributions`** button can  be nested inside the **Actions** menu
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%2843%29.png)
 

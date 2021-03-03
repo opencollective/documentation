@@ -2,7 +2,7 @@
 
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
-{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" %}
+{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" caption="" %}
 
 \*\*\*\*
 
@@ -12,7 +12,7 @@ This is the place to find all help and documentation related to Open Collective.
 
 To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our [step-by-step guide](contributing/documentation/suggesting-changes.md).
 
-If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://opencollective.slack.com).
+If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or on our [Slack](https://slack.opencollective.com).
 
 ## Find your way to the right page
 
@@ -88,7 +88,7 @@ You've come to the right place! These docs explain the whole platform in detail.
 
 ### How can I contact you?
 
-Email [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://opencollective.slack.com)!
+Email [support@opencollective.com](mailto:support@opencollective.com) or join our [Slack](https://slack.opencollective.com)!
 
 ### How can I contribute?
 

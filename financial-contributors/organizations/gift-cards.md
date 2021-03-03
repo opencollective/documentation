@@ -26,9 +26,13 @@ By default gift cards expire after one year, but you can define your own expiry 
 
 No. You can use your gift card to give any amount to one or multiple collectives, as long as you have enough balance on the card.
 
-### Who will show up as a backer? My company or my employee?
+### Who will show up as a contributor? My company or my employee?
 
 Both! The person to whom you gave the gift card is the one picking the collectives they want to support. But their donation will show that they used a gift card from your company, and your company will show up as a sponsor of the collective. See for example [Triplebyte](https://opencollective.com/triplebyte) showing up as a sponsor of [Electron](https://opencollective.com/electron).
+
+### What kind of payment methods can I use?
+
+The simplest option is to use a credit card, as you can set it up by yourself in a few minutes. This works great for small companies and limited usage \(2-10 gift cards\) but if you're willing to process a large number of transactions we **strongly** recommend using a prepaid budget instead to avoid credit card processor fees and to limit the number of transactions that will appear on your bank account.
 
 ## Create gift cards
 

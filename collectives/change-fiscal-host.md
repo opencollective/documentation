@@ -2,7 +2,15 @@
 
 You can change the fiscal host of your Collective to a different existing host, or start your own host and move it there.
 
-_**NOTE:** It's not possible to change to a host with a different currency than your Collective began with, if there are already any financial transactions associated. You need to change to a host with the same currency, or start a new Collective with the new currency and host._
+{% hint style="warning" %}
+It's not possible to change to a Fiscal Host with a different currency than your Collective began with, if there are already any financial transactions associated. You need to change to a Fiscal Host with the same currency, or start a new Collective with the new currency and Fiscal Host.
+{% endhint %}
+
+## Check your starting point
+
+Instructions on how to change the Fiscal Host of your Collective may change according to your needs. If you already know the impacts related to changing to another Fiscal Host, click on the link that fits your case better:
+
+* [I want to join a Fiscal Host that already exists](change-fiscal-host.md#what-is-the-process-for-changing-fiscal-hosts)
 
 ## What does it mean to change fiscal hosts?
 
