@@ -60,10 +60,12 @@
 * [Closing a Collective](collectives/closing-a-collective.md)
 * [Connected Collectives](collectives/connectedcollectives.md)
 * [Setting up GitHub Sponsors](collectives/github-sponsors.md)
+* [Embed contribution flow](collectives/embed-contribution-flow.md)
 
 ## Financial Contributors
 
 * [FAQ](financial-contributors/financial-contributors.md)
+* [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)

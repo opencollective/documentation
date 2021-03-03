@@ -25,3 +25,4 @@ npm run cron:monthly
 ```
 
 If you want to only run it for certain collectives, modify the `query` here: [https://github.com/opencollective/opencollective-api/blob/master/cron/monthly/collective-report.js](https://github.com/opencollective/opencollective-api/blob/master/cron/monthly/collective-report.js)
+

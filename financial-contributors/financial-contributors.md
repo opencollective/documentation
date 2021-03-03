@@ -44,7 +44,7 @@ To make a Collective-to-Collective donation, go to the page of the Collective an
 
 Yes, you will be given the option to write a note with your contribution on the "success" page.
 
-![](../.gitbook/assets/image-3.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 If you want to add a public message to a past contribution, you can do so by going to the collective's page **Contributors** section. Inside your own card you'll see a link titled with `Leave a public message`.
 

@@ -20,9 +20,11 @@ It might sound counterintuitive, but passwords don’t always make things more s
 
 Most websites allow you to reset your password by email, a feature fraudsters can use to work around any protection provided by a password. These websites start from the premise that if your email is compromised, your account will be too. The main way to avoid that is Two Factor Authentication \(2FA\), which [you can enable](https://docs.opencollective.com/help/fiscal-hosts/payouts/two-factor-authentication-for-payouts#enabling-2fa-for-login) on your Open Collective account.
 
-According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-secure-than-passwords/): 
+According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-secure-than-passwords/):
 
 > Passwordless authentication, by its nature, eliminates the problem of using an unsafe password. This means that one of the biggest user errors is taken out of your login. Not only is passwordless authentication safe to use, it might even be safer than a traditional username + password login.
+
+In 2020, this login system was audited by [Cure53](https://cure53.de). Their report included recommendations for improving it, but they found no critical issue nor design issue about the way it works today.
 
 Our login system is also covered by our [security bounty policy](https://github.com/opencollective/opencollective/blob/master/BOUNTY.md) ; we invite security researchers \(and pay them\) to try to break our system and improve it.
 

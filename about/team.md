@@ -36,9 +36,30 @@ Wellington, New Zealand
 
 Core contributor  
 Senior Software Engineer  
-Paris, France
+Aix-en-Provence, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree)
+
+## **Leo Kewitz**
+
+Core contributor  
+Senior Software Engineer  
+Brazil
+
+[GitHub](https://github.com/kewitz)
+
+## **Guillermo Esparza**
+
+Core contributor
+Designer  
+Guadalajara, Mexico
+
+[Github](https://github.com/Memo-Es)
+
+## **Amina Kazi**
+
+Core contributor
+Designer  
 
 ## **Darío Muñoz**
 

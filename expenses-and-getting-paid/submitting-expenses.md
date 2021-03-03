@@ -87,10 +87,6 @@ You can also add a private note to the admins. Once your expense is ready, click
 
 ## Inviting a third-party to submit an Expense
 
-{% hint style="info" %}
-This feature is currently being tested on a closed beta trial. If you're the admin of a collective and interested in testing this feature, reach us out at support@opencollective.com. 
-{% endhint %}
-
 It is also possible to draft an expense and send it to a third-party to edit and submit it. You can send a drafted expense to an existing user of the platform or to someone else that is not on the platform yet.
 
 Inviting a third-party user or organization to submit an expense automatically creates a draft of the expense and emails the user so they can finish editing it and submit to the collective.
