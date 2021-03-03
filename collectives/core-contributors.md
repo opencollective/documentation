@@ -1,24 +1,22 @@
-# Core Contributors & Admins
+# Team
 
 ## Roles
 
 **Core Contributors** are the people closely associated with your Collective, who will show up on your Collective page as part of the team.
 
+**Accountants** can access all the financial information such as receipts, financial reports or expense's invoices but can't do any admin nor trigger payments.
+
 **Collective Admins** are Core Contributors with extra permissions, like editing the Collective settings and approving expenses. Admins get notifications of activity on your Collective.
 
-{% hint style="warning" %}
-**Core Contributors don't have access to the administrative panel of a Collective unless they are also Collective Admins**.
-{% endhint %}
-
-## Adding or Changing Core Contributors
+## Editing team members
 
 1. Go to your Collective page and click the gear next to your Collective logo.
 
 ![](../.gitbook/assets/image%20%289%29%20%281%29.png)
 
-2. Head to the **Core Contributors** tab. Here you can add, remove, or change people and roles. 
+2. Head to the **Team** tab. Here you can add, remove, or change people and roles. 
 
-![](../.gitbook/assets/image%20%282%29%20%281%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 {% hint style="info" %}
 Only **Admins** can edit the Collective and approve expenses. Be sure to select the right role option.
@@ -26,7 +24,7 @@ Only **Admins** can edit the Collective and approve expenses. Be sure to select 
 
 3. Once you are done, click on **Save** at the bottom of the page.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 
 4. Users will receive an invite to join the Collective. They will not be displayed publicly until this invitation is accepted.
 

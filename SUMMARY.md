@@ -32,6 +32,7 @@
 * [Log-in System](product/log-in-system.md)
 * [Privacy Policy](product/privacy-policy.md)
 * [Moderation](product/moderation.md)
+* [Security](product/security.md)
 
 ## Collectives
 
@@ -39,8 +40,8 @@
 * [Creating a Collective](collectives/create-collective.md)
 * [Quick Start Guide](collectives/quick-start-guide.md)
 * [Customize Collective](collectives/customize-collective.md)
-* [Core Contributors & Admins](collectives/core-contributors.md)
-* [Tiers & Goals](collectives/tiers-goals.md)
+* [Team](collectives/core-contributors.md)
+* [Collective Goals & Tiers](collectives/tiers-goals.md)
 * [Add Fiscal Host](collectives/add-or-change-fiscal-host.md)
 * [Change Fiscal Host](collectives/change-fiscal-host.md)
 * [Open Source Collectives](collectives/osc-verification.md)
@@ -48,6 +49,7 @@
 * [Expense Policy](collectives/expense-policy.md)
 * [Approving Expenses](collectives/approving-expenses.md)
 * [Updates & Comms](collectives/communication.md)
+* [Moderation](collectives/moderation.md)
 * [Conversations](collectives/conversations.md)
 * [Events](collectives/events.md)
 * [Funding Options](collectives/funding-options.md)
@@ -58,10 +60,12 @@
 * [Closing a Collective](collectives/closing-a-collective.md)
 * [Connected Collectives](collectives/connectedcollectives.md)
 * [Setting up GitHub Sponsors](collectives/github-sponsors.md)
+* [Embed contribution flow](collectives/embed-contribution-flow.md)
 
 ## Financial Contributors
 
 * [FAQ](financial-contributors/financial-contributors.md)
+* [Guest contributions](financial-contributors/guest-contributions.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
 * [Collective to Collective](financial-contributors/collective-to-collective.md)
@@ -83,7 +87,7 @@
 
 * [FAQ](fiscal-hosts/fiscal-hosts.md)
 * [Becoming a Fiscal Host](fiscal-hosts/become-a-fiscal-host.md)
-* [Create a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
+* [Creating a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings/README.md)
   * [Add more info](fiscal-hosts/fiscal-host-settings/add-more-info.md)
   * [Customize page sections](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
@@ -92,6 +96,7 @@
 * [Payouts](fiscal-hosts/payouts/README.md)
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)
   * [Payouts with TransferWise](fiscal-hosts/payouts/payouts-with-transferwise.md)
+  * [Two-factor authentication for payouts](fiscal-hosts/payouts/two-factor-authentication-for-payouts.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)

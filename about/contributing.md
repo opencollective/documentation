@@ -48,7 +48,7 @@ There are always plenty of [open issues](https://github.com/OpenCollective/OpenC
 
 ## **Peer Support**
 
-Answer questions [on our Slack](https://opencollective.slack.com)!
+Answer questions [on our Slack](https://slack.opencollective.com)!
 
 ## Code Contributions
 

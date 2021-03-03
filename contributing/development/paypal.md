@@ -22,16 +22,22 @@ PAYPAL_ENVIRONMENT=sandbox
 PAYPAL_APP_ID=APP-________
 ```
 
-1. Manually create a ConnectedAccount with generated `clientId` and `clientSecret`:
+3. Encrypt your client secret, from the API repository:
 
-   ```sql
-   INSERT INTO "ConnectedAccounts" ("service", "clientId", "token", "CollectiveId")
-   VALUES (E'paypal', clientId, clientSecret, hostCollectiveId);
-   ```
+```bash
+npm run script scripts/encrypt.js PAYPAL_CLIENT_SECRET
+```
 
-2. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
+4. Manually create a ConnectedAccount with your `clientId` and your encrypted `clientSecret`:
 
-And you're ready to go. Use the credentials generated in step 3. to authenticate when ordering.
+```sql
+INSERT INTO "ConnectedAccounts" ("service", "clientId", "token", "CollectiveId")
+VALUES (E'paypal', clientId, clientSecret, hostCollectiveId);
+```
+
+5. Create buyer's credentials on [https://developer.paypal.com/developer/accounts/create](https://developer.paypal.com/developer/accounts/create)
+
+And you're ready to go. Use the credentials generated in step 2. to authenticate when ordering.
 
 ## Known issues
 

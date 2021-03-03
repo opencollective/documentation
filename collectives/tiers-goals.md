@@ -1,66 +1,88 @@
-# Tiers & Goals
+# Collective Goals & Tiers
 
-Use tiers to define different amounts for financial contributions. Tiers can also have associated goals.
+## Goals
 
-To update them, go to your Collective page, click on the gear icon and head to the **Tiers** section.
+You can define custom goals to share an overview of your financial plan with your community and to track your progress.
 
-![](../.gitbook/assets/collectives_tiers-and-goals_settings-menu.png)
+{% hint style="info" %}
+Collective Goals will be sent in the emails sent to your contributors, and you can adjust their visibility on your Collective page.
+{% endhint %}
 
-![](../.gitbook/assets/collectives_tiers-and-goals_tiers-left-menu.png)
+To create your own Collective goals, go to your Collective profile, click on **Settings** and then on **Collective Goals**.
 
-You should find the following form:
+![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-profile-settings_2020-08-12.png)
+
+![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goals-settings_2020-08-12.png)
+
+To create a goal, give it a **title**, categorize it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
+
+![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goal-customization_2020-08-12.png)
+
+## Tiers
+
+You can also control contributions and tiers by accessing the **Tiers** section.
+
+![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-tiers-settings_2020-08-12.png)
+
+### Enabling custom contributions
+
+You can define whether you can to allow custom contributions or not by manipulating the **Enable custom contributions** checkbox.
+
+### Creating custom tiers
+
+You can also create custom tiers on the same page. Click on **add another tier** to activate the following form:
 
 ![Tier configuration form](../.gitbook/assets/image%20%281%29.png)
 
-## Configuration for Tiers
+### Configuration for Tiers
 
-### **Type**
+#### **Type**
 
 Generic, membership, service, product, donation.
 
-### **Name**
+#### **Name**
 
 e.g. _Gold Sponsor, Member, Supporter._ This is the only required field to add a new Tier with the default values; all others are optional.
 
-### **Description**
+#### **Description**
 
 Important information for Financial Contributors such as what does this tier mean or which rewards are included.
 
-### **Amount type**
+#### **Amount type**
 
 Fixed or flexible. Flexible amounts can be adjusted by users as they wish.
 
-### **Suggested amounts**
+#### **Suggested amounts**
 
 Suggestions for contributors to pick from.
 
-### **Default amount**
+#### **Default amount**
 
 A preset starting amount.
 
-### **Minimum amount**
+#### **Minimum amount**
 
 The minimum amount allowed for this contribution, if any.
 
-### **Interval**
+#### **Interval**
 
 The frequency in which such contribution will be charged. It can be a one time contribution, a monthly one, or even yearly.
 
-### **Available quantity**
+#### **Available quantity**
 
 For limited edition contributions \(such as special edition items, one-time events, etc\).
 
-### **Button text**
+#### **Button text**
 
 The action word on the Tier card users click \(such as donate, join, contribute\). You can also add emojis if you wish!
 
 ![Example of a Tier with an emoji](../.gitbook/assets/collectives_tiers-and-goals_tiers-emoji-button.png)
 
-### **Goal**
+#### **Goal**
 
 Target amount you're trying to raise in this Tier.
 
-### **Force standalone page**
+#### **Force standalone page**
 
 If you want to force the creation of a page for this tier. Here's what it looks like:
 

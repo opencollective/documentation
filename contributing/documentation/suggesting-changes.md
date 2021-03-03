@@ -93,7 +93,7 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 **3.** Click on the pencil icon \(labeled "Edit this file"\). This will open a basic editing environment in which you are able to costumize aspects like line wrap and indentation.
 
-![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](../../.gitbook/assets/contributing_documentation_suggesting_changes_edit_this_file_2019-09-16.png)
+![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](../../.gitbook/assets/screen-shot-2019-04-29-at-4.42.55-pm%20%281%29.png)
 
 **4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown) and our [style guide](https://github.com/opencollective/documentation/tree/0c915d6173307139ebeaaa50dccaba7d7149c9b2/contributing/documentation/contributing/documentation/style-guide/README.md).
 
@@ -245,5 +245,5 @@ But if you have access to the GitBook interface, here's what you should do to fi
 
 ![](../../.gitbook/assets/contributing_documentation_suggesting-changes_dead-links_2020-01-29.gif)
 
-If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://opencollective.slack.com).
+If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://slack.opencollective.com).
 
