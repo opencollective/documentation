@@ -1,4 +1,4 @@
-# Bounties
+ Bounties
 
 ## Open Collective bounty program
 
