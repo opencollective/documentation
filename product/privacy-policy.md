@@ -89,7 +89,7 @@ Open Collective is GDPR compliant. We are not in the business of selling data to
 
 If you haven't made any transactions, you can easily delete your profile account on Open Collective from the settings. If your profile or collective has transactions, we can't delete them since we need to keep the integrity of our ledger and accounting system. 
 
-For individual / organizations profiles: please contact support@opencollective.com and  please request for your personal information to be removed and the transaction\(s\) anonymized.  
+For individual / organizations profiles: please contact [support@opencollective.com](mailto:support@opencollective.com) and  please request for your personal information to be removed and the transaction\(s\) anonymized.  
 
 For collectives, follow these steps: [http://docs.opencollective.com/collectives/closing-a-collective](http://docs.opencollective.com/collectives/closing-a-collective)
 

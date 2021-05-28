@@ -8,7 +8,7 @@ To access all settings for your Collective, click the cog icon next to your logo
 
 ## Page Sections
 
-As an admin, all sections will appear in your view, with invitations to add content. However, any sections without content in will not appear to other users \(for example, **Updates** and **About**\).
+As an admin, all sections will appear in your view, with invitations to add content. However, any sections without content will not appear to other users \(for example, **Updates** and **About**\).
 
 ![](../.gitbook/assets/screen-shot-2019-09-18-at-11.12.02-am.png)
 

@@ -10,9 +10,9 @@ This is the problem which Open Collective solves. We enable groups to quickly se
 
 We want all those seeds to have a chance to grow and give the ideas a fighting chance to reach their true potential. We believe everyone should have the tools to create the organizations of tomorrow. And we are dedicating ourselves to make that happen!
 
-Contact us: info@opencollective.com
+Contact us: [info@opencollective.com](mailto:info@opencollective.com)
 
-Support: support@opencollective.com
+Support: [support@opencollective.com](mailto:support@opencollective.com)
 
 ## Essays
 
@@ -84,5 +84,6 @@ Additionally, regulations are different all over the world. Our platform is the 
 
 ### **Why not use the Blockchain and Cryptocurrency?**
 
-We're excited about the new possibilities these technologies are creating, and we'd love to explore how they could help us achieve our goals. But just like we won't wait for self-driving cars to become ubiquitous before calling a Lyft, we're very practical about using existing services to solve problems right now. We can already get pretty far using well-established technologies already integrated with global systems. That said, we are actively exploring how to support cryptocurrency on the platform, so if you're interested in that, get in in touch.
+We're excited about the new possibilities these technologies are creating, and we'd love to explore how they could help us achieve our goals. But just like we won't wait for self-driving cars to become ubiquitous before calling a Lyft, we're very practical about using existing services to solve problems right now. We can already get pretty far using well-established technologies already integrated with global systems. That said, we are actively exploring how to support cryptocurrency on the platform, so if you're interested in that, get in touch.
 
+~~~~

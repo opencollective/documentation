@@ -14,7 +14,7 @@
 
 **Core contributors \(& part time contributors\) should submit their invoices to the corresponding collective:**
 
-* opencollective.com/opencollective
-* opencollective.com/design
-* opencollective.com/engineering
+* [opencollective.com/opencollective](https://opencollective.com/opencollective)
+* [opencollective.com/design](https://opencollective.com/design)
+* [opencollective.com/engineering](https://opencollective.com/engineering/)
 

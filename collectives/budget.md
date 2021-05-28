@@ -86,8 +86,8 @@ Since the dates of the file run from newest to oldest, it’s better to invert t
 
 ### Copy and paste values in the template
 
-Select all values except the With cell A6 selected:Right click → “Paste special” → “Paste values only”  
-**Voilà!**You will have your totals for expenses and contributions into a nice and visible balance chart. Plus individual transactions sorted by date and differentiated by color codes.
+Select all values except the With cell A6 selected: Right click → “Paste special” → “Paste values only”.
+**Voilà!** You will have your totals for expenses and contributions into a nice and visible balance chart. Plus individual transactions sorted by date and differentiated by color codes.
 
 ![](https://paper-attachments.dropbox.com/s_D19E76E8026880734906183F5F67A13D8F5770AC8212DCC2B79CE9738C72C087_1566167201844_Screen+Shot+2019-08-18+at+17.26.30.png)
 

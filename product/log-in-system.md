@@ -26,7 +26,7 @@ According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-
 
 In 2020, this login system was audited by [Cure53](https://cure53.de). Their report included recommendations for improving it, but they found no critical issue nor design issue about the way it works today.
 
-Our login system is also covered by our [security bounty policy](https://github.com/opencollective/opencollective/blob/main/BOUNTY.md) ; we invite security researchers \(and pay them\) to try to break our system and improve it.
+Our login system is also covered by our [security bounty policy](https://github.com/opencollective/opencollective/blob/main/SECURITY.md); we invite security researchers \(and pay them\) to try to break our system and improve it.
 
 **Who else uses magic links to login?**
 

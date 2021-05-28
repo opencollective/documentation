@@ -1,10 +1,10 @@
 # Community Guidelines
 
-**We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.**.
+**We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.**
 
 ## **Be Authentic**
 
-Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. _\*\*_We're all in this together, please act respectfully, honestly, and mission-aligned when using our site.
+Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. We're all in this together, please act respectfully, honestly, and mission-aligned when using our site.
 
 ## **Be honest**
 

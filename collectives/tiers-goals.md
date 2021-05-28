@@ -136,13 +136,13 @@ By subscribing to a support tier, you not only get private time for your team to
 
 #### Do I get an invoice?
 
-Yes, you will receive an invoice emitted by the host of the collective \(Open Source Collective 501c6\).
+Yes, you will receive an invoice emitted by the host of the collective \(for example, [Open Source Collective 501c6](https://opencollective.com/opensource)\).
 
 #### Can I do a Purchase Order \(PO\)?
 
-Yes, you can pay with a credit card or we can work with you to go through your Purchase Order process. Just reach out to us: host+c6@opencollective.org.
+Yes, you can pay with a credit card or we can work with you to go through your Purchase Order process. Just reach out to us: [host+c6@opencollective.org](mailto:host+c6@opencollective.org).
 
 #### What if we never were provided with support?
 
-Please reach out to us and we will work it out \(support@opencollective.com\).
+Please reach out to us and we will work it out \([support@opencollective.com](support@opencollective.com)\).
 
