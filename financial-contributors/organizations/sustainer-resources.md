@@ -98,7 +98,7 @@ Read Trivago's quotes [here](https://medium.com/webpack/trivago-sponsors-webpack
 
 [Webpack](https://medium.com/webpack/trivago-sponsors-webpack-for-second-year-bfe6ca2f0702)
 
-[Open EMR](https://www.openemr.blog/post/accepting-donations-on-opencollective/)
+[Open EMR](https://www.open-emr.org/blog/accepting-donations-on-opencollective/)
 
 [FeathersJS](https://blog.feathersjs.com/flying-into-2018-13bda623f089)
 

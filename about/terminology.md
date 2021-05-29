@@ -94,7 +94,7 @@ They arrive at a Collective many ways:
 * Direct link to a Collective
 * [Github badges on README](../financial-contributors/website-badge.md)
 * Organization's page
-* [BackYourStack](https://www.backyourstack.com)
+* [BackYourStack](https://backyourstack.com)
 * Our [blog](https://blog.opencollective.com) or newsletter
 
 #### Expense submitter

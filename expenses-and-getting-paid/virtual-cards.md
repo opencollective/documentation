@@ -20,7 +20,7 @@ To view the details of a card click 'view card details'.
 
 ### Automatically Paused Cards
 
-Hosts can choose to pause virtual cards if there are any incomplete expenses. This is a protective measure to prevent abuse. If you host has paused a card you will not be able to use the card to make purchases util a receipt has been attached to the previous expense by the assignee.  
+Hosts can choose to pause virtual cards if there are any incomplete expenses. This is a protective measure to prevent abuse. If your host has paused a card you will not be able to use the card to make purchases until a receipt has been attached to the previous expense by the assignee.  
 
 {% hint style="warning" %}
 Be aware of your surroundings when viewing a card's details as others may be able to see them. 

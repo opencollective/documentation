@@ -125,7 +125,7 @@ When the user finishes editing the expense, the summary of the expense is displa
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
-After submitting the joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
+After joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
