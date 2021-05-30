@@ -31,8 +31,9 @@ Empowering products enhance our abilities as humans without dictating our behavi
 * Give people the control they need to manage the algorithms that shape their experiences.
 * Give people the control they need to manage privacy and anonymity.
 * Enable focus by avoiding unnecessary notifications.
-* _“Utility alone won’t assuage us. We want empowerment. We want to be better people. We want technology to enhance our capabilities and increase our sense of agency without dictating the rhythm of our lives.”_
-* _Jesse Weaver_
+>_"Utility alone won’t assuage us. We want empowerment. We want to be better people. We want technology to enhance our capabilities and increase our sense of agency without dictating the rhythm of our lives.”_
+>
+>_Jesse Weaver_
 
 [https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a](https://medium.com/s/user-friendly/the-future-of-digital-product-design-is-about-human-empowerment-6a025bc330a)
 
@@ -87,8 +88,8 @@ Figma is the design tool of OC design, every interface design will be hosted ins
 The first thing you encounter with is this primary breakdown of the work:
 
 * [01 → Design System](https://www.figma.com/files/project/993339/01-%E2%86%92-Design-System)
-* [02 → OpenCollective.com](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com)
-* [01 → BackYourStack.com](https://www.figma.com/files/project/994191/03-%E2%86%92-BackYourStack.com)
+* [02 → Web App](https://www.figma.com/files/project/994190/02-%E2%86%92-OpenCollective.com)
+* [PRJ → BackYourStack.com](https://www.figma.com/files/project/994191/03-%E2%86%92-BackYourStack.com)
 
 ![](../../.gitbook/assets/4%20%283%29.png)
 
@@ -122,11 +123,11 @@ We break down big goals to specific tasks using the following logic:
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
-1. [**KanBan Board**](https://github.com/opencollective/opencollective/projects/2)
+1. [**Project Boards**](https://github.com/opencollective/opencollective/projects)
 
 ![](../../.gitbook/assets/7%20%281%29%20%281%29.png)
 
-1. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues)
+2. [**Searching for design labels in the complete issue list.**](https://github.com/opencollective/opencollective/issues?q=is%3Aopen+is%3Aissue+label%3Adesign)
 
 ![](../../.gitbook/assets/8%20%282%29.png)![](../../.gitbook/assets/9%20%281%29.png)
 

@@ -23,7 +23,7 @@ For single payments larger than $2,000, make a manual payment.
 
 We're currently testing this feature with the help of selected Host collectives.
 
-If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
+If you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com). If you're already testing the feature and wish to leave the test, you can also send an email to support.
 {% endhint %}
 
 For hosts that are using PayPal, this integration can be used to automate expense payment by providing a one-click solution for paying expenses using [PayPal Payouts](https://developer.paypal.com/docs/payouts/).
@@ -65,12 +65,12 @@ These fees are paid by the collective the expense was submitted for. This means 
 ### Connecting to PayPal Payouts
 
 {% hint style="info" %}
-PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through **support@opencollective.com**.
+PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com).
 {% endhint %}
 
 If you're already in the beta test group, you can follow these instructions:
 
-1. [ ] Create a new PayPal app
+1. Create a new PayPal app
 
    * Open [PayPal's Developer](https://developer.paypal.com/developer/applications/) page and Log In.
    * In _My Apps & Credentials_ page, select the **Live** environment, and click in _Create app_.
@@ -82,11 +82,12 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
-* [ ] Now, let's copy the necessary information to Open Collective.
-  * Open a new tab and go to [Open Collective](https://www.opencollective.com).
-  * Open your Host collective settings page and click on the _Sending Money_ option in the menu.
-  * Copy and paste _Client ID_ and _Secret_ in the respective fields.
-  * Click _Connect PayPal_
+2. Now, copy the necessary information to Open Collective.
+
+   * Open a new tab and go to [Open Collective](https://www.opencollective.com).
+   * Open your Host collective settings page and click on the _Sending Money_ option in the menu.
+   * Copy and paste _Client ID_ and _Secret_ in the respective fields.
+   * Click _Connect PayPal_
 
 ![](../../.gitbook/assets/peek-2021-04-15-16-00.gif)
 
@@ -98,6 +99,5 @@ Done! Next time you pay for an expense submitted with PayPal and you select the 
 
 In order to reduce risks related to having an active API token that is able to create and fund transactions, we strongly suggest you:
 
-1. Keep just enough balance in PayPal to pay your expenses.
+- Keep just enough balance in PayPal to pay your expenses.
    * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
-

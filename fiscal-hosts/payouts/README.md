@@ -31,7 +31,7 @@ For single payments larger than $2,000, make a manual payment.
 
 ### How do I pay out Expenses with TransferWise?
 
-TransferWise is still in beta release so the first thing is to request access to the feature through support@opencollective.com.
+TransferWise is still in beta release, so the first thing is to request access to the feature through [support@opencollective.com](mailto:support@opencollective.com).
 
 After getting access to the feature, you'll be able to connect to your TransferWise account through the Connected Accounts menu in your settings. You can follow [these instructions](payouts-with-transferwise.md) to do so.
 

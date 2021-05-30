@@ -12,7 +12,7 @@ After connecting your Wise account, users submitting new expenses will have acce
 
 ### What are the fees involved?
 
-The fees are charged by Wise and its value will vary with the currencies being and value being transferred. You can read more about [Wise fees here](https://transferwise.com/help/13/understanding-fees-and-rates/2522717/how-do-you-determine-your-fees).
+The fees are charged by Wise and its value will vary with the currencies and value being transferred. You can read more about [Wise fees here](https://transferwise.com/help/13/understanding-fees-and-rates/2522717/how-do-you-determine-your-fees).
 
 ### Who pays these fees?
 
@@ -43,7 +43,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 ![](../../.gitbook/assets/screenshot-from-2021-05-12-18-49-51.png)
 
 * Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
-  * Notice that this option will only be available for new expenses, expenses created before these steps are not structured as required by Wise and will need to be edited or recreated by the payee.
+  * Notice that this option will only be available for new expenses. Expenses created before Wise support was added are not structured as required by Wise and will need to be edited or recreated by the payee.
 
 ## Reducing Risks
 

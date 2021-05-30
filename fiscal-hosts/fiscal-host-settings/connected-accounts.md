@@ -24,13 +24,13 @@ This feature is currently in **Beta** test, read more about it below.
 
 We're currently testing this feature with the help of selected Host collectives.
 
-If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
+If you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com). If you're already testing the feature and wish to leave the test, you can also send an email to support.
 
 ### Fees
 
 #### What are the fees involved?
 
-There are the payment processor fees charged by PayPal and if you're subjected to, the platform fees charged by Open Collective.
+There are payment processor fees charged by PayPal and if you're subjected to, the platform fees charged by Open Collective.
 
 The payment processor fees will be automatically deducted from the original charge but as of now, the platform fees can not be automatically deducted. For the current beta, this debt will be settled once a month through an invoice we'll send you.
 
@@ -50,7 +50,7 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
-* [ ] Now, let's copy the necessary information to Open Collective.
+* [ ] Now, copy the necessary information to Open Collective.
   * Open a new tab and go to [Open Collective](https://www.opencollective.com).
   * Open your Host collective settings page and click in the _Receiving Money_ option in the menu.
   * Copy and paste _Client ID, Secret_ in the respective fields, leave Webhook ID empty.

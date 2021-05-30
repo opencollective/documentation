@@ -30,7 +30,7 @@ Once you have created a card on [Privacy.com](https://privacy.com/) you can assi
 
 Select a Collective then select a user who is responsible for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide an receipt. 
 
-Click 'save card' to save the card to the Collective. 
+Click 'Save Card' to save the card to the Collective. 
 
 ### Viewing Card details
 

@@ -18,9 +18,9 @@ description: >-
 * I18n
   * The strings must be internationalized. See [/help/developers/translations](https://docs.opencollective.com/help/developers/translations).
   * Update the language files `npm run build:langs` and commit them to reflect the changes.
-* Librairies
+* Libraries
   * Whenever it's possible, we must use `styled-components` to write styles. See[ OC Styleguide.](https://styleguide.opencollective.com/)
-  * We're getting rid of `Bootstrap` and `material-ui`. Please don't use them for new developments.
+  * We're getting rid of `material-ui`. Please don't use it for new development.
   * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Testing
   * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.

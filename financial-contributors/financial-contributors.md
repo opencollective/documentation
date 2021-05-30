@@ -34,7 +34,7 @@ Yes. To do so, go to your Profile and click on the gear icon next to your avatar
 
 ## Can my Collective give to another Collective?
 
-If both Collectives are in the same [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), you can donate using the balance of a Collective. For example, most open source projects are hosted by the Open Source Collectives, so they can give to each other.
+If both Collectives are in the same [Fiscal Host](../fiscal-hosts/fiscal-hosts.md), you can donate using the balance of a Collective. For example, most open source projects are hosted by the Open Source Collective, so they can give to each other.
 
 To make a Collective-to-Collective donation, go to the page of the Collective and select your contribution amount. You will be given the option to donate from any Collective you are a core contributor of.
 
