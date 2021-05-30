@@ -43,7 +43,7 @@ User has a strange behavior with a feature, or is abusing a specific one. We wan
 
 Set `User.data.features.{FEATURE_NAME}` to `false`
 
-To see a list of all features names, check [https://github.com/opencollective/opencollective-api/blob/main/server/constants/features.ts](https://github.com/opencollective/opencollective-api/blob/main/server/constants/features.ts)
+To see a list of all features names, check [https://github.com/opencollective/opencollective-api/blob/main/server/constants/feature.ts](https://github.com/opencollective/opencollective-api/blob/main/server/constants/feature.ts)
 
 **Example**
 

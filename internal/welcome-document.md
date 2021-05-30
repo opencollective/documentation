@@ -2,7 +2,7 @@
 description: >-
   Below you’ll find information to help you get started. Please read carefully &
   feel free to let us know if something isn’t clear enough or missing. You can
-  email Pia directly at pia@opencollective.co
+  email Pia directly at [pia@opencollective.co](mailto:pia@opencollective.co)
 ---
 
 # Welcome Document
@@ -35,7 +35,7 @@ Sustainability: We can’t achieve our mission unless we are sustainable doing i
 
 Openness: We work in the open, use public slack, our code is public. We strive to be reachable and welcoming.
 
-Resilience \(people come and go\) A successful company survives its founders. We try to do things in a way anyone can pick up after and carry on.
+Resilience \(people come and go\): A successful company survives its founders. We try to do things in a way anyone can pick up after and carry on.
 
 Transparency: Our[ data](https://drive.google.com/drive/u/1/folders/1OwRpuIehFQxRnJIRAksQ1Jd2xXZrhz5L) is public as well as[ our revenue numbers](https://docs.google.com/spreadsheets/u/1/d/1uNDoafJyI50o128tjV2HjJGrf8l4bGOorJdSL8qgPyk/edit?usp=drive_web&ouid=113376999794383062808), our investors update are regularly published[ in our medium](https://medium.com/open-collective) and our salary tiers are published here.
 
@@ -102,7 +102,7 @@ Features: Features have a template that starts with the user. For example, As a 
 
 #### Freshdesk
 
-We use Freshdesk to track user support requests. If you receive a support inquiry that can’t be solves immediately \(e.g. on Slack or email\), you can create a Freshdesk ticket for followup. You may be assigned support tickets that relate to projects you’re working on.
+We use Freshdesk to track user support requests. If you receive a support inquiry that can’t be solved immediately \(e.g. on Slack or email\), you can create a Freshdesk ticket for followup. You may be assigned support tickets that relate to projects you’re working on.
 
 #### Weekly Calls
 

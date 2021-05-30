@@ -75,7 +75,7 @@ Fills a stripe input.
 
 This function is used to open an email in Cypress. If the command succeed, a page with the email is loaded and you'll be able to run all the usual cypress commands \(`cy.get`, `cy.contains`...\) to test it.
 
-* `fiterFunc` is a function used to filter the list of email. As soon as it returns `true`, command will start to open the email. For a complete list of the fields you can use to filter the email, see [https://github.com/djfarrelly/MailDev/blob/master/docs/rest.md](https://github.com/djfarrelly/MailDev/blob/master/docs/rest.md) 
+* `fiterFunc` is a function used to filter the list of emails. As soon as it returns `true`, command will start to open the email. For a complete list of the fields you can use to filter the emails, see [https://github.com/djfarrelly/MailDev/blob/master/docs/rest.md](https://github.com/djfarrelly/MailDev/blob/master/docs/rest.md) 
 
 **Examples**
 

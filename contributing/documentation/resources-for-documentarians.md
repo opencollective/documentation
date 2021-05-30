@@ -30,7 +30,7 @@ Firefox offers [a built-in tool](https://support.mozilla.org/en-US/kb/firefox-sc
 
 ### Flameshot
 
-[Flameshot](https://flameshot.js.org) is open-source software that helps you take screenshots easily and edit them as soon as you take them.
+[Flameshot](https://flameshot.org/) is open-source software that helps you take screenshots easily and edit them as soon as you take them.
 
 ### Shutter
 

@@ -6,7 +6,7 @@ description: Guide to providing support to users of the Open Collective platform
 
 ## Support Ticket System
 
-Open Collective uses [FreshDesk](https://opencollective.freshdesk.com) to track support requests. All messages sent to support@opencollective.com automatically create a ticket in the system.
+Open Collective uses [FreshDesk](https://opencollective.freshdesk.com) to track support requests. All messages sent to [support@opencollective.com](mailto:support@opencollective.com) automatically create a ticket in the system.
 
 Alanna is looking after general support. She triages all incoming tickets and resolves the ones she can. Other team member are also welcome to pick up tickets. The FreshDesk system makes it clear if a response has already been sent.
 

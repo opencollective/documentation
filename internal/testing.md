@@ -4,21 +4,12 @@ Tests are intended to be run either on development machines \(`NODE_ENV=developm
 
 ## Setup
 
-We use [Mocha](https://mochajs.org/) for unit-testing and [Nightwatch](http://nightwatchjs.org) for end-to-end \(e2e\) testing. To run end-to-end tests on your machine you will have to first install Selenium and the Google Chrome Driver manually.
-
-### Install Selenium
-
-Download the [selenium-server-standalone-2.44.0.jar](http://selenium-release.storage.googleapis.com/2.44/selenium-server-standalone-2.44.0.jar) and move it to `bin/selenium-server-standalone-2.44.0.jar`
-
-On MacOSX Yosemite, you might also need to install Java \(yes, I know... don't look at me this way...\). You can download it from [this page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
-
-### Install the Chrome Driver
-
-Download the chrome driver from [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads), unzip it and move it to `test/lib/chromedriver`
+We use [Mocha](https://mochajs.org/) for unit-testing and [Cypress](https://www.cypress.io/) for end-to-end \(e2e\) testing. 
+More details on setting up your local machine for tests can be found at, [https://github.com/opencollective/opencollective-frontend/blob/main/docs/e2e.md](https://github.com/opencollective/opencollective-frontend/blob/main/docs/e2e.md).
 
 ### Database
 
-Create an `opencollective_test` database accessible to user `opencollective`; each e2e test will reset its schema as required.
+Create an `opencollective_test` database accessible to user `opencollective`.
 
 ```text
 $> createdb opencollective_test

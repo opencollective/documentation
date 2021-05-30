@@ -31,7 +31,7 @@ If you'd like to know more about Git and GitHub, we recommend Git's [official do
 
 ## Understanding GitBook's integration with GitHub
 
-We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository **opencollective/documentation**, reads them and converts them into the pages you can access on **docs.opencollective.org**. A generic structure of a documentation hosted on GitBook would look like this:
+We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository **opencollective/documentation**, reads them and converts them into the pages you can access on [docs.opencollective.com](https://docs.opencollective.com). A generic structure of a documentation hosted on GitBook would look like this:
 
 {% tabs %}
 {% tab title="Generic structure of a GitBook" %}
@@ -160,7 +160,7 @@ Contributing_Documentation_Suggesting_changes_New_pull_request_2019-04-29.png
 {% hint style="warning" %}
 Please create an issue on our documentation repository to discuss your ideas before taking any action.
 
-1. Go to [**our Issue section**](https://github.com/opencollective/documentation/issues) and click on **New issue**. 
+1. Go to [**our Issue section**](https://github.com/opencollective/opencollective/issues) and click on **New issue**. 
 2. Describe what changes you are proposing and the motivation behind them: how will them improve our documentation? How should we proceed?
 3. Click on **Submit new issue**.
 {% endhint %}
@@ -245,5 +245,5 @@ But if you have access to the GitBook interface, here's what you should do to fi
 
 ![](../../.gitbook/assets/contributing_documentation_suggesting-changes_dead-links_2020-01-29.gif)
 
-If you have any other questions about contributing to our documentation, please reach out to support@opencollective.com or join our `documentation` channel on [Slack](https://slack.opencollective.com).
+If you have any other questions about contributing to our documentation, please reach out to [support@opencollective.com](mailto:support@opencollective.com) or join our `documentation` channel on [Slack](https://slack.opencollective.com).
 

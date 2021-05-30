@@ -85,7 +85,7 @@ Create video tutorials:
 
 _**Project Mentors:** Alanna, Jaskirat_
 
-**Thanks for your interest in our Season of Docs ideas! If you want to get involved, please email info@opencollective.com and/or** [**join our Slack**](https://slack.opencollective.com)**.**
+**Thanks for your interest in our Season of Docs ideas! If you want to get involved, please email [info@opencollective.com](mailto:info@opencollective.com) and/or** [**join our Slack**](https://slack.opencollective.com)**.**
 
 ## **FAQ**
 

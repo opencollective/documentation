@@ -58,7 +58,7 @@ Issues tagged as "**bounty candidate**" are issues that we are considering to ad
 2. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
 3. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md
 
-   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](BOUNTY.md).
+   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](https://docs.opencollective.com/help/contributing/development/bounties).
 
 4. Make sure the issue is understandable for newcomers and expectations are clearly set
 
