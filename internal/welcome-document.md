@@ -2,7 +2,7 @@
 description: >-
   Below you’ll find information to help you get started. Please read carefully &
   feel free to let us know if something isn’t clear enough or missing. You can
-  email Pia directly at [pia@opencollective.co](mailto:pia@opencollective.co)
+  email Pia directly at [pia@opencollective.com](mailto:pia@opencollective.com)
 ---
 
 # Welcome Document
