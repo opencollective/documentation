@@ -26,5 +26,5 @@ We don't recommend using the gift card balance for recurring contributions, beca
 
 ## I made a mistake or I still have questions....
 
-Please contact [support@opencollective.com](mailto:support@opencollective.com).
+Please contact [https://opencollective.com/support](https://opencollective.com/support).
 

@@ -65,7 +65,7 @@ It's up to the creators of the Fund what the process is. Open Collective has a '
 ### **How do you create a fund?** 
 
   
-****[Reach out to us](mailto:support@opencollective.com) for more information if you are wanting to set up a Fund with OC! 
+****[Reach out to us](https://opencollective.com/support) for more information if you are wanting to set up a Fund with OC! 
 
 For more information about our mission regarding funding and the initial organisations that came on board, [please read Pia's release blog. ](https://blog.opencollective.com/funds-for-open-source/)
 

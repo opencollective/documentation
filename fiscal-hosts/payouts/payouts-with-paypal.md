@@ -23,7 +23,7 @@ For single payments larger than $2,000, make a manual payment.
 
 We're currently testing this feature with the help of selected Host collectives.
 
-If you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com). If you're already testing the feature and wish to leave the test, you can also send an email to support.
+If you're interested in testing this feature, please reach out through [https://opencollective.com/support](https://opencollective.com/support). If you're already testing the feature and wish to leave the test, you can also send an email to support.
 {% endhint %}
 
 For hosts that are using PayPal, this integration can be used to automate expense payment by providing a one-click solution for paying expenses using [PayPal Payouts](https://developer.paypal.com/docs/payouts/).
@@ -65,7 +65,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 ### Connecting to PayPal Payouts
 
 {% hint style="info" %}
-PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com).
+PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through [https://opencollective.com/support](https://opencollective.com/support).
 {% endhint %}
 
 If you're already in the beta test group, you can follow these instructions:

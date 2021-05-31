@@ -36,7 +36,7 @@ To sponsors, collective members are often volunteers taking time away from their
 
 If something is wrong, let us know. We believe in self-managing systems, so we do not police or moderate excessively. The only way this works is by sharing the effort of noticing what is going on.
 
-While we give you tools to moderate interactions with your collective, we still rely on you to let us know when something isn’t right. Please contact us any time: [support@opencollective.com](mailto:support@opencollective.com).
+While we give you tools to moderate interactions with your collective, we still rely on you to let us know when something isn’t right. Please contact us any time: [https://opencollective.com/support](https://opencollective.com/support).
 
 ## **Share the love**
 

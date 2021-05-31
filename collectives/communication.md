@@ -48,7 +48,7 @@ And if you wish, you can set it to become public after a certain date.
 
 ## Contacting a Collective
 
-Users can contact you via the contact form of your collective. It is linked in your collective page through the `Contact` button. The forms stands on `/{your-collective}/contact`. If you don't want to use this feature, please email us at [support@opencollective.com](mailto:support@opencollective.com) and we'll disable it for you.
+Users can contact you via the contact form of your collective. It is linked in your collective page through the `Contact` button. The forms stands on `/{your-collective}/contact`. If you don't want to use this feature, please contact us at [https://opencollective.com/support](https://opencollective.com/support) and we'll disable it for you.
 
 ![](../.gitbook/assets/image%20%2820%29.png)
 

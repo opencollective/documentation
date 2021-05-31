@@ -20,7 +20,7 @@ When adding a discord webhook, make sure to use the [Slack-compatible](https://d
 
 ## Other chat integrations \(Mattermost, Gitter\)
 
-For Mattermost or Gitter, first set up a webhook as described above, and then [send it to us](mailto:support@opencollective.com) and we'll add the hook to our platform.
+For Mattermost or Gitter, first set up a webhook as described above, and then [send it to us](https://opencollective.com/support) and we'll add the hook to our platform.
 
 ## Twitter Integration
 

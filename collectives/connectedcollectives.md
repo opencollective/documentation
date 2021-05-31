@@ -1,7 +1,7 @@
 # Connected Collectives
 
 {% hint style="info" %}
-Creating connected collectives is [a manual process](../internal/queries/connectedcollective-queries.md) at the moment. If you want to do it, please send an email to [support@opencollective.com](mailto:support@opencollective.com) describing what you'd like.
+Creating connected collectives is [a manual process](../internal/queries/connectedcollective-queries.md) at the moment. If you want to do it, please contact us at [https://opencollective.com/support](https://opencollective.com/support) describing what you'd like.
 {% endhint %}
 
 Connected collectives are a way to display the different collectives or local projects that came out of your main initiative. Collectives are not strongly tied together:

@@ -245,5 +245,5 @@ But if you have access to the GitBook interface, here's what you should do to fi
 
 ![](../../.gitbook/assets/contributing_documentation_suggesting-changes_dead-links_2020-01-29.gif)
 
-If you have any other questions about contributing to our documentation, please reach out to [support@opencollective.com](mailto:support@opencollective.com) or join our `documentation` channel on [Slack](https://slack.opencollective.com).
+If you have any other questions about contributing to our documentation, please reach out to [https://opencollective.com/support](https://opencollective.com/support) or join our `documentation` channel on [Slack](https://slack.opencollective.com).
 

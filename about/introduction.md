@@ -12,7 +12,7 @@ We want all those seeds to have a chance to grow and give the ideas a fighting c
 
 Contact us: [info@opencollective.com](mailto:info@opencollective.com)
 
-Support: [support@opencollective.com](mailto:support@opencollective.com)
+Support: [https://opencollective.com/support](https://opencollective.com/support)
 
 ## Essays
 

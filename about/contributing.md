@@ -30,7 +30,7 @@ Suggest changes to this documentation!
 
 ## **Marketing**
 
-Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Just reach out to [support@opencollective.com](mailto:support@opencollective.com) if you're interested.
+Write blog posts and share success stories! We offer a $100 blog bounty to any Collective who wants to tell their story. Just reach out to [https://opencollective.com/support](https://opencollective.com/support) if you're interested.
 
 ## **Design**
 

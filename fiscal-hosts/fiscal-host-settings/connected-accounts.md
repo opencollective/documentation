@@ -24,7 +24,7 @@ This feature is currently in **Beta** test, read more about it below.
 
 We're currently testing this feature with the help of selected Host collectives.
 
-If you're interested in testing this feature, please reach out through [support@opencollective.com](mailto:support@opencollective.com). If you're already testing the feature and wish to leave the test, you can also send an email to support.
+If you're interested in testing this feature, please reach out through [https://opencollective.com/support](https://opencollective.com/support). If you're already testing the feature and wish to leave the test, you can also send an email to support.
 
 ### Fees
 

@@ -25,7 +25,7 @@ Click 'Yes, reject' and then the status of the transaction should update in your
 ![](../.gitbook/assets/screenshot-2020-10-16-at-10.40.34.png)
 
 {% hint style="danger" %}
-If an account continues to make contributions to your Collective after you have rejected them, this is against Open Collective's community guidelines. Please get in touch with[ support@opencollective.com](mailto:support@opencollective.com) and we can block the account from interacting with your Collective.
+If an account continues to make contributions to your Collective after you have rejected them, this is against Open Collective's community guidelines. Please get in touch with [https://opencollective.com/support](https://opencollective.com/support) and we can block the account from interacting with your Collective.
 {% endhint %}
 
 ## Rejecting categories of financial contributors
@@ -60,6 +60,6 @@ If a contributor's account has been tagged by the Open Collective team as belong
 If you would like to let potential contributors to your Collective know up front what your **contribution policy** is, and what kinds of contributions you may not accept, you can also do this in the _'Policies'_ section of the Collective menu. This will be displayed in the contribution flow as well.
 
 {% hint style="danger" %}
-It is against Open Collective's community guidelines and moderation policy for a contributor to create a new account to get around the category filter. If this happens, please report it to us on [support@opencollective.com](mailto:support@opencollective.com)
+It is against Open Collective's community guidelines and moderation policy for a contributor to create a new account to get around the category filter. If this happens, please report it to us on [https://opencollective.com/support](https://opencollective.com/support)
 {% endhint %}
 

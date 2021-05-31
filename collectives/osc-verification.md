@@ -20,7 +20,7 @@ If your project is not centered on a Github repository, or you can't get the aut
 
 We agree, the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
 
-If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or send us an email [support@opencollective.com](mailto:support@opencollective.com).
+If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or contact us at [https://opencollective.com/support](https://opencollective.com/support).
 
 ### I can't find my repository or my organization's repository.
 

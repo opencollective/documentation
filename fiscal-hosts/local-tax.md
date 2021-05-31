@@ -6,7 +6,7 @@ description: This page describes how to set up charging local taxes
 
 In certain countries or regions, Fiscal Hosts are required to collect local taxes—for example, VAT in the EU.
 
-Please contact [support@opencollective.com](mailto:support@opencollective.com) if you need Collectives under your umbrella to charge taxes. We will work with you to conform to your local legislation.
+Please contact [https://opencollective.com/support](https://opencollective.com/support) if you need Collectives under your umbrella to charge taxes. We will work with you to conform to your local legislation.
 
 ## VAT
 
@@ -38,5 +38,5 @@ If the collective has a VAT number and should be responsible for collecting VAT 
 
 ## GST \(New Zealand\)
 
-GST is also supported for New Zealand. [Contact us](mailto:support@opencollective.com)!
+GST is also supported for New Zealand. [Contact us](https://opencollective.com/support)!
 

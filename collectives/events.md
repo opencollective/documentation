@@ -62,7 +62,7 @@ To delete, scroll down to the bottom and click "delete event".
 
 ## I can't see my event listed or get a 404 error
 
-You probably forgot to set the URL field when creating the event. Just write to us at [support@opencollective.com](mailto:support@opencollective.com) and we will fix it. Sorry for the inconvenience this may cause you—we are working on improving this.
+You probably forgot to set the URL field when creating the event. Just write to us at [https://opencollective.com/support](https://opencollective.com/support) and we will fix it. Sorry for the inconvenience this may cause you—we are working on improving this.
 
 ## Email Attendees
 

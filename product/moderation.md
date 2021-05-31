@@ -14,7 +14,7 @@ Especially, these types of contents are never welcome on the website:
 
 ## How to report abusive content
 
-Please send all your reports for spam and abusive content to: [support@opencollective.com](mailto:support@opencollective.com).
+Please send all your reports for spam and abusive content to: [https://opencollective.com/support](https://opencollective.com/support).
 
 ## Limited user account
 
@@ -26,7 +26,7 @@ When you're account is limited you'll be unable to complete any sensitive action
 * Make financial contributions
 * Create conversations
 
-If your account gets limited by mistake, you can contact [support@opencollective.com](mailto:support@opencollective.com).
+If your account gets limited by mistake, you can contact [https://opencollective.com/support](https://opencollective.com/support).
 
 
 
