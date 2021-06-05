@@ -6,11 +6,11 @@ description: >-
 
 # Events
 
-
-
 {% hint style="warning" %}
-This functionality is still in experimental phase.
+This functionality is still in it's experimental phase.
 {% endhint %}
+
+Events inherit the admins of the Collective.
 
 ## Create an Event
 

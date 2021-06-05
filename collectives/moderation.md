@@ -8,7 +8,7 @@ If you would prefer to remove a sponsor from your Collective for any reason, you
 
 * refund the financial contributor
 * remove their membership from your Collective so that they are no longer listed as a sponsor
-* and also let you send them a message telling them why you have rejected their contribution, if you wish to do so
+* and also let you send them a message telling them why you have rejected their contribution if you wish to do so
 
 {% hint style="warning" %}
 Collective admins can reject or refund financial contributions that are up to 30 days old. Admins of the fiscal host can reject or refund contributions older than this, although we don't recommend it.
@@ -57,7 +57,7 @@ If a contributor's account has been tagged by the Open Collective team as belong
 
 ![](../.gitbook/assets/screenshot-2020-10-16-at-10.29.29.png)
 
-If you would like to let potential contributors to your Collective know up front what your **contribution policy** is, and what kinds of contributions you may not accept, you can also do this in the _'Policies'_ section of the Collective menu. This will be displayed in the contribution flow as well.
+If you would like to let potential contributors to your Collective know upfront what your **contribution policy** is, and what kinds of contributions you may not accept, you can also do this in the _'Policies'_ section of the Collective menu. This will be displayed in the contribution flow as well.
 
 {% hint style="danger" %}
 It is against Open Collective's community guidelines and moderation policy for a contributor to create a new account to get around the category filter. If this happens, please report it to us on [https://opencollective.com/support](https://opencollective.com/support)

@@ -2,7 +2,7 @@
 description: 'Instructions on how to safely connect to Wise, f.k.a. TransferWise.'
 ---
 
-# Payouts with \(Transfer\)Wise
+# Payouts with Wise
 
 For hosts that are using Wise, this integration can be used to automate expense payment by providing a one-click solution for paying expenses.
 

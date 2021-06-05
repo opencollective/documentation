@@ -8,7 +8,7 @@ We are a US based C corp registered in Delaware. We also have created other sepa
 
 ### Where are you based?
 
-Our team is distributed between New York, Guadalajara, Paris, Brussels, Berlin, and Wellington.
+Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington. 
 
 ### When did you start?
 

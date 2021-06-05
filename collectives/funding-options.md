@@ -36,5 +36,5 @@ Your Sponsors can set up bounties for features they want. We [interviewed](https
 
 ## Voting Rights
 
-Webpack has been experimenting with [their voting system](https://webpack.js.org/vote). They give Sponsors special influence when voting on prioritization of their roadmap.
+Webpack has been experimenting with [their voting system](https://webpack.js.org/vote). They give Sponsors special influence when voting on the prioritization of their roadmap.
 

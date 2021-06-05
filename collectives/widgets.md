@@ -22,7 +22,7 @@ Result:
 
 [![](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/webpack/donate)
 
-On Medium, download the image then upload it to your post. To link it, select the image and press CMD+K \(or CTRL+K on Windows\). A pop up menu will show up where you can enter the URL to link the image to \(see [Medium support page](https://help.medium.com/hc/en-us/articles/115004808847-Image-links)\). Here is an [example](https://medium.com/open-collective/open-collective-donate-button-e7e6d5965b2c).
+Here is an [example](https://medium.com/open-collective/open-collective-donate-button-e7e6d5965b2c).
 
 ## Show Backers & Sponsors
 
@@ -42,9 +42,8 @@ You can also add a style object \(react style\), e.g.
 
 Note: make sure that your style object is parsable with `JSON.stringify`
 
-**Examples:**
+**Example:**
 
-* [http://apex.run/\#links](http://apex.run/#links)
 * [https://www.spinacms.com/](https://www.spinacms.com/)
 
 **How to customize?**

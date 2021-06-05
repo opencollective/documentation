@@ -30,7 +30,7 @@ When you first click on the Stripe Connect account link, you will be taken to a 
 
 ### Country of operation and contact information
 
-You will be asked to select the country where you legally operate from, or receive payouts in.
+You will be asked to select the country where you legally operate from or receive payouts in.
 
 As Open Source Collective is a US entity, select **United States**.
 

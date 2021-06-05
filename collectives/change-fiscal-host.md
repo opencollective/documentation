@@ -3,14 +3,8 @@
 You can change the fiscal host of your Collective to a different existing host, or start your own host and move it there.
 
 {% hint style="warning" %}
-It's not possible to change to a Fiscal Host with a different currency than your Collective began with, if there are already any financial transactions associated. You need to change to a Fiscal Host with the same currency, or start a new Collective with the new currency and Fiscal Host.
+It's not possible to change to a Fiscal Host with a different currency than your Collective began with if there are already any financial transactions associated. You need to change to a Fiscal Host with the same currency or start a new Collective with the new currency and Fiscal Host.
 {% endhint %}
-
-## Check your starting point
-
-Instructions on how to change the Fiscal Host of your Collective may change according to your needs. If you already know the impacts related to changing to another Fiscal Host, click on the link that fits your case better:
-
-* [I want to join a Fiscal Host that already exists](change-fiscal-host.md#what-is-the-process-for-changing-fiscal-hosts)
 
 ## What does it mean to change fiscal hosts?
 
@@ -18,9 +12,9 @@ Your fiscal host is the house where your Collective "lives" legally and financia
 
 ## What are the benefits of being able to change hosts?
 
-No lock in! If you start out being fiscally hosted by another organization and eventually want to set up your own legal entity, you can move your Collective. This is great for projects that are bootstrapping early on and later build more legal infrastructure.
+No lock-in! If you start out being fiscally hosted by another organization and eventually want to set up your own legal entity, you can move your Collective. This is great for projects that are bootstrapping early on and later build more legal infrastructure.
 
-You can also change between established fiscal host organizations. If you start out under a generalist host, you may later switch when a host specific to your movement or focus area forms. This can happen when a movement scales up, for example. Or you might want to move hosts to change the currency your Collective is in from Dollars to Euros.
+You can also change between established fiscal host organizations. If you start out under a generalist host, you may later switch when a host-specific to your movement or focus area forms. This can happen when a movement scales up, for example. Or you might want to move hosts to change the currency your Collective is in from Dollars to Euros.
 
 ## What happens to my recurring financial contributions, followers of updates, and transaction history?
 

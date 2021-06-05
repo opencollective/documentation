@@ -8,7 +8,7 @@ Fiscal hosts now have the ability to enable two-factor authentication on payouts
 
 ## Enabling 2FA for login
 
-First you need to enable two-factor authentication on your user account. You can do this from your profile settings menu.
+First, you need to enable two-factor authentication on your user account. You can do this from your profile settings menu.
 
 ![Screenshot of the profile settings menu](../../.gitbook/assets/screenshot-2020-11-20-at-12.39.37.png)
 

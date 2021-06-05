@@ -18,7 +18,7 @@ If your project is not centered on a Github repository, or you can't get the aut
 
 ### The permissions you ask for are overly generous and my organization doesn't want to grant them.
 
-We agree, the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
+We agree the permissions are overly generous. Unfortunately, there's not much we can do at the moment since this is the only scope we can use to read the info we need. We've discussed this at length on issues [\#355](https://github.com/opencollective/opencollective/issues/355), [\#1034](https://github.com/opencollective/opencollective/issues/1034) and [\#2333](https://github.com/opencollective/opencollective/issues/2333).
 
 If you have any suggestions on how to handle this better, feel free to join the discussions, start a new one, or contact us at [https://opencollective.com/support](https://opencollective.com/support).
 
@@ -44,7 +44,7 @@ If you believe that you may have linked the wrong GitHub account to your Open Co
 
 ![](../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-apps_2019-10-28.png)
 
-**4.** Click on the three dots on the right labeled "Show me more options" to revoke the authorization.
+**4.** Click on the three dots on the right labelled "Show me more options" to revoke the authorization.
 
 ![](../.gitbook/assets/fiscal-host_open-source-collective_github-list-oauth-revoke_2019-10-28.png)
 

@@ -15,16 +15,16 @@ You can be a Fiscal Host for lots of Collectives or just for your own Collective
 * Movements with chapters or subgroups
 * Meetup networks with many local groups under one umbrella
 * Citizen groups in a geographical area
-* Foundations who give grants to unincorporated projects
+* Foundations that give grants to unincorporated projects
 * Advocates who want to help certain startup ventures get going, such as cooperatives
-* Incubators or accelerators supporting many early stage teams
+* Incubators or accelerators supporting many early-stage teams
 * Hosting a single Collective to enable transparent budgeting
 
-### Who are hosts?
+### Who are Fiscal hosts?
 
 * HQ/umbrella organizations with Collectives for each of their chapters \(e.g. [Women Who Code](https://opencollective.com/wwcode)\)
 * Organizations that support an ecosystem by hosting Collectives in a specific area/vertical/topic \(e.g. [Open Source Collective](https://opencollective.com/opensource)\)
-* Charitable organizations who host Collectives that align with their mission \(e.g. [Open Collective Foundation](https://opencollective.com/foundation)\)
+* Charitable organizations that host Collectives that align with their mission \(e.g. [Open Collective Foundation](https://opencollective.com/foundation)\)
 * Organizations that host different Collectives in a certain city or country \(e.g. [BrusselsTogether](https://opencollective.com/brusselstogether)\)
 
 ### Things to consider when becoming a host
@@ -32,7 +32,7 @@ You can be a Fiscal Host for lots of Collectives or just for your own Collective
 * Have you looked into the tax implications in your country of being a fiscal sponsor?
 * Have you thought about a system and policies for onboarding new Collectives?
 * Do you have a Stripe and PayPal account set up, and a bank account to connect them to?
-* Do you have admin capacity to validate and pay out approved expenses for your Collectives?
+* Do you have admin capacity to validate and payout approved expenses for your Collectives?
 
 ### What are the legal liabilities?
 
@@ -44,7 +44,7 @@ Open Collective is designed to make it easy to validate every expense as part of
 
 ### Requirements
 
-To be Fiscal Host, you need:
+To be a Fiscal Host, you need:
 
 * A legal entity
 * A bank account

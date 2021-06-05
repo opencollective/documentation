@@ -10,9 +10,9 @@ Collective Goals will be sent in the emails sent to your contributors, and you c
 
 To create your own Collective goals, go to your Collective profile, click on **Settings** and then on **Collective Goals**.
 
-![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-profile-settings_2020-08-12.png)
+![](../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
 
-![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goals-settings_2020-08-12.png)
+![](../.gitbook/assets/collectives_collectives_goals_and_tiers_2021-05-31.png)
 
 To create a goal, give it a **title**, categorize it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
 
@@ -32,7 +32,7 @@ You can define whether you can to allow custom contributions or not by manipulat
 
 You can also create custom tiers on the same page. Click on **add another tier** to activate the following form:
 
-![Tier configuration form](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/collective_collective_goals_and_tiers_2021-05-31.png)
 
 ### Configuration for Tiers
 
@@ -47,6 +47,10 @@ e.g. _Gold Sponsor, Member, Supporter._ This is the only required field to add a
 #### **Description**
 
 Important information for Financial Contributors such as what does this tier mean or which rewards are included.
+
+#### **Interval**
+
+The frequency in which such contribution will be charged. It can be a one time contribution, a monthly one, yearly or flexible. 
 
 #### **Amount type**
 
@@ -63,10 +67,6 @@ A preset starting amount.
 #### **Minimum amount**
 
 The minimum amount allowed for this contribution, if any.
-
-#### **Interval**
-
-The frequency in which such contribution will be charged. It can be a one time contribution, a monthly one, or even yearly.
 
 #### **Available quantity**
 

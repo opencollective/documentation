@@ -10,7 +10,7 @@ Projects have many of the same features as Collectives. Projects have their own 
 
 ### Creating a Project
 
-Administrators can create a project from the collective profile page. Once you have registered an account and created a collective you can create a project by clicking 'create project' in the Projects area on your collective's profile page. You'll be asked to provide a project name, a URL and description of your project:
+Administrators can create a project from the collective profile page. Once you have registered an account and created a collective you can create a project by clicking 'create project' in the Projects area on your collective's profile page. You'll be asked to provide a project name, a URL and a description of your project:
 
 ![Adding a project to a collective.](../.gitbook/assets/screenshot-2021-05-13-at-17.11.52.png)
 

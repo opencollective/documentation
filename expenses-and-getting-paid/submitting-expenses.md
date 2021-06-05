@@ -2,9 +2,9 @@
 
 Go to the Collective you're submitting the expense to and click "Submit Expense".
 
-![The location of the Submit Expense button on the Collective page: on the right side of the page, close to the Contact button.](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_collective-page_2020-05-11.png)
+![](../.gitbook/assets/expenses_submitting_expenses_2021-05-31.png)
 
-On the **Submit expense** page, you can submit two types of expenses, **reimbursements** and **invoices.** On this page you can also check the **Collective balance**, review **expense policies** and get the answers to a few of the most frequently asked questions.
+On the **Submit expense** page, you can submit two types of expenses, **reimbursements** and **invoices.** On this page, you can also check the **Collective balance**, review **expense policies** and get the answers to a few of the most frequently asked questions.
 
 ![Expense submission page](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_typical-page-scheme_2020-05-11.png)
 
@@ -79,7 +79,7 @@ If you don't upload an invoice, the expense itself functions as an invoice for a
 
 ### Expense summary
 
-The Expense summary provides you an overview of the expense to be submitted, including attached files, items being paid for, payout preferences, etc. The summary allows you to review all info and quickly edit it if needed by clicking on **Edit expense**. 
+The Expense summary provides you with an overview of the expense to be submitted, including attached files, items being paid for, payout preferences, etc. The summary allows you to review all info and quickly edit it if needed by clicking on **Edit expense**. 
 
 For invoices, the expense summary serves as the official invoice document. You can download it for your accounting records if you wish.
 
@@ -87,9 +87,9 @@ You can also add a private note to the admins. Once your expense is ready, click
 
 ## Inviting a third-party to submit an Expense
 
-It is also possible to draft an expense and send it to a third-party to edit and submit it. You can send a drafted expense to an existing user of the platform or to someone else that is not on the platform yet.
+It is also possible to draft an expense and send it to a third party to edit and submit an expense. You can send a drafted expense to an existing user of the platform or to someone else that is not on the platform yet.
 
-Inviting a third-party user or organization to submit an expense automatically creates a draft of the expense and emails the user so they can finalise any final details and submit to the collective.
+Inviting a third-party user or organization to submit an expense automatically creates a draft of the expense and emails the user so they can finalise any final details and submit it to the collective.
 
 Notice, although the invited user will pick who's going to be paid for the expense, the created expense will display you as the user who requested it:
 
@@ -115,11 +115,7 @@ You are now able to _add additional information about the expense._ Pre-fill wha
 
 ![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_addingadditionalinformation_2021_4_20.gif)
 
-
-
-If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense:
-
-![](../.gitbook/assets/deepin-screen-recorder_select-area_20201116200758.gif)
+If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense. 
 
 When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action:
 

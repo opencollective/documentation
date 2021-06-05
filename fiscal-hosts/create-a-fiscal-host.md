@@ -1,5 +1,7 @@
 # Creating a Fiscal Host
 
+
+
 {% hint style="warning" %}
 If you don't have an account yet, please [create one](https://opencollective.com/create-account). You need an individual account to be able to create a Fiscal Host — so fill the form with the info of the **individual** **administrator** of that Fiscal Host.
 {% endhint %}

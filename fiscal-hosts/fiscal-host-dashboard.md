@@ -2,7 +2,7 @@
 
 **The Fiscal Host Dashboard is your one-stop-shop for seeing all the information and completing your actions as host admin.**
 
-## How do  I get to the Host Dashboard?
+## How do I get to the Host Dashboard?
 
 Click the **Dashboard** button on your host page, while logged in as host admin. This button is nested inside the **Actions** menu.
 
@@ -17,7 +17,7 @@ Click the **Dashboard** button on your host page, while logged in as host admin.
 **Filter**
 
 * **Pending:** expense has been submitted but not yet approved by the Collective's core contributors
-* **Approved:** Core Contributor has confirmed this expense is good to pay out
+* **Approved:** Core Contributor has confirmed this expense is good to payout
 * **Paid:** past expenses already complete
 
 #### Pay with PayPal
@@ -42,7 +42,7 @@ If you click the title of an individual expense, you will go to that expense's p
 
 PayPal allows you to pre-approve $2,000 at a time to be paid through the API. This is a security feature. This means after you've paid out $2,000 in expenses, you need to refill the balance. If you try to pay an expense and get an error about the PayPal balance, it's time to refill.
 
-When you click "refill balance" you will be prompted to log in to PayPal, and afterward you'll be taken back to your dashboard.
+When you click "refill balance" you will be prompted to log in to PayPal, and afterwards you'll be taken back to your dashboard.
 
 You can see the connected PayPal account in the top right. This is the account expenses will be paid out of.
 
@@ -65,7 +65,7 @@ Common reasons for a payment to fail after clicking the "Pay with PayPal" button
 
 ### Manage hosted Collectives and set custom fees
 
-You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab. With the first dropdown menu you can sort them by period of time you've hosted them from the most recent to oldest and oldest to most recent. You can also filter them by fee structure: by **global host fee** or **custom fee**.
+You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab. With the first dropdown menu, you can sort them by the period of time you've hosted them from the most recent to oldest and oldest to most recent. You can also filter them by fee structure: by **global host fee** or **custom fee**.
 
 ![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_manage_collectives_2020-08-12.png)
 

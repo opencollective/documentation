@@ -30,20 +30,20 @@ Wellington, New Zealand
 ### **Benjamin Nickolls**
 
 CPO  
-Shropshire, UK
+Shropshire, United Kingdom
 
 [Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam), [Linkedin](https://www.linkedin.com/in/benjamuk/)
 
 ### **Benjamin Piouffle**
 
-Senior Software Engineer  
+Software Engineer  
 Aix-en-Provence, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
 
 ### **Leo Kewitz**
 
-Senior Software Engineer  
+Software Engineer  
 Brazil
 
 [GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
@@ -57,7 +57,7 @@ Guadalajara, Mexico
 
 ### **Alina Manko**
 
-User support and financial admin  
+Operations Support and Financial Admin  
 Wellington, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/alinamanko/)
@@ -65,7 +65,9 @@ Wellington, New Zealand
 ### **Amina Kazi**
 
 Designer  
-India
+Navi Mumbai, India
+
+[Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
 
 ### Shannon Wray
 
@@ -73,6 +75,25 @@ Documentation
 Auckland, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
+
+### Kayla 
+
+Admin Support - Open Collective Foundation   
+Mexico
+
+### Sudharaka Palamakumbura
+
+Software Designer  
+Vancouver, British Columbia, Canada 
+
+[Linkedin ](https://www.linkedin.com/in/sudharakap/)
+
+### Nathan Hewitt
+
+Open Collective Foundation   
+New York, United States
+
+[Linkedin](https://www.linkedin.com/in/nthnh/), [Website](https://natehn.com/)
 
 ## Advisors
 

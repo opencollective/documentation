@@ -16,7 +16,7 @@ If you're a fiscal host, you'll have the option to pick the target audience befo
 
 ![Target audience for host&apos;s updates](../.gitbook/assets/image%20%2836%29.png)
 
-* **Notifify financial contributors**: will notify everyone who financially contributed to the host
+* **Notify financial contributors**: will notify everyone who financially contributed to the host
 * **Notify hosted collective's admins**: the administrators of the Collectives you're hosting
 * **Notify everyone**: will notify the two categories above 
 

@@ -6,7 +6,7 @@ Log in and go to your [Fiscal Host dashboard](fiscal-host-dashboard.md). Click o
 
 ![An overview of your Fiscal Host dashboard. The Hosted Collectives tab is the last one listed.](../.gitbook/assets/fiscal-hosts-add-funds-manually-hosted-collectives-2020-09-18.png)
 
- Use the search bar to find the Collective you want to add funds for.
+Use the search bar to find the Collective you want to add funds for.
 
 ![Using the search bar to find the right Collective.](../.gitbook/assets/fiscal-hosts-add-funds-manually-search-bar-2020-09-20.gif)
 

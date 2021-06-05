@@ -10,7 +10,7 @@ If you have entered incorrect information on your expense you can edit it to fix
 
 ![How to find an expense you&apos;ve submitted](../.gitbook/assets/expenses-and-getting-paid_edit-an-expense_find-expense_2020-07-13.gif)
 
-Click on the **Edit** icon on the left to edit the details of a expense.
+Click on the **Edit** icon on the left to edit the details of an expense.
 
 ![The edit expense button](../.gitbook/assets/edit-expense.png)
 

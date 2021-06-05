@@ -12,7 +12,7 @@ You can also view expenses on Open Collective. Click the link from the email not
 
 ### Should I approve this expense?
 
-The decision is up to you as a project. Some projects are informal, and any Core Contributor can approve any expense. Others have a formal decision-making or budgeting process, or only pay expenses for specific things. We advise you have a discussion with your collaborators and agree guidelines for approving expenses.
+The decision is up to you as a project. Some projects are informal, and any Core Contributor can approve any expense. Others have a formal decision-making or budgeting process, or only pay expenses for specific things. We advise you to have a discussion with your collaborators and agree on guidelines for approving expenses.
 
 ### Can I give guidance to expense submitters?
 

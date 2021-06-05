@@ -56,5 +56,3 @@ If you're already in the beta test group, you can follow these instructions:
   * Copy and paste _Client ID, Secret_ in the respective fields, leave Webhook ID empty.
   * Click _Connect PayPal._
 
-
-

@@ -2,17 +2,15 @@
 
 ## Edit Settings
 
-To access all settings for your Collective, click the cog icon next to your logo image.
+To access all settings for your Collective, click the settings button shown in the image below. 
 
-![](../.gitbook/assets/screen-shot-2019-09-18-at-11.24.36-am.png)
+![](../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
 
 ## Page Sections
 
 As an admin, all sections will appear in your view, with invitations to add content. However, any sections without content will not appear to other users \(for example, **Updates** and **About**\).
 
 ![](../.gitbook/assets/screen-shot-2019-09-18-at-11.12.02-am.png)
-
-If you would like to reorder sections or hide one, please contact support and we can action your request. In the future we will enable Collective admins to hide and reorder sections themselves.
 
 ## Change Logo
 

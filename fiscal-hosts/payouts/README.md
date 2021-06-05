@@ -6,7 +6,7 @@
 
 Straight to the bank account attached to your Stripe account, which you connect when you set up as an Open Collective fiscal host.
 
-### How do people withdraw funds from Collectives we host?
+### How can we withdraw funds from the Collectives we host?
 
 To withdraw funds, people submit receipts or invoices as [Expenses](../../expenses-and-getting-paid/expenses.md).
 
@@ -23,9 +23,9 @@ Right now, we only support PayPal and TransferWise for one-click payouts through
 
 ### How do I pay out Expenses with PayPal?
 
-From your host dashboard you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
+From your host dashboard, you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
 
-On the host dashboard, expenses that have been approved and have sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\).
+On the host dashboard, expenses that have been approved and have a sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\).
 
 For single payments larger than $2,000, make a manual payment.
 

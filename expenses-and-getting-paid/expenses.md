@@ -4,7 +4,7 @@
 
 ### How do I get paid from a Collective?
 
-Go to the Collective and click "Submit Expense". You will need to upload a valid receipt or provide invoicing details, and input your PayPal address or bank account.
+Go to the Collective and click "Submit Expense". You will need to upload a valid receipt or provide invoicing details and input your PayPal address or bank account.
 
 [More details](submitting-expenses.md)
 
