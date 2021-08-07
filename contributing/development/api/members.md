@@ -31,5 +31,5 @@ E.g. [https://opencollective.com/webpack/members/organizations.json](https://ope
 },
   ...
 ]
-```
+``` 
 
