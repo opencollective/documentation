@@ -36,7 +36,6 @@ redirects:
   developers/bounties: ./contributing/development/bounties.md
   developers/api: ./contributing/development/api/README.md
   developers/api/members: ./contributing/development/api/members.md
-  developers/api/users-emails: ./contributing/development/api/users-emails.md
   developers/api/collectives: ./contributing/development/api/collectives.md
   developers/api/events: ./contributing/development/api/events.md
   developers/readme-integration: ./contributing/development/readme-integration.md

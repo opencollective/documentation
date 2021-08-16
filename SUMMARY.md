@@ -119,7 +119,6 @@
   * [Bounties](contributing/development/bounties.md)
   * [API](contributing/development/api/README.md)
     * [Members](contributing/development/api/members.md)
-    * [Users / Emails](contributing/development/api/users-emails.md)
     * [Collectives](contributing/development/api/collectives.md)
     * [Events](contributing/development/api/events.md)
   * [README Integration](contributing/development/readme-integration.md)
