@@ -16,7 +16,7 @@ Before setting up a Sponsorship, we recommend you create an [Organization](./), 
 
 Go to the Collective's page and review their Sponsorship tiers. Choose one that suits the level of support you want to give or the reciprocal benefits you care about. Go through the contribution flow and pay using a credit card.
 
-You can also give a custom contribution by editing the options on the contribution screen, adjusting the amount and frequency.
+You can also give a flexible contribution by editing the options on the contribution screen, adjusting the amount and frequency.
 
 ## How will my logo show up?
 

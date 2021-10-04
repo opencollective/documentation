@@ -24,9 +24,9 @@ You can also control contributions and tiers by accessing the **Tiers** section.
 
 ![](../../.gitbook/assets/collectives_collective-goals-and-tiers_collective-tiers-settings_2020-08-12.png)
 
-### Enabling custom contributions
+### Enabling flexible contributions
 
-You can define whether you can to allow custom contributions or not by manipulating the **Enable custom contributions** checkbox.
+You can define whether you can to allow flexible contributions or not by manipulating the **Enable flexible contributions** checkbox.
 
 ### Enabling 'Crypto contributions
 
