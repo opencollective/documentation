@@ -58,7 +58,7 @@ By default, it uses the default styling of your `h1` and `h2` on your page. You 
 
 ## About the Copyright
 
-The designs of the buttons are licensed by Open Collective under a Creative Commons Attribution–Share-Alike 4.0 Unported license (“CC-BY-SA”). . . . Open Collective, the Open Collective Logo, are trademarks of Open Collective, Inc. and therefore they can’t be modified or used individually, for more info or request reach out to legal@opencollective.com
+The designs of these widget buttons are licensed by Open Collective under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Open Collective, the Open Collective Logo, are trademarks of Open Collective, Inc. and therefore they can’t be modified or used individually, for more info or request reach out to legal@opencollective.com
 
 ## Related:
 
