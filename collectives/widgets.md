@@ -8,7 +8,7 @@
 
 Just replace `:collectiveSlug` with the slug of your Collective (e.g. webpack for [https://opencollective.com/webpack](https://opencollective.com/webpack)). The verb can either be "donate" or "contribute".
 
-![](<../.gitbook/assets/Screen Shot 2019-01-24 at 2.48.23 PM.png>)
+![](<../.gitbook/assets/donate-buttons.png>)
 
 If you want to add a donate button to a blog post, you can load an image version of the logo and then link to the donate page of your collective.
 
