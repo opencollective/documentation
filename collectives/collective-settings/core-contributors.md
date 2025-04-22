@@ -6,9 +6,9 @@ With the implementation of the new [Dashboard interface](https://docs.opencollec
 
 ## Roles
 
-**Admins** have full permissions to change settings, approve expenses, and make financial contributions from the budget balance.
+**Admins** have full permissions to change settings, approve expenses, add receipts to transactions and make financial contributions from the budget balance.
 
-**Core contributors** show up in the Team section of your page and can create events, but can't change settings or approve expenses.
+**Core contributors** show up in the Team section of your page and can create events, but can't change settings, add receipts or approve expenses.
 
 **Accountants** can access financial information, such as receipts, invoices, and reports. They can't change settings or approve expenses.
 
