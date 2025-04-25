@@ -6,26 +6,12 @@ description: >-
 
 # Team
 
-## **Pia Mancini**
-
-Co-founder & CEO\
-Madrid, Spain
-
-[Twitter](https://twitter.com/piamancini), [LinkedIn](https://www.linkedin.com/in/piamancini/)
-
 ### **François Hodierne**
 
-Chief Technology Officer\
+Executive Director \
 Berlin, Germany
 
 [Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin ](https://www.linkedin.com/in/francoishodierne/)
-
-### **Benjamin Nickolls**
-
-Chief Product Officer\
-Shropshire, United Kingdom
-
-[Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam), [Linkedin](https://www.linkedin.com/in/benjamuk/)
 
 ### Ronen Hirsch
 
@@ -36,10 +22,17 @@ Israel
 
 ### **Benjamin Piouffle**
 
-Software Engineer\
+Head of Engineer\
 La Ciotat, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
+
+### Shannon Wray
+
+Head of Operations \
+Remote
+
+[Linkedin ](https://www.linkedin.com/in/shannonwray)
 
 ### **Leo Kewitz**
 
@@ -69,13 +62,6 @@ Navi Mumbai, India
 
 [Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
 
-### Shannon Wray
-
-Operations, Orchestrator\
-Remote
-
-[Linkedin ](https://www.linkedin.com/in/shannonwray)
-
 ### Sudharaka Palamakumbura
 
 Software Designer\
@@ -87,18 +73,9 @@ Vancouver, British Columbia, Canada&#x20;
 
 Support&#x20;
 
-Remote
+New York, United States
 
 [Linkedin](https://www.linkedin.com/in/kadallah/)
-
-## Advisors
-
-**Xavier Damman**
-
-Founder\
-Brussels, Belgium
-
-[Twitter](https://twitter.com/xdamman), [LinkedIn](https://www.linkedin.com/in/xavierdamman)
 
 ### Team Map
 
@@ -110,4 +87,4 @@ English, Spanish, Portuguese, Hebrew, Russian, Japanese, French and German are j
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-31 at 1.11.34 PM.png" alt=""><figcaption></figcaption></figure>
 
-Click here to view the [interactive map](https://www.google.com/maps/d/u/0/viewer?mid=1Cti5GyLESLXmHSTWKAQ\_ZDOqOat9tRLG\&hl=en\&ll=25.68552162764507%2C8.671120860194037\&z=2).&#x20;
+Click here to view the [interactive map](https://www.google.com/maps/d/u/0/viewer?mid=1Cti5GyLESLXmHSTWKAQ_ZDOqOat9tRLG\&hl=en\&ll=25.68552162764507%2C8.671120860194037\&z=2).&#x20;
