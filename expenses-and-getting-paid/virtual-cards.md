@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Virtual Cards
 
 Virtual cards are an additional benefit offered to collectives through some hosts. Hosts create virtual cards and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. This is particularly useful for covering recurring costs like hosting a website.
