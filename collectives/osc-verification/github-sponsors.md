@@ -1,7 +1,7 @@
 # Setting up GitHub Sponsors
 
 {% hint style="warning" %}
-If you are hosted by Open Source Collective and would like to connect GitHub Sponsors, [please see this guide](https://docs.oscollective.org/getting-started/github-sponsors).&#x20;
+If you are hosted by Open Source Collective and would like to connect GitHub Sponsors, [please see this guide](https://docs.oscollective.org/campaigns-and-partnerships/github-sponsors).&#x20;
 
 To confirm that your Collective has a fiscal host, and the fiscal host is **Open Source Collective**, see this on your Collective's home page:
 
