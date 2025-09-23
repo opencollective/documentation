@@ -181,6 +181,8 @@
 
 * [Contributing](development/contributing.md)
 * [API](development/api.md)
+* [OAuth](development/oauth.md)
+* [Personel Tokens](development/personel-tokens.md)
 
 ## Our Organization
 
