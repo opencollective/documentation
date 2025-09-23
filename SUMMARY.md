@@ -156,6 +156,7 @@
   * [Handling Payment Errors Through Wise](fiscal-hosts/expense-payment/handling-payment-errors-through-wise.md)
   * [Paying Expenses with PayPal](fiscal-hosts/expense-payment/paying-expenses-with-paypal.md)
 * [Chart of Accounts](fiscal-hosts/chart-of-accounts.md)
+* [Bank Account Synchronization](fiscal-hosts/bank-account-synchronization.md)
 * [Virtual Cards](fiscal-hosts/virtual-cards.md)
 * [Processing Refunds](fiscal-hosts/processing-refunds.md)
 * [Platform Settlements](fiscal-hosts/platform-settlements.md)
