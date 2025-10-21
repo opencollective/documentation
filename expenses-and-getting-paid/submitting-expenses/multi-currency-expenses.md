@@ -22,7 +22,3 @@ When making a payment you will receive the full amount in the currency you selec
 
 * We rely on the payout provider (Wise, PayPal) whenever possible
 * Otherwise, we fall back on internal caching and third-party APIs, mostly[ https://fixer.io](https://fixer.io/)
-
-{% hint style="warning" %}
-This feature is not available when the Fiscal Host currency differs from the Collective currency.
-{% endhint %}
