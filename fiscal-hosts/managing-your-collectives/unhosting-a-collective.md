@@ -37,3 +37,13 @@ To unhost a Collective that is moving to a new host, follow these steps:
 3. The Collective admin then applies to the new Fiscal Host
 4. Once they are added, the new host will use the "[Add Funds](../receiving-money/adding-funds-manually.md)" option to move the "donated" amount to the new bank account
 {% endhint %}
+
+#### When a collective wants become an Independent Collective:
+
+There are situations where a collective may want to manage its own bank account and thus becoming an independent collective makes sense. In this case, please follow the steps below.&#x20;
+
+1. Create a Vendor for the balance transfer. You may name the Vendor as "Balance Transfer - Agora" where "Agora" is the collective name. You can leave the payout method of the vendor blank.&#x20;
+2. Submit an expense to the collective with the payee as the Vendor created above. The expense amount is the balance of the collective.&#x20;
+3. Send the balance to the collective bank account.
+4. Un-host the collective once the expense created is approved and marked as paid.&#x20;
+5. Once the collective becomes and independent collective they can create an Added Fund to reflect the balance.&#x20;
