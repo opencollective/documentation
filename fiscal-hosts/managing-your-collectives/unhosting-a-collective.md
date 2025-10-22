@@ -38,7 +38,7 @@ To unhost a Collective that is moving to a new host, follow these steps:
 4. Once they are added, the new host will use the "[Add Funds](../receiving-money/adding-funds-manually.md)" option to move the "donated" amount to the new bank account
 {% endhint %}
 
-#### When a collective wants become an Independent Collective:
+#### When a collective wants to become an Independent Collective:
 
 There are situations where a collective may want to manage its own bank account and thus becoming an independent collective makes sense. In this case, please follow the steps below.&#x20;
 
