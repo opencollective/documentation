@@ -1,7 +1,7 @@
 ---
 description: >-
-  Follow this guide to learn how to submit an expense to a Collective on Open
-  Collective
+  Follow this guide to learn how to submit an expense to an Organization or
+  Collective on Open Collective
 icon: circle-dollar
 ---
 
@@ -13,9 +13,9 @@ You can submit an expense by either [finding the Organization or Collective's pa
 
 Or by navigating to your personal Dashboard > Expenses > New Expense in the top right hand corner.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-10-28 at 5.30.03 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-10-28 at 5.30.03 PM.png" alt="Screenshot of your personal dashboard, expenses page. Highlighting the new expense button"><figcaption><p><sub>Screenshot of your personal dashboard, expenses page. Highlighting the new expense button</sub></p></figcaption></figure>
 
-This will take you to a page where you can choose your expense type, fill in your details, and add information that will enable the Collective and Fiscal Host to approve and pay your expense. On this page, you can also check the Collective’s balance, review their expense policy and frequently asked questions.&#x20;
+This will take you to a page where you can choose your expense type, fill in your details, and add information that will enable the Collective and Fiscal Host to approve and pay your expense. On this page, you can also check the Collective’s balance and review their expense policies.&#x20;
 
 {% hint style="danger" %}
 Expenses cannot be paid if there are insufficient funds in the Collective balance. They must be either less than or equal to the amount of funds you already have.
@@ -41,7 +41,7 @@ You will initially be asked to specify who will be paying this expense. This wil
 
 ## Select Payee information
 
-You will now be asked to specify who will be paid for this expense, where the money should be sent and fill in any other required information to enable the expense to be paid.&#x20;
+You will now be asked to specify who will be paid for this expense.&#x20;
 
 You will be asked:
 
@@ -52,6 +52,8 @@ You will need to [set up an Open Collective account](../../getting-started/setti
 {% endhint %}
 
 ## Choose a payout method
+
+We then need to know where the money should be sent and fill in any other required information to enable the expense to be paid.&#x20;
 
 We currently offer the option to be paid by bank account or PayPal. When filling in your details you will be asked for:&#x20;
 
