@@ -11,15 +11,13 @@ At Open Collective, we aim to make submitting expenses simple and transparent.
 
 Our open approach to budgeting means that you can follow your expenses from the moment you submit them.&#x20;
 
-You can expense for work completed, or ask to be reimbursed for a purchase. Your expense will be publicly visible, but we will not display details such as your bank details or address. You can also use a display name of your choice if you do not wish your legal name to be publicly visible on the platform.
+You can [invoice](submitting-expenses/) for work completed, or [ask to be reimbursed](submitting-expenses/submitting-a-reimbursement.md) for a purchase. Your expense will be publicly visible, but we will not display details such as your bank details or address. You can also use a [display name](https://documentation.opencollective.com/getting-started/setting-up-your-account#your-display-and-legal-names) of your choice if you do not wish your legal name to be publicly visible on the platform.
 
 Your expense will need to be approved by both the Collective and their Fiscal Host before it is paid. So remember to provide complete and accurate information to ensure they can do this as efficiently as possible.
 
 {% hint style="info" %}
 This section is designed to help expense submitters get paid on Open Collective. Follow the hyperlinks embedded here to learn about how our payment process works and how to track the progress of your expense.
 {% endhint %}
-
-
 
 ### Find out more
 
