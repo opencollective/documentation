@@ -11,15 +11,15 @@ Sometimes you may need to edit or delete an expense after you have submitted it.
 
 This may be because:
 
-* You have discovered an error and need to correct it
-* You have been asked to change your expense or supply more information by a Collective or Fiscal Host admin
-* You wish to delete your expense&#x20;
+* You have discovered a mistake and need to correct it.
+* You have been asked to change your expense or supply more information by a Collective or Fiscal Host admin.
+* You wish to delete your expense.&#x20;
 
 ## **Changing your expense details**
 
-If you need to change the information on your expense, first make sure you are logged in, then navigate to the “expenses” area on your Dashboard, the budget section on the Collective which you submitted the expense to or on your profile page.\
+If you need to change the information on your expense, first make sure you are logged in, then navigate to either the “expenses” area on your Personal Dashboard, the budget section on the Collective which you submitted the expense or to your profile page.\
 \
-Then find the "More Actions" option at the bottom of the page, and select "Edit Expense".
+Locate the desired expense and click on the title to open the dedicated expense page. You will then see edit icons on the various expense components.&#x20;
 
 {% hint style="success" %}
 Quick tip to see all of your submitted expenses on Open Collective add /submitted-expenses behind your profile URL:&#x20;
@@ -37,7 +37,7 @@ For example, if a Fiscal Host admin contacts you to ask for changes or additiona
 
 If a Collective or Fiscal Host admin has a question about your expense, they may choose to send you a comment.
 
-These comments are only visible to the expense submitter and the admins, as they may contain private information.
+These comments are only visible to the expense submitter and the Collective and Fiscal Host admins, as they may contain private information.
 
 Expense comments can be used for a variety of reasons, including:
 
@@ -58,9 +58,10 @@ If an admin does not receive the information required, the invoice may remain "i
 
 If you have submitted an expense to a Collective, and no longer wish to do so, you can choose to delete it by:
 
-1. Ensuring you are logged in
-2. Finding your expense in your recent activity or on the Collective's budget page
-3. Selecting "Edit Expense"
-4. Selecting "Delete"
+1. Ensure you are logged in.&#x20;
+2. Finding your expense in your Personal Dashboard or on the Collective's budget page.
+3. Click on the Expense Title to open the dedicated expense page.&#x20;
+4. Finding the 'More actions' button in the bottom left hand corner.&#x20;
+5. Selecting "Delete"
 
-This will delete the expense from the Collective and it will not be processed.
+This will delete the expense and it will not be processed.
