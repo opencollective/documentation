@@ -1,21 +1,21 @@
 ---
 description: >-
   If you have already made a purchase and want to get paid back, you can submit
-  a reimbursement to a Collective
+  a reimbursement to a Organization or Collective
 icon: receipt
 ---
 
 # Submitting a Reimbursement
 
-We offer the option to submit a reimbursement to a Collective. This applies when you have already bought something or spent money and want to be paid back.
+We offer the option to submit a reimbursement to an Organization or Collective. This applies when you have already bought something and want to be paid back.
 
 {% hint style="warning" %}
-To avoid disappointment, we advise that you get confirmation in advance from the Collective on whether they are willing to pay you back for a purchase.
+To avoid disappointment, we advise that you get confirmation in advance from the Organization or Collective on whether they are willing to pay you back for a purchase.
 
 Different Collectives have different policies on what they are willing to reimburse, including travel expenses, meals, equipment, and so on. This may be outlined in their expense policy, but we recommend talking to them directly.
 {% endhint %}
 
-The process for submitting a reimbursement is similar to [submitting an invoice](./). You select which of your profiles you want to be paid, add bank details, and add information about the expense, including the public expense title.
+The process for submitting a reimbursement is similar to [submitting an invoice](./). You select who is paying, who is getting paid, add your bank details, and any other information about the expense, including the public expense title.
 
 The main difference is that you will also be asked to submit a receipt for each reimbursement.
 
