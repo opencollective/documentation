@@ -29,9 +29,7 @@ Expenses will not be paid without a valid receipt including:
 * The form of payment you used (i.e. cash, check, or the last four digits of your card)
 {% endhint %}
 
-You should upload the receipt in the box provided or select it from your computer.
-
-Some Fiscal Hosts use automated AI tools to assist with processing receipts which may automatically insert receipt details into the form. You should check if this information is clear and accurate before going to the next stage.\
+You should upload the receipt in the box provided or select it from your computer.\
 \
 We recommend filling in the description of the expense and including information that you think is relevant to help the admins process it.\
 \
