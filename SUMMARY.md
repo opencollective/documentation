@@ -113,7 +113,6 @@
 * [Expenses and Getting Paid](expenses-and-getting-paid/expenses-and-getting-paid.md)
 * [Submitting Expenses](expenses-and-getting-paid/submitting-expenses/README.md)
   * [Submitting a Reimbursement](expenses-and-getting-paid/submitting-expenses/submitting-a-reimbursement.md)
-  * [Beta Expense Submission Flow](expenses-and-getting-paid/submitting-expenses/beta-expense-submission-flow.md)
   * [Recurring Expenses](expenses-and-getting-paid/submitting-expenses/recurring-expenses.md)
   * [Multi-Currency Expenses](expenses-and-getting-paid/submitting-expenses/multi-currency-expenses.md)
 * [Editing an Expense](expenses-and-getting-paid/editing-an-expense.md)
