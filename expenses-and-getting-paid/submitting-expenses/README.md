@@ -112,11 +112,11 @@ You can add multiple invoices by clicking the "Add New Item" option next to the 
 
 Check that the "Total Amount" you are invoicing is correct to avoid confusion.
 
-## Expense Title&#x20;
+## Additional Details&#x20;
 
 You can then adjust your **expense title**. In most cases the expense title will be very similar to your expense item description, so to save you the time we've copied it here and allowed it to be edited. Remember this will be displayed publicly, so do not include any information you want to remain private.
 
-You can also add a private note, which will only be seen by the Fiscal Host admins. This enables you to provide information that will help them to approve your expense.
+You can also add a **private note**, which will only be seen by the Fiscal Host admins. This enables you to provide information that will help them to approve your expense.
 
 ## Review your expense
 
