@@ -5,7 +5,7 @@ icon: scale-balanced
 
 # Our Community Guidelines
 
-Open Collective supports initiatives that make a positive impact on the world. To accomplish this, the Open Collective community must be a welcoming and safe environment for many different kinds of people and activities, while living our values.&#x20;
+Open Collective supports initiatives that make a positive impact on the world. To accomplish this, the Open Collective community must be a welcoming and safe environment for many different kinds of people and activities, while living [our values](our-community-guidelines.md#docs-internal-guid-0863550b-7fff-2761-8190-f7326b1ade2f).&#x20;
 
 In addition to following the [Terms of Service](https://opencollective.com/tos) (which all platform users agree to, and which reference these guidelines), community participants are expected to act in accordance with these Community Guidelines, including all Collectives, Hosts, Organizations, Supporters, Contributors, Sponsors, and other users and community participants, as well as Open Collective staff. These guidelines apply not only within the confines of the platform, but throughout all the Open Collective community’s online and offline spaces.
 
