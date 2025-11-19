@@ -72,7 +72,7 @@ Transparency is a huge part of the Open Collective community and a deeply held v
 
 We define transparency as authentic and accessible openness, clarity, and visibility, free from deceit. Those who seek to scam or defraud will take advantage of the lack of transparency where they can, especially when money is involved. By managing money transparently on the Open Collective platform, we enable accountability, equity, and participation in our communities and ensure trust.
 
-Open Collective community participants are ready, willing, and able to share their work and intentions. The Open Collective team strives to be reachable and welcoming, including via [our public Slack](http://slack.opencollective.com), [GitHub issues](https://github.com/opencollective/opencollective/issues), and [email](https://opencollective.com/support). Open Collective developers work [transparently](https://github.com/opencollective/) on the platform’s [open source](https://github.com/opencollective/opencollective-api/blob/main/LICENSE) code. The company’s [budget](https://opencollective.com/opencollective) is public, we are open about its [future plans](http://opencollective.com/e2c), and we transparently share regular investor updates [on the blog](https://blog.opencollective.com).
+Open Collective community participants are ready, willing, and able to share their work and intentions. The Open Collective team strives to be reachable and welcoming, including via our [Discord](https://discord.opencollective.com/), [GitHub issues](https://github.com/opencollective/opencollective/issues), and [email](https://opencollective.com/support). Open Collective developers work [transparently](https://github.com/opencollective/) on the platform’s [open source](https://github.com/opencollective/opencollective-api/blob/main/LICENSE) code. The company’s [budget](https://opencollective.com/ofico) is public, we are open about its future plans, and we share regular [updates](https://opencollective.com/ofico/updates).
 
 ### Privacy
 
@@ -183,16 +183,16 @@ As we build out our enforcement processes, we will try to be as open as possible
 
 Admins have the ability to moderate their communities using certain tools:
 
-* Setting an [expense policy](https://docs.opencollective.com/help/collectives/collective-settings/expense-policy)
-* [Rejecting specific financial contributions](https://docs.opencollective.com/help/collectives/moderation#rejecting-financial-contributions) and/or [categories of financial contributors](https://docs.opencollective.com/help/collectives/moderation#rejecting-categories-of-financial-contributors)
-* Marking expenses as spam
-* [Deleting conversations and conversation comments](https://docs.opencollective.com/help/collectives/conversations#moderation)
+* Setting an [expense policy](https://documentation.opencollective.com/collectives/spending-money#expense-policy)
+* [Rejecting specific financial contributions](https://documentation.opencollective.com/collectives/raising-money/rejecting-and-refunding-financial-contributions) and/or [categories of financial contributors](https://documentation.opencollective.com/collectives/raising-money/rejecting-and-refunding-financial-contributions#rejecting-categories-of-financial-contributor)
+* [Marking expenses as spam](https://documentation.opencollective.com/collectives/spending-money#marking-the-expense-as-spam)
+* [Deleting conversations and conversation comments](https://documentation.opencollective.com/advanced/keeping-your-community-updated/conversations#moderation)
 * Deleting expense comments
 * Deleting Update comments
-* Removing other admins
+* [Removing other admins](https://documentation.opencollective.com/getting-started/adding-and-removing-team-members#editing-and-removing-team-members)
 * Creating their own community guidelines (which may augment, but not supersede, these guidelines)
 
-Fiscal Hosts can reject applications from Collectives that don’t align with their mission or principles, apply their policies when paying out expenses, and freeze Collectives while investigating potential issues.
+Fiscal Hosts can [reject applications ](https://documentation.opencollective.com/fiscal-hosts/managing-your-collectives/collective-applications)from Collectives that don’t align with their mission or principles, apply their policies when paying out expenses, and [freeze Collectives](https://documentation.opencollective.com/fiscal-hosts/managing-your-collectives/freezing-a-collective#freeze-a-collective) while investigating potential issues.
 
 Moderators should communicate reasons for moderation decisions when appropriate.
 
