@@ -1,5 +1,6 @@
 ---
 description: How we moderate the Open Collective platform and its communities.
+icon: scale-balanced
 ---
 
 # Our Community Guidelines
