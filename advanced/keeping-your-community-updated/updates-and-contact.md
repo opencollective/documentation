@@ -44,8 +44,7 @@ If you want to send updates directly through email, address your email to:\
 \
 backers@COLLECTIVE\_SLUG.opencollective.com\
 \
-You need to replace `COLLECTIVE_SLUG` with the handle of your Collective which you set on your profile info (For example, backers@webpack.opencollective.com)\
-
+You need to replace `COLLECTIVE_SLUG` with the handle of your Collective which you set on your profile info (For example, backers@webpack.opencollective.com)<br>
 {% endhint %}
 
 Do you want to contact your contributors in a different way? Learn how to export a list of your contributors emails in the [exporting your data section](../exporting-your-data.md). &#x20;

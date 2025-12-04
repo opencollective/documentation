@@ -1,19 +1,19 @@
 ---
 description: >-
-  Read on to learn how Open Collective empowers Independent Collective admins to
-  manage incoming and outgoing funds.
+  Read on to learn how Open Collective empowers Organizations admins to manage
+  incoming and outgoing funds.
 icon: sack-dollar
 ---
 
-# Managing Independent Collective Finances
+# Managing Organization Finances
 
-There are some workflows you need to be familiar with to enable the operations of your Independent Collective. As you are in control of and responsible for the back office admin, it's up to you to process money coming in and out.
+There are some workflows you need to be familiar with to enable the operations of your Organization. As you are in control of and responsible for the back office admin, it's up to you to process money coming in and out.
 
 
 
 ## Receiving Money&#x20;
 
-To enable people to contribute to your Independent Collective, you need to set up ways that they can pay you. Learn more about this in the [Receiving Money](../fiscal-hosts/receiving-money/) section.&#x20;
+To enable people to contribute to your Organization, you need to set up ways that they can pay you. Learn more about this in the [Receiving Money](../fiscal-hosts/receiving-money/) section.&#x20;
 
 ## Sending Money&#x20;
 

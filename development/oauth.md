@@ -14,8 +14,7 @@ OpenCollective implements the standard OAuth 2.0 [Authorization Code Grant Flow]
 
 
 1. Go to `https://opencollective.com/{account}/admin/for-developers` (replace `{account}` by the slug of the account you want to use as the owner of the app)
-2. Click on `+ Create OAuth app` and fill in the required information\
-
+2. Click on `+ Create OAuth app` and fill in the required information<br>
 3. On the success page, copy the client ID and secret for later use
 
 

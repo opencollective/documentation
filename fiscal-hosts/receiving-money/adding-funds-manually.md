@@ -12,8 +12,7 @@ You can manually add funds to a Collective. This is useful when you have receive
 
 1. Navigate to your Fiscal Host Dashboard > Collectives > Hosted Collectives
 2. Use the search bar to find the Collective you want to add funds to
-3. Click on the three dots > Add funds \
-
+3. Click on the three dots > Add funds <br>
 
 Fill the form with all required information to add the funds to that Collective with the following information:
 

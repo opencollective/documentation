@@ -40,7 +40,7 @@ A number of different groups use the Fiscal Hosting model to achieve their goals
 * Foundations that want to give grants to unincorporated projects
 
 {% hint style="info" %}
-A Fiscal Host is set up to manage multiple Collectives. These capabilities are reflected in the tools we have built for Fiscal Host management. If you want to manage a singular Collective, we advise creating an [Independent Collective](broken-reference) to do this.  This will provide a more streamlined experience.&#x20;
+A Fiscal Host is set up to manage multiple Collectives. These capabilities are reflected in the tools we have built for Fiscal Host management. If you want to manage a singular Collective, we advise creating an [Independent Collective](/broken/pages/pq8pncIKdGKWl7rQ1tKe) to do this.  This will provide a more streamlined experience.&#x20;
 {% endhint %}
 
 Some Fiscal Hosts may apply for charitable status to be eligible for tax-exemptions and/or grant funding. However, we recommend researching what is available in your location, and whether it matches your goals and mission.

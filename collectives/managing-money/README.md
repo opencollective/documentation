@@ -29,6 +29,5 @@ Show your balance, recent transactions and approximate annual budget, or your co
 Use projects to allocate project-specific funds.\
 \
 [**Tagging** ](tagging-expenses.md)\
-Use tags to categorize and organize expenses. \
-
+Use tags to categorize and organize expenses. <br>
 

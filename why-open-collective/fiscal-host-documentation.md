@@ -4,14 +4,12 @@ icon: book-open
 
 # Fiscal Host Documentation
 
-Before you dive into the wild world of Open Collective, we wanted to make sure you're in the right place! \
-
+Before you dive into the wild world of Open Collective, we wanted to make sure you're in the right place! <br>
 
 The Open Collective Documentation is our primary documentation, enabling our users to use the Open Collective platform successfully.
 
 \
-We encourage our[ Fiscal Hosts](https://opencollective.com/hosts) to link to our main documentation for basic tutorials on using Open Collective. We also aim to link to our Fiscal Hosts' documentation in specific areas to provide further information when needed.\
-
+We encourage our[ Fiscal Hosts](https://opencollective.com/hosts) to link to our main documentation for basic tutorials on using Open Collective. We also aim to link to our Fiscal Hosts' documentation in specific areas to provide further information when needed.<br>
 
 If you want more specific Fiscal Host Documentation, please visit the links below.
 
@@ -25,4 +23,4 @@ If you want more specific Fiscal Host Documentation, please visit the links belo
 
 \
 \
-Fiscal Hosts, if you would like your Documentation linked here, please[ get in touch](https://opencollective.com/contact).\
+Fiscal Hosts, if you would like your Documentation linked here, please[ get in touch](https://opencollective.com/contact).<br>

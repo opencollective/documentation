@@ -19,4 +19,4 @@ Information on how to enable this feature is in the [Security for Accounts](../.
 
 Admins will be asked to authenticate with 2FA authentication when they make their first payment and again once they’ve hit the rolling limit.
 
-\
+<br>

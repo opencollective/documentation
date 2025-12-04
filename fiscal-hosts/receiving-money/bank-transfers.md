@@ -23,4 +23,4 @@ This transaction shows up in the Expected Funds section in your Dashboard. It sh
 
 Once the money has been received in the Host's bank account, an admin of the Host will be able to match the transactions, mark as completed and the funds will be added to the collective's budget and the contributor will automatically receive a receipt by email.&#x20;
 
-If a pending transfer is cancelled, click ‘Mark as expired” to remove it from the expected funds list. Otherwise it will automatically expire after two months. \
+If a pending transfer is cancelled, click ‘Mark as expired” to remove it from the expected funds list. Otherwise it will automatically expire after two months. <br>

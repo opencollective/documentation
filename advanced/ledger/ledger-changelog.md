@@ -8,8 +8,7 @@ description: >-
 
 ## January 2024: Separate payment processor fees and taxes&#x20;
 
-_From January 2024 payment processor fees and taxes were separated from the transaction record in the ledger._ \
-
+_From January 2024 payment processor fees and taxes were separated from the transaction record in the ledger._ <br>
 
 Over the last couple of years, we’ve received feedback from Fiscal Hosts and accountants that has prompted us to make a change to the ledger to make it more consistent and future-proof. We’ve modified the ledger so that payment processor fees and taxes are recorded as separate transactions.&#x20;
 

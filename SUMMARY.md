@@ -166,15 +166,17 @@
 * [Certified Member](fiscal-hosts/certified-member.md)
 * [Closing a Fiscal Host](fiscal-hosts/closing-a-fiscal-host.md)
 
+## ORGANIZATIONS
+
+* [Organizations](organizations/organizations.md)
+* [Creating an Organization](organizations/creating-an-organization/README.md)
+  * [Launching an Organization](organizations/creating-an-organization/launching-an-organization.md)
+  * [Migrating from Fiscal Host to an Organization](organizations/creating-an-organization/migrating-from-fiscal-host-to-an-organization.md)
+* [Managing Organization Finances](organizations/managing-organization-finances.md)
+
 ## INDEPENDENT COLLECTIVES
 
-* [Independent Collectives](independent-collectives/independent-collectives.md)
-* [Creating an Independent Collective](independent-collectives/creating-an-independent-collective/README.md)
-  * [Launching an Independent Collective](independent-collectives/creating-an-independent-collective/launching-an-independent-collective.md)
-  * [Migrating from Fiscal Host to Independent Collective](independent-collectives/creating-an-independent-collective/migrating-from-fiscal-host-to-independent-collective.md)
-  * [Migrating from Self-Hosted to Independent Collective](independent-collectives/creating-an-independent-collective/migrating-from-self-hosted-to-independent-collective.md)
-* [Managing Independent Collective Finances](independent-collectives/managing-independent-collective-finances.md)
-* [Closing an Independent Collective](independent-collectives/closing-an-independent-collective.md)
+* [(Deprecated) Independent Collectives](independent-collectives/deprecated-independent-collectives.md)
 
 ## Development
 

@@ -22,8 +22,7 @@ If a Collective is frozen, it cannot:
 * Accept contributions
 * Post updates
 * Create new Events or Projects
-* Add or remove new team members\
-
+* Add or remove new team members<br>
 
 However, any recurring contributions that were set up before the freeze will continue to be paid as normal.
 {% endhint %}

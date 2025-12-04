@@ -38,8 +38,7 @@ You can also set the date that they joined the Open Collective page.&#x20;
 Once you click “save”, the selected team member will receive an invitation to accept or sign up for Open Collective. They will not be listed publicly until they accept and will be shown as “pending” on your team view.
 
 {% hint style="info" %}
-**If your team member does not receive an invitation…**\
-
+**If your team member does not receive an invitation…**<br>
 
 First, ask them to search for the words “invitation to join” in their inbox, and then check their spam folder.
 
@@ -52,4 +51,4 @@ If you are still not successful, please [reach out to our team](https://opencoll
 
 If you wish to change any team member’s details or level of access, you should click the “pencil icon” button to the top right of their profile picture.
 
-This will also give you the option to remove them if required.\
+This will also give you the option to remove them if required.<br>

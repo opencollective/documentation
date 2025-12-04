@@ -58,8 +58,7 @@ You can choose a payment method while completing a transaction (such as giving t
 
 We use global payment provider Stripe to process your transactions, and do not store any credit card numbers ourselves. This is to ensure your details are as secure as possible.
 
-To learn more about setting up payment methods on the platform, visit our [Payment Methods](../giving-to-collectives/payment-methods.md) page.\
-
+To learn more about setting up payment methods on the platform, visit our [Payment Methods](../giving-to-collectives/payment-methods.md) page.<br>
 
 ## Changing your email address
 

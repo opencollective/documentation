@@ -13,7 +13,7 @@ Open Collective is a platform that makes it possible to do things differently. S
 
 **Simple to get started**
 
-Whether you’re starting a Collective, running a Fiscal Host, or contributing to a project, we make [getting started](broken-reference) as simple as possible.
+Whether you’re starting a Collective, running a Fiscal Host, or contributing to a project, we make [getting started](/broken/pages/7LmdztyTTIsDwKZZvNv2) as simple as possible.
 
 On Open Collective, [Collectives ](../collectives/collectives.md)can focus on their mission without worrying about legal incorporation, taxes, or administration. [Fiscal Hosts](../fiscal-hosts/fiscal-hosts.md) can manage Collectives with our suite of easy-to-use administrative tools. Contributors can offer help or money safely and securely.
 

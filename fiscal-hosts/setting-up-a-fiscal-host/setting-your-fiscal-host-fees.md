@@ -51,6 +51,5 @@ Each month, you will receive a host report, which includes the amount that you h
 
 Some hosts choose to move these fees to their own Collective for extra transparency.&#x20;
 
-To do this, [create a Collective](../../collectives/creating-a-collective/) under your host and add the fees to it manually every month.\
-
+To do this, [create a Collective](../../collectives/creating-a-collective/) under your host and add the fees to it manually every month.<br>
 

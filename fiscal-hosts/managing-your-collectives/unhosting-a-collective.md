@@ -33,7 +33,7 @@ If the Collective is changing hosts, it can also transfer the money to the new F
 
 #### When a collective wants to become an Independent Collective:
 
-There are situations where a collective may want to manage its own legal status and bank account and thus become an [independent collective](broken-reference). In this case, please follow the steps below:&#x20;
+There are situations where a collective may want to manage its own legal status and bank account and thus become an [independent collective](/broken/pages/pq8pncIKdGKWl7rQ1tKe). In this case, please follow the steps below:&#x20;
 
 1. Create a [Vendor](vendors.md) for the balance transfer. You may name the Vendor as "Balance Transfer - Agora" where "Agora" is the collective name. You will need to include the collectives new bank account information.&#x20;
 2. Submit an expense to the collective with the payee as the Vendor "Balance Transfer - Agora". The expense amount should be the full balance of the collective.&#x20;

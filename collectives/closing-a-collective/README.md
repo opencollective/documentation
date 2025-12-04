@@ -12,7 +12,7 @@ Collectives with any recorded transactions can only be archived, not deleted.&#x
 Before closing your Collective, you will need to [zero the Collective’s balance](zero-collective-balance.md) (including any Projects or Events). You will also need to ensure that any outstanding expenses are paid. See our documentation on [Spending Money](../spending-money/) for more information.
 
 * [Submitting expenses to withdraw funds](../../expenses-and-getting-paid/submitting-expenses/)
-* [Donating to another Collective in the same Fiscal Host](broken-reference)
+* [Donating to another Collective in the same Fiscal Host](/broken/pages/gfK4j9hn1FXCfCQSQR40)
 * [Transferring the remaining balance to your new Fiscal Host](../changing-fiscal-host.md)
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt="Screenshot of the Collective&#x27;s Advanced Settings showing &#x22;Archive&#x22; and &#x22;Delete&#x22; options."><figcaption><p>Screenshot of the Collective's Advanced Settings showing "Archive" and "Delete" options.</p></figcaption></figure>

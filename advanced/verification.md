@@ -23,7 +23,6 @@ We are unable to verify Collectives at this moment. This is something we are hop
 
 1. **Reach out to Support:** Contact our support team and let us know you'd like to request verification.
 2. **Email Domain Match**: Please ensure you email us from your organization’s official domain, which matches your official website, so that we can verify the match.&#x20;
-3. **Badge Applied**: The badge will automatically appear on your individual or organization’s profile once verified.\
-
+3. **Badge Applied**: The badge will automatically appear on your individual or organization’s profile once verified.<br>
 
 There’s no verification cost,  just a simple way to build trust across the platform.

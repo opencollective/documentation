@@ -77,7 +77,7 @@ Before connecting an account or joining a fiscal host, you’ll be able to creat
 You can choose not to select a host or connect a bank account. This means that you will not be able to receive or spend money on the platform.
 
 **Independent Collective**\
-This allows you to set up as a Collective using your collective's bank account to hold your funds. This means that you do not have to pay fees or follow the policies of any host. But you will be solely responsible for your accounting, taxes, payments and liability. [Find out more about being an 'Independent Collective'](broken-reference)
+This allows you to set up as a Collective using your collective's bank account to hold your funds. This means that you do not have to pay fees or follow the policies of any host. But you will be solely responsible for your accounting, taxes, payments and liability. [Find out more about being an 'Independent Collective'](/broken/pages/pq8pncIKdGKWl7rQ1tKe)
 
 **Our Own Fiscal Host**\
 You can choose to set up your own Fiscal Host to manage the money, legal status and tax accounts of other collectives.&#x20;

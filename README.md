@@ -23,8 +23,7 @@ Through our platform, Open Collective allows any community to collect, manage, a
 \
 Open Collective also provides access to a network of "Fiscal Hosts".  Fiscal Hosts hold your money in their bank account and handle taxes, accounting, and other financial administration. They also enable you to collect and spend money without needing to form a formal legal entity.\
 \
-[**Support a project**\
-](https://opencollective.com/search)Open Collective is also the place to discover other collectives, support their work, and engage with the community through updates, conversations, and events.&#x20;
+[**Support a project**<br>](https://opencollective.com/search)Open Collective is also the place to discover other collectives, support their work, and engage with the community through updates, conversations, and events.&#x20;
 
 {% hint style="info" %}
 Thousands of groups use Open Collective; find a collective to support with our [Discover Tool](https://discover.opencollective.com/).&#x20;
@@ -34,7 +33,7 @@ Thousands of groups use Open Collective; find a collective to support with our [
 
 Know what you’re looking for? Jump to a section to get started:
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference"><strong>Build a Collective</strong></a></td><td>Find out how to set up your public profile, add your team, and manage your budget.</td></tr><tr><td><a href="broken-reference"><strong>Give to a Collective</strong></a></td><td>Discover collectives around the world, help them grow, and spread the word</td></tr><tr><td><a href="broken-reference"><strong>Get Your Expenses Paid</strong></a></td><td>Submit and track expenses on the platform.</td></tr><tr><td><a href="broken-reference"><strong>Become a Fiscal Host</strong></a></td><td>Learn more about Fiscal Hosting, and how to manage admin and finances.</td></tr><tr><td><a href="broken-reference"><strong>Learn about Open Collective</strong></a></td><td>Find out more about Open Collective, our mission, our team and our investors.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="/broken/pages/ZgN7CmsSKrp0pSAO0Bee"><strong>Build a Collective</strong></a></td><td>Find out how to set up your public profile, add your team, and manage your budget.</td></tr><tr><td><a href="/broken/pages/gfK4j9hn1FXCfCQSQR40"><strong>Give to a Collective</strong></a></td><td>Discover collectives around the world, help them grow, and spread the word</td></tr><tr><td><a href="/broken/pages/1Jgx7U3uFL9aISk7Ua90"><strong>Get Your Expenses Paid</strong></a></td><td>Submit and track expenses on the platform.</td></tr><tr><td><a href="/broken/pages/TKLFRFnSs26a2ViaJsbJ"><strong>Become a Fiscal Host</strong></a></td><td>Learn more about Fiscal Hosting, and how to manage admin and finances.</td></tr><tr><td><a href="/broken/pages/ERp1Jk4pDzfgax28X0Zt"><strong>Learn about Open Collective</strong></a></td><td>Find out more about Open Collective, our mission, our team and our investors.</td></tr></tbody></table>
 
 
 
@@ -44,4 +43,4 @@ You can find a particular page in the docs by browsing the left-hand sidebar. Yo
 
 ### Haven't found what you're looking for?
 
-If you still can’t find an answer to your question, you can [contact our support team](https://opencollective.com/contact) or join our [Discord Community Space](https://discord.gg/bv36mu5Z) and let us know.\
+If you still can’t find an answer to your question, you can [contact our support team](https://opencollective.com/contact) or join our [Discord Community Space](https://discord.gg/bv36mu5Z) and let us know.<br>

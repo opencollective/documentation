@@ -29,7 +29,7 @@ There’s no verification process for this option, so you’re ready to take the
 
 Open Collective provides several options to help you set up your team, manage security, and add policies and details that help you make your purpose clear.&#x20;
 
-In order to receive money or pay out expenses, you need a [Fiscal Host](broken-reference) or you need to be set up as an [Independent Collective](broken-reference).
+In order to receive money or pay out expenses, you need a [Fiscal Host](/broken/pages/TKLFRFnSs26a2ViaJsbJ) or you need to be set up as an [Independent Collective](/broken/pages/pq8pncIKdGKWl7rQ1tKe).
 
 Whether you have a Fiscal Host yet or not, here are some steps you can take to get your Collective started.
 
@@ -37,7 +37,7 @@ Customizing your collective can help attract potential collaborators and raise f
 
 
 
-[**Fill in your information**](broken-reference)
+[**Fill in your information**](/broken/pages/7LmdztyTTIsDwKZZvNv2)
 
 Complete your basic details, including your name, location, and currency.
 
@@ -74,4 +74,4 @@ Submit expenses through your collective, so others can see where money will be s
 If you would prefer not to hold money on behalf of your community a Fiscal Host can act as a 'host' for your project.&#x20;
 
 \
-\
+<br>

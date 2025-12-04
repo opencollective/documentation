@@ -31,4 +31,4 @@ Then click on profile switcher, which is located to the left on your dashboard. 
 
 Click on the + button. You can then fill in your details on the "Create Organization" page.
 
-Once your organization is set up, you can toggle between your personal, Collective and/or Organization profiles with the profile switcher.\
+Once your organization is set up, you can toggle between your personal, Collective and/or Organization profiles with the profile switcher.<br>

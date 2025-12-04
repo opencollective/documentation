@@ -8,7 +8,7 @@ icon: hand-holding-circle-dollar
 
 # Platform Tips
 
-When you are making a [contribution to a collective](broken-reference), you will also be asked if you want to add a platform tip. This is totally optional, and the amount can be changed to any amount you wish.
+When you are making a [contribution to a collective](/broken/pages/gfK4j9hn1FXCfCQSQR40), you will also be asked if you want to add a platform tip. This is totally optional, and the amount can be changed to any amount you wish.
 
 #### What is a platform tip?
 

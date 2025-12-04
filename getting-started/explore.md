@@ -27,7 +27,7 @@ Can't find what you're looking for with our [Explore ](explore.md#exploring-coll
 
 Search is always available from the primary navigation. Alternatively, you can hit the `/` key to open a search anywhere on Open Collective. Finally, you can go straight to [https://search.opencollective.com](http://search.opencollective.com)
 
-Our site-wide search allows you to filter by entity type ([Collectives](broken-reference), [Projects](../collectives/managing-money/projects.md), [Events](../collectives/events.md), [Organisations](creating-an-organization.md), etc), country, and tag.
+Our site-wide search allows you to filter by entity type ([Collectives](/broken/pages/ZgN7CmsSKrp0pSAO0Bee), [Projects](../collectives/managing-money/projects.md), [Events](../collectives/events.md), [Organisations](creating-an-organization.md), etc), country, and tag.
 
 {% hint style="info" %}
 If you wish to search for a specific region or city, we recommend using the Explore feature.

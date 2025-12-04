@@ -53,4 +53,4 @@ If the person or group you are inviting does not currently have an Open Collecti
 
 The payee will receive an email inviting them to submit the expense. They will need to confirm or fill in the remaining details, and submit the expense. An Open Collective account will be created for them within this process, or they will be prompted to login.
 
-The expense will be marked as “Unverified” until they have verified their email address.\
+The expense will be marked as “Unverified” until they have verified their email address.<br>

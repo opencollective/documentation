@@ -15,7 +15,7 @@ Here is a list of fees that may apply on our platform:
 
 **Platform Fees**
 
-If you’re starting an [Independent Collective](broken-reference), Open Collective gives you unlimited access to all of our platform's features for fre&#x65;**.** Independent Collectives use their bank account and manage their taxes and admin, and are not supported by a Fiscal Host.\
+If you’re starting an [Independent Collective](/broken/pages/pq8pncIKdGKWl7rQ1tKe), Open Collective gives you unlimited access to all of our platform's features for fre&#x65;**.** Independent Collectives use their bank account and manage their taxes and admin, and are not supported by a Fiscal Host.\
 \
 **Host fees**
 

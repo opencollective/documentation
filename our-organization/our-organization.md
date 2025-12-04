@@ -21,7 +21,7 @@ Our company is committed to openness and transparency. In this section, you can 
 
 You can also check our Press and Media section for logos, media assets, and more information about our mission.
 
-To find out more about how the platform works and whether it’s right for you, go to our [Why Open Collective](broken-reference) page.
+To find out more about how the platform works and whether it’s right for you, go to our [Why Open Collective](/broken/pages/kG4kFYflwwbawls7y4FM) page.
 
 
 

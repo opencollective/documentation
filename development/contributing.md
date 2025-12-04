@@ -10,7 +10,7 @@ icon: codepen
 
 First, thank you for considering contributing to Open Collective! It's people like you that make this such a great community. We welcome any type of contribution, not only code.
 
-Check out our [Roadmap](broken-reference) for the latest priorities.
+Check out our [Roadmap](/broken/pages/-Ls3oHjrEzoS6PjpiYdq) for the latest priorities.
 
 ## **Quality Assurance**
 

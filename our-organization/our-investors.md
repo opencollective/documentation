@@ -21,7 +21,7 @@ Our investors believe in our mission - so they allow us to focus on real impact 
 {% embed url="https://www.youtube.com/watch?t=128s&v=bbtQcW4E_RU" %}
 
 {% hint style="info" %}
-[Discover who’s invested in Open Collective since 2015 here](broken-reference).
+[Discover who’s invested in Open Collective since 2015 here](/broken/pages/hnAGvIPmmNsYL8ComGoC).
 {% endhint %}
 
 ### Investor Updates

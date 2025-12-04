@@ -48,4 +48,4 @@ You will then be asked to submit a payment method. Each Fiscal Host has a differ
 
 #### Leaving a message
 
-To leave an optional message with your contribution, go to the Our Contributors section of the collective’s page. Find your name and write your message in the designated space.\
+To leave an optional message with your contribution, go to the Our Contributors section of the collective’s page. Find your name and write your message in the designated space.<br>

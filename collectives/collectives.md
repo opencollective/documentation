@@ -16,15 +16,13 @@ We help you to build all sorts of initiatives that make a difference. That might
 Establish the backbones for your next meetup group, union, climate activist collective, or political movement.
 
 {% hint style="info" %}
-On Open Collective you can:\
-
+On Open Collective you can:<br>
 
 * Get started without the paperwork&#x20;
 * Raise money and accept contributions without setting up a bank account&#x20;
 * Pay bills and expenses quickly and simply&#x20;
 * Provide transparent budgeting for your community
-* Meet and connect with other collectives.\
-
+* Meet and connect with other collectives.<br>
 
 No need to incorporate, hire a lawyer and accountant, or define organizational roles!
 {% endhint %}
@@ -71,6 +69,6 @@ Let people know what your collective is doing, and build your audience.
 
 Sell tickets and bring your community together.
 
-#### [Connect your social media](broken-reference)
+#### [Connect your social media](/broken/pages/LMMjhgCN8GBWGbcuOQjo)
 
 Show people where to find your social accounts.
