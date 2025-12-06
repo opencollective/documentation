@@ -85,7 +85,7 @@ You can create a Fund by clicking the "Create fund" button in the top right of t
 * Fund Description
 * Profile URL
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="Screen shot of the Create Fund menu."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="Screen shot of the Create Fund menu."><figcaption></figcaption></figure>
 
 ## Manage Funds
 

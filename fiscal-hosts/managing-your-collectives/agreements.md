@@ -11,7 +11,7 @@ Agreements on the Open Collective platform serve as a mechanism for Fiscal Hosts
 
 If a Fiscal Host has added Agreements for a specific Collective, whenever an expense is submitted related to that Collective, the Fiscal Host will receive an indication that there are agreements in place in case they need to be reviewed before the expense is paid.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 When Agreements are added, only admins of the Fiscal Host can see them.&#x20;

@@ -24,10 +24,10 @@ All Fiscal Hosts are encouraged to have a public refund policy. You can add a re
 
 #### Refund a Donation:&#x20;
 
-* Go to the Collective page and navigate to the **Budget** section.&#x20;
-* Click on the Transactions Tab and **View all transactions**.&#x20;
-* Find the transaction you want to refund on the list and click on **View Details**. &#x20;
-* You will find a refund button right next to the transaction details.&#x20;
+* Go to you host dashboard and **Ledger** section.&#x20;
+* Under the **Ledger** section choose the **Transactions** section.&#x20;
+* Find the contribution that you want to refund and click on it to open the drawer on your right hand side.&#x20;
+* You will find a refund button at the top of the drawer along with all the transaction details.&#x20;
 * Click refund and confirm the operation.
 
 {% hint style="info" %}
