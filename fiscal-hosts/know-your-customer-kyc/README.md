@@ -4,6 +4,7 @@ description: >-
   organizations ensure compliance with regulatory requirements. It involves
   verifying the identity and legal information of account
 hidden: true
+icon: user
 ---
 
 # Know Your Customer (KYC)

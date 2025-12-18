@@ -4,6 +4,7 @@ description: >-
   and legal information of an account holder manually. This is useful when the
   automatic verification process fails or when yo
 hidden: true
+icon: building-magnifying-glass
 ---
 
 # Manual KYC
