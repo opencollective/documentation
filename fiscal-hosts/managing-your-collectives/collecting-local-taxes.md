@@ -14,7 +14,7 @@ Please[ contact us](https://opencollective.com/contact) if your hosted Collectiv
 ## VAT
 
 {% hint style="info" %}
-VAT will only apply if the Collective creates a **service** or **product** tier for events.
+VAT will only apply if the Collective creates a **service** or **product** tier or a **ticket** tier for an events.
 {% endhint %}
 
 Once VAT is set up for a Collective, we will ask for the country of residence and an optional VAT number on an as-needed basis. We will apply the VAT rules accordingly:
