@@ -58,13 +58,23 @@ We then need to know where the money should be sent and fill in any other requir
 We currently offer the option to be paid by bank account or PayPal. When filling in your details you will be asked for:&#x20;
 
 * Your payout method, including your preferred transfer method and preferred currency.&#x20;
-* Your bank account information or PayPal.&#x20;
+* Your bank account information, or your connected PayPal account.&#x20;
 * Your address as listed on your bank account (not the bank's address).&#x20;
 
 Your address and bank account details are always required to process an expense. This information will not be displayed publicly, only admins of the Collective and Fiscal Host you work with and specific members of the Open Collective staff will have access. You must also supply your Legal Name on your account info, but only your Display Name will be shown publicly.
 
 {% hint style="success" %}
 Find out how to set your Display Name and Legal Name on the [Setting up an Account](../../getting-started/setting-up-your-account.md) page.
+{% endhint %}
+
+### Connecting your PayPal account
+
+When you select PayPal as your payout method, you will be redirected to PayPal to authorize Open Collective to confirm your account identity. This replaces the previous flow where you would manually enter a PayPal email address.
+
+Once you complete the PayPal authorization, Open Collective will store your verified PayPal identity (your name and email as they appear in PayPal). You will not need to type your PayPal email manually, which reduces the risk of payment errors caused by typos.
+
+{% hint style="info" %}
+If you previously saved a PayPal email address before this feature was introduced, your payout method will be marked as **unverified**. You will see a prompt to reconnect it through the PayPal authorization flow. Verifying your existing PayPal payout method is optional for now, but recommended — it helps Fiscal Hosts confirm your identity and may be required by some hosts in the future.
 {% endhint %}
 
 If you are not able to use these methods for whatever reason, you can also select a "custom payout method," which invites you to share details of how you would prefer to be paid.
