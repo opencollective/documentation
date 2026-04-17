@@ -2,8 +2,6 @@
 
 ## WELCOME
 
-***
-
 * [Welcome](README.md)
 
 ## Why Open Collective?
@@ -71,7 +69,7 @@
   * [Adding Donation Buttons, Badges and Banners](collectives/raising-money/adding-donation-buttons-badges-and-banners.md)
   * [Adding Embeds to your Website](collectives/raising-money/adding-embeds-to-your-website.md)
   * [Creating Custom Fundraising URLs](collectives/raising-money/creating-custom-fundraising-urls.md)
-  * [Rejecting and Refunding  Financial Contributions](collectives/raising-money/rejecting-and-refunding-financial-contributions.md)
+  * [Rejecting and Refunding Financial Contributions](collectives/raising-money/rejecting-and-refunding-financial-contributions.md)
 * [Managing Money](collectives/managing-money/README.md)
   * [Budgets](collectives/managing-money/budgets.md)
   * [Projects](collectives/managing-money/projects.md)
