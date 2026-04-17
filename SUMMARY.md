@@ -162,8 +162,7 @@
   * [Funds](fiscal-hosts/funds-and-grants/funds.md)
   * [Grants](fiscal-hosts/funds-and-grants/grants.md)
 * [Certified Member](fiscal-hosts/certified-member.md)
-* [Know Your Customer (KYC)](fiscal-hosts/know-your-customer-kyc/README.md)
-  * [Manual KYC](fiscal-hosts/know-your-customer-kyc/manual-kyc.md)
+* [Know Your Customer (KYC)](fiscal-hosts/know-your-customer-kyc.md)
 * [Closing a Fiscal Host](fiscal-hosts/closing-a-fiscal-host.md)
 
 ## ORGANIZATIONS

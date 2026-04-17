@@ -1,12 +1,13 @@
 ---
 description: >-
-  Manual KYC verification is a process that allows you to verify the identity
-  and legal information of an individual manually.
+  KYC (Know Your Customer) verification is a critical process that helps
+  organizations ensure compliance with regulatory requirements. It involves
+  verifying the identity and legal information of account
 hidden: true
-icon: building-magnifying-glass
+icon: user
 ---
 
-# Manual KYC
+# Know Your Customer (KYC)
 
 Use the manual KYC verification process to register on Open Collective the result of a KYC program made outside the platform, the host is responsible for ensuring the information is accurate and up-to-date.
 
