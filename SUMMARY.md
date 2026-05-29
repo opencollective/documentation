@@ -183,6 +183,7 @@
 * [API](development/api.md)
 * [OAuth](development/oauth.md)
 * [Personel Tokens](development/personel-tokens.md)
+* [Translations](development/translations.md)
 
 ## Our Organization
 
