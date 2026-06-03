@@ -7,16 +7,6 @@ icon: book-open-lines
 
 # Translations
 
-We use Crowdin to manage all our translations. You can join and contribute on: [https://translate.opencollective.com/](https://translate.opencollective.com/)
-
-Quick tour
-
-{% embed url="https://www.loom.com/share/467aeead7ed74128935a2b1e03bc9220" %}
-
-### Adding a new language <a href="#adding-a-new-language" id="adding-a-new-language"></a>
-
-To ask for a language to be added on Crowdin, feel free to [open a discussion](https://crowdin.com/project/opencollective/discussions). We always accept these requests, but please note that inactive languages will often be removed if there's no contribution.
-
 ### Format <a href="#format" id="format"></a>
 
 #### Variables <a href="#variables" id="variables"></a>
