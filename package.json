@@ -1,0 +1,14 @@
+{
+  "name": "opencollective-documentation",
+  "private": true,
+  "description": "Development tooling for the Open Collective GitBook documentation repository",
+  "scripts": {
+    "validate": "node scripts/validate-summary-links.mjs",
+    "serve": "cp SUMMARY.md _sidebar.md && docsify serve . --port 4000 --no-open",
+    "lint:sample": "markdownlint-cli2 \"README.md\" \"getting-started/getting-started.md\""
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "markdownlint-cli2": "^0.22.1"
+  }
+}
