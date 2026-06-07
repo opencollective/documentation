@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Open Collective Documentation (local preview)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+</head>
+<body>
+  <div id="app">Loading…</div>
+  <script>
+    window.$docsify = {
+      name: 'Open Collective Docs',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      homepage: 'README.md',
+      relativePath: true,
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+</body>
+</html>
