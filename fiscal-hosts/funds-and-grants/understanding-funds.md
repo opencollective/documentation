@@ -17,7 +17,7 @@ It is easier for corporations to make one large payment to one vendor. As an umb
 
 ## **Who can create a Fund?**
 
-Funds can be created by Fiscal Hosts and Independent Collectives.&#x20;
+Funds can be created by Fiscal Hosts and Organizations.&#x20;
 
 **Funds** allow for more customization in the transparency of an initiative. This is a great way to issue grants to recipients of emergency aid, human rights activists, and censorship targets, for example, for whom more privacy is essential.
 

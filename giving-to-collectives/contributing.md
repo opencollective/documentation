@@ -23,7 +23,7 @@ You will also be asked if you want to add a platform tip, which helps us to add 
 
 If you’re logged into your Open Collective account, you can select the profile that you want to contribute with. Open Collective allows you to give as an individual, an organisation, or another Collective.
 
-If you don’t want to set up an account, you can[ contribute as a guest.](contributing-as-a-guest.md)
+If you don't want to set up an account, you can [contribute as a guest.](contributing-as-a-guest.md)
 
 #### Contribute as...
 

@@ -41,7 +41,7 @@ You will be asked to specify who will hold money on behalf of your collective.
 There are four options:
 
 * No one - No bank account or Host connected, you are not able to receive and spend money
-* Independent Collective - Manage one collective using your own bank account and legal status&#x20;
+* Organization - Manage money using your own bank account and legal status&#x20;
 * Our Own Fiscal Host - Manage multiple collectives with your own Fiscal Host.&#x20;
 * Apply to a Fiscal Host - Join a Fiscal Host that provides access to a legal status and bank account to multiple collectives.&#x20;
 
@@ -76,8 +76,8 @@ Before connecting an account or joining a fiscal host, you’ll be able to creat
 **No one**\
 You can choose not to select a host or connect a bank account. This means that you will not be able to receive or spend money on the platform.
 
-**Independent Collective**\
-This allows you to set up as a Collective using your collective's bank account to hold your funds. This means that you do not have to pay fees or follow the policies of any host. But you will be solely responsible for your accounting, taxes, payments and liability. [Find out more about being an 'Independent Collective'](/broken/pages/pq8pncIKdGKWl7rQ1tKe)
+**Organization**\
+This allows you to manage money using your own bank account and legal status. This means that you do not have to pay fees or follow the policies of any host. But you will be solely responsible for your accounting, taxes, payments and liability. [Find out more about Organizations](../organizations/organizations.md)
 
 **Our Own Fiscal Host**\
 You can choose to set up your own Fiscal Host to manage the money, legal status and tax accounts of other collectives.&#x20;

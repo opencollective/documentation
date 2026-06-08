@@ -30,4 +30,4 @@ Every feature in the Preview Features menu is at a stage where we're happy to sh
 
 We would always like to hear from you about any improvements you’d like to see, but we’re particularly interested in feedback regarding new features and updates.
 
-If you want us to change or fix any part of the feature you're currently previewing, please get in touch via the link in the menu box or contact[ us](https://opencollective.com/contact).
+If you want us to change or fix any part of the feature you're currently previewing, please get in touch via the link in the menu box or [contact us](https://opencollective.com/contact).

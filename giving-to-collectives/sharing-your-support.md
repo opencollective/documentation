@@ -16,7 +16,7 @@ So why not tell your friends and colleagues about the groups that mean something
 
 If you want to tell people which Collectives you’re backing, add this script to your website:
 
-`<script src="`[`https://opencollective.com/USERNAME/collectives.js?role=backer`](https://opencollective.com/:username/collectives.js?role=backer)`"></script>`
+`<script src="https://opencollective.com/USERNAME/collectives.js?role=backer"></script>`
 
 Make sure to replace  `USERNAME` with your individual profile's handle. This can be found in your profile settings.&#x20;
 

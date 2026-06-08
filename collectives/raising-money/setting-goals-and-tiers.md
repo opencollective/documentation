@@ -75,7 +75,7 @@ You can use tiers to:
 
 <details>
 
-<summary>Show people how much you need to achieve a certain task, such as purchasing supplies for a single beneficiary</summary>
+<summary>Offer direct technical support or services in exchange for contributions</summary>
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt="Example of an Open Source project that offers direct technical support in exchange for contributions on the Babel Open Collective profile."><figcaption><p>Example of an Open Source project that offers direct technical support in exchange for contributions on the <a href="https://opencollective.com/babel">Babel </a>Open Collective profile.</p></figcaption></figure>
 

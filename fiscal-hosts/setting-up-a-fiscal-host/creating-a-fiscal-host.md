@@ -56,9 +56,9 @@ If you wish to set up both a Collective and a Fiscal Host:
 If you feel you wish to host your own Collective, you have two options:
 
 \
-**Set up your Collective as an Independent Collective**
+**Convert your Collective to an Organization**
 
-This means you will be in control of all the finances and admin of your Collective, and will need your own legal status and bank account. See our [Independent Collectives](/broken/pages/pq8pncIKdGKWl7rQ1tKe) section for more information.
+This means you will be in control of all the finances and admin of your account, and will need your own legal status and bank account. See our [Organizations](../organizations/organizations.md) section for more information.
 
 **Set up a Fiscal Host**
 

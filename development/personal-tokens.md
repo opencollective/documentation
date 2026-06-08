@@ -2,7 +2,7 @@
 icon: ticket
 ---
 
-# Personel Tokens
+# Personal Tokens
 
 Personal tokens are used to authenticate with the Open Collective API. They are not tied to a specific application and can be used for various purposes, such as automating tasks or integrating with other services. To use a personal token, you can pass it as a `Personal-Token` HTTP header or as a `personalToken` query parameter in the URL.
 
