@@ -110,15 +110,15 @@ Contributions and expenses will be removed from the Collective's public profile,
 
 ### Unhosting a Collective
 
-We've also added the ability to unhost a Collective, which can be used to free a Collective to choose another host or to become an[ Independent Collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).
+We've also added the ability to unhost a Collective, which can be used to free a Collective to choose another host or to become an [Organization](../../organizations/organizations.md).
 
 * This Fiscal Host will no longer manage money on behalf of the Collective.
 * Any active recurring PayPal contributions or Virtual Cards will be cancelled.
-* Unhosted Collectives can then apply to a different fiscal host or become an[ Independent Collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).
-* When we trigger recurring contributions at the beginning of the month, valid Stripe configurations (through a Fiscal Host or via an Independent Collective) will be charged.
+* Unhosted Collectives can then apply to a different fiscal host or become an [Organization](../../organizations/organizations.md).
+* When we trigger recurring contributions at the beginning of the month, valid Stripe configurations (through a Fiscal Host or via an Organization) will be charged.
 * Stripe recurring contributions can be transferred to a new host. If the collective has a new host, they will continue as usual. If they don't, the contribution will be cancelled.
 
-Before unhosting, a Collective's[ balance must be zeroed](https://docs.opencollective.com/help/collectives/collective-settings/zero-collective-balance) by paying expenses, making contributions to other Collectives or gifting the balance to the host.
+Before unhosting, a Collective's [balance must be zeroed](../../collectives/closing-a-collective/zero-collective-balance.md) by paying expenses, making contributions to other Collectives or gifting the balance to the host.
 
 #### Steps to unhost a Collective (if they want to join another Fiscal Host)
 

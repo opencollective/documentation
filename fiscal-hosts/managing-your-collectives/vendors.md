@@ -100,9 +100,9 @@ This helps host admins manage cross-Collective vendor relationships and process 
 
 ## Submit an Expense on Behalf of a Vendor
 
-In order to use vendors for expense submission a payment method much be included in the vendor profile.&#x20;
+In order to use vendors for expense submission a payment method must be included in the vendor profile.&#x20;
 
-Once submitting an expense you can attribute it to a selecting Vendor and searching for the Vendor's name.&#x20;
+Once submitting an expense you can attribute it to a selected Vendor by searching for the Vendor's name.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt="Screenshot showing the ability to submit an expense on behalf of a Vendor. "><figcaption></figcaption></figure>
 

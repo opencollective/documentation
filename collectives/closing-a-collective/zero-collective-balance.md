@@ -20,7 +20,7 @@ You can move money out of your Collective in several ways:
 
 **Let the Payee cover the fees**
 
-When emptying the balance for a Collective, you have the option of charging the payment processor fees to the payee, which will guarantee that 100% of the Collective's balance will go out. This option is only available for bank transfers for hosts that support Transferwise at the moment.
+When emptying the balance for a Collective, you have the option of charging the payment processor fees to the payee, which will guarantee that 100% of the Collective's balance will go out. This option is only available for bank transfers for hosts that support Wise at the moment.
 
 When these conditions are met, the host admins will see a checkbox on the Pay expense modal.
 

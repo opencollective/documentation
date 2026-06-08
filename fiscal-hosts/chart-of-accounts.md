@@ -54,7 +54,7 @@ In order for transactions to be associated with the appropriate categories, they
 
 ### Expense Categorization
 
-To categorize an expense, navigate to Fiscal Host Dashboard > Expenses. Find the specific expense you would like to categorize and click on the grey drop down next to where it says “Category” and select or search for the specfic category that applies.&#x20;
+To categorize an expense, navigate to Fiscal Host Dashboard > Expenses. Find the specific expense you would like to categorize and click on the grey drop down next to where it says “Category” and select or search for the specific category that applies.&#x20;
 
 Alternatively, when an expense submitter submits an expense, they are able to select from your list of categories.&#x20;
 

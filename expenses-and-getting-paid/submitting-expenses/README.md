@@ -35,7 +35,7 @@ To do this:
 
 ## Select Payer Information
 
-You will initially be asked to specify who will be paying this expense. This will be pre-filled if you have click on the submit expense button on an organization or collective page or duplicated an expense.&#x20;
+You will initially be asked to specify who will be paying this expense. This will be pre-filled if you have clicked on the submit expense button on an organization or collective page or duplicated an expense.&#x20;
 
 * Who is paying - Select the profile whom you are requesting money from.&#x20;
 

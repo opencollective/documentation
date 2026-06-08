@@ -12,7 +12,7 @@ Created in 2015, Open Collective is a platform that makes it easy to raise, mana
 Since October 2024, Open Collective has been forked into two different initiatives:
 
 * The classic platform, started in 2015, is now managed by the non-profit [OFi Consortium.](https://oficonsortium.org/)
-* A new [web3 platform](https://opencollective.xyz/) coming in 2025, managed by Open Collective Inc., the original company&#x20;
+* A [web3 platform](https://opencollective.xyz/), launched in 2025, managed by Open Collective Inc., the original company&#x20;
 
 ## **Who operates Open Collective (the "classic" platform)?**
 

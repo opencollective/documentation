@@ -14,9 +14,9 @@ At the heart of Open Collective is a ledger that records all the financial activ
 Most users interact with the ledger indirectly by making contributions and submitting expenses, and for most users, that is enough. However, as the platform has grown, larger organizations who rely on the platform, primarily fiscal hosts and medium-to-large collectives, need to use information from the platform for accounting purposes. In response to these needs, we are making the ledger itself more visible, accessible, and legible to users.
 
 {% hint style="warning" %}
-#### The ledger does not always provide a complete financial picture for entities (such as fiscal hosts or independent collectives) that manage funds off-platform.
+#### The ledger does not always provide a complete financial picture for entities (such as fiscal hosts or Organizations) that manage funds off-platform.
 
-If you are a fiscal host or an independent collective that uses banking and financial services (some of which may be connected to the platform) then you likely have financial activities that do not originate on the platform and will NOT be reflected unless you intentionally add them to the platform.
+If you are a fiscal host or an Organization that uses banking and financial services (some of which may be connected to the platform) then you likely have financial activities that do not originate on the platform and will NOT be reflected unless you intentionally add them to the platform.
 
 For example: if you make a payment directly from your bank account, that payment will not show up on the platform unless you manually add it to the platform.
 {% endhint %}

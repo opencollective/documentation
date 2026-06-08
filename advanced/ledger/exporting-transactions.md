@@ -20,7 +20,7 @@ You then have an option to decide which fields you would like to export. The “
 {% hint style="info" %}
 **Platform Legacy Export (pre 2024)**\
 \
-At the beginning of 2024 we made some changes to the ledger that effect the transaction export. This included a shift from representing payment processor fees as fields of transactions to [representing them as separate transactions](https://docs.opencollective.com/help/product/ledger#separate-payment-processor-fees-and-taxes\\). If you require backwards compatibility with the exports that were generated before we introduced these changes:
+At the beginning of 2024 we made some changes to the ledger that affect the transaction export. This included a shift from representing payment processor fees as fields of transactions to [representing them as separate transactions](https://docs.opencollective.com/help/product/ledger#separate-payment-processor-fees-and-taxes). If you require backwards compatibility with the exports that were generated before we introduced these changes:
 
 1. Select the export set “Legacy Platform Export (Pre-2024)”
 2. Make sure that the option “Export taxes and payment processor fees as columns” is turned on.

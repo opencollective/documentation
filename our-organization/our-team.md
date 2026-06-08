@@ -25,7 +25,7 @@ Israel
 
 #### **Benjamin Piouffle** <a href="#benjamin-piouffle" id="benjamin-piouffle"></a>
 
-Head of Engineer&#x20;
+Head of Engineering&#x20;
 
 La Ciotat, France
 

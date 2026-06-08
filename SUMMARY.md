@@ -182,7 +182,7 @@
 * [Contributing](development/contributing.md)
 * [API](development/api.md)
 * [OAuth](development/oauth.md)
-* [Personel Tokens](development/personel-tokens.md)
+* [Personal Tokens](development/personal-tokens.md)
 * [Translations](development/translations.md)
 
 ## Our Organization

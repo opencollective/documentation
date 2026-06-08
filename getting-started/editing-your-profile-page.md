@@ -19,7 +19,7 @@ This page will include your:
 * Your cover image
 
 {% hint style="info" %}
-You can also edit your info for your Collective, Fiscal Host, or Independent Collective similarly.
+You can also edit your info for your Collective, Fiscal Host, or Organization similarly.
 {% endhint %}
 
 ### Adding images to your profile

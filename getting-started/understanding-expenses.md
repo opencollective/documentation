@@ -28,7 +28,7 @@ To begin, an expense submitter drafts and submits an expense. They may have writ
 At this point, it passes onto the Collective for review.
 
 {% hint style="info" %}
-If you’re an expense submitter who wants to find out how to create and/or edit an expense, go to [Expenses and Getting Paid](/broken/pages/1Jgx7U3uFL9aISk7Ua90)
+If you’re an expense submitter who wants to find out how to create and/or edit an expense, go to [Expenses and Getting Paid](../expenses-and-getting-paid/expenses-and-getting-paid.md)
 {% endhint %}
 
 #### 2. The Collective reviews the expense
@@ -63,7 +63,7 @@ If they are not satisfied, they can:
 Otherwise, they will process the payment:
 
 {% hint style="info" %}
-If you are an the admin of an Independent Collective, you will also process payments.&#x20;
+If you are the admin of an Organization, you will also process payments.&#x20;
 {% endhint %}
 
 #### 4. The expense is paid
