@@ -82,4 +82,8 @@ Verification is **not currently mandatory** — payees can still submit expenses
 
 {% hint style="info" %}
 If you have concerns about an unverified PayPal payout method on a specific expense, you can use the "Mark as Incomplete" action to ask the payee to update their payout method before you process payment.
+
+## PayPal payout batch ID
+
+After a PayPal payout is initiated, the expense timeline shows an **Expense processing** entry with a **PayPal payout batch ID**. Use this ID to locate the payment in your PayPal Payouts dashboard for reconciliation and support requests.
 {% endhint %}

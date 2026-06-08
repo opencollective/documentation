@@ -11,7 +11,7 @@ You can submit an expense by either [finding the Organization or Collective's pa
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt="Screenshot of a Collective&#x27;s header with a red outline highlighting the location of the &#x22;Submit Expense&#x22; button on the page."><figcaption><p>Screenshot of a Collective's header with a red outline highlighting the location of the "Submit Expense" button on the page.</p></figcaption></figure>
 
-Or by navigating to your personal Dashboard > Expenses > New Expense in the top right hand corner.&#x20;
+Or by navigating to your personal Dashboard > Incoming Money > Issued Payment Requests (or **Dashboard > Expenses** without the sidebar reorganization preview) and clicking **New Expense** in the top right corner.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-10-28 at 5.30.03 PM.png" alt="Screenshot of your personal dashboard, expenses page. Highlighting the new expense button"><figcaption><p><sub>Screenshot of your personal dashboard, expenses page. Highlighting the new expense button</sub></p></figcaption></figure>
 
@@ -48,8 +48,19 @@ You will be asked:
 * Who is being paid (you can choose your individual account, Collective account, Organization account, Vendor, or an event or project). You can also invite someone else to submit an expense.
 
 {% hint style="info" %}
-You will need to [set up an Open Collective account](../../getting-started/setting-up-your-account.md) to submit an expense. To be paid as a company, please [set up](../../getting-started/creating-an-organization.md) and select your Organization account as the payee.
+You will need to [set up an Open Collective account](../../getting-started/setting-up-your-account.md) to submit an expense.
 {% endhint %}
+
+### Paying through a legal entity
+
+If you need to be paid as a company but do not yet have an Organization account, select **I would like to get paid through a legal entity** on the **Who is getting paid** step. You can create an Organization inline by providing:
+
+* Country of incorporation
+* Legal name and public display name
+* Profile URL slug
+* Confirmation that you are legally registered as an administrator of the entity
+
+If you already administer an Organization, select **An account I administer** instead. See [Creating an Organization](../../getting-started/creating-an-organization.md) for full organization setup outside the expense flow.
 
 ## Choose a payout method
 
@@ -135,9 +146,9 @@ Before submitting your expense, you will be asked to review all the information 
 If you need to make any changes, you can do this by clicking "Edit Expense".
 
 {% hint style="info" %}
-Once you have submitted an expense, you can find it on your public profile page, in your Dashboard > Expenses or in the Organization or Collective's budget.&#x20;
+Once you have submitted an expense, you can find it on your public profile page, in your Dashboard > Incoming Money > Issued Payment Requests (or **Dashboard > Expenses**), or in the Organization or Collective's budget.
 
-By selecting the "More Actions" menu at the bottom of the page for the expense, you can choose to edit it, download it, or copy the link to the page.
+By selecting the **More Actions** menu for the expense, you can edit it, download it, or **Copy link**. The copied link is a [permalink](../../advanced/permmlinks-and-ids.md) that opens the expense in the correct dashboard view for each viewer.
 
 Downloading an expense is only available for invoices, and not reimbursements.
 {% endhint %}
