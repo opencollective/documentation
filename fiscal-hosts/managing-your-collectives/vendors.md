@@ -114,7 +114,16 @@ You will not be prompted for a payment method. The payment method that is listed
 
 By default, only Fiscal Host admins are able to submit expenses to Vendors. However, you can enable expense submitters to also submit expenses to your Vendors.&#x20;
 
-To enable this, go to the Fiscal Host Dashboard > Settings > Policies. There you will find an option to enable all users to submit expenses to Vendors
+To enable this, go to the Fiscal Host Dashboard > Settings > Policies. There you will find an option to enable all users to submit expenses to Vendors.
+
+### Creating vendors inline
+
+Fiscal host admins can create vendors without leaving the expense or expected funds flow:
+
+* **Expense submission:** On the **Who is getting paid** step, select **A vendor** and type a new name in the picker. Choose **Create vendor: {name}** to create and select a vendor scoped to that collective.
+* **Add Funds / Expected Funds:** In the contributor or source picker, type a new vendor name and choose **Create vendor: {name}**.
+
+Non-host submitters (when the vendor policy is enabled) can search and select existing vendors but cannot create new ones inline. Use **Dashboard > Vendors** to manage the vendor directory.
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt="Screenshot of Fiscal Host Policy settings, showing the ability to allow all users to submit expenses on behalf of Vendors."><figcaption></figcaption></figure>
 

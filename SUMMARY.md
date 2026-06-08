@@ -30,6 +30,7 @@
 
 * [Notifications](advanced/notifications.md)
 * [Preview Features](advanced/preview-features.md)
+* [Permalinks and Public IDs](advanced/permmlinks-and-ids.md)
 * [Activity Log](advanced/activity-log.md)
 * [Security For Accounts](advanced/security-for-accounts/README.md)
   * [Logging into your Account](advanced/security-for-accounts/logging-into-your-account.md)

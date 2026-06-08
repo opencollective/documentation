@@ -27,7 +27,18 @@ For each payment processor, the card will show the balance of the corresponding 
 
 #### Expense List
 
-You can monitor the status of expenses submitted to your hosted Collectives in the “Expenses” section of your Fiscal Host’s Dashboard.
+You can monitor the status of expenses submitted to your hosted Collectives from **Dashboard > Outgoing Money**. Use these sub-pages depending on your task:
+
+| Sub-page | Use for |
+| -------- | ------- |
+| **Approve Payment Requests** | Expenses awaiting collective or host approval |
+| **Pay Disbursements** | Approved expenses ready to pay |
+| **Paid Disbursements** | Expenses already paid |
+| **All Payment Requests** | Full expense list with filters |
+
+Without the sidebar reorganization preview, these workflows appear under **Dashboard > Expenses**.
+
+Use **Copy link** from expense actions to share a [permalink](../../advanced/permmlinks-and-ids.md) with teammates. The link opens the expense in the correct dashboard view for each viewer's role.
 
 There you will see a list of expenses, which you can filter by:&#x20;
 
