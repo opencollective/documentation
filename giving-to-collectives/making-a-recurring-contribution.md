@@ -59,7 +59,7 @@ It is also possible that your bank’s verification services are not working pro
 
 If you wish to change or remove a recurring contribution:
 
-1. Navigate to your Dashboard > Contributions.&#x20;
+1. Navigate to your Dashboard > Outgoing Contributions (or **Contributions** if you have not enabled the sidebar reorganization preview).&#x20;
 2. Use the account switcher to select the account you are using to make the payments. (If you are giving from a Collective or Organization, you will also need to select the “From Name” subpage)
 3. You should then be able to edit or cancel your recurring payments to the Collectives you support.
 
