@@ -10,7 +10,7 @@ icon: money-check-dollar-pen
 
 You can manually add funds to a Collective. This is useful when you have received a contribution for a Collective outside the Open Collective platform (via bank transfer, Patreon, Eventbrite, or another service) and want to apply it to a Collective's budget.&#x20;
 
-1. Navigate to your Fiscal Host Dashboard > Collectives > Hosted Collectives
+1. Navigate to your Fiscal Host Dashboard > Hosting > Hosted Collectives
 2. Use the search bar to find the Collective you want to add funds to
 3. Click on the three dots > Add funds <br>
 

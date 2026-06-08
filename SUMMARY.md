@@ -129,6 +129,7 @@
   * [Fiscal Host Security](fiscal-hosts/setting-up-a-fiscal-host/fiscal-host-security.md)
   * [Fiscal Host Policies](fiscal-hosts/setting-up-a-fiscal-host/fiscal-host-policies.md)
 * [Fiscal Host Overview Dashboard](fiscal-hosts/fiscal-host-overview-dashboard.md)
+* [Dashboard Navigation](fiscal-hosts/dashboard-navigation.md)
 * [Managing your Collectives](fiscal-hosts/managing-your-collectives/README.md)
   * [Hosted Collectives](fiscal-hosts/managing-your-collectives/hosted-collectives.md)
   * [Collective Applications](fiscal-hosts/managing-your-collectives/collective-applications.md)
