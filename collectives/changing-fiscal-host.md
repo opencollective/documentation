@@ -10,7 +10,7 @@ icon: house-chimney-medical
 
 You have the option to change to a new Fiscal Host, even after your Collective has started raising and spending money.
 
-This could be because your Collective requires less (or different) assistance. You might want to move from a generalist host to a specialized one (or vice versa). You may even decide to become an [Independent Collective](/broken/pages/pq8pncIKdGKWl7rQ1tKe) and use your own bank account and legal status.&#x20;
+This could be because your Collective requires less (or different) assistance. You might want to move from a generalist host to a specialized one (or vice versa). You may even decide to become an Organization and manage money in your own bank account. After leaving your Fiscal Host, you can convert your Collective to an Organization from **Dashboard > Settings > Advanced**. See [Converting between Collectives and Organizations](../organizations/creating-an-organization/README.md#converting-between-collectives-and-organizations) for requirements and steps.&#x20;
 
 You can switch hosts directly within the Open Collective platform.
 

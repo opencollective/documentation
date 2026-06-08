@@ -14,15 +14,21 @@ Remember that once you go independent, you will no longer have the support of a 
 {% hint style="warning" %}
 You will not be able to move your Collective until you have restored your balance to zero.
 
-To find out how to do this, go to our page on [Withdrawing Collective Funds.](/broken/pages/1Jgx7U3uFL9aISk7Ua90)
+To find out how to do this, see [Zero Collective Balance](../../collectives/closing-a-collective/zero-collective-balance.md).
 {% endhint %}
 
 ### To migrate from a Fiscal Host:
 
-1. Ensure that your Collective's balance is empty.
-2. Go to the "Fiscal Host" option in your "Settings" menu and select "Remove Host"
-3. Click on "Convert this account to an Organization" and fill up the form. Make sure your Legal Name is the same as the bank account owner for your Organization by checking in the "Info" section of "Settings" (you do not need to change your display name)
-4. Connect your bank account and Stripe account in the onboarding screen
+1. Ensure that your Collective's balance is empty. See [Zero Collective Balance](../../collectives/closing-a-collective/zero-collective-balance.md) for options.
+2. Go to **Dashboard > Settings > Fiscal Host** and select **Remove Host**.
+3. Convert your Collective to an Organization:
+   * From **Dashboard > Settings > Fiscal Host**, click **Convert this account to an Organization**, or
+   * Go to **Dashboard > Settings > Advanced**, open the **Convert to Organization** section, and click **Convert to Organization**.
+4. Enter your Organization's legal name. This should match the legal name on your bank account (check **Dashboard > Settings > Info** if needed). You do not need to change your display name.
+5. Confirm the conversion. You will be prompted for two-factor authentication.
+6. Connect your bank account and Stripe account in the onboarding screen.
+
+For general requirements and the reverse conversion (Organization back to Collective), see [Converting between Collectives and Organizations](README.md#converting-between-collectives-and-organizations).
 
 {% hint style="warning" %}
 Once you move your Collective away from your Fiscal Host, your recurring contributors will be contacted by email and asked to reconfirm their credit card details upon the integration of your new Stripe account.

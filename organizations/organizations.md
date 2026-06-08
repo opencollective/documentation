@@ -27,11 +27,17 @@ You may seek support from the Open Collective team on issues related to the plat
 If you are in any doubt about your ability to manage your funds and admin effectively, we strongly recommend [applying to a Fiscal Host](../collectives/choosing-a-fiscal-host.md) instead.
 {% endhint %}
 
+### Converting back to a Collective
+
+If you no longer want to manage money as an Organization, you can convert your account back to a Collective from **Dashboard > Settings > Advanced**. You must first deactivate money management and fiscal hosting, and bring your balance to zero.
+
+See [Creating an Organization](creating-an-organization/README.md#converting-between-collectives-and-organizations) for the full steps and requirements.
+
 ### **Find out more**
 
 [creating-an-organization](creating-an-organization/ "mention")
 
-Find out how to set up an Organization from scratch, or move it from elsewh
+Find out how to set up an Organization from scratch, convert an existing Collective, or move away from a Fiscal Host
 
 
 
