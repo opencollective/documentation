@@ -21,14 +21,18 @@ Utilize the tabs to view all, active, frozen or unhosted Collectives.&#x20;
 
 #### Filters
 
-There are four kinds of filters that you can use to sort your Collectives:
+You can use several filters to narrow your list of hosted Collectives:
 
-* Using the filters at the top of the page, you can sort by Type. The page is automatically set to show Collectives and Funds, you can customize this to also show projects and events.
-* Filter by fee structure: global host fee (the standard fee you set in your settings) or a custom fee.
-* Status
-* Balance
+* **Type:** The page is automatically set to show Collectives and Funds. You can customize this to also show projects and events.
+* **Fee structure:** Global host fee (the standard fee you set in your settings) or a custom fee.
+* **Status**
+* **Balance**
+* **Joined host on:** Show Collectives that joined your Fiscal Host within a date range.
+* **Left host on:** Show Collectives that left your Fiscal Host within a date range.
+* **Had financial activity on:** Show Collectives that had financial activity within a date range.
+* **No financial activity on:** Show Collectives that had no financial activity within a date range.
 
-You can also sort by the period of time you've hosted them - most recent and oldest.
+You can also sort by the period of time you've hosted them — most recent and oldest.
 
 
 

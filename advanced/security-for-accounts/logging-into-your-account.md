@@ -35,6 +35,14 @@ If you forget your password, you can reset it or ask for a link to be sent to yo
 To maintain your security, we recommend using a password manager to set and store passwords you create.
 {% endhint %}
 
+### New device sign-in notifications
+
+If you sign in with a password from a device or location we have not seen before, Open Collective sends a security email to your account address. The email includes the date and time of the sign-in, the IP address, and the device or browser used.
+
+If you recognize the sign-in, no action is needed. If you do not recognize it, use the link in the email to review your [security settings](https://opencollective.com/settings/security) and consider changing your password or enabling [two-factor authentication](two-factor-authentication.md).
+
+This notification is only sent for password-based sign-ins. Magic link sign-ins do not trigger this email.
+
 ### **Two-factor authentication**
 
 You can further improve your account security by enabling Two Factor Authentication (2FA) on your Open Collective account.

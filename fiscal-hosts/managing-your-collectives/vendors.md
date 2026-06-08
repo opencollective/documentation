@@ -92,6 +92,12 @@ You can add additional Vendor information via the Vendor settings in your Fiscal
 
 
 
+## Vendor availability
+
+By default, expense submitters can only select vendors that are available for the Collective they are expensing. Fiscal Host admins can always select any vendor on their host, regardless of which Collective the expense is for.
+
+This helps host admins manage cross-Collective vendor relationships and process expenses that involve vendors shared across multiple hosted accounts.
+
 ## Submit an Expense on Behalf of a Vendor
 
 In order to use vendors for expense submission a payment method much be included in the vendor profile.&#x20;
