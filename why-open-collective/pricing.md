@@ -9,31 +9,15 @@ icon: hand-holding-circle-dollar
 
 Our dream is a world where collectives and their ecosystems can thrive. Pricing is designed to support groups as they grow while keeping the platform sustainable.
 
-## Who pays platform fees
-
-| Account type | Platform fees |
-| ------------ | --------------- |
-| **Collectives** | Free. Supported by optional [Platform Tips](../giving-to-collectives/platform-tips.md) from contributors. |
-| **Organizations** | Monthly platform subscription based on activity (collectives hosted, expenses processed). See [Pricing for Organizations](https://opencollective.com/organizations/pricing). |
-| **Fiscal Hosts (legacy model)** | 15% platform share on host fees collected, unless on the new organization subscription model. See [Legacy pricing](#legacy-pricing) and [Platform Settlements](../fiscal-hosts/platform-settlements.md). |
-
 {% hint style="info" %}
-**Organizations** are legal entities (companies, nonprofits, cooperatives) that manage their own finances or act as a fiscal host. **Collectives** are mission-driven groups that raise and spend money through a host. Collectives are not subject to organization subscription pricing.
+**Organizations** are legal entities (such as a company, non-profit, cooperative, or similar) that use the platform to manage their own finances or to act as a Host for Collectives. The pricing applies to Organizations. **Collectives** are mission-driven groups that raise and spend money through a host. Collectives are not subject to organization subscription pricing.
 {% endhint %}
 
 ## Organization platform subscriptions (March 2026+)
 
-New organization customers use activity-based subscription plans instead of the legacy 15% revenue share model. View current tiers and prices on the [Pricing for Organizations](https://opencollective.com/organizations/pricing) page.
+New organization customers use activity-based subscription plans instead of the legacy 15% revenue share model. Costs scale with how you use the platform - the number of collectives you host and expenses you process - rather than a percentage of revenue.
 
-### Subscription tiers
-
-| Tier | Best for | Highlights |
-| ---- | -------- | ---------- |
-| **Discover** | New organizations getting started | Crowdfunding pages, expense management, manual expense processing |
-| **Basic** | Growing organizations scaling payouts | Adds Chart of Accounts, Wise/PayPal payouts, expected funds, hosting fees, antifraud checks |
-| **Pro** | Professional hosts needing compliance tools | Adds bank account sync, tax forms, funds and grants, agreements |
-
-Each tier includes a monthly price with a set number of **active collectives** and **paid expenses per month**. Additional collectives and expenses are charged at per-unit rates shown on the pricing page.
+View current tiers, features, and prices on the [Pricing for Organizations](https://opencollective.com/pricing) page.
 
 ### Crowdfunding contributions
 
@@ -65,8 +49,8 @@ Stripe, PayPal, Wise, and other processors charge their own fees. Open Collectiv
 
 Organizations and fiscal hosts onboarded before the March 2026 subscription model may still use legacy pricing:
 
-* **Organizations** previously had unlimited free access when self-managing finances
-* **Fiscal hosts** that charge host fees pay a **15% platform share** on host fee revenue
+- **Organizations** previously had unlimited free access when self-managing finances
+- **Fiscal hosts** that charge host fees pay a **15% platform share** on host fee revenue
 
 View the previous model at [legacy pricing](https://opencollective.com/legacy-pricing). Existing customers may see a migration banner in their dashboard when moving to the new model.
 
