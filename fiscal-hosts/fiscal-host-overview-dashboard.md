@@ -2,19 +2,24 @@
 description: >-
   The Fiscal Host Overview Dashboard allows admins to get a quick glimpse of
   recent activity, pending items, and financial status all on one page.
-hidden: true
 icon: gauge-high
 ---
 
 # Fiscal Host Overview Dashboard
 
-The Fiscal Host Overview Dashboard provides admins with a high-level overview of their status on the platform. This includes a to-do list of pending Expenses, Contributions, and Applications; a snapshot of balance, income, and spent funds; and a short list of recent activity associated with the Host.
+The Fiscal Host Overview Dashboard provides admins with a high-level overview of their status on the platform. Open your fiscal host dashboard and select **Overview** from the sidebar.
+
+The page includes a setup guide, pending action items, financial snapshots, hosted collective and fund metrics, and a recent activity timeline.
+
+## Setup guide
+
+New hosts see a collapsible setup checklist on the Overview page. Toggle it from the settings menu in the Overview header (**Display setup guide**).
 
 ## To do
 
-The To do module in the Fiscal Host Overview consolidates all of items that might require an admin's attention in one place. Clicking on one of the buttons with a specific type of Expense, Contribution, or Application will redirect you to the respective page in the Dashboard, filtered to only show those specific items.&#x20;
+The To do module consolidates items that may need your attention. Clicking a button redirects to the relevant dashboard page, filtered to that item type.
 
-The specific items that are featured in the To do list are:
+The specific items featured in the To do list are:
 
 * Expenses
   * Unreplied
@@ -34,20 +39,49 @@ The specific items that are featured in the To do list are:
 
 ## Recent Financial Activity
 
-The Recent Financial Activity section of the Overview page shows important financial information consolidated into one place. It is also possible to change the filters for the information displayed to account for different time spans or focus exclusively on the fiannces of the Fiscal Host or its hosted Collectives.
+The Recent Financial Activity section shows balance, income, and spending in one place.
 
-There are four main components displayed in this section:
+### Filters
 
-* Balance
-* Received
-* Spent
-* Recent Transactions
+* **Context:** All, Organization, or Hosted - focus on host-level finances or hosted collectives only
+* **Period:** Today, Last 7 days, Last 4 weeks (default), Last 3 months, Last 12 months, Month/Quarter/Year to date, All time, or a custom range
 
-The information displayed can also be configured by changing the filters at the top of the section.
+### Metrics
+
+| Metric | Description |
+| ------ | ----------- |
+| Balance | End-of-period balance, including starting balance. May show comparison to period start. |
+| Received | Total received in the selected period |
+| Spent | Total spent in the selected period |
+
+### Recent transactions
+
+A preview table shows the five most recent transactions. When more transactions exist, a link opens **Ledger > Transactions** with the same period and context filters applied.
 
 <figure><img src="../.gitbook/assets/image (78).png" alt="Screen shot of the Recent Financial Activity filters."><figcaption></figcaption></figure>
 
+## Hosted Collectives and Hosted Funds
+
+Below Recent Financial Activity, two metric sections track the health of your hosted accounts. Each section has its own month picker.
+
+### Metric cards
+
+| Metric | Definition |
+| ------ | ---------- |
+| Active | At least one ledger transaction this month |
+| Inactive | Hosted but no financial activity this month |
+| Newly Hosted | Joined and approved this month |
+| Unhosted | Unhosted this month |
+
+### Top lists
+
+Each section also shows:
+
+* **Top by Amount Received**
+* **Top by Amount Spent**
+
 ## Recent Activity
 
-The final section on the Overview page is the Recent activity module. This section gives a simplified snapshot of all of the activity related to the Fiscal Host on the platform. To view a more comprehensive list of associated activities, you can click the "Got to activity log button" at the top of the section.
+The final section on the Overview page is the Recent activity module. This gives a simplified snapshot of activity related to your fiscal host, including expenses, virtual cards, contributions, updates, and collective events.
 
+To view a comprehensive list, click **Go to activity log** at the top of the section.
