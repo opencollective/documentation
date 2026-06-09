@@ -175,6 +175,7 @@
   * [Migrating from Fiscal Host to an Organization](organizations/creating-an-organization/migrating-from-fiscal-host-to-an-organization.md)
 * [Managing Organization Finances](organizations/managing-organization-finances.md)
 * [Private Organizations](organizations/private-organizations.md)
+* [Platform Subscription](organizations/platform-subscription.md)
 
 ## INDEPENDENT COLLECTIVES
 
