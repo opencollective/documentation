@@ -30,6 +30,7 @@
 
 * [Notifications](advanced/notifications.md)
 * [Preview Features](advanced/preview-features.md)
+* [Permalinks and Public IDs](advanced/permmlinks-and-ids.md)
 * [Activity Log](advanced/activity-log.md)
 * [Security For Accounts](advanced/security-for-accounts/README.md)
   * [Logging into your Account](advanced/security-for-accounts/logging-into-your-account.md)
@@ -154,6 +155,7 @@
   * [Handling Payment Errors Through Wise](fiscal-hosts/expense-payment/handling-payment-errors-through-wise.md)
   * [Paying Expenses with PayPal](fiscal-hosts/expense-payment/paying-expenses-with-paypal.md)
 * [Chart of Accounts](fiscal-hosts/chart-of-accounts.md)
+* [People Tool](fiscal-hosts/people-tool.md)
 * [Bank Account Synchronization](fiscal-hosts/bank-account-synchronization.md)
 * [Virtual Cards](fiscal-hosts/virtual-cards.md)
 * [Processing Refunds](fiscal-hosts/processing-refunds.md)
@@ -173,6 +175,8 @@
   * [Launching an Organization](organizations/creating-an-organization/launching-an-organization.md)
   * [Migrating from Fiscal Host to an Organization](organizations/creating-an-organization/migrating-from-fiscal-host-to-an-organization.md)
 * [Managing Organization Finances](organizations/managing-organization-finances.md)
+* [Private Organizations](organizations/private-organizations.md)
+* [Platform Subscription](organizations/platform-subscription.md)
 
 ## INDEPENDENT COLLECTIVES
 

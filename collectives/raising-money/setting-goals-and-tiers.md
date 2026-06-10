@@ -97,13 +97,17 @@ As you set the options from the form, you will see a preview of your tier develo
 
 You can create your tier using the following options. Many of these are optional. Remember to press the “create” button once you’re ready to publish.\
 \
-**Type:** Is your tier a generic tier, or is it related to a membership, service, product or a donation?&#x20;
+**Type:** Is your tier a generic tier, or is it related to a membership, service, product or a donation?
 
-* "Generic" is the default contribution type that shows all fields as customizable entries.&#x20;
-* "Membership" is a recurring contribution where contributors get a special status, such as a right to vote on decisions.&#x20;
-* "Service" means donors get a service in return.&#x20;
+* "Generic" is the default contribution type that shows all fields as customizable entries.
+* "Membership" is a recurring contribution where contributors get a special status, such as a right to vote on decisions. Project collectives do not see Membership in the type picker.
+* "Service" means donors get a service in return.
 * "Product" is where donors get a gift or item.
-* &#x20;"Donation" is a simple contribution to the cause.&#x20;
+* "Donation" is a simple contribution to the cause.
+
+{% hint style="info" %}
+Fiscal hosts may disable certain tier types for hosted collectives. If a type is missing from the dropdown, contact your fiscal host. For events, when ticket tiers are disabled, the Tickets section shows a message and hides **Create Ticket**.
+{% endhint %}
 
 {% hint style="success" %}
 If in doubt, use the "Generic" tier.

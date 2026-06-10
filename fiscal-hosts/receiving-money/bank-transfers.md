@@ -15,9 +15,17 @@ You can enable manual bank transfers by completing the following instructions:
 2. Under Bank Transfers, click “Set bank details”
 3. Follow the directions on the page to add in your bank account information and instructions that will be emailed to contributors when they initiate a manual bank payment.&#x20;
 
-Financial Contributors will then be able to select the 'Bank Transfer' option as a payment method. After completing the donation, they will automatically be emailed the instructions you specified outlining how to manually complete the transaction, this includes a unique transaction identifier.&#x20;
+Financial Contributors will then be able to select the 'Bank Transfer' option as a payment method. After completing the donation, they will automatically be emailed the instructions you specified outlining how to manually complete the transaction, this includes a unique transaction identifier (order reference).
 
 They then proceed to make the payment, using the code as a reference.
+
+### EPC QR code (EUR SEPA)
+
+When your bank account has **IBAN and BIC** configured and the contribution is in **EUR**, contributors also see a **Scan to pay** EPC QR code on the contribution success page (and in emailed instructions).
+
+The QR code encodes payee, IBAN, BIC, amount, and order reference for compatible European banking apps. Scanning pre-fills a SEPA credit transfer in many mobile banking apps.
+
+EPC QR codes appear only for EUR transfers when IBAN and BIC are present. Other currencies or incomplete bank details show text instructions only.
 
 This transaction shows up in the Expected Funds section in your Dashboard. It shows the amount, the contributor, and the unique ID code (order#).
 
