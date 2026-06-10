@@ -13,11 +13,11 @@ There are two types of expected funds on the platform:
 1. The first are automatically generated when contributors use the “bank transfer” payment method and then manually complete payment at a later time.
 2. The other are pending contributions created by a Fiscal Host to track expected funds as a consequence of fund-raising efforts by either the Fiscal Host or Collective. Documenting expected incoming contributions will make it easier for you to track them down and reconcile them when they appear in your bank account.
 
-They can be found in your Fiscal Host Dashboard > Expected Funds.
+They can be found in your Fiscal Host Dashboard > Incoming Money > Expected Funds.
 
 ## Recording Expected Funds
 
-When you become aware of expected funds (for example, when notified by a Collective administrator), you can create a new pending contribution. Go to your Fiscal Host Dashboard > Expected Funds. At the top of the screen, click “Create +”
+When you become aware of expected funds (for example, when notified by a Collective administrator), you can create a new pending contribution. Go to your Fiscal Host Dashboard > Incoming Money > Expected Funds. At the top of the screen, click “Create +”
 
 The form is divided into three sections:
 

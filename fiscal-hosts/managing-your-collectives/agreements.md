@@ -27,7 +27,7 @@ Navigate to your Fiscal Host Dashboard > Agreements. Click "Add New +" in the to
 * **Expiration date:** Use this field to indicate if an Agreement is only relevant up to a specific date.&#x20;
 * **Notes:** Add any additional information necessary for the specific Agreement. Because the Agreement file is optional, Fiscal Host admins can also use this field alone to define an Agreement if there are no related documents.
 
-Alternatively, you can navigate to your Fiscal Host Dashboard > Hosting > Hosted Collectives and find the specific Collective that you'd like to add an Agreement to. Click on the Collective, and at the bottom of the side page click More Actions > Add Agreement.
+Alternatively, navigate to your Fiscal Host Dashboard > Hosting > Hosted Collectives, find the specific Collective that you'd like to add an Agreement to, click on the Collective, and at the bottom of the side panel click More Actions > Add Agreement.
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt="Screen shot of the &#x22;Add Agreement&#x22; page."><figcaption></figcaption></figure>
 

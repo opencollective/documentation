@@ -34,7 +34,7 @@ If a Collective is frozen, the Collective admins will be notified via an email n
 ## Freeze a Collective:
 
 1. Make sure you have set your profile to your Fiscal Host Admin account
-2. Go to your Fiscal Host Dashboard > Collectives > Hosted Collectives&#x20;
+2. Go to your Fiscal Host Dashboard > Hosting > Hosted Collectives&#x20;
 3. Locate the Collective you wish to freeze in your list of hosted Collectives
 4. Click on the three dots to the bottom right of the Collective's card (see image)
 5. Choose "Freeze"
