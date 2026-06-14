@@ -86,6 +86,18 @@ The header shows account type, KYC status, tax form status, and counts of reject
 
 Full transaction history with date, amount, search, accounting category, and hosted account filters.
 
+Click a contribution row to open the contribution drawer. From there, host admins can manage that person's contributions without leaving the People tool:
+
+* **Update payment method** — for active recurring contributions
+* **Update contribution amount**
+* **Update platform tip amount** — when the contribution is eligible for platform tips
+* **Resume contribution** — for paused recurring contributions
+* **Cancel contribution**
+* **View transactions** — jump to the related ledger entries
+* **Mark as paid / Expire** — for pending expected funds
+
+These actions mirror what is available on the Incoming Contributions page, but scoped to the person you are reviewing.
+
 ### Managed Disbursements tab
 
 For individuals, shows expenses this person approved, paid, or rejected. Filter by Approved, Paid, or Rejected.

@@ -63,6 +63,13 @@ If you wish to change or remove a recurring contribution:
 2. Use the account switcher to select the account you are using to make the payments. (If you are giving from a Collective or Organization, you will also need to select the “From Name” subpage)
 3. You should then be able to edit or cancel your recurring payments to the Collectives you support.
 
+From an active recurring contribution, you can:
+
+* **Update payment method** — change the card or PayPal account used for future charges
+* **Update contribution amount** — change how much you give to the collective each period
+* **Update platform tip amount** — change or remove your optional tip to Open Collective (see [Platform Tips](platform-tips.md))
+* **Cancel** — stop future payments
+
 {% hint style="info" %}
 Contributions using some payment methods (such as ACH and SEPA) do not support changes. If you wish to change a recurring contribution using these methods, please cancel and create a new one instead.&#x20;
 {% endhint %}
