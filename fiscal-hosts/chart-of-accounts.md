@@ -54,7 +54,7 @@ In order for transactions to be associated with the appropriate categories, they
 
 ### Expense Categorization
 
-To categorize an expense, navigate to Fiscal Host Dashboard > Expenses. Find the specific expense you would like to categorize and click on the grey drop down next to where it says “Category” and select or search for the specific category that applies.&#x20;
+To categorize an expense, navigate to Fiscal Host Dashboard > Outgoing Money > All Payment Requests. Find the specific expense you would like to categorize and click on the grey drop down next to where it says “Category” and select or search for the specific category that applies.&#x20;
 
 Alternatively, when an expense submitter submits an expense, they are able to select from your list of categories.&#x20;
 
@@ -64,4 +64,4 @@ Contact us if you're interested in using AI to help automate the expense categor
 
 ### Contribution Categorization
 
-To categorize a contribution, navigate to Fiscal Host Dashboard > Contributions. Find the specific contribution that you would like to categorize, click the three dots icon on the right, click View Details, click the grey drop down and select or search for the category that you would like to apply.
+To categorize a contribution, navigate to Fiscal Host Dashboard > Incoming Money > Incoming Contributions. Find the specific contribution that you would like to categorize, click the three dots icon on the right, click View Details, click the grey drop down and select or search for the category that you would like to apply.

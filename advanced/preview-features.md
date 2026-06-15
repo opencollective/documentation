@@ -18,7 +18,7 @@ To find and choose features:
 3. Find the Preview Features option on the menu
 4. Select the features you would like to preview, and switch them on using the toggle button
 
-By clicking the button, the feature preview will be enabled on your account. If you want to change back for any reason, toggle the button off again, and your interface will revert to the original state.&#x20;
+By clicking the button, the feature preview will be enabled on your account. If you want to change back for any reason, toggle the button off again, and your interface will revert to the original state.
 
 {% hint style="info" %}
 The features available in the preview features menu will vary depending on the type of role you hold on the platform. For example, admins may see different options to individual users.
@@ -28,6 +28,66 @@ The features available in the preview features menu will vary depending on the t
 
 Every feature in the Preview Features menu is at a stage where we're happy to share it with users. They may, however, change without notice as we receive and adapt to user feedback.
 
-We would always like to hear from you about any improvements you’d like to see, but we’re particularly interested in feedback regarding new features and updates.
+We would always like to hear from you about any improvements you'd like to see, but we're particularly interested in feedback regarding new features and updates.
 
 If you want us to change or fix any part of the feature you're currently previewing, please get in touch via the link in the menu box or [contact us](https://opencollective.com/contact).
+
+## Available preview features
+
+### Sidebar Reorganization Incoming/Outgoing (public beta)
+
+Renames **Expenses** to **Outgoing Money** and **Contributions** to **Incoming Money**, and moves cross-account items to the appropriate groups.
+
+**Outgoing Money** sub-pages (fiscal hosts):
+
+* **Pay Disbursements** - expenses ready to pay
+* **Paid Disbursements** - expenses already paid
+* **Approve Payment Requests** - expenses awaiting approval
+* **All Payment Requests** - full expense list
+* **Outgoing Contributions** - contributions this account made to other accounts
+
+**Incoming Money** sub-pages (fiscal hosts):
+
+* **Incoming Contributions** - contributions received by hosted accounts
+* **Expected Funds** - pending offline or bank contributions
+* **Incomplete Contributions** - contributions needing follow-up
+* **Issued Payment Requests** - payment requests submitted by this account
+
+See [Dashboard Navigation](../fiscal-hosts/dashboard-navigation.md) for a mapping from older sidebar labels.
+
+### Keyboard Shortcuts (public beta)
+
+Navigate expense workflows faster with keyboard shortcuts.
+
+**On the expenses dashboard:**
+
+| Key | Action |
+| --- | ------ |
+| J | Select the next expense |
+| K | Select the previous expense |
+| P | Pay selected expense (if ready to pay) |
+| S | Check security alerts for selected expense |
+| Enter | Open expense details |
+
+**On expense details:**
+
+| Key | Action |
+| --- | ------ |
+| Left / Right arrow | Navigate through attachments |
+| H | Put selected expense on hold |
+| I | Mark selected expense as incomplete |
+| P | Pay selected expense (if ready to pay) |
+| E | Enter edit mode |
+| Esc | Close expense details |
+
+### Table Quick Actions (public beta)
+
+Shows action buttons on table rows when you hover over them, so you can perform common actions without opening the row menu.
+
+### Async Exports (closed beta)
+
+Enables background processing for large data exports on organization accounts. Exports run asynchronously and you are notified when the download is ready. See [Exporting Your Data](exporting-your-data.md).
+
+### Crowdfunding Redesign (public beta)
+
+Preview of redesigned crowdfunding and profile pages, including separate fundraising and storytelling views and improved goal tracking. See the [blog post](https://blog.opencollective.com/open-collective-crowdfunding-redesign/) for details.

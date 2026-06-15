@@ -9,7 +9,7 @@ icon: people-roof
 
 Open Collective makes it easy to keep track of all the Collectives that you host.
 
-To view a list of all your Hosted Collectives, navigate to your Fiscal Host’s Dashboard > Collectives.
+To view a list of all your Hosted Collectives, navigate to your Fiscal Host’s Dashboard > Hosting > Hosted Collectives.
 
 #### Search
 
