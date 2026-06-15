@@ -7,7 +7,7 @@ icon: receipt
 
 # Managing Receipts
 
-You can view a record of all the contributions you have made to Collectives in your Open Collective account.
+You can view a record of all the contributions you have made to Collectives in your Open Collective account. This includes contributions processed through the platform and contributions recorded by a fiscal host through [added funds](../fiscal-hosts/receiving-money/adding-funds-manually.md).
 
 This means you can search payments by Collective or time period and download your receipts.
 

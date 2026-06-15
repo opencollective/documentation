@@ -37,6 +37,8 @@ An Open Collective profile can be an individual, Collective, project, event, org
 
 They will then receive an email notification which they can use to finish the expense and submit it.
 
+The invited payee can add or update the payout method while completing the draft, including when the expense is hosted by a different fiscal host than the one that created the invitation. If you are a host admin completing a cross-host draft on behalf of a payee, you can also add a payout method on their recipient host.
+
 ### Inviting someone without an Open Collective account
 
 If the person or group you are inviting does not currently have an Open Collective account:
@@ -51,6 +53,6 @@ If the person or group you are inviting does not currently have an Open Collecti
 8. You can then add details as you choose, such as the title, amount, and even a note which will be received by the user you invited.
 9. Submit the invite to them to complete the expense.&#x20;
 
-The payee will receive an email inviting them to submit the expense. They will need to confirm or fill in the remaining details, and submit the expense. An Open Collective account will be created for them within this process, or they will be prompted to login.
+The payee will receive an email inviting them to submit the expense. They will need to confirm or fill in the remaining details—including their payout method—and submit the expense. An Open Collective account will be created for them within this process, or they will be prompted to login.
 
 The expense will be marked as “Unverified” until they have verified their email address.<br>

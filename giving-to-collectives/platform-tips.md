@@ -20,8 +20,6 @@ By adding a platform tip, you’re helping us keep the platform running smoothly
 
 When you add a platform tip to your total, you’re giving to the Open Collective platform, in addition to your chosen Collective.
 
-When you add a platform tip to your total, you’re giving to the Open Collective platform, in addition to your chosen Collective.
-
 The Open Collective platform remains sustainable due to our investors and the platform fees from hosts. [You can find out more about our pricing here](../why-open-collective/pricing.md).
 
 However, your optional platform tips also play a huge role in helping us to maintain and improve the platform.
@@ -42,6 +40,21 @@ There are four ways to set your platform tip total:
 * Add a tip which is a percentage of your contribution
 
 Remember to check your total to ensure that you are happy with your tip amount. You can change your tip at any point up until you complete your payment.
+
+#### Updating your platform tip on a recurring contribution
+
+If you already have an active recurring contribution, you can change your platform tip without canceling and re-creating the contribution.
+
+1. Go to **Dashboard > Contributions**.
+2. Use the account switcher to select the profile that made the payment.
+3. Open the recurring contribution you want to update.
+4. Choose **Update platform tip amount**.
+
+You can set the tip to a preset percentage, adjust the slider, or enter a custom amount—including $0 to remove the tip. The new tip amount applies to future charges.
+
+{% hint style="info" %}
+Platform tip updates are only available for active recurring contributions where tips are enabled. One-time contributions and some payment methods (such as ACH and SEPA) do not support changes after checkout. See [Making a Recurring Contribution](making-a-recurring-contribution.md) for details on managing recurring payments.
+{% endhint %}
 
 #### Giving directly to the platform
 
