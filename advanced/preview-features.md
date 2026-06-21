@@ -34,26 +34,13 @@ If you want us to change or fix any part of the feature you're currently preview
 
 ## Available preview features
 
-### Sidebar Reorganization Incoming/Outgoing (public beta)
+### Sidebar Reorganization Incoming/Outgoing
 
-Renames **Expenses** to **Outgoing Money** and **Contributions** to **Incoming Money**, and moves cross-account items to the appropriate groups.
+This layout is **enabled by default** for all accounts. It renames **Expenses** to **Outgoing Money** and **Contributions** to **Incoming Money**, and moves cross-account items to the appropriate groups.
 
-**Outgoing Money** sub-pages (fiscal hosts):
+If you prefer the previous sidebar labels, open Preview Features and toggle **Sidebar Reorganization Incoming/Outgoing** off.
 
-* **Pay Disbursements** - expenses ready to pay
-* **Paid Disbursements** - expenses already paid
-* **Approve Payment Requests** - expenses awaiting approval
-* **All Payment Requests** - full expense list
-* **Outgoing Contributions** - contributions this account made to other accounts
-
-**Incoming Money** sub-pages (fiscal hosts):
-
-* **Incoming Contributions** - contributions received by hosted accounts
-* **Expected Funds** - pending offline or bank contributions
-* **Incomplete Contributions** - contributions needing follow-up
-* **Issued Payment Requests** - payment requests submitted by this account
-
-See [Dashboard Navigation](../fiscal-hosts/dashboard-navigation.md) for a mapping from older sidebar labels.
+See [Dashboard Navigation](../fiscal-hosts/dashboard-navigation.md) for the full sidebar reference and a mapping from older labels.
 
 ### Keyboard Shortcuts (public beta)
 

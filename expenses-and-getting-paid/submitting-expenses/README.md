@@ -7,11 +7,11 @@ icon: circle-dollar
 
 # Submitting Expenses
 
-You can submit an expense by either [finding the Organization or Collective's page](https://opencollective.com/search) on Open Collective, and locate the "Submit Expense" button on the right side of the page.&#x20;
+You can submit an expense by either [finding the Organization or Collective's page](https://opencollective.com/search) on Open Collective and clicking **Submit Expense** on the right side of the page, or from your dashboard as described below. The **Submit Expense** button is visible even when you are not logged in; if you start the flow while signed out, you will be prompted to sign in or create an account before you can complete the submission.
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt="Screenshot of a Collective&#x27;s header with a red outline highlighting the location of the &#x22;Submit Expense&#x22; button on the page."><figcaption><p>Screenshot of a Collective's header with a red outline highlighting the location of the "Submit Expense" button on the page.</p></figcaption></figure>
 
-Or by navigating to your personal Dashboard > Incoming Money > Issued Payment Requests (or **Dashboard > Expenses** without the sidebar reorganization preview) and clicking **New Expense** in the top right corner.&#x20;
+Or by navigating to your personal **Dashboard > Incoming Money > Issued Payment Requests** and clicking **New Expense** in the top right corner.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-10-28 at 5.30.03 PM.png" alt="Screenshot of your personal dashboard, expenses page. Highlighting the new expense button"><figcaption><p><sub>Screenshot of your personal dashboard, expenses page. Highlighting the new expense button</sub></p></figcaption></figure>
 
@@ -48,7 +48,7 @@ You will be asked:
 * Who is being paid (you can choose your individual account, Collective account, Organization account, Vendor, or an event or project). You can also invite someone else to submit an expense.
 
 {% hint style="info" %}
-You will need to [set up an Open Collective account](../../getting-started/setting-up-your-account.md) to submit an expense.
+You need an [Open Collective account](../../getting-started/setting-up-your-account.md) to complete and submit an expense. You can start the expense form while signed out, but you will be asked to sign in before submission.
 {% endhint %}
 
 ### Paying through a legal entity
@@ -146,7 +146,7 @@ Before submitting your expense, you will be asked to review all the information 
 If you need to make any changes, you can do this by clicking "Edit Expense".
 
 {% hint style="info" %}
-Once you have submitted an expense, you can find it on your public profile page, in your Dashboard > Incoming Money > Issued Payment Requests (or **Dashboard > Expenses**), or in the Organization or Collective's budget.
+Once you have submitted an expense, you can find it on your public profile page, in your **Dashboard > Incoming Money > Issued Payment Requests**, or in the Organization or Collective's budget.
 
 By selecting the **More Actions** menu for the expense, you can edit it, download it, or **Copy link**. The copied link is a [permalink](../../advanced/permmlinks-and-ids.md) that opens the expense in the correct dashboard view for each viewer.
 

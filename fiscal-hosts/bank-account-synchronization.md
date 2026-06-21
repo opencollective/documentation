@@ -70,6 +70,18 @@ Once connected, you can configure how your bank account integration works:
 2. **Sync Settings**: Configure how often you want transactions to be imported
 3. **Assignment Rules**: Set up automatic assignment rules for certain types of transactions
 
+### Connection status
+
+Each connected bank account shows a status on the **Connected Bank Accounts** page:
+
+| Status | Meaning |
+| ------ | ------- |
+| **Active** | The connection is authorized and transactions are syncing |
+| **Expired** | The bank authorization has lapsed and new transactions are not imported |
+| **Archived** | The connection was removed or is no longer active |
+
+If a connection shows **Expired**, reconnect the account using **Update Connection** on that row. European bank connections through GoCardless require periodic re-authorization; U.S. connections through Plaid may also need refresh if credentials change.
+
 ## Working with Imported Transactions
 
 ### Understanding the Transaction Import Process
@@ -111,10 +123,11 @@ To view and manage your imported transactions:
 
 **Connection Fails to Sync**:
 
-1. Check if your bank credentials have changed
-2. Verify your bank account is still active
-3. Try reconnecting using the **"Update Connection"** option
-4. Contact support if issues persist
+1. Check the connection status on **Connected Bank Accounts** — an **Expired** badge means you need to reconnect
+2. Check if your bank credentials have changed
+3. Verify your bank account is still active
+4. Try reconnecting using the **"Update Connection"** option
+5. Contact support if issues persist
 
 **Missing Transactions**:
 

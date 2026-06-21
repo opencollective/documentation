@@ -7,7 +7,7 @@ icon: rectangle-history
 
 # Projects
 
-Projects are a lightweight way for collectives to raise money and manage budgets for a specific initiative or idea.
+Projects are a lightweight way for collectives, organizations, and funds to raise money and manage budgets for a specific initiative or idea.
 
 A Project has its own balance and record of contributions and expenses. It can set contribution tiers, offer rewards, establish goals, give updates to backers, and have its own admins.
 
@@ -17,7 +17,7 @@ For an example of a Project in action, see [Bushwick Ayuda Mutua’s Asylum Seek
 
 ### Creating a Project
 
-To create a Project, go to your Collective’s page. Ensure that you have your Projects section visible, you will then have the ability to “Create Project”.&#x20;
+To create a Project, go to your Collective, Organization, or Fund page. Ensure that you have your Projects section visible, you will then have the ability to “Create Project”.
 
 This will invite you to choose a name, a profile URL and add a short description of what the Project aims to achieve.
 

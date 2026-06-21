@@ -25,7 +25,7 @@ If you are searching your account for a transaction, make sure you are signed in
 
 ### Searching your account for receipts
 
-To find a list of your receipts, navigate to your Dashboard > Settings > Payment Receipts.
+To find a list of your receipts, navigate to your **Dashboard > Settings > Payment Receipts**. This page is available for individual accounts, organizations, and funds.
 
 You will then be able to search a list of all your contributions. You can:
 
