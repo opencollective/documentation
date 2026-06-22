@@ -9,7 +9,7 @@ icon: map
 
 The dashboard sidebar groups tasks by what you are trying to do. The layout depends on your account type (individual, collective, organization, or fiscal host) and your role on that account.
 
-If you use the **Sidebar Reorganization Incoming/Outgoing** preview feature (enabled by default for many accounts), money-in and money-out sections use the labels below. See [Preview Features](../advanced/preview-features.md) to turn this on or off.
+Money-in and money-out sections use the **Incoming Money** and **Outgoing Money** labels described below. This layout is enabled by default. To revert to the previous **Expenses** and **Contributions** labels, toggle **Sidebar Reorganization Incoming/Outgoing** off from [Preview Features](../advanced/preview-features.md).
 
 ## Account switcher
 
@@ -36,7 +36,7 @@ Use the account switcher in the top-left corner to move between profiles where y
 
 ### Hosted collectives
 
-Hosted collectives see a smaller set of sections focused on fundraising and spending: **Overview**, **Outgoing Money** (or **Expenses** without the preview), **Incoming Money** (or **Contributions**), **Transactions**, **Contributors**, **Tiers**, **Team**, and **Settings**.
+Hosted collectives see a smaller set of sections focused on fundraising and spending: **Overview**, **Outgoing Money**, **Incoming Money**, **Transactions**, **Contributors**, **Tiers**, **Team**, and **Settings**.
 
 ### Individual accounts
 
@@ -46,7 +46,7 @@ Individuals typically see **Overview**, **Payment Requests** (or **Expenses**), 
 
 Use this table when following older documentation or support articles that reference previous sidebar names.
 
-| Previous label | New label (with sidebar reorg preview) | Notes |
+| Previous label | Current label | Notes |
 | -------------- | ---------------------------------------- | ----- |
 | **Expenses** (fiscal host) | **Outgoing Money** | Host expense workflows are split across sub-pages |
 | Expenses - ready to pay | **Outgoing Money > Pay Disbursements** | Expenses approved and awaiting payment |
@@ -65,10 +65,10 @@ Use this table when following older documentation or support articles that refer
 | **Payment Requests** (self-hosted organization) | **Outgoing Money > Payment Requests** | Organizations paying their own expenses |
 
 {% hint style="info" %}
-**Settings** paths are unchanged. For example, **Dashboard > Settings > Receiving Money** works the same regardless of the sidebar preview.
+**Settings** paths are unchanged. For example, **Dashboard > Settings > Receiving Money** works the same regardless of sidebar layout.
 {% endhint %}
 
 ## Related documentation
 
 * [Your Dashboard](../getting-started/your-dashboard.md) - getting started with the dashboard
-* [Preview Features](../advanced/preview-features.md) - enable sidebar reorganization and other previews
+* [Preview Features](../advanced/preview-features.md) - revert to the previous sidebar layout or try other previews

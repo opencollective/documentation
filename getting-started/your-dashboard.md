@@ -48,15 +48,19 @@ Switch to another profile to work as:
 
 The sidebar updates to show sections relevant to that role. Fiscal hosts and organizations with money management see grouped menus such as **Outgoing Money**, **Incoming Money**, **Ledger**, **Hosting**, and **People**. See [Dashboard Navigation](../fiscal-hosts/dashboard-navigation.md) for a full reference and mapping from older sidebar labels.
 
-### Sidebar layout (preview)
+### Dashboard sidebar
 
-Many accounts can enable **Sidebar Reorganization Incoming/Outgoing** from Preview Features. When enabled:
+The dashboard sidebar groups money-in and money-out workflows:
 
-* **Expenses** becomes **Outgoing Money**, with sub-pages for paying, approving, and listing payment requests
-* **Contributions** becomes **Incoming Money**, with sub-pages for received contributions, expected funds, and incomplete contributions
-* Cross-account items move to the group that matches the money direction (for example, payment requests you submitted appear under **Incoming Money > Issued Payment Requests**)
+* **Outgoing Money** — pay, approve, and track payment requests and outgoing contributions
+* **Incoming Money** — review received contributions, expected funds, incomplete contributions, and payment requests you submitted
+* **Ledger**, **Hosting**, and **People** — transaction history, hosted accounts, and account directory (for fiscal hosts and self-hosted organizations)
 
-This preview is in public beta and may become the default layout. You can toggle it off from Preview Features if you prefer the previous labels.
+Cross-account items appear under the group that matches the money direction. For example, payment requests you submitted appear under **Incoming Money > Issued Payment Requests**.
+
+See [Dashboard Navigation](../fiscal-hosts/dashboard-navigation.md) for the full sidebar reference and a mapping from older labels.
+
+If you prefer the previous sidebar labels (**Expenses** and **Contributions**), toggle **Sidebar Reorganization Incoming/Outgoing** off from [Preview Features](../advanced/preview-features.md).
 
 ### Common dashboard paths
 

@@ -29,7 +29,7 @@ If you do not want to link these services, you can pay expenses by other means o
 
 ## Payment Requests
 
-Organizations that manage their own finances on Open Collective can review and pay expenses from **Dashboard > Outgoing Money > Payment Requests** (or **Dashboard > Payment Requests** without the sidebar reorganization preview).
+Organizations that manage their own finances on Open Collective can review and pay expenses from **Dashboard > Outgoing Money > Payment Requests**.
 
 This page lists payment requests submitted to your Organization. You can filter by status, amount, payout method, and other criteria, and use tabs to switch between **All**, **Pending**, **Approved**, **Rejected**, and **Paid** requests.
 

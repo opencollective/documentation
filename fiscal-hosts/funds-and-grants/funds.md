@@ -97,11 +97,13 @@ From this view, you can see the Fund's name, the date that it has been hosted si
 
 ### Settings
 
-From this page, you can easily alter a few key settings for a Fund.&#x20;
+From this page, you can easily alter a few key settings for a Fund.
 
 * **Fee Structure:** Allows you to select whether you would like for the Fund to use the default host fee set by your Fiscal Host, or set a custom host fee.
 * **Expense Types:** Allows you to select whether a Fund will use the default settings for the Fiscal Host for expense types, or manually choose if a Fund allows for Invoices, Reimbursements, or Grants.
 * **Payout Method Details:** Allows you to select whether Fund Admins are able to see the payout method details of payees.
+
+Fund admins can also download contribution receipts from **Dashboard > Settings > Payment Receipts**.
 
 ### More Actions
 
