@@ -66,7 +66,7 @@ To edit the Vendor details click on Edit Vendor
 
 When you are done editing, click “Update Vendor.”
 
-
+If your fiscal host requires [two-factor authentication for admins](../../advanced/security-for-accounts/two-factor-authentication.md#enforce-2fa-for-all-admins), you will be prompted for a 2FA code when adding or updating a vendor payout method.
 
 ### Archive/Unarchive a Vendor
 

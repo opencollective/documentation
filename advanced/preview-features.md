@@ -78,3 +78,24 @@ Enables background processing for large data exports on organization accounts. E
 ### Crowdfunding Redesign (public beta)
 
 Preview of redesigned crowdfunding and profile pages, including separate fundraising and storytelling views and improved goal tracking. See the [blog post](https://blog.opencollective.com/open-collective-crowdfunding-redesign/) for details.
+
+### Dashboard view of a hosted account profile (closed beta)
+
+Replaces the side drawer on **Hosting > Hosted Collectives** and **Funds & Grants > Hosted Funds** with a full-page hosted account profile.
+
+When enabled, click a hosted collective or fund in the list to open its profile. The profile includes:
+
+| Tab | What you can do |
+| --- | --------------- |
+| **Overview** | Balance, financial chart, recent contributions and payouts, hosting settings (fee structure, expense types, payout method visibility) |
+| **Accounts** | Projects, events, and child accounts under the hosted account |
+| **Money Movements** | Full transaction history filtered by contributions or payouts |
+| **Expected Funds** | Pending offline or bank contributions for this account |
+| **Agreements** | Host agreements linked to the account |
+| **Updates** | Public updates published by the account |
+| **About** | Description, location, tags, social links, and team |
+| **Activities** | Activity log for this hosted account |
+
+Use **Copy URL** in the profile header to share a direct link with other host admins. **More Actions** provides the same freeze, unhost, add funds, and contact options as the hosted collectives list.
+
+See [Hosted Collectives](../fiscal-hosts/managing-your-collectives/hosted-collectives.md) and [Funds](../fiscal-hosts/funds-and-grants/funds.md).

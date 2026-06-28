@@ -42,11 +42,13 @@ Click on the three dots to view details, view transactions, add funds, add agree
 
 ### View Details
 
-View Details brings up a side view that provides more details about the Collective.
+By default, **View Details** (or clicking a row) opens a side drawer with key information about the hosted Collective.
 
-From the Details view, admins can see an overview of how long a Collective has been hosted, its balance, team members, transactions, and activities.
+From the drawer, admins can see an overview of how long a Collective has been hosted, its balance, team members, transactions, and activities.
 
-From this view, Admins can also easily change a few key settings for the Collective:&#x20;
+If you have the **Dashboard view of a hosted account profile** preview feature enabled, clicking a row opens a full-page profile instead of the drawer. The profile has tabs for **Overview**, **Accounts**, **Money Movements**, **Expected Funds**, **Agreements**, **Updates**, **About**, and **Activities**. See [Preview Features](../../advanced/preview-features.md).
+
+From either view, Admins can also easily change a few key settings for the Collective:&#x20;
 
 * **Fee Structure:** Allow the Collective to pay the default host fee, or set a custom fee structure for this specific Collective
 * **Expense Type:** Select what expense types people can submit to this Collective
