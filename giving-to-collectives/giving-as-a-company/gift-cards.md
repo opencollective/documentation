@@ -32,8 +32,10 @@ You will then be able to set:
 * Your payment method
 * The expiry date of each gift card
 * The name of the batch of cards you are creating
-* Whether you want to limit to certain hosts
+* Whether you want to limit to certain hosts or collective tags
 * Any custom messages you want to send
+
+Gift cards with host or tag restrictions can only be used to contribute to collectives that match those limits. These restrictions also apply when switching to a gift card as the payment method on an existing contribution.
 
 
 
