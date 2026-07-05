@@ -36,7 +36,7 @@ You can also filter by other properties by clicking the "+ Add Filter" button ne
 * Amount
 * Accounting Category
 * Payout method
-* Last Comment By
+* **Last Comment By** (Expense Submitter, Collective Admin, Fiscal Host Admin, Anyone but Host Admin, or Anyone but Payee admin)
 * Account
 * Tag
 * Beneficiary

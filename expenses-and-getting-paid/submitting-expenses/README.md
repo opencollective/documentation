@@ -152,3 +152,18 @@ By selecting the **More Actions** menu for the expense, you can edit it, downloa
 
 Downloading an expense is only available for invoices, and not reimbursements.
 {% endhint %}
+
+## Tracking your payment requests
+
+Use **Dashboard > Incoming Money > Issued Payment Requests** to follow payment requests you have submitted. Tabs at the top help you focus on what needs attention:
+
+| Tab | Shows |
+| --- | ----- |
+| **All** | Every payment request you submitted |
+| **Issued** | Pending or approved requests still in progress |
+| **Unreplied** | Requests where someone else left the last comment and is waiting for your reply |
+| **Paid** | Requests that have been paid |
+
+The **Unreplied** tab lists active requests (pending, approved, on hold, incomplete, or in error) where the most recent comment was not from a payee administrator. Use it when a Collective admin, Fiscal Host admin, or teammate asked a question and you still need to respond.
+
+You can also use the **Last Comment By** filter to narrow the list—for example, to see requests where a Fiscal Host admin commented last.

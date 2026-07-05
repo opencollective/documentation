@@ -22,7 +22,7 @@ The To do module consolidates items that may need your attention. Clicking a but
 The specific items featured in the To do list are:
 
 * Expenses
-  * Unreplied
+  * **Unreplied** — approved, on hold, incomplete, or error expenses where the last comment was not from a Fiscal Host admin (someone is waiting for your reply)
   * To Pay
   * Missing Receipts
   * On Hold
@@ -32,7 +32,7 @@ The specific items featured in the To do list are:
   * Disputed
   * In Review
 * Applications
-  * Unreplied
+  * **Unreplied** — pending applications where the applicant commented last and is waiting for your reply
   * Pending
 
 <figure><img src="../.gitbook/assets/image (77).png" alt="Screen shot of the To do section."><figcaption></figcaption></figure>
