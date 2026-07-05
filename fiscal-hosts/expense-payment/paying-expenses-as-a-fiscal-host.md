@@ -45,10 +45,22 @@ There you will see a list of expenses, which you can filter by:&#x20;
 * Type&#x20;
 * Payout Method
 * If an expense has a virtual card receipt
-* Who made the last comment
+* **Last Comment By** — who left the most recent comment on the expense
 * Associated account
 * Tag
 * Status
+
+**Last Comment By** options include:
+
+| Filter | Meaning |
+| ------ | ------- |
+| Expense Submitter | The person who submitted the expense commented last |
+| Collective Admin | A Collective admin commented last |
+| Fiscal Host Admin | A Fiscal Host admin commented last |
+| Anyone but Host Admin | The last comment was not from a Fiscal Host admin |
+| Anyone but Payee admin | The last comment was not from a payee administrator |
+
+Use **Anyone but Host Admin** to find expenses where a submitter or Collective admin is waiting for your reply. From **Overview > To do**, the **Unreplied** shortcut opens **Pay Disbursements** with this filter applied.
 
 You can also order by newest or oldest first.
 
