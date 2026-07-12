@@ -30,7 +30,7 @@ Funds allow you to know how much money the Fund has, approve or invite grant req
 
 By navigating to your Fiscal Host Dashboard > Funds & Grants > Hosted Funds, you can see all of the funds that your Fiscal Host currently hosts, create new Funds, manage your existing Funds, and export information about the Funds that you are hosting.&#x20;
 
-Click a fund in the list to open its details. By default this opens a side drawer. If you have the **Dashboard view of a hosted account profile** preview feature enabled, clicking a row opens a full-page profile with tabs for financial overview, money movements, agreements, updates, and more. See [Preview Features](../../advanced/preview-features.md).
+Click a fund in the list to open its details. By default this opens a side drawer. If you have the **Dashboard view of a hosted account profile** preview feature enabled, clicking a row opens a full-page profile with tabs for financial overview, money movements, agreements, updates, and more. The **Overview** tab includes balance and all-time totals, contribution and payout analytics, and recent transactions. See [Preview Features](../../advanced/preview-features.md) and [Hosted Collectives](../managing-your-collectives/hosted-collectives.md#hosted-account-profile-overview).
 
 On this Hosted Funds Dashboard, the main view is a list of all of your currently hosted Funds. You can quickly search for a specific Fund by using the Search bar above the list of Funds. All of the Funds on this list have the following properties:
 

@@ -48,6 +48,20 @@ From the drawer, admins can see an overview of how long a Collective has been ho
 
 If you have the **Dashboard view of a hosted account profile** preview feature enabled, clicking a row opens a full-page profile instead of the drawer. The profile has tabs for **Overview**, **Accounts**, **Money Movements**, **Expected Funds**, **Agreements**, **Updates**, **About**, and **Activities**. See [Preview Features](../../advanced/preview-features.md).
 
+#### Hosted account profile overview
+
+When using the full-page profile, the **Overview** tab gives host admins a consolidated view of a hosted collective:
+
+| Section | What it shows |
+| ------- | ------------- |
+| **Details** | Name, tags, social links, location, fee structure, expense types, and payout method visibility. Use the edit icon to update fee structure, expense types, or payout method visibility. |
+| **Platform Activity** | Hosting status, applied and accepted dates, and first and latest financial interactions. |
+| **About** | Description and collective admins. |
+| **Financial summary** | Current balance, all-time received, and all-time disbursed. Click received or disbursed to open **Money Movements** filtered to that type. |
+| **Balance chart** | Monthly balance, received, and spent over the account's lifetime. |
+| **Contributions / Payouts** | Analytics with **By size**, **Over time**, and (for contributions) **By type** views. |
+| **Recent Contributions / Recent Payouts** | The five most recent transactions, with a link to view all. |
+
 From either view, Admins can also easily change a few key settings for the Collective:&#x20;
 
 * **Fee Structure:** Allow the Collective to pay the default host fee, or set a custom fee structure for this specific Collective

@@ -87,7 +87,7 @@ When enabled, click a hosted collective or fund in the list to open its profile.
 
 | Tab | What you can do |
 | --- | --------------- |
-| **Overview** | Balance, financial chart, recent contributions and payouts, hosting settings (fee structure, expense types, payout method visibility) |
+| **Overview** | Account details, platform activity, balance and all-time totals, financial charts, contribution and payout analytics, recent transactions, and hosting settings (fee structure, expense types, payout method visibility) |
 | **Accounts** | Projects, events, and child accounts under the hosted account |
 | **Money Movements** | Full transaction history filtered by contributions or payouts |
 | **Expected Funds** | Pending offline or bank contributions for this account |
@@ -97,5 +97,17 @@ When enabled, click a hosted collective or fund in the list to open its profile.
 | **Activities** | Activity log for this hosted account |
 
 Use **Copy URL** in the profile header to share a direct link with other host admins. **More Actions** provides the same freeze, unhost, add funds, and contact options as the hosted collectives list.
+
+#### Overview tab
+
+The **Overview** tab is the main financial and operational snapshot for a hosted account:
+
+* **Details** — name, tags, social links, location, fee structure, expense types, and payout method visibility. Click the edit icon to change fee structure, expense types, or payout method visibility without leaving the profile.
+* **Platform Activity** — hosting status (active or frozen), applied and accepted dates, and first and latest financial interactions (click an interaction to open the related contribution or expense).
+* **About** — description and collective admins.
+* **Financial summary** — current balance, all-time received, and all-time disbursed. Click received or disbursed totals to jump to **Money Movements** filtered to contributions or payouts.
+* **Balance chart** — monthly balance, received, and spent over the account's lifetime.
+* **Contributions and Payouts** — two analytics cards with tabs for **By size** (amount distribution), **Over time** (monthly totals), and **By type** (contributions only: one-time vs recurring breakdown).
+* **Recent Contributions** and **Recent Payouts** — the five latest transactions, with links to view all in **Money Movements**.
 
 See [Hosted Collectives](../fiscal-hosts/managing-your-collectives/hosted-collectives.md) and [Funds](../fiscal-hosts/funds-and-grants/funds.md).
