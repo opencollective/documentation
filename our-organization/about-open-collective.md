@@ -12,7 +12,7 @@ Created in 2015, Open Collective is a platform that makes it easy to raise, mana
 Since October 2024, Open Collective has been forked into two different initiatives:
 
 * The classic platform, started in 2015, is now managed by the non-profit [OFi Consortium.](https://oficonsortium.org/)
-* A [web3 platform](https://opencollective.xyz/), launched in 2025, managed by Open Collective Inc., the original company&#x20;
+* A [web3 platform](https://opencollective.xyz/), launched in 2025, managed by Open Collective Inc., the original company
 
 ## **Who operates Open Collective (the "classic" platform)?**
 
@@ -38,4 +38,13 @@ OFi Consortium is financed by members who pay membership fees based on their fin
 \
 OFi Technologies is financed by tips given on transactions from financial contributors and fees paid by platform customers.\
 \
-The total combined budget for the organizations is around $1,000,000 in 2025.
+The total combined budget for the organizations is around $1,000,000 in 2026.
+
+#### Want to donate?&#x20;
+
+You can contribute to [OFi Consortium](https://opencollective.com/ofico), the non-profit stewarding the Open Collective Platform,&#x20;
+
+or&#x20;
+
+[OFi Technologies](https://opencollective.com/ofitech), focused on maintaining the Platform.&#x20;
+
