@@ -34,7 +34,46 @@ You can use several filters to narrow your list of hosted Collectives:
 
 You can also sort by the period of time you've hosted them — most recent and oldest.
 
+## Create collective
 
+Host admins can create a new hosted collective directly from the dashboard, without waiting for an application. This is useful when you are onboarding a group yourself or setting up accounts on their behalf.
+
+To create a collective, go to **Dashboard > Hosting > Hosted Collectives** and click **Create collective**.
+
+### Form fields
+
+| Field | Description |
+| ----- | ----------- |
+| **Collective's name** | Required. The public name of the collective. |
+| **Profile URL** | Required for public hosts. Auto-suggested from the name; you can customize the slug before creating the account. Not shown for private hosts — the platform generates a slug automatically. |
+| **Short description** | Optional. A brief summary of the collective. |
+| **Invite Administrators** | Add up to five people to invite as collective admins. Each invitee receives an email with instructions to sign up and accept. |
+| **Private note to invited admins** | Optional. Included in the invitation email only — not visible on the collective's public profile. |
+| **Add me as an admin of this collective** | Check this to make yourself an admin instead of (or in addition to) inviting others. |
+
+At least one admin is required before you can create the collective. You must either invite at least one administrator or check **Add me as an admin of this collective**.
+
+The collective is created immediately and appears in your hosted collectives list. It is already hosted by your fiscal host — no separate application or approval step is needed.
+
+### Invited status
+
+If you invited admins but none have accepted yet, the collective shows an **Invited** badge in the hosted collectives list. The badge clears once at least one invited admin accepts their invitation.
+
+If a collective still has no admins after creation, you can invite one from **More Actions > Invite admin** on that collective's row.
+
+### Invitation flow
+
+Invited administrators receive an email with a link to sign up (or sign in) and accept the invitation. If you added a private note, it appears in that email.
+
+Once an invitee completes their profile and accepts, they become a collective admin with full dashboard access.
+
+### Activity log
+
+Collective creation and admin invitations are recorded in your fiscal host's activity log (**Settings > Activity Log**). You can filter by account to see events for a specific hosted collective, including when invites are sent and accepted.
+
+{% hint style="info" %}
+Collectives can still apply to join your host through the standard [application flow](collective-applications.md). Use **Create collective** when you are proactively setting up an account rather than reviewing an incoming application.
+{% endhint %}
 
 ## More Actions
 
