@@ -23,10 +23,6 @@ A Grant is a type of disbursement, similar to an expense but where an expense is
 
 New to Funds? Start here to learn who can create one, why they exist, and how funding decisions get made.
 
-**Creating a Fund**
-
-Looking to set up a new Fund? This walks through why organizations do it and how to get started.
-
 [**Funds**](funds.md)
 
 Already hosting Funds? Learn how to create, manage, and export data for the Funds under your Fiscal Host.

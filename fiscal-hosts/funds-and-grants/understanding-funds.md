@@ -7,7 +7,12 @@ icon: badge-dollar
 
 ## What is a Fund?
 
-A Fund is a profile built to pool a lump sum of money and distribute it.
+A Fund is a profile built to pool a lump sum of money and distribute it to multiple recipients.
+
+### Why set up a Fund
+
+* **Visibility and credibility.** A named Fund signals that there's a dedicated source of support for a field or community, and that your company has real skin in the game.
+* **Simplified invoicing.** You pay into one pot rather than juggling invoices with multiple recipients over time.
 
 ### Who hosts the Fund?&#x20;
 
@@ -17,7 +22,13 @@ An organization can turn on Fiscal Hosting and host their own Fund, designating 
 
 Some Funds are Hosted by External Fiscal Hosts.&#x20;
 
-Open Source Collective Hosts several corporate Funds for a single organization wanting to support Open Source Software, e.g., the Google Open Source Fund.&#x20;
+Open Source Collective Hosts several corporate Funds for a single organization wanting to support Open Source Software.&#x20;
+
+Examples:
+
+* [Google Open Source Fund](https://opencollective.com/google)
+* [Airbnb Fund](https://opencollective.com/airbnb)
+* [Indeed Fund](https://opencollective.com/indeed)
 
 Other Funds work as a way for multiple non-profits to pool money around a shared cause or topic, also hosted by an external Fiscal Host, e.g The Global Statelessness Fund hosted by Open Collective Europe Foundation.&#x20;
 
@@ -39,7 +50,9 @@ Otherwise, all Fiscal Hosts on the Open Collective Platform can set up and use a
 
 ## **Who can Funds pay?**
 
-A Fund isn't limited to distributing to projects already on Open Collective. It can pay any group, whether they are a company, have their own foundation, work with a different Fiscal Host, are entirely unincorporated, or are an individual.&#x20;
+Make contributions to a Collective's page on the Open Collective profiel, selecting your Fund as the paying profile. &#x20;
+
+If a project you want to support isn't on Open Collective, that's not a blocker; you can still pay them by inviting them to submit an expense. It can pay any group, whether they are a company, have their own foundation, work with a different Fiscal Host, are entirely unincorporated, or are an individual.
 
 ## How is funding decided?
 
@@ -48,3 +61,7 @@ That's entirely up to you. Common approaches include:
 * Using Open Collective's built-in **Request a Grant** feature, so projects can apply directly to your Fund, including all required information and payment details.&#x20;
 * Inviting grantees for an external grant program that already has its own selection process.&#x20;
 * Making the calls internally, with a private team that decides where the money goes and doesn't take open requests.&#x20;
+
+### Getting started
+
+Jump into the details on the next page [funds.md](funds.md "mention").&#x20;

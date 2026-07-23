@@ -1,112 +1,47 @@
 ---
-description: Grants are a way to distribute money held in Funds.
+description: Review, approve, and manage Grant requests submitted to your hosted Funds.
 icon: hand-holding-dollar
 ---
 
 # Grants
 
-By navigating to your Fiscal Host Dashboard > Funds & Grants > Grants, you can see all of the Grants that are associated with your Fiscal Host and manage existing Grants.
+From **Dashboard > Funds & Grants > Grants**, you can see and manage every Grant associated with your Funds.
 
-On this Grants Dashboard, the main view is a list of all Grants associated with your Fiscal Host. This does not just include Grants that have already been approved or disbursed, but all Grants that have been created, including those that have been rejected, marked as spam, placed on hold, etc. You can quickly search for a specific Grant by using the Search bar above the list of Grants. All of the Grants on this list have the following properties:
+### Hosted Grant Requests
 
-* Fund
-* Beneficiary
-* Date
-* Amount
-* Status
+This list includes every Grant that's ever been created against your hosted Funds, not just ones awaiting approval, but also those already approved, disbursed, rejected, marked as spam, or placed on hold. Each entry shows Fund, Beneficiary, Date, Amount, and Status. Search for a specific Grant, filter by status, or sort the list.
+
+<figure><img src="../../.gitbook/assets/Untitled Design 3024x1720.png" alt=""><figcaption></figcaption></figure>
 
 
-
-<details>
-
-<summary>Filters</summary>
-
-At the top of the page, you can quickly filter based on the status of the Grant. You can choose to view:
-
-* All
-* Awaiting Approval
-* Approved
-* Disbursed
-
-
-
-You can also filter by other properties by clicking the "+ Add Filter" button next to the search. You can filter by the following properties:
-
-* Date
-* Amount
-* Accounting Category
-* Payout method
-* Last Comment By
-* Account
-* Tag
-* Beneficiary
-
-</details>
-
-<details>
-
-<summary>Status</summary>
-
-You can filter Grants by Status by clicking the Status option above the list of Grants. You can choose from the following options:
-
-* Approved
-* Canceled
-* Draft
-* Error
-* Incomplete
-* Invite Declined
-* On Hold
-* Paid
-* Pending
-* Processing
-* Ready to pay
-* Rejected
-* Scheduled for payment
-* Spam
-* Unverified
-
-</details>
-
-<details>
-
-<summary>Sort</summary>
-
-You can sort the list based on date.
-
-</details>
 
 ## Manage Grant
 
-Once a Grant is created, you can manage it by finding it in your list of Grants and clicking on the specific entry that you would like to view or edit. Once selected, you are able to view associated information and leave comments.
-
-From this view, you can see important information about a Grant such as:
+Click into a Grant to view and edit it, and to leave comments. This detail view shows:
 
 * Name of Grant
-* Grant Number
-* Category
-* Tags
-* Grant Submitter
 * Status
-* Grant Description
+* Grant Number
+* Tags
+* Accounting Category
+* Request Details&#x20;
+* Fund or Collective&#x20;
+* Grant Submitter
+* Payout method
 
-At the bottom right of the page, there is a shield icon. By clicking it, you can also view the [Security Checks](../expense-payment/understanding-security-checks.md) associated with the specific Grant.
+Click the shield icon in the bottom right to view the Grant's [Security Checks](../expense-payment/understanding-security-checks.md).
 
-
-
-### More Actions
-
-At the bottom left of the page, there is a dropdown button for More Actions. By clicking it, you will get access to the following options:
+From this detail view, the **More Actions** dropdown (bottom left) gives you:
 
 * Approve
 * Reject
 * Copy Link
 * View Transactions
 
-
-
-Alternatively, rather than clicking on a Grant to view all of its details, you can click on the Three Dot Menu associated with the specific Grant in the full Grant list. This will provide you with the following options:
+Alternatively, without opening a Grant, use the three-dot menu next to it in the list for:
 
 * View Details
 * View Previous Grants
 * Approve Grant
 * Reject Grant
+* Duplicate Grant&#x20;

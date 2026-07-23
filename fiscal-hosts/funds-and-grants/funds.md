@@ -1,142 +1,61 @@
 ---
-description: Funds make it easy to give money to projects you care about.
+description: >-
+  "Create, manage, and export data for the Funds hosted under your
+  Organization."
 icon: sack-dollar
 ---
 
 # Funds
 
-## Funds
+Once a Fund is set up, its Fiscal Host manages it from **Dashboard > Funds & Grants > Hosted Funds**. From here you can see every Fund your Fiscal Host currently hosts, create new ones, manage existing ones, and export their data.
 
-Funds are similar to an organization in that both will let you donate to a Collective, but funds are designed to hold and display a balance, show transaction history, and distribute money through Grants and Expenses.
+## Hosted Funds
 
-If you are more focused on disbursing funds than receiving them, a **Fund** may be a good fit for you.
+The Hosted Funds list shows every Fund under your host, with each one's team, fee, hosting start date, total raised, total disbursed, and current balance. Search for a specific Fund, filter by All, Hosted, Frozen, or Unhosted, and sort the list.
 
-{% hint style="success" %}
-Funds allow you to know how much money the Fund has, approve or invite grant requests, and easily request disbursements from your charitable Fund.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Untitled Design 3022x1718.png" alt=""><figcaption></figcaption></figure>
 
-**Funds** provide:
+Click a Fund in the list to open its details. This opens a full-page profile with tabs for financial overview, money movements, agreements, updates, and more. The Overview tab includes balance and all-time totals, contribution and payout analytics, and recent transactions.
 
-* Transparent financial management on the Open Collective platform
-* A streamlined, single-payer process for supporters
-* Support for communities operating on Open Collective or elsewhere
-* A lightweight 'Request a Grant' process for projects to issue money to grant recipients
-* More flexibility with what you choose to publicly show (in terms of expense management)
-  * Protect the identities of those receiving grants
-    * e.g. emergency relief aid may not want to be as public
-      * Will still be reported and available to the Fiscal Host
+<figure><img src="../../.gitbook/assets/Untitled Design 3024x1718.png" alt=""><figcaption></figcaption></figure>
 
+## Managing a Fund
 
-
-By navigating to your Fiscal Host Dashboard > Funds & Grants > Hosted Funds, you can see all of the funds that your Fiscal Host currently hosts, create new Funds, manage your existing Funds, and export information about the Funds that you are hosting.&#x20;
-
-Click a fund in the list to open its details. By default this opens a side drawer. If you have the **Dashboard view of a hosted account profile** preview feature enabled, clicking a row opens a full-page profile with tabs for financial overview, money movements, agreements, updates, and more. The **Overview** tab includes balance and all-time totals, contribution and payout analytics, and recent transactions. See [Preview Features](../../advanced/preview-features.md) and [Hosted Collectives](../managing-your-collectives/hosted-collectives.md#hosted-account-profile-overview).
-
-On this Hosted Funds Dashboard, the main view is a list of all of your currently hosted Funds. You can quickly search for a specific Fund by using the Search bar above the list of Funds. All of the Funds on this list have the following properties:
-
-* Fund name
-* Team&#x20;
-* Fee&#x20;
-* Hosted Since
-* Total Raised
-* Total Disbursed
-* Current Balance
-
-<details>
-
-<summary>Filters</summary>
-
-At the top of the page, you can quickly filter based on the status of the Fund. You can choose to view:
-
-* All
-
-- Active
-
-* Frozen
-
-- Unhosted
-
-
-
-You can also filter by other properties by clicking the "+ Add Filter" button next to the search. You can filter by the following properties:
-
-* Fee structure
-* Currency
-* Status
-* Balance
-
-</details>
-
-<details>
-
-<summary>Sort</summary>
-
-You can sort the list based on the following properties:
-
-* Hosted Since
-* Balance
-* Name
-
-</details>
-
-## Create Funds
-
-You can create a Fund by clicking the "Create fund" button in the top right of the page. When you select this option, a page will pop up asking you for the following information:
-
-* Fund Name
-* Fund Description
-* Profile URL
-
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="Screen shot of the Create Fund menu."><figcaption></figcaption></figure>
-
-## Manage Funds
-
-Once your Fund is created, you can manage it by finding it in your list of Funds and clicking on the specific entry that you would like to view or edit. Once selected, you are able to view associated information and alter settings.
-
-### Overview
-
-From this view, you can see the Fund's name, the date that it has been hosted since, its current balance, and its associated team members. You can also view a short list of its most recent transactions, as well as the most recent activities associated with it. While the lists present on this page feature only a few entries, there are buttons to "View Transactions," and "View Activities" that will allow you to browse all of the respective information.&#x20;
+The Fund's name, hosted-since date, current balance, and team members, plus a short list of its most recent transactions and activities. Use the "View Transactions" and "View Activities" buttons to see the full history beyond the few entries shown here.
 
 ### Settings
 
 From this page, you can easily alter a few key settings for a Fund.
 
-* **Fee Structure:** Allows you to select whether you would like for the Fund to use the default host fee set by your Fiscal Host, or set a custom host fee.
-* **Expense Types:** Allows you to select whether a Fund will use the default settings for the Fiscal Host for expense types, or manually choose if a Fund allows for Invoices, Reimbursements, or Grants.
-* **Payout Method Details:** Allows you to select whether Fund Admins are able to see the payout method details of payees.
+* **Fee Structure:** Use your Fiscal Host's default host fee, or set a custom fee for this Fund.
+* **Expense Types:** Use your Fiscal Host's default expense-type settings, or manually choose whether this Fund allows Invoices, Reimbursements, or Grants.
+* **Payout Method Details:** Control whether Fund admins can see payees' payout method details.
 
 Fund admins can also download contribution receipts from **Dashboard > Settings > Payment Receipts**.
 
 ### More Actions
 
-On the Fund page, there is a button for "More Actions." Clicking this button will give you access to the following additional options:
+From a Fund's page, or from the three-dot menu next to it in the Hosted Funds list, you can:
 
-* View Transactions
-* View Disbursed Grants
-* View Grant Requests
-* Add Funds
-* Create Grant Requests
-* Add Expense
-* Add [Agreement](../managing-your-collectives/agreements.md)
-* Contact
-* [Freeze](../managing-your-collectives/freezing-a-collective.md) Fund
-* Unhost
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-23 at 2.49.39 PM.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-All of these actions are also accessible by clicking on the Three Dot Menu button next to the specific Fund from the Hosted Funds list.
-{% endhint %}
+## Create Funds
+
+Fiscal Hosts can start a new Fund directly from the Hosted Funds page via the **Create Fund** button, in the top right: just a name, description, and profile URL.
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="Screen shot of the Create Fund menu."><figcaption></figcaption></figure>
+
+
 
 ## Exporting Fund Information
 
-You can export information about your Funds by clicking the Export CSV button in the top right corner of the Hosted Funds page. You can either use the default export settings, or you can configure your export with dozens of fields across the following four categories:
+Click **Export CSV** in the top right of the Hosted Funds page to download data on your Funds. Use the default export, or configure your own across four field categories:
 
-* **About:** This includes fields like Name, Status, and Currency.
-* **Financials:** This includes fields like Balance, Total Spent (All Time), and Average Yearly Received.
-* **Contributions:** This includes fields like Last Contribution Date, Total Refunded Value, and Number of Contributions.&#x20;
-* **Expenses:** This includes fields like First Expense Date, Distinct Payess, and Max Expense Value.
+* **About:** e.g. Name, Status, Currency
+* **Financials:** e.g. Balance, Total Spent (All Time), Average Yearly Received
+* **Contributions:** e.g. Last Contribution Date, Total Refunded Value, Number of Contributions
+* **Expenses:** e.g. First Expense Date, Distinct Payees, Max Expense Value
 
-To create a new export template using these fields, click the dropdown under "Selected export set," and click "New preset."
-
-Once you have configured the export to include your necessary specific fields, you can download a smaller sample to test if the export meets your needs by clicking "Export Sample."
+Save a custom set of fields as a reusable preset via the "Selected export set" dropdown → "New preset," and use **Export Sample** to download a small test file before running the full export.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt="Screen shot of the Export Hosted Collectives menu."><figcaption></figcaption></figure>
