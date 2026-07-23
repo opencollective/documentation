@@ -64,4 +64,4 @@ That's entirely up to you. Common approaches include:
 
 ### Getting started
 
-Jump into the details on the next page [funds.md](funds.md "mention").&#x20;
+Jump into the details on the next page, [funds.md](funds.md "mention").&#x20;
