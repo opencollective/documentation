@@ -1,7 +1,5 @@
 ---
-description: >-
-  "Create, manage, and export data for the Funds hosted under your
-  Organization."
+description: Create, manage, and export data for the Funds hosted under your Organization.
 icon: sack-dollar
 ---
 

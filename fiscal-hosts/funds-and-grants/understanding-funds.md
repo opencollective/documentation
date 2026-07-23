@@ -18,11 +18,11 @@ A Fund is a profile built to pool a lump sum of money and distribute it to multi
 
 A Fund can be hosted directly by an organization or held by an external Fiscal Host.&#x20;
 
-An organization can turn on Fiscal Hosting and host their own Fund, designating a set amount of money to distribute for a particular granting programme.&#x20;
+An organization can turn on Fiscal Hosting and host their own fund, designating a set amount of money to distribute for a particular granting programme.&#x20;
 
-Some Funds are Hosted by External Fiscal Hosts.&#x20;
+Some funds are hosted by External Fiscal Hosts.&#x20;
 
-Open Source Collective Hosts several corporate Funds for a single organization wanting to support Open Source Software.&#x20;
+Open Source Collective hosts several corporate Funds, each for a single organization wanting to support Open Source Software.
 
 Examples:
 
@@ -50,7 +50,7 @@ Otherwise, all Fiscal Hosts on the Open Collective Platform can set up and use a
 
 ## **Who can Funds pay?**
 
-Make contributions to a Collective's page on the Open Collective profiel, selecting your Fund as the paying profile. &#x20;
+Make contributions to a Collective's page on the Open Collective profile, selecting your Fund as the paying profile. &#x20;
 
 If a project you want to support isn't on Open Collective, that's not a blocker; you can still pay them by inviting them to submit an expense. It can pay any group, whether they are a company, have their own foundation, work with a different Fiscal Host, are entirely unincorporated, or are an individual.
 
