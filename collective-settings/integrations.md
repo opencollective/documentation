@@ -17,4 +17,4 @@ See [this link](https://api.slack.com/messaging/webhooks#getting_started) to lea
 
 While creating the web-hook, you'll be able (in some cases) to preview the payload by clicking on the Info icon next to the activity name:
 
-<figure><img src="../.gitbook/assets/example-webhook-creation (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/example-webhook-creation.gif" alt=""><figcaption></figcaption></figure>

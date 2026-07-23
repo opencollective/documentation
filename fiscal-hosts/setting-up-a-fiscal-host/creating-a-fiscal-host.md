@@ -13,27 +13,19 @@ You can set up a Fiscal Host on Open Collective in just a few steps. However, th
 Remember, you will need to be established as a legal entity in your country of operation to become a Fiscal Host. Check your local regulations to find out how to do this.
 {% endhint %}
 
-
-
 **Step One: Create an Open Collective account**
 
 You will need an individual Open Collective account to start the process of creating a Fiscal Host. Visit the [Setting up an Account](../../getting-started/setting-up-your-account.md) page for information on how to do this.
-
-
 
 **Step Two: Create an Organization**
 
 The next step is to create an Organization. In your account profile menu, go to the "My Organizations" section and find the "+" button. For more information on Organizations, go to the [Creating an Organization page](../../getting-started/creating-an-organization.md)
 
-
-
 **Step Three: Transform your Organization into a Fiscal Host**
 
-Go to your Organization’s Dashboard > Settings > Advanced. You should now have the option to "Activate as Host".&#x20;
+Go to your Organization’s Dashboard > Settings > Advanced. You should now have the option to "Activate as Host".
 
 You will then be able to fill in all the details of your Fiscal Host, including your information, host fees, and so on.
-
-
 
 **Step Four: Get set up to receive money**
 
@@ -58,11 +50,10 @@ If you feel you wish to host your own Collective, you have two options:
 \
 **Convert your Collective to an Organization**
 
-This means you will be in control of all the finances and admin of your account, and will need your own legal status and bank account. See our [Organizations](../organizations/organizations.md) section for more information.
+This means you will be in control of all the finances and admin of your account, and will need your own legal status and bank account. See our [Organizations](https://github.com/opencollective/documentation/blob/main/fiscal-hosts/organizations/organizations.md) section for more information.
 
 **Set up a Fiscal Host**
 
 This option is most suitable if you want to host multiple Collectives, either now or in the future.
 
 Visit our [Changing Your Fiscal Host](../../collectives/changing-fiscal-host.md) section for more details on transferring your Collective. We recommend contacting your current Fiscal Host directly to arrange the best way to transfer any funds to your new host.
-

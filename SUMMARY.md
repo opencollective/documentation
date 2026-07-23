@@ -162,6 +162,7 @@
 * [Platform Settlements](fiscal-hosts/platform-settlements.md)
 * [Funds and Grants](fiscal-hosts/funds-and-grants/README.md)
   * [Understanding Funds](fiscal-hosts/funds-and-grants/understanding-funds.md)
+  * [Creating a Fund](fiscal-hosts/funds-and-grants/creating-a-fund.md)
   * [Funds](fiscal-hosts/funds-and-grants/funds.md)
   * [Grants](fiscal-hosts/funds-and-grants/grants.md)
 * [Certified Member](fiscal-hosts/certified-member.md)

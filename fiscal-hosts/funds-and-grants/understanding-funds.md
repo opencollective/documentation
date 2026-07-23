@@ -1,5 +1,5 @@
 ---
-description: Learn the ins-and-outs of Funds on Open Collective
+description: Who Funds are for, why they exist, and how funding decisions get made.
 icon: badge-dollar
 ---
 
@@ -7,30 +7,44 @@ icon: badge-dollar
 
 ## What is a Fund?
 
-A Fund is a profile designed for one or a few large sponsor companies to move chunks of money under our umbrella and frictionlessly distribute it to as many collectives as they want. Some Funds are in the name of a particular company, while others are focused on a topic.
+A Fund is a profile built to pool a lump sum of money and distribute it.
 
-## Why do we need Funds?
+### Who hosts the Fund?&#x20;
 
-Big companies call the process of paying for stuff “procurement." It’s often pretty involved, with contracts, invoices, purchasing order numbers, and bureaucracy—a painful thing to go through repeatedly for small amounts.
+A Fund can be hosted directly by an organization or held by an external Fiscal Host.&#x20;
 
-It is easier for corporations to make one large payment to one vendor. As an umbrella non-profit, we are set up for exactly this. Funds are a feature on the platform to make the experience even better, and more scalable.
+An organization can turn on Fiscal Hosting and host their own Fund, designating a set amount of money to distribute for a particular granting programme.&#x20;
+
+Some Funds are Hosted by External Fiscal Hosts.&#x20;
+
+Open Source Collective Hosts several corporate Funds for a single organization wanting to support Open Source Software, e.g., the Google Open Source Fund.&#x20;
+
+Other Funds work as a way for multiple non-profits to pool money around a shared cause or topic, also hosted by an external Fiscal Host, e.g The Global Statelessness Fund hosted by Open Collective Europe Foundation.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-23 at 2.50.46 PM.png" alt=""><figcaption></figcaption></figure>
+
+## Why organizations use a Fund hosted by a Fiscal Host
+
+For companies, the driver is often procurement: contracts, invoices, purchase order numbers, and approval chains, repeated every time you want to support a new project. That overhead doesn't scale when you're trying to support dozens or hundreds of small, often unincorporated projects.
+
+A Fund solves this by letting you make **one payment into one pot**, held by whichever Fiscal Host administers your Fund, which then distributes the money out to the projects you want to support. You get the simplicity of a single invoice; if your projects are also hosted by a Fiscal Host, they can get money without needing their own legal entity, bank account, or tax paperwork.
+
+The same structure works well for a group of non-profits pooling resources around a shared cause: instead of each organization managing its own separate disbursements, they contribute into one Fund and share the Fiscal Hosting fee.&#x20;
 
 ## **Who can create a Fund?**
 
-Funds can be created by Fiscal Hosts and Organizations.&#x20;
+Funds need to be "hosted" by a Fiscal Host. So if you are a self-hosted Organization, you'll need to turn Fiscal Hosting on in your Advanced Settings.&#x20;
 
-**Funds** allow for more customization in the transparency of an initiative. This is a great way to issue grants to recipients of emergency aid, human rights activists, and censorship targets, for example, for whom more privacy is essential.
-
-With **Funds**, we can now offer more flexibility for managing finances and expenses.
+Otherwise, all Fiscal Hosts on the Open Collective Platform can set up and use a Fund.&#x20;
 
 ## **Who can Funds pay?**
 
-Lots of projects sign up with us because they don’t have their own company or foundation to work through. But you don’t have to be on Open Collective. Any Collective—whether they are part of a company, has its own foundation, works with another Fiscal Host, or is unincorporated—can get contributions from a Fund.
-
-The Funds' admins approve what money gets spent on, but when it comes to invoices, purchase orders, payment processing, tax forms, etc, they don't need to worry about it. We take care of all that and interface with the payees. This makes it a lot easier for both of them.
-
-The key to creating scalable, resilient projects is to support the community as a whole in ways that serve the full range of projects and creators. Open Collective liberates corporate support, getting it directly to projects at scale, across languages and ecosystems.
+A Fund isn't limited to distributing to projects already on Open Collective. It can pay any group, whether they are a company, have their own foundation, work with a different Fiscal Host, are entirely unincorporated, or are an individual.&#x20;
 
 ## How is funding decided?
 
-It's up to the creators of the Fund what the process is. Open Collective has a 'request a grant' function that some use to receive proposals from projects. Others use their Fund to process payments for an external program with its own process. Others have an internal team that decides where the money goes, and they don't take requests. We carry out their decisions about what the money is spent on and handle the logistics, but the Fund administrators are in the driver's seat.
+That's entirely up to you. Common approaches include:
+
+* Using Open Collective's built-in **Request a Grant** feature, so projects can apply directly to your Fund, including all required information and payment details.&#x20;
+* Inviting grantees for an external grant program that already has its own selection process.&#x20;
+* Making the calls internally, with a private team that decides where the money goes and doesn't take open requests.&#x20;

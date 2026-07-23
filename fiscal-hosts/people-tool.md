@@ -41,15 +41,15 @@ Use the filter bar to narrow results:
 
 ### Columns
 
-| Column | Description |
-| ------ | ----------- |
-| Account | Avatar, display name, and legal name |
-| Email | Email address with copy button |
-| KYC | Verification status (when KYC is enabled) |
-| Country | Location |
-| Roles | Relationship badges (admin, contributor, payee, etc.) |
-| Total Expenses | Amount and count of expenses |
-| Total Contributions | Amount and count of contributions |
+| Column              | Description                                           |
+| ------------------- | ----------------------------------------------------- |
+| Account             | Avatar, display name, and legal name                  |
+| Email               | Email address with copy button                        |
+| KYC                 | Verification status (when KYC is enabled)             |
+| Country             | Location                                              |
+| Roles               | Relationship badges (admin, contributor, payee, etc.) |
+| Total Expenses      | Amount and count of expenses                          |
+| Total Contributions | Amount and count of contributions                     |
 
 ### Row actions
 
@@ -113,5 +113,5 @@ When KYC is enabled, shows verification history and a button to submit a new man
 ## Related documentation
 
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
-* [Dashboard Navigation](dashboard-navigation.md)
+* [Dashboard Navigation](https://github.com/opencollective/documentation/blob/main/fiscal-hosts/dashboard-navigation.md)
 * [Vendors](managing-your-collectives/vendors.md) - separate vendor directory for organizations
