@@ -1,7 +1,7 @@
 ---
 description: >-
-  Funds and Grants are great ways to use Open Collective to support the work of
-  other organizations and individuals.
+  How Funds and Grants let you disburse money to other organizations and
+  individuals on Open Collective.
 icon: badge-dollar
 ---
 
@@ -9,24 +9,28 @@ icon: badge-dollar
 
 ## Funds
 
-Funds are similar to an organization in that both will let you donate to a Collective. However, Funds are designed to hold and display a balance, show transaction history, and distribute money through Grants and Expenses.
+A Fund is an account type built for disbursing money rather than receiving it. A Fund can contribute to Collectives and is also designed to hold and display its own balance, show a full transaction history, and pay money out through Grants and Expenses.
 
-If you are more focused on disbursing funds than receiving them, a Fund may be a good fit for you.
+If you're more focused on giving money away than raising it, a Fund is likely the right fit.
 
 ## Grants
 
-Grants are similar to expenses in that they are disbursements. However, Grants are typically associated with a specific Fund or Collective that are giving money to eligible groups or individuals.
+A Grant is a type of disbursement, similar to an expense but where an expense is typically submitted by the person or project being paid, a Grant is issued by a Fund or Collective to an eligible recipient.
 
 ### Find out more
 
 [**Understanding Funds**](understanding-funds.md)
 
-Learn more about the purpose of Funds and how they might be the right fit for your organization.
+New to Funds? Start here to learn who can create one, why they exist, and how funding decisions get made.
+
+**Creating a Fund**
+
+Looking to set up a new Fund? This walks through why organizations do it and how to get started.
 
 [**Funds**](funds.md)
 
-Learn how to set up and manage Funds through your Open Collective profile.
+Already hosting Funds? Learn how to create, manage, and export data for the Funds under your Fiscal Host.
 
 [**Grants**](grants.md)
 
-Learn how to set up and manage Grants through your Open Collective profile.
+Learn how to review, approve, and manage Grant requests submitted to your hosted Funds.
