@@ -13,13 +13,36 @@ This is automatically created. Navigate to your Dashboard > Settings > Info to a
 
 This page will include your:
 
-* Display name&#x20;
-* Your short description&#x20;
-* An avatar&#x20;
-* Your cover image
+- Display name&#x20;
+- Your short description&#x20;
+- An avatar&#x20;
+- Your cover image
 
 {% hint style="info" %}
 You can also edit your info for your Collective, Fiscal Host, or Organization similarly.
+{% endhint %}
+
+### Public Profile Visibility (Individual Users)
+
+As an individual user, you can control whether your public profile page is visible to others on the platform.
+
+Navigate to **Dashboard > Settings > Info**, and scroll to the **Profile Details** section. You'll find a **Public profile** toggle that allows you to:
+
+- **Enable** (default): Your profile page is publicly accessible and displays your activity and contributions
+- **Disable**: Your public profile page is hidden from visitors
+
+{% hint style="info" %}
+When you disable your public profile, the profile page itself becomes hidden, but your activity remains visible throughout the platform:
+
+- Your contributions to collectives will still be shown
+- Your role as a core member of organizations will still be displayed
+- Your name will appear in transaction histories and expense records
+
+Disabling the public profile only hides the dedicated profile page at `opencollective.com/your-handle`.
+{% endhint %}
+
+{% hint style="warning" %}
+This setting is different from [Private Organizations](../organizations/private-organizations.md), which are special dashboard-only accounts with no public-facing features at all.
 {% endhint %}
 
 ### Adding images to your profile
