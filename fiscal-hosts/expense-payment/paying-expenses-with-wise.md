@@ -38,6 +38,8 @@ These fees are paid by the Collective the expense was submitted for. This means 
 
 ## Connecting Wise <a href="#connecting-wise" id="connecting-wise"></a>
 
+Before connecting, make sure [two-factor authentication](../../advanced/security-for-accounts/two-factor-authentication.md) is enabled on your user account. You are prompted for a code when you start the Wise connection flow.
+
 * Go to [Open Collective](https://www.opencollective.com/).
 * Navigate to your Fiscal Host Dashboard > Settings > Sending Money.&#x20;
 * Click on the _Connect Wise_ button;

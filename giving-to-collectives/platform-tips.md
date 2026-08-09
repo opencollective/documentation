@@ -12,17 +12,21 @@ When you are making a [contribution to a collective](../giving-to-collectives/co
 
 #### What is a platform tip?
 
-A platform tip is a donation to the Open Collective platform which is added on to your contribution.
+A platform tip is a voluntary payment to support the Open Collective platform. It is separate from your contribution to the collective — only the amount you designate for the collective counts as your contribution.
 
 By adding a platform tip, you’re helping us keep the platform running smoothly and enabling us to add new features.
 
 #### Where is my platform tip going?
 
-When you add a platform tip to your total, you’re giving to the Open Collective platform, in addition to your chosen Collective.
+When you add a platform tip, you are paying the platform operator (OFiTech) in addition to your chosen collective. Your fiscal host collects the tip on the platform’s behalf and remits it separately from collective funds.
 
 The Open Collective platform remains sustainable due to our investors and the platform fees from hosts. [You can find out more about our pricing here](../why-open-collective/pricing.md).
 
 However, your optional platform tips also play a huge role in helping us to maintain and improve the platform.
+
+{% hint style="info" %}
+Platform tips are receipted separately from your contribution to a collective. A tip receipt indicates that the payment went to the platform and is not a charitable contribution to the host or collective.
+{% endhint %}
 
 #### Adding a platform tip
 

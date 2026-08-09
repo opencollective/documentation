@@ -21,8 +21,9 @@ Before you can set up Off-Platform Transactions, make sure you have:
 1. **Fiscal Host Status**: You must be set up as a Fiscal Host on Open Collective
 2. **Feature Access**: Your account must have access to the Off-Platform Transactions feature (this may require a platform subscription upgrade)
 3. **Administrative Permissions**: You need admin access to your Fiscal Host account
-4. **Bank Account Access**: Valid credentials for the bank accounts you want to connect
-5. **Supported Region**: Your bank must be located in a supported region (US or Europe)
+4. **Two-Factor Authentication**: [2FA enabled on your user account](../advanced/security-for-accounts/two-factor-authentication.md). You are prompted for a code when starting a new bank connection.
+5. **Bank Account Access**: Valid credentials for the bank accounts you want to connect
+6. **Supported Region**: Your bank must be located in a supported region (US or Europe)
 
 ### Step-by-Step Setup Guide
 
@@ -120,6 +121,10 @@ To view and manage your imported transactions:
    * **A detailed transaction list** with all imported data
 
 ## Troubleshooting Connection Issues
+
+**Connection could not be verified**:
+
+If you see a message that the bank connection request could not be verified, the authorization session expired or was interrupted (for example, if you took longer than about 30 minutes at your bank, or completed the flow in a different browser). Return to **Connected Bank Accounts** and start a **New Connection** again from the beginning.
 
 **Connection Fails to Sync**:
 
