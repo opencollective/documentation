@@ -6,6 +6,17 @@ description: >-
 
 # Ledger Changelog
 
+## August 2026: Cleaner Fiscal Host public profiles
+
+On Fiscal Host public profile pages, the Budget and Transactions sections no longer show internal platform billing by default:
+
+* **Platform tip** transactions on the host's internal Platform Tips account
+* **Application fee** transactions between the host and the platform
+
+These flows are settled separately through [Platform Settlements](../../fiscal-hosts/platform-settlements.md) and are not part of the host's activity with hosted collectives.
+
+Fiscal Host admins can still view them in **Dashboard > Transactions** using the **Kind** filter. Dashboard exports and the API are unchanged. Contributors and other account types still see their own platform tip transactions in the default view.
+
 ## January 2024: Separate payment processor fees and taxes&#x20;
 
 _From January 2024 payment processor fees and taxes were separated from the transaction record in the ledger._ <br>
