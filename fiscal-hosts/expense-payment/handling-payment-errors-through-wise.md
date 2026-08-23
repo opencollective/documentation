@@ -15,6 +15,10 @@ If Wise encounters a problem, it may post a message saying that the expense has 
 
 Alternatively, the expense submitter may contact the Fiscal Host independently to inform them that they have not yet received the funds.
 
+{% hint style="info" %}
+For **Chinese Alipay** payouts, missing or incorrect payee details — such as date of birth — can cause Wise to reject the transfer. If a payment fails for this reason, mark the expense as **Incomplete** and ask the payee to update their payout method with the required information. See [Submitting Expenses](../../expenses-and-getting-paid/submitting-expenses/README.md#bank-transfer-payout-methods-wise).
+{% endhint %}
+
 
 
 ### Resolving payment errors
