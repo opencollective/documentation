@@ -36,3 +36,9 @@ Internal memos are used to indicate, to yourself and other administrators, anyth
 * A grant application and associated award
 
 The memo will appear to any administrator under 'view details on the transaction list.
+
+## Refunding added funds
+
+If you need to reverse added funds, open **Dashboard > Transactions**, find the transaction, and click **Refund**. Because added funds were not processed through a payment provider, the dialog will ask you to **Mark contribution as refunded** and confirm that you have returned or will return the money off-platform.
+
+This action only updates the ledger — no money is moved by Open Collective. See [Processing Refunds](../processing-refunds.md#manual-contributions-and-added-funds) for details.

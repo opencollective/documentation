@@ -22,18 +22,38 @@ All Fiscal Hosts are encouraged to have a public refund policy. You can add a re
 * Navigating to your Fiscal Host's Dashboard > Settings > Policies
 * Adding your Refund Policy or a link to it under Contributions or Expenses Policy sections.
 
-#### Refund a Donation:&#x20;
+#### Refund a Donation
 
-* Go to you host dashboard and **Ledger** section.&#x20;
-* Under the **Ledger** section choose the **Transactions** section.&#x20;
-* Find the contribution that you want to refund and click on it to open the drawer on your right hand side.&#x20;
-* You will find a refund button at the top of the drawer along with all the transaction details.&#x20;
-* Click refund and confirm the operation.
+1. Go to your Fiscal Host **Dashboard > Transactions**.
+2. Find the contribution you want to refund and open its details.
+3. Click **Refund** and confirm the operation.
 
-{% hint style="info" %}
-For contributions that were made using a Stripe enabled payment method, the funds should automatically be returned to the contributor. For other payment methods, we recommend [inviting the user to submit an expense](../collectives/spending-money/inviting-a-third-party-to-submit-an-expense.md).&#x20;
+The refund flow depends on how the contribution was originally paid.
+
+### Stripe and PayPal contributions
+
+For contributions processed through Stripe or PayPal, the platform refunds the contributor automatically after you confirm. Funds are returned through the original payment method.
+
+You can optionally:
+
+* Cancel any linked recurring contribution
+* Remove the contributor from the Collective's sponsor list
+* Send the contributor a message explaining the refund
+
+### Manual contributions and added funds
+
+For contributions that were not processed through a payment provider — including [manual bank transfers](../giving-to-collectives/payment-methods.md), [added funds](receiving-money/adding-funds-manually.md), and other off-platform payments — the refund dialog is titled **Mark contribution as refunded**.
+
+These refunds only reverse the transaction in Open Collective's ledger. **No money is moved by the platform.** You must return funds to the contributor outside Open Collective (for example, via bank transfer).
+
+Before completing the refund, you must confirm:
+
+> I confirm that the refund has been or will be performed manually off-platform. This action only reverses the transaction in the ledger; no money will be moved by the platform.
+
+{% hint style="warning" %}
+Only Fiscal Host admins can refund manual contributions and added funds. Collective admins should contact their Fiscal Host to process these refunds.
 {% endhint %}
 
-
-
-The process for refunding contributions differs slightly depending on what the original payment method used was. If someone made their contribution with Stripe, the refund will be processed automatically after you confirm the operation. If the payment was originally made manually extra steps are needed.
+{% hint style="info" %}
+For contributions that were made using a Stripe enabled payment method, the funds should automatically be returned to the contributor. For other payment methods where you cannot reverse the payment on-platform, we recommend [inviting the user to submit an expense](../collectives/spending-money/inviting-a-third-party-to-submit-an-expense.md).
+{% endhint %}
