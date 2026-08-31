@@ -24,7 +24,7 @@ All Fiscal Hosts are encouraged to have a public refund policy. You can add a re
 
 #### Refund a Donation
 
-1. Go to your Fiscal Host **Dashboard > Transactions**.
+1. Go to your Fiscal Host **Dashboard > Ledger > Transactions**.
 2. Find the contribution you want to refund and open its details.
 3. Click **Refund** and confirm the operation.
 
