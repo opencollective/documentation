@@ -7,5 +7,5 @@ icon: book-open-lines
 
 # Translations
 
-Please contact support@opencollective.com if you see any issues with the translations.&#x20;
+Please contact [support@opencollective.com](mailto:support@opencollective.com) if you see any issues with the translations.&#x20;
 
