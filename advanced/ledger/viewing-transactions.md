@@ -80,3 +80,18 @@ Head to the [Exporting Transactions](exporting-transactions.md) section to find 
 Transactions for hosted collectives are included in the 'All' transactions view. You can use the tabs to only view transactions from the hosted Collectives or the Fiscal Host.
 
 We have removed [expected funds](../../fiscal-hosts/receiving-money/expected-funds.md) in this view, but these can be found in the Contributions section.
+
+### Public profile vs. Dashboard
+
+On a Fiscal Host's **public profile page**, the Budget and Transactions sections focus on the host's own financial activity with hosted collectives. Internal platform billing flows are hidden from the default view:
+
+* **Platform tip** transactions on the host's internal Platform Tips account (tips collected on behalf of the platform and remitted via [Platform Settlements](../../fiscal-hosts/platform-settlements.md))
+* **Application fee** transactions that move platform revenue between the host and the platform
+
+These transaction kinds are not part of the host's day-to-day activity with hosted collectives, so they no longer appear in the default Budget and Transactions sections on the public profile.
+
+To review them, open **Dashboard > Transactions** and use the **Kind** filter to include **Platform tip** or **Application fee**. CSV exports and the API are unchanged.
+
+{% hint style="info" %}
+On other account types, **Platform tip** transactions in the default view show tips that account gave to the platform (for example, tips added at checkout). Only Fiscal Host profiles hide platform tip transactions from the default public view.
+{% endhint %}
