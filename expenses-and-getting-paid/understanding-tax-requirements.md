@@ -21,11 +21,11 @@ This page will provide some basic details on what you may be asked to do. Howeve
 
 ### **Submitting expenses to a Collective with a US-Based Fiscal Host**
 
-If you submit expenses totaling $600 or more in a year to a US-based Fiscal Host, it is required by US law to collect certain information. This applies even if you are based outside the US.
+If you submit expenses totalling $2000 or more in a year to a US-based Fiscal Host, it is required by US law to collect certain information. This applies even if you are based outside the US.
 
-This $600 threshold only applies to invoice expenses, not expenses such as payroll, grants or reimbursements.
+This $2000 threshold only applies to invoice expenses, not expenses such as payroll, grants or reimbursements.
 
-Once your expenses to a particular US-based host exceed $600 in a year, expect to be contacted by the Fiscal Host and asked to fill out a tax form.
+Once your expenses to a particular US-based host exceed $2000 in a year, expect to be contacted by the Fiscal Host and asked to fill out a tax form.
 
 {% hint style="warning" %}
 Fiscal Hosts have different processes for collecting tax information. This may depend on where they are located, what information is required, and how they choose to gather it.

@@ -88,6 +88,14 @@ Once you complete the PayPal authorization, Open Collective will store your veri
 If you previously saved a PayPal email address before this feature was introduced, your payout method will be marked as **unverified**. You will see a prompt to reconnect it through the PayPal authorization flow. Verifying your existing PayPal payout method is optional for now, but recommended — it helps Fiscal Hosts confirm your identity and may be required by some hosts in the future.
 {% endhint %}
 
+### Bank transfer payout methods (Wise)
+
+When your Fiscal Host pays expenses through Wise, bank transfer payout methods use a structured form that adapts to the currency and transfer type you select. The fields shown depend on the destination country and payment rail (for example, local bank account, SWIFT, or Alipay).
+
+If you select **Chinese Alipay** as your transfer type, you will be asked for your **date of birth** in `YYYY-MM-DD` format. Alipay requires this information for identity verification, and collecting it when you create the payout method helps avoid payment delays or failures later.
+
+If you already have an Alipay payout method saved without a date of birth, edit the payout method and add this field before submitting new expenses.
+
 If you are not able to use these methods for whatever reason, you can also select a "custom payout method," which invites you to share details of how you would prefer to be paid.
 
 {% hint style="info" %}

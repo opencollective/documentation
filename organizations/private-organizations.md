@@ -33,10 +33,10 @@ Authorized roles (admins, accountants, and host admins in your tree) can use sta
 
 Private accounts do not offer the same public-facing features as standard organizations:
 
-* No public contribution or checkout flow for visitors
-* No public tiers, funding goals, or profile marketing
-* No public updates or community conversations
-* No gift card flows across public profiles
+- No public contribution or checkout flow for visitors
+- No public tiers, funding goals, or profile marketing
+- No public updates or community conversations
+- No gift card flows across public profiles
 
 ### Host tree rules
 
@@ -45,6 +45,14 @@ A fiscal host tree cannot mix public and private hosted accounts. If a host is p
 ### Restricted visibility
 
 Only authorized users can view private account details. Others who follow a direct link may see an access-denied response rather than account information.
+
+{% hint style="info" %}
+**Note:** Private organizations are different from users or vendors with disabled public profiles.
+
+- **Private organizations**: Fully private accounts with no public-facing features at all. Dashboard-only access for authorized users.
+- **Disabled public profile** (individual users): The profile page is hidden, but activity remains visible as a contributor to collectives and as a member of organizations.
+- **Vendors with contributor profile disabled**: Standard vendor behavior—no public profile page, only visible in host admin views. When enabled, vendors can showcase their contributions on a public profile page.
+  {% endhint %}
 
 ## Getting started
 

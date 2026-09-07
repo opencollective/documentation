@@ -13,7 +13,7 @@ As the Fiscal Host administrator, you can use the Open Collective platform to le
 
 ### Why might you need to do this?
 
-As a Fiscal Host admin, you are responsible for ensuring that all expenses are accurate and legitimate, and include all of the necessary information for admin tax purposes.&#x20;
+As a Fiscal Host admin, you are responsible for ensuring that all expenses are accurate and legitimate, and include all of the necessary information for admin tax purposes.
 
 As such, you may wish to confirm more details about the submitter, the amount and their payment method, or request additional details that may be required. You may also want to seek clarification around an issue that may have been raised in the platform’s security checks.
 
@@ -21,7 +21,7 @@ As such, you may wish to confirm more details about the submitter, the amount an
 
 If you want to find out more information about an expense, we would advise changing the status of the expense first so that everyone involved is kept informed.
 
-You can find both of the following  options by clicking the blue “Approved” status dropdown option on the expense itself on your Transactions list. Alternatively, you can click the title of the expense and find the options in the “More Actions” menu at the bottom of the expense page. You can choose to:
+You can find both of the following options by clicking the blue “Approved” status dropdown option on the expense itself on your Transactions list. Alternatively, you can click the title of the expense and find the options in the “More Actions” menu at the bottom of the expense page. You can choose to:
 
 #### **Put on Hold**
 
@@ -37,7 +37,7 @@ You will have the option to submit a comment directly to the expense submitter m
 
 The comment exchange will only be visible to Fiscal Host admins, Collective admins and the expense submitter themselves, since it may contain private information.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-05-07 134939.png" alt="Screenshot of comment text box with options for rich text formatting and additional privacy."><figcaption><p>Screenshot of comment text box with options for rich text formatting and additional privacy.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt="Screenshot of comment text box with options for rich text formatting and additional privacy."><figcaption><p>Screenshot of comment text box with options for rich text formatting and additional privacy.</p></figcaption></figure>
 
 ### What happens next?
 

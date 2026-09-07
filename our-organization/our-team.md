@@ -9,15 +9,15 @@ Open Collective has a small, fully remote team with members around the world. Yo
 
 #### **François Hodierne** <a href="#francois-hodierne" id="francois-hodierne"></a>
 
-Executive Director&#x20;
+Executive Director
 
 Berlin, Germany
 
-[Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin ](https://www.linkedin.com/in/francoishodierne/)
+[Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin](https://www.linkedin.com/in/francoishodierne/)
 
 #### Ronen Hirsch <a href="#ronen-hirsch" id="ronen-hirsch"></a>
 
-Product Manager&#x20;
+Product Manager
 
 Israel
 
@@ -25,23 +25,23 @@ Israel
 
 #### **Benjamin Piouffle** <a href="#benjamin-piouffle" id="benjamin-piouffle"></a>
 
-Head of Engineering&#x20;
+Head of Engineering
 
 La Ciotat, France
 
-[Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
+[Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin](https://www.linkedin.com/in/benjaminpiouffle/)
 
 #### Shannon Wray <a href="#shannon-wray" id="shannon-wray"></a>
 
-Head of Operations&#x20;
+Head of Operations
 
 Remote
 
-[Linkedin ](https://www.linkedin.com/in/shannonwray)
+[Linkedin](https://www.linkedin.com/in/shannonwray)
 
 #### **Leo Kewitz** <a href="#leo-kewitz" id="leo-kewitz"></a>
 
-Software Engineer&#x20;
+Software Engineer
 
 Madrid, Spain
 
@@ -49,7 +49,7 @@ Madrid, Spain
 
 #### Gustav Larsson <a href="#gustav-larsson" id="gustav-larsson"></a>
 
-Software Engineer&#x20;
+Software Engineer
 
 Gothenburg, Sweden
 
@@ -57,37 +57,19 @@ Gothenburg, Sweden
 
 #### Henrique Silva <a href="#henrique-silva" id="henrique-silva"></a>
 
-Software Engineer&#x20;
+Software Engineer
 
 São Paulo, Brazil
 
-[Github](https://github.com/hdiniz), [Linkedin ](https://www.linkedin.com/in/henrique-diniz-silva/)
-
-#### **Amina Kazi** <a href="#amina-kazi" id="amina-kazi"></a>
-
-Designer&#x20;
-
-Navi Mumbai, India
-
-[Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
+[Github](https://github.com/hdiniz), [Linkedin](https://www.linkedin.com/in/henrique-diniz-silva/)
 
 #### Sudharaka Palamakumbura <a href="#sudharaka-palamakumbura" id="sudharaka-palamakumbura"></a>
 
-Software Designer&#x20;
+Engineering Support
 
 Vancouver, British Columbia, Canada
 
 [Linkedin](https://www.linkedin.com/in/sudharakap/)
-
-#### Kadallah Burrowes <a href="#kadallah-burrowes" id="kadallah-burrowes"></a>
-
-Support
-
-New York, United States
-
-[Linkedin](https://www.linkedin.com/in/kadallah/)
-
-
 
 ## Team Map <a href="#team-map" id="team-map"></a>
 

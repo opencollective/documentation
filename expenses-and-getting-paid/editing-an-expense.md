@@ -52,6 +52,8 @@ If a Collective and/or Fiscal Host admin requires more information from you abou
 
 If you notice that an invoice you are tracking has that status, check your emails and notifications for any comments or questions from admins, and provide this information as soon as possible.
 
+While an expense is incomplete, you can edit most expense details — including **payee information** and your payout method — using the edit icons on the expense page. This lets you fix payment details or switch who is being paid without resubmitting the expense from scratch.
+
 If an admin does not receive the information required, the invoice may remain "incomplete" or be "rejected". This means your expense will not be paid.
 
 ## Deleting your expense

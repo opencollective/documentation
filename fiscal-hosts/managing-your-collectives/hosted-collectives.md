@@ -34,7 +34,46 @@ You can use several filters to narrow your list of hosted Collectives:
 
 You can also sort by the period of time you've hosted them — most recent and oldest.
 
+## Create collective
 
+Host admins can create a new hosted collective directly from the dashboard, without waiting for an application. This is useful when you are onboarding a group yourself or setting up accounts on their behalf.
+
+To create a collective, go to **Dashboard > Hosting > Hosted Collectives** and click **Create collective**.
+
+### Form fields
+
+| Field | Description |
+| ----- | ----------- |
+| **Collective's name** | Required. The public name of the collective. |
+| **Profile URL** | Required for public hosts. Auto-suggested from the name; you can customize the slug before creating the account. Not shown for private hosts — the platform generates a slug automatically. |
+| **Short description** | Optional. A brief summary of the collective. |
+| **Invite Administrators** | Add up to five people to invite as collective admins. Each invitee receives an email with instructions to sign up and accept. |
+| **Private note to invited admins** | Optional. Included in the invitation email only — not visible on the collective's public profile. |
+| **Add me as an admin of this collective** | Check this to make yourself an admin instead of (or in addition to) inviting others. |
+
+At least one admin is required before you can create the collective. You must either invite at least one administrator or check **Add me as an admin of this collective**.
+
+The collective is created immediately and appears in your hosted collectives list. It is already hosted by your fiscal host — no separate application or approval step is needed.
+
+### Invited status
+
+If you invited admins but none have accepted yet, the collective shows an **Invited** badge in the hosted collectives list. The badge clears once at least one invited admin accepts their invitation.
+
+If a collective still has no admins after creation, you can invite one from **More Actions > Invite admin** on that collective's row.
+
+### Invitation flow
+
+Invited administrators receive an email with a link to sign up (or sign in) and accept the invitation. If you added a private note, it appears in that email.
+
+Once an invitee completes their profile and accepts, they become a collective admin with full dashboard access.
+
+### Activity log
+
+Collective creation and admin invitations are recorded in your fiscal host's activity log (**Settings > Activity Log**). You can filter by account to see events for a specific hosted collective, including when invites are sent and accepted.
+
+{% hint style="info" %}
+Collectives can still apply to join your host through the standard [application flow](collective-applications.md). Use **Create collective** when you are proactively setting up an account rather than reviewing an incoming application.
+{% endhint %}
 
 ## More Actions
 
@@ -47,6 +86,20 @@ By default, **View Details** (or clicking a row) opens a side drawer with key in
 From the drawer, admins can see an overview of how long a Collective has been hosted, its balance, team members, transactions, and activities.
 
 If you have the **Dashboard view of a hosted account profile** preview feature enabled, clicking a row opens a full-page profile instead of the drawer. The profile has tabs for **Overview**, **Accounts**, **Money Movements**, **Expected Funds**, **Agreements**, **Updates**, **About**, and **Activities**. See [Preview Features](../../advanced/preview-features.md).
+
+#### Hosted account profile overview
+
+When using the full-page profile, the **Overview** tab gives host admins a consolidated view of a hosted collective:
+
+| Section | What it shows |
+| ------- | ------------- |
+| **Details** | Name, tags, social links, location, fee structure, expense types, and payout method visibility. Use the edit icon to update fee structure, expense types, or payout method visibility. |
+| **Platform Activity** | Hosting status, applied and accepted dates, and first and latest financial interactions. |
+| **About** | Description and collective admins. |
+| **Financial summary** | Current balance, all-time received, and all-time disbursed. Click received or disbursed to open **Money Movements** filtered to that type. |
+| **Balance chart** | Monthly balance, received, and spent over the account's lifetime. |
+| **Contributions / Payouts** | Analytics with **By size**, **Over time**, and (for contributions) **By type** views. |
+| **Recent Contributions / Recent Payouts** | The five most recent transactions, with a link to view all. |
 
 From either view, Admins can also easily change a few key settings for the Collective:&#x20;
 
