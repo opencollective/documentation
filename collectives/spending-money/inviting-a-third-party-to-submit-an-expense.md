@@ -37,7 +37,21 @@ An Open Collective profile can be an individual, Collective, project, event, org
 
 They will then receive an email notification which they can use to finish the expense and submit it.
 
-The invited payee can add or update the payout method while completing the draft, including when the expense is hosted by a different fiscal host than the one that created the invitation. If you are a host admin completing a cross-host draft on behalf of a payee, you can also add a payout method on their recipient host.
+When the payee opens the invite link, they see a welcome card with a **Continue submission** button. If you added a note for the payee when creating the draft, it appears in this card — but the note is optional, and the payee can continue even when no note was provided.
+
+The invited payee can add or update the payout method while completing the draft, including when the expense is hosted by a different fiscal host than the one that created the invitation.
+
+#### Cross-host draft invites
+
+When the payee is a collective hosted by a different fiscal host than the one paying the expense, the invitation is sent to the payee's **fiscal host admins** (not just the payee's collective admins). This lets the recipient host help complete payout details on their side.
+
+A payee host admin who opens the invite link can:
+
+* Add or update a payout method on the recipient host
+* Complete the remaining expense details
+* Submit the expense on behalf of the payee collective
+
+Only admins of the payee collective or its fiscal host can submit a cross-host draft. Opening the invite link alone is not enough — the person completing the draft must be authorized for the payee account.
 
 ### Inviting someone without an Open Collective account
 
