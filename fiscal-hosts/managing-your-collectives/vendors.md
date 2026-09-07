@@ -8,11 +8,13 @@ icon: briefcase-blank
 
 # Vendors
 
-A vendor represents an external entity which Fiscal Hosts can attribute contributions or expenses to. Vendors have no public profile and are only able to be created and edited by Fiscal Host Admins.
+A vendor represents an external entity which Fiscal Hosts can attribute contributions or expenses to. By default, vendors have no public profile and are only able to be created and edited by Fiscal Host Admins.
+
+{% hint style="info" %}
+**New:** Vendors can now optionally enable a **Contributor Profile** to showcase their activity on the platform as contributors to collectives. This is disabled by default and can be enabled when creating or editing a vendor.
+{% endhint %}
 
 Navigate to your Fiscal Host Dashboard and select Vendors.
-
-
 
 ## Review Existing Vendors
 
@@ -28,27 +30,28 @@ You can create a Vendor by clicking on “Create Vendor”
 
 You will then be prompted to provide the following Vendor information:
 
-* Image (optional)
-* Vendor's Name
-* Vendor's Legal Name (optional)
-* Tax Form (optional)
-  * Tax Form URL (optional)
-* Tax Identification
-  * Identification System (optional)
-  * ID Number (optional)
-* Mailing Address (optional)
-* Contact Name (optional)
-* Contact's email (optional)
-* Payout method (optional)
-* Notes (optional)
+- Image (optional)
+- Vendor's Name
+- Vendor's Legal Name (optional)
+- Contributor Profile (optional)
+  - When enabled, the vendor will have a public profile page displaying their contributions to collectives
+  - When disabled (default), the vendor has no public presence and only appears in host admin views
+- Tax Form (optional)
+  - Tax Form URL (optional)
+- Tax Identification
+  - Identification System (optional)
+  - ID Number (optional)
+- Contact Name (optional)
+- Contact's email (optional)
+- Mailing Address (optional)
+- Payout method (optional)
+- Notes (optional)
 
 <details>
 
 <summary>Screenshot of Create Vendor modal</summary>
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt="Screenshot of the &#x22;Create Vendor&#x22; modal. "><figcaption></figcaption></figure>
-
-
 
 </details>
 
@@ -78,8 +81,6 @@ You can view all archived Vendors in the archived tab. Within this view, you can
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt="Screenshot of Archived Vendor settings with Unarchive option showing. "><figcaption></figcaption></figure>
 
-
-
 ## Assign Contributions to Vendors
 
 When creating contributions (through either added funds or pending contributions) you can attribute the contribution to a Vendor by typing in the Vendor's name.&#x20;
@@ -89,8 +90,6 @@ When creating contributions (through either added funds or pending contributions
 You can also create a new Vendor by simply entering a Vendor name and clicking Create Vendor.
 
 You can add additional Vendor information via the Vendor settings in your Fiscal Host dashboard.
-
-
 
 ## Vendor availability
 
@@ -108,8 +107,6 @@ Once submitting an expense you can attribute it to a selected Vendor by searchin
 
 You will not be prompted for a payment method. The payment method that is listed for the Vendor in the Vendor settings will be used to process the payment.
 
-
-
 ## Enable Other Expense Submitters to Submit Expenses on Behalf of Vendors
 
 By default, only Fiscal Host admins are able to submit expenses to Vendors. However, you can enable expense submitters to also submit expenses to your Vendors.&#x20;
@@ -120,8 +117,8 @@ To enable this, go to the Fiscal Host Dashboard > Settings > Policies. There you
 
 Fiscal host admins can create vendors without leaving the expense or expected funds flow:
 
-* **Expense submission:** On the **Who is getting paid** step, select **A vendor** and type a new name in the picker. Choose **Create vendor: {name}** to create and select a vendor scoped to that collective.
-* **Add Funds / Expected Funds:** In the contributor or source picker, type a new vendor name and choose **Create vendor: {name}**.
+- **Expense submission:** On the **Who is getting paid** step, select **A vendor** and type a new name in the picker. Choose **Create vendor: {name}** to create and select a vendor scoped to that collective.
+- **Add Funds / Expected Funds:** In the contributor or source picker, type a new vendor name and choose **Create vendor: {name}**.
 
 Non-host submitters (when the vendor policy is enabled) can search and select existing vendors but cannot create new ones inline. Use **Dashboard > Vendors** to manage the vendor directory.
 

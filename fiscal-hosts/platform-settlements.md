@@ -27,3 +27,9 @@ When a payment with a tip goes through Stripe, the tip is automatically diverted
 Every month, the total amount of money owed from platform tips sent to the Fiscal Host through manual bank transfers and host fee share is calculated and submitted to the Fiscal Host as an expense. We refer to this total figure as the **Platform Settlement**.
 
 Platform Settlement Expenses will automatically appear once per month if any tips or host fee shares are due to be transferred to Open Collective. You can proceed to approve and pay it like any other expense including via card using Stripe.
+
+### Where to see platform tip activity
+
+Tips collected on your behalf are tracked on an internal Platform Tips account. These internal billing flows are hidden from the default Budget and Transactions sections on your Fiscal Host's public profile page, so visitors see your activity with hosted collectives rather than platform settlements.
+
+To review platform tip and application fee transactions, open **Dashboard > Transactions** and filter by **Kind**. See [Viewing Transactions](../advanced/ledger/viewing-transactions.md#public-profile-vs.-dashboard) for details.

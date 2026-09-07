@@ -38,6 +38,8 @@ These fees are paid by the Collective the expense was submitted for. This means 
 
 ## Connecting Wise <a href="#connecting-wise" id="connecting-wise"></a>
 
+Before connecting, make sure [two-factor authentication](../../advanced/security-for-accounts/two-factor-authentication.md) is enabled on your user account. You are prompted for a code when you start the Wise connection flow.
+
 * Go to [Open Collective](https://www.opencollective.com/).
 * Navigate to your Fiscal Host Dashboard > Settings > Sending Money.&#x20;
 * Click on the _Connect Wise_ button;
@@ -78,6 +80,9 @@ In order to reduce risks related to having an active API token that is able to c
 
 ## Troubleshooting <a href="#troubleshooting"></a>
 
+* **Wise connection removed or disconnected**
+  * If Wise revokes your OAuth token (for example, after you remove Open Collective's access in Wise, or when a token expires and cannot be refreshed), Open Collective automatically disconnects the integration and notifies Fiscal Host admins.
+  * Reconnect from **Dashboard > Settings > Sending Money** using **Connect Wise**. Expenses that were approved before the disconnect cannot be paid through the integration until you reconnect.
 * **Insufficient balance**
   * Before creating a transfer, Open Collective checks your Wise balance in the payout currency. If funds are too low, payment is blocked with a clear message and the expense stays approved — add funds to Wise and try again. See [Handling Payment Errors Through Wise](handling-payment-errors-through-wise.md) for details.
 * **`Unable to fund transfer`**

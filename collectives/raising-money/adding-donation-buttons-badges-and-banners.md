@@ -30,7 +30,7 @@ To place a donate button on your website, add this script:
 ```
 {% endcode %}
 
-Replace `YOURCOLLECTIVE` with the handle you selected for your collective URL.&#x20;
+Replace `YOURCOLLECTIVE` with the handle you selected for your collective URL.
 
 You will also need to replace `VERB` with the action you want to invite your reader to complete (for example, use “donate” if you want the button to say “Donate to our Collective” or “contribute” if you want it to say “Contribute to our Collective”.
 
@@ -63,7 +63,7 @@ Showing a list of sponsors can be a good way to recognize those who have support
 ```
 {% endcode %}
 
-Remember to replace `YOURCOLLECTIVE`  with your Collective’s handle
+Remember to replace `YOURCOLLECTIVE` with your Collective’s handle
 
 You can also style how your display looks by using this script template (in React style). If you alter this example script, remember that your version must still be parsable with JSON.stringify.
 
@@ -95,7 +95,7 @@ You can create a badge in an SVG format showing the number of financial contribu
 
 {% code overflow="wrap" %}
 ```html
-https://opencollective.com/collective/tiers/backers/badge.svg?label=Backers&color=brightgreen
+https://opencollective.com/YOURCOLLECTIVE/tiers/backers/badge.svg?label=Backers&color=brightgreen
 ```
 {% endcode %}
 
@@ -107,7 +107,7 @@ Here is an example code that you can adapt to suit your needs:
 
 {% code overflow="wrap" %}
 ```html
-<object type="image/svg+xml" data="https://opencollective.com/collective/tiers/backers.svg?avatarHeight=36&width=600"></object> 
+<object type="image/svg+xml" data="https://opencollective.com/YOURCOLLECTIVE/tiers/backers.svg?avatarHeight=36&width=600"></object> 
 ```
 {% endcode %}
 
@@ -122,9 +122,10 @@ You can edit the script based on a range of parameters:
 | `button`       | show "become a backer/sponsor" button                | true        |
 | `format`       | format of the image (replace .svg with .png or .jpg) | <p><br></p> |
 
-{% code overflow="wrap" %}
-```html
-<script src="https://opencollective.com/YOURCOLLECTIVE /VERB/button.js" color="[white|blue]"></script>
-```
-{% endcode %}
+You can also show all your contributors using,&#x20;
 
+```html
+<object type="image/svg+xml" 
+data="https://opencollective.com/YOURCOLLECTIVE/contributors.svg
+?avatarHeight=36&width=600"></object> 
+```
