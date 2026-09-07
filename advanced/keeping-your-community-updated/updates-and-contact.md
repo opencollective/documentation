@@ -37,6 +37,8 @@ You can use our rich editor to send messages, and include photos and videos if y
 
 Your updates will be emailed to your contributors and appear publicly on your Collective page. But you can click the “Private Update” box when drafting your message if you only want it to be visible to your contributors.
 
+When an update email includes an embedded video (for example, YouTube), recipients see a preview image linked to the video instead of an inline player. Clicking the preview opens the video in their browser. This keeps update emails lightweight while still letting contributors watch embedded content.
+
 
 
 {% hint style="info" %}

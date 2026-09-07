@@ -31,7 +31,9 @@ If you do not want to link these services, you can pay expenses by other means o
 
 Organizations that manage their own finances on Open Collective can review and pay expenses from **Dashboard > Outgoing Money > Payment Requests**.
 
-This page lists payment requests submitted to your Organization. You can filter by status, amount, payout method, and other criteria, and use tabs to switch between **All**, **Pending**, **Approved**, **Rejected**, and **Paid** requests.
+This page lists payment requests submitted to your Organization. You can filter by status, amount, payout method, **Last Comment By**, and other criteria, and use tabs to switch between **All**, **Pending**, **Approved**, **Rejected**, and **Paid** requests.
+
+Use **Last Comment By** to find requests where a specific role commented last—for example, **Anyone but Payee admin** to see requests waiting for a reply from the submitter.
 
 When your Organization has connected Wise or Stripe, a **payment processor overview** appears at the top of the page. For each connected processor, it shows:
 
