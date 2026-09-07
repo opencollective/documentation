@@ -43,8 +43,10 @@ In this scenario, if you decide to open an exception to a collective that still 
 
 The Expense Approval settings allow you to set specific requirements for expenses that are submitted to Collectives that your organization hosts. These settings include:
 
-* Enabling and disabling admins from approving their own expenses
+* Enabling and disabling **collective admins** from approving their own expenses
   * Options for only enforcing this under specific circumstances, like if a certain payment minimum is hit.
+  * When both your Fiscal Host and a hosted Collective set this policy, the stricter threshold applies to collective admins.
+  * **Fiscal Host admins** who submit expenses as the payee are evaluated only against the Fiscal Host policy, not the hosted Collective's policy. A host admin can approve their own expense at the collective level unless your Fiscal Host policy blocks it.
 * Enabling and disabling non-team members and contributors from submitting expenses to your hosted Collectives
 
 ## Expense Types
