@@ -13,7 +13,7 @@ This list includes every Grant that's ever been created against your hosted Fund
 
 <figure><img src="../../.gitbook/assets/Untitled Design 3024x1720.png" alt=""><figcaption></figcaption></figure>
 
-Use **Last Comment By** to find Grants where a specific role commented last—options include Expense Submitter, Collective Admin, Fiscal Host Admin, Anyone but Host Admin, and Anyone but Payee admin.
+
 
 ## Manage Grant
 
