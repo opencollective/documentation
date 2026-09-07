@@ -78,10 +78,14 @@ In order to reduce risks related to having an active API token that is able to c
 2. Keep just enough balance in Wise to pay your expenses.
    * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
 
-## Troubleshooting <a href="#troubleshooting" id="troubleshooting"></a>
+## Troubleshooting <a href="#troubleshooting"></a>
 
 * **Wise connection removed or disconnected**
   * If Wise revokes your OAuth token (for example, after you remove Open Collective's access in Wise, or when a token expires and cannot be refreshed), Open Collective automatically disconnects the integration and notifies Fiscal Host admins.
   * Reconnect from **Dashboard > Settings > Sending Money** using **Connect Wise**. Expenses that were approved before the disconnect cannot be paid through the integration until you reconnect.
-* `Unable to fund transfer`
-  * Double-check if you have enough funds in your Wise balance, you'll be using the balance with the same currency of your OpenCollective account.
+* **Insufficient balance**
+  * Before creating a transfer, Open Collective checks your Wise balance in the payout currency. If funds are too low, payment is blocked with a clear message and the expense stays approved — add funds to Wise and try again. See [Handling Payment Errors Through Wise](handling-payment-errors-through-wise.md) for details.
+* **`Unable to fund transfer`**
+  * Double-check if you have enough funds in your Wise balance. You'll be using the balance with the same currency as your Open Collective account.
+* **Other payment failures**
+  * If Wise rejects a transfer for another reason, the expense is marked as “Error” and a host-only **Expense payment error** entry appears in the expense activity timeline. See [Handling Payment Errors Through Wise](handling-payment-errors-through-wise.md).
