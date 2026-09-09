@@ -188,7 +188,6 @@
 * [API](development/api.md)
 * [OAuth](development/oauth.md)
 * [Personal Tokens](development/personal-tokens.md)
-* [Translations](development/translations.md)
 * [Community Developed Projects](development/community-developed-projects.md)
 
 ## Our Organization
