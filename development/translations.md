@@ -7,5 +7,5 @@ icon: book-open-lines
 
 # Translations
 
-We use automated AI translations which happen on GitHub. If you want to see a different language or have comments or suggestions about translations please contact us at, [support@opencollective.com](mailto:support@opencollective.com).
+We use automated AI translations which happen on GitHub. If you have comments or suggestions about translations please contact us at, [support@opencollective.com](mailto:support@opencollective.com).
 
