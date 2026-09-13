@@ -79,6 +79,19 @@ Enables background processing for large data exports on organization accounts. E
 
 Preview of redesigned crowdfunding and profile pages, including separate fundraising and storytelling views and improved goal tracking. See the [blog post](https://blog.opencollective.com/open-collective-crowdfunding-redesign/) for details.
 
+### Balance & clearing accounts (closed beta) <a href="#balance-and-clearing-accounts-closed-beta" id="balance-and-clearing-accounts-closed-beta"></a>
+
+Attribute payments to **balance** and **clearing** accounts from your [Chart of Accounts](../fiscal-hosts/chart-of-accounts.md). This lets fiscal hosts record which payment device (Stripe, PayPal, Wise, a manual payment method, or a connected bank account) money moved through, separately from the profit-and-loss category (the kind of expense or contribution).
+
+When enabled, host admins can:
+
+* Create **Balance** and **Clearing** categories in **Settings > Chart of Accounts**
+* Assign those categories to payment devices on the **Payment device assignments** tab
+* Select or override the account when adding funds or paying an expense manually
+* See and export the assigned account on transactions
+
+Payments processed through a device with an assignment are attributed automatically. See [Chart of Accounts](../fiscal-hosts/chart-of-accounts.md#balance-and-clearing-accounts) for the full workflow.
+
 ### Dashboard view of a hosted account profile (closed beta)
 
 Replaces the side drawer on **Hosting > Hosted Collectives** and **Funds & Grants > Hosted Funds** with a full-page hosted account profile.

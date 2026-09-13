@@ -50,3 +50,7 @@ Opt in to enforce 2FA for all your admins. Any attempt to trigger admin operatio
 To enable 2FA for all admins, navigate to your Collective, Organization, or Fiscal Host Dashboard > Settings > Security and turn on two-factor authentication. Make sure to press save.&#x20;
 
 When visiting admin pages, your admins will be prompted to activate their 2FA.
+
+### Actions that prompt for a 2FA code
+
+If 2FA is enabled on your account, some sensitive actions ask for a code. Changing your organization's [platform subscription](../../organizations/platform-subscription.md) always prompts for a code. Connecting a bank account or Wise, and paying expenses when your fiscal host requires 2FA for payouts, also prompt for a code.

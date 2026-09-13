@@ -28,9 +28,11 @@ https://opencollective.com/_YOURSLUG_/submitted-expenses
 {% endhint %}
 
 {% hint style="warning" %}
-If your expense has already been approved by an admin, it may need to be re-approved if you make edits to your expense.
+If your expense has already been approved, it returns to **Pending** and needs re-approval when you change the amount, line items, payout method, tax, or currency.
 
-For example, if a Fiscal Host admin contacts you to ask for changes or additional information to be added to your expense, the Collective may need to check it again once edits have been made. This is to ensure that admins have approved the details of every expense before it is paid.
+For example, adding VAT to an approved invoice, switching the expense from USD to EUR, or changing the payout method all send it back to the Collective for review before it can be paid. This is to ensure that admins have approved the details of every expense before it is paid.
+
+Virtual card charges that are already paid or processing do not go back to Pending when you attach a receipt.
 {% endhint %}
 
 ## **Expense comments**

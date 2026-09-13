@@ -123,7 +123,7 @@ If in doubt, use the "Generic" tier.
 
 **Amount:** If your tier asks for a fixed amount, write it here. If the amount is flexible, you can add a suggested amount as well as a minimum.
 
-**Available quantity:** You can limit the amount of people that can contribute to each tier. This is useful for special edition items or one-time events etc.&#x20;
+**Available quantity:** You can limit how many people can contribute to each tier. This is useful for special edition items or one-time events. Each contributor occupies one slot, including recurring contributors — monthly or yearly billing does not use extra slots. A refunded one-time contribution frees its slot. An active recurring contribution still occupies a slot even if some charges were refunded.&#x20;
 
 **Button text:** You can add your own text for the tier button to make it more compelling. Such as donate, join, contribute. You can also add emojis if you wish.&#x20;
 

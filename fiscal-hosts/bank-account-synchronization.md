@@ -70,6 +70,7 @@ Once connected, you can configure how your bank account integration works:
 1. **Account Selection**: If your bank has multiple accounts, choose which ones to sync
 2. **Sync Settings**: Configure how often you want transactions to be imported
 3. **Assignment Rules**: Set up automatic assignment rules for certain types of transactions
+4. **Balance or clearing account** (when the [Balance & clearing accounts](../advanced/preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled): assign each synced bank sub-account in **Settings > Chart of Accounts > Payment device assignments**. Matched transactions inherit that account. See [Chart of Accounts](chart-of-accounts.md#balance-and-clearing-accounts).
 
 ### Connection status
 
