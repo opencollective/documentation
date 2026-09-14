@@ -26,8 +26,6 @@ Use **See more plans** on the pricing page to compare package sizes within a tie
 
 If you need a feature that is not on your current tier, upgrade from Platform Billing.
 
-Changing a plan requires [two-factor authentication](../advanced/security-for-accounts/two-factor-authentication.md) when 2FA is enabled on your account (or when your organization requires 2FA for admins). You are prompted for a code when you confirm the change.
-
 ## Migration from legacy pricing
 
 Organizations on the previous pricing model (free organization access or 15% platform share on host fees) may see a banner prompting migration to the new subscription model. Legacy pricing details are at [opencollective.com/legacy-pricing](https://opencollective.com/legacy-pricing).
