@@ -104,7 +104,9 @@ When you are ready to make a decision about an expense, you can access a number 
 
 If you are happy with the expense, you can select this option to begin paying it out of Collective funds.
 
-You will either be able to pay out the expense with a connected external payment processor like Wise (learn more on our [Payouts with Wise](paying-expenses-with-wise.md) page) or you can pay the expense manually.&#x20;
+You will either be able to pay out the expense with a connected external payment processor like Wise (learn more on our [Payouts with Wise](paying-expenses-with-wise.md) page) or you can pay the expense manually.
+
+When paying manually, if the [Balance & clearing accounts](../../advanced/preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled, you can select a **Payment device** (balance or clearing account) so the payout is attributed to the bank or processor that sent the money. See [Chart of Accounts](../chart-of-accounts.md#balance-and-clearing-accounts).&#x20;
 
 If you wish to represent expenses previously paid and you don’t need to actually move any money you can utilize [Vendors](../managing-your-collectives/vendors.md). This will debit the amount from the balance and record the details of the expense.
 

@@ -63,6 +63,7 @@ To dive in and review any particular transaction, click to trigger a draw to sli
 * Payment Method
 * Merchant ID
 * Accounting Category
+* Balance Accounting Category (when the [Balance & clearing accounts](../preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled)
 * Group ID
 * Opposite transaction ID&#x20;
 * Related contribution

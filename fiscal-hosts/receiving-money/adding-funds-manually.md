@@ -24,6 +24,7 @@ Fill the form with all required information to add the funds to that Collective 
 * The **amount of funds** you want to send to a Collective.
 * Your **host fee**, which is the fee you charge your Collectives. It's already set to your default, but you can change it to a one-time fee of your preference.
 * A **payment processor fee**
+* A **balance or clearing account** (optional, when the [Balance & clearing accounts](../../advanced/preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled). Suggested accounts appear first when they match a payment device or a bank account assigned to the collective. See [Chart of Accounts](../chart-of-accounts.md#balance-and-clearing-accounts).
 
 Once you're done, just click on Add Funds.
 
