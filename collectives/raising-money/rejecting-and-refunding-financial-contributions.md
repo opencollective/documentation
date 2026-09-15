@@ -29,7 +29,7 @@ If enabled by the Fiscal Host, Collective admins can refund financial contributi
 
 To refund a contribution:
 
-1. Navigate to your Collective's Dashboard > Transactions
+1. Navigate to your Dashboard > Ledger > Transactions
 2. Find the contribution
 3. Click "View Details"
 4. Click **Refund** and confirm the operation
