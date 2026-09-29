@@ -7,7 +7,9 @@ icon: file-arrow-down
 
 # Exporting Your Data
 
-We offer the option to export and download certain data from your Collective and Collectives that your Fiscal Host supports for use outside the platform.
+We offer the option to export and download certain data from your Collective and Collectives that your Fiscal Host supports for use outside the platform. Collective and fiscal host admins, as well as users with the Accountant role, can request and download exports for accounts they can access.
+
+Accountants can request, view, download, and rename exports. Only admins can delete an export.
 
 If you want to know how to export data to display on your website, go to the [Adding Embeds to your Website](../collectives/raising-money/adding-embeds-to-your-website.md) page.
 
@@ -18,6 +20,8 @@ Go to your Collective or Fiscal Host's Dashboard > Transactions and click "Expor
 You can download a CSV file of all transactions or use the filters to choose which groups of transactions to download, like expenses or contributions.
 
 By default, the platform will select the "Platform Default" export set, but if you'd like to add or remove filters and categories, click the drop down and then "New Preset."
+
+Large exports are processed in the background. Open **Dashboard > Settings > Exports** to check the status and download completed files.
 
 
 
