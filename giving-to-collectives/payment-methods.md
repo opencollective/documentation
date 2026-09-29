@@ -52,6 +52,8 @@ If you want to save time when making contributions, you can set up a preferred p
 
 Open Collective does not store any credit card numbers. Your details are stored via our secure payment partner, Stripe, so your credit cards are safe even if our systems are compromised.
 
+An account can save up to 100 credit cards. If you reach this limit, remove an existing card before adding another one.
+
 #### To set up your payment method:
 
 1. Navigate to your personal account Dashboard > Settings.

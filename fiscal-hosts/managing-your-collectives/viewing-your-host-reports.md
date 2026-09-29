@@ -18,6 +18,8 @@ To find your host's Reports page:
 2. Go to your Fiscal Host Dashboard > Reports
 {% endhint %}
 
+Fiscal host **accountants** can also view the Transactions, Expenses, and Contributions reports. They must be assigned the Accountant role on the fiscal host.
+
 \
 Your Reports page will allow you to keep track of:
 
