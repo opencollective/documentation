@@ -21,7 +21,6 @@ By setting up as an Organization, you can:
 * Manage your account with multiple admins/team members
 * Keep track of giving on behalf of your company, even if it’s by multiple people
 * Generate receipts for tax purposes
-* Issue gift cards to your employees so they can give to causes they care about
 
 ### Creating an organization
 

@@ -25,4 +25,4 @@ Make a financial contribution to your chosen project.
 Keep track of your giving by using our simple platform tools.
 
 [**Give as a Company**](giving-as-a-company/)\
-With everything from tax reports to employee gift cards, we make it easy for companies to support causes.
+With everything from tax reports to bulk transfers, we make it easy for companies to support causes.

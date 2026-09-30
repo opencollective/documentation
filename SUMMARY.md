@@ -103,7 +103,7 @@
 * [Giving as a Company](giving-to-collectives/giving-as-a-company/README.md)
   * [Creating a Fund](giving-to-collectives/giving-as-a-company/creating-a-fund.md)
   * [Bulk Transfers](giving-to-collectives/giving-as-a-company/bulk-transfers.md)
-  * [Gift Cards](giving-to-collectives/giving-as-a-company/gift-cards.md)
+  * [Gift Cards (Discontinued)](giving-to-collectives/giving-as-a-company/gift-cards.md)
 * [Requesting Refunds](giving-to-collectives/requesting-refunds/README.md)
   * [Refund Policy](giving-to-collectives/requesting-refunds/refund-policy.md)
 

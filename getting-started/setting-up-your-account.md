@@ -34,7 +34,7 @@ Once you have an account, the next step is to add more information about yoursel
 * **Location:** Your Location can be where you are providing support. For example, your legal address might be in Los Angeles, but you primarily offer support to groups in Ukraine. Therefore, we advise you to say 'Ukraine' here.&#x20;
 * **Address:** Your Address should be your registered address. For example, if you are a Los Angeles-based collective providing support to Ukraine, your location should be your legal street address, Los Angeles, California. (This will appear on your receipts.)&#x20;
 
-You also have a range of advanced options, such as changing your email, improving account security, adding payment methods, viewing payment receipts, customizing the order of your profile page, enabling two-factor authentication, and setting up gift cards, authorized apps, and developer extras.
+You also have a range of advanced options, such as changing your email, improving account security, adding payment methods, viewing payment receipts, customizing the order of your profile page, enabling two-factor authentication, authorized apps, and developer extras.
 
 {% hint style="info" %}
 Don’t forget to save your changes, and take care before editing or deleting any essential sections.
