@@ -15,14 +15,6 @@ Berlin, Germany
 
 [Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin](https://www.linkedin.com/in/francoishodierne/)
 
-#### Ronen Hirsch <a href="#ronen-hirsch" id="ronen-hirsch"></a>
-
-Product Manager
-
-Israel
-
-[Website](https://iamronen.com/), [Twitter](https://twitter.com/iamronen), [Linkedin](https://www.linkedin.com/in/iamronen/)
-
 #### **Benjamin Piouffle** <a href="#benjamin-piouffle" id="benjamin-piouffle"></a>
 
 Head of Engineering
@@ -46,22 +38,6 @@ Software Engineer
 Madrid, Spain
 
 [GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
-
-#### Gustav Larsson <a href="#gustav-larsson" id="gustav-larsson"></a>
-
-Software Engineer
-
-Gothenburg, Sweden
-
-[Github](https://github.com/gustavlrsn), [Linkedin](https://www.linkedin.com/in/gustavlarsson/), [Website](https://gustav.io/)
-
-#### Henrique Silva <a href="#henrique-silva" id="henrique-silva"></a>
-
-Software Engineer
-
-São Paulo, Brazil
-
-[Github](https://github.com/hdiniz), [Linkedin](https://www.linkedin.com/in/henrique-diniz-silva/)
 
 #### Sudharaka Palamakumbura <a href="#sudharaka-palamakumbura" id="sudharaka-palamakumbura"></a>
 
