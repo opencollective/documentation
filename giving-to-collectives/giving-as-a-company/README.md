@@ -38,6 +38,6 @@ Setting up a fund allows you to create a pot of money that can be tracked and di
 
 Save money on transaction processing fees by sending one lump sum to your Organization and spending it on multiple donations.
 
-[**Encourage employee giving**](gift-cards.md)
+[**Gift Cards (Discontinued)**](gift-cards.md)
 
-Giving your employees Gift Cards enables them to give to collectives they want to succeed.
+Gift cards can no longer be created or claimed. Already-issued cards and recurring contributions paid with them keep working.

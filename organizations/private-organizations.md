@@ -36,7 +36,6 @@ Private accounts do not offer the same public-facing features as standard organi
 - No public contribution or checkout flow for visitors
 - No public tiers, funding goals, or profile marketing
 - No public updates or community conversations
-- No gift card flows across public profiles
 
 ### Host tree rules
 
