@@ -21,11 +21,13 @@ This page will provide some basic details on what you may be asked to do. Howeve
 
 ### **Submitting expenses to a Collective with a US-Based Fiscal Host**
 
-If you submit expenses totalling $2000 or more in a year to a US-based Fiscal Host, it is required by US law to collect certain information. This applies even if you are based outside the US.
+If you submit expenses totalling $2000 or more in a year to a US-based Fiscal Host, it may be required to collect certain information. This applies even if you are based outside the US. The threshold applies to the total of qualifying expenses paid by that host.
 
-This $2000 threshold only applies to invoice expenses, not expenses such as payroll, grants or reimbursements.
+The default $2000 threshold applies to invoice expenses, not expenses such as payroll, grants or reimbursements. Fiscal Hosts may use different thresholds for US and non-US people or entities, including a threshold of zero that requires a tax form regardless of the amount.
 
-Once your expenses to a particular US-based host exceed $2000 in a year, expect to be contacted by the Fiscal Host and asked to fill out a tax form.
+Once your qualifying expenses to a particular US-based host reach the applicable threshold for the year, expect to be contacted by the Fiscal Host and asked to fill out a tax form. The applicable threshold is determined separately for each Fiscal Host.
+
+Expenses paid through PayPal are excluded from the default threshold calculation because PayPal handles its own tax-form collection and reporting. A Fiscal Host may choose to include PayPal expenses in its threshold policy. Contact your Fiscal Host if you need to confirm which threshold or payment methods apply to you.
 
 {% hint style="warning" %}
 Fiscal Hosts have different processes for collecting tax information. This may depend on where they are located, what information is required, and how they choose to gather it.
@@ -44,6 +46,8 @@ If your Fiscal Host is US-based, you will be asked to fill in either a:
 * W-8BEN-E (for non-US-based entities, such as companies)
 
 If you are not a US-based person, you will only be subject to income tax in your home country, and will not be taxed in both locations.
+
+When you submit a tax form, your US person or entity status is saved on your account. If that status is already on file, it cannot be changed in the form. Contact your Fiscal Host if your situation has changed and you need to resubmit a tax form.
 
 {% hint style="warning" %}
 If you are filling out a W-8BEN or W-8BEN-E form, you may be asked if you claim "tax treaty benefits for chapter 3 purposes". This is to determine if you are a resident of a foreign country that has an agreement with the US which makes it exempt from US income taxes (or taxed at a reduced rate).
