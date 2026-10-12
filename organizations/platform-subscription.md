@@ -32,9 +32,7 @@ Organizations on the previous pricing model (free organization access or 15% pla
 
 ## Crowdfunding fee model
 
-By default, crowdfunding contributions are free when [Platform Tips](../giving-to-collectives/platform-tips.md) are enabled in the contribution flow. Organizations can request a **5% Crowdfunding Fee** instead. This fee applies to contributions received by card, PayPal, or bank transfer, after refunds. [Contact us](https://opencollective.com/contact) to switch.
-
-When your plan uses the Crowdfunding Fee, the Platform Billing estimate includes a separate **Crowdfunding fee** line. It shows the fee rate, the total crowdfunding contributions it applies to, and the estimated fee. The amount is an estimate until the billing period closes.
+By default, crowdfunding contributions are free when [Platform Tips](../giving-to-collectives/platform-tips.md) are enabled in the contribution flow. Organizations can request a **5% Crowdfunding Fee** instead. [Contact us](https://opencollective.com/contact) to switch.
 
 ## Custom plans
 
