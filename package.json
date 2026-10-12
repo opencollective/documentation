@@ -3,12 +3,20 @@
   "private": true,
   "description": "Development tooling for the Open Collective GitBook documentation repository",
   "scripts": {
-    "validate": "node scripts/validate-summary-links.mjs",
-    "serve": "cp SUMMARY.md _sidebar.md && docsify serve . --port 4000 --no-open",
-    "lint:sample": "markdownlint-cli2 \"README.md\" \"getting-started/getting-started.md\""
+    "validate": "npm run turbo -- run validate:task --",
+    "serve": "npm run turbo -- run serve:task --",
+    "lint:sample": "npm run turbo -- run lint:sample:task --",
+    "dev": "npm run turbo -- run dev:task --",
+    "turbo": "turbo --skip-infer --single-package --root-turbo-json=turbo.standalone.json",
+    "validate:task": "node scripts/validate-summary-links.mjs",
+    "serve:task": "cp SUMMARY.md _sidebar.md && docsify serve . --port 4000 --no-open",
+    "lint:sample:task": "markdownlint-cli2 \"README.md\" \"getting-started/getting-started.md\"",
+    "dev:task": "npm run serve:task"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.4",
-    "markdownlint-cli2": "^0.22.1"
-  }
+    "markdownlint-cli2": "^0.22.1",
+    "turbo": "2.11.7"
+  },
+  "packageManager": "npm@11.19.0"
 }
