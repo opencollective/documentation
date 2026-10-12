@@ -2,7 +2,7 @@
   "$schema": "https://turborepo.dev/schema.json",
   "extends": ["//"],
   "tasks": {
-    "validate": {
+    "validate:task": {
       "inputs": [
         "$TURBO_DEFAULT$",
         "package-lock.json",
@@ -31,16 +31,16 @@
       "outputs": [],
       "cache": true
     },
-    "serve": {
+    "serve:task": {
       "cache": false,
       "passThroughEnv": ["*"],
       "persistent": true
     },
-    "lint:sample": {
+    "lint:sample:task": {
       "cache": false,
       "passThroughEnv": ["*"]
     },
-    "dev": {
+    "dev:task": {
       "cache": false,
       "passThroughEnv": ["*"],
       "persistent": true
