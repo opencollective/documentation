@@ -5,10 +5,14 @@
   "scripts": {
     "validate": "node scripts/validate-summary-links.mjs",
     "serve": "cp SUMMARY.md _sidebar.md && docsify serve . --port 4000 --no-open",
-    "lint:sample": "markdownlint-cli2 \"README.md\" \"getting-started/getting-started.md\""
+    "lint:sample": "markdownlint-cli2 \"README.md\" \"getting-started/getting-started.md\"",
+    "dev": "npm run serve",
+    "turbo": "turbo --single-package --root-turbo-json=turbo.standalone.json"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.4",
-    "markdownlint-cli2": "^0.22.1"
-  }
+    "markdownlint-cli2": "^0.22.1",
+    "turbo": "2.11.7"
+  },
+  "packageManager": "npm@11.19.0"
 }

@@ -1,3 +1,6 @@
 node_modules/
 _sidebar.md
 _book/
+
+# Turborepo task logs and local cache
+.turbo/

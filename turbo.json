@@ -1,0 +1,49 @@
+{
+  "$schema": "https://turborepo.dev/schema.json",
+  "extends": ["//"],
+  "tasks": {
+    "validate": {
+      "inputs": [
+        "$TURBO_DEFAULT$",
+        "package-lock.json",
+        ".env*",
+        "!dist/**",
+        "!.next/**",
+        "!coverage/**",
+        "!.nyc_output/**",
+        "!.turbo/**",
+        "!*.tsbuildinfo",
+        "!test-results.xml",
+        "!test-report.junit.xml",
+        "!junit.xml",
+        "!.eslintcache",
+        "!.prettiercache",
+        "!_sidebar.md"
+      ],
+      "env": [
+        "CI",
+        "NODE_ENV",
+        "OC_ENV",
+        "TZ",
+        "NODE_OPTIONS",
+        "OC_LOCKFILE_HASH_DOCUMENTATION"
+      ],
+      "outputs": [],
+      "cache": true
+    },
+    "serve": {
+      "cache": false,
+      "passThroughEnv": ["*"],
+      "persistent": true
+    },
+    "lint:sample": {
+      "cache": false,
+      "passThroughEnv": ["*"]
+    },
+    "dev": {
+      "cache": false,
+      "passThroughEnv": ["*"],
+      "persistent": true
+    }
+  }
+}
