@@ -17,7 +17,7 @@ For an example of a Project in action, see [Bushwick Ayuda Mutua’s Asylum Seek
 
 ### Creating a Project
 
-To create a Project, go to your Collective, Organization, or Fund page. Ensure that you have your Projects section visible, you will then have the ability to “Create Project”.
+Only an admin of the parent account can create a Project. Go to your Collective, Organization, or Fund page and ensure that you have your Projects section visible. You will then have the ability to “Create Project”.
 
 This will invite you to choose a name, a profile URL and add a short description of what the Project aims to achieve.
 

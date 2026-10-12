@@ -11,7 +11,7 @@ If you want to bring your community together, you can set up an Event and post i
 
 ### **Creating an Event**
 
-The first step is to go to your Collective's page and scroll down to the “Events” section. Click on the “Create Event” button.
+Only an admin of the parent account can create an Event. The parent can be a Collective or Organization. Go to its page, scroll down to the “Events” section, and click on the “Create Event” button.
 
 You will then have the option to fill in your Event details, including a **name, short description, start and end times, your preferred time zone, your event URL, your location, and any private instructions**. Private instructions will be sent by email to registered participants and/or attendees.
 

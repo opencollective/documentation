@@ -141,6 +141,10 @@ You can add multiple invoices by clicking the "Add New Item" option next to the 
 
 Check that the "Total Amount" you are invoicing is correct to avoid confusion.
 
+{% hint style="info" %}
+Expense titles are limited to 255 characters. Use the description and additional notes fields for more detail.
+{% endhint %}
+
 ## Additional Details&#x20;
 
 You can then adjust your **expense title**. In most cases the expense title will be very similar to your expense item description, so to save you the time we've copied it here and allowed it to be edited. Remember this will be displayed publicly, so do not include any information you want to remain private.
