@@ -71,10 +71,6 @@ Navigate expense workflows faster with keyboard shortcuts.
 
 Shows action buttons on table rows when you hover over them, so you can perform common actions without opening the row menu.
 
-### Async Exports (closed beta)
-
-Enables background processing for large data exports on organization accounts. Exports run asynchronously and you are notified when the download is ready. See [Exporting Your Data](exporting-your-data.md).
-
 ### Crowdfunding Redesign (public beta)
 
 Preview of redesigned crowdfunding and profile pages, including separate fundraising and storytelling views and improved goal tracking. See the [blog post](https://blog.opencollective.com/open-collective-crowdfunding-redesign/) for details.
@@ -124,3 +120,7 @@ The **Overview** tab is the main financial and operational snapshot for a hosted
 * **Recent Contributions** and **Recent Payouts** — the five latest transactions, with links to view all in **Money Movements**.
 
 See [Hosted Collectives](../fiscal-hosts/managing-your-collectives/hosted-collectives.md) and [Funds](../fiscal-hosts/funds-and-grants/funds.md).
+
+## Graduated features
+
+* **Async Exports** — released to everyone and no longer a preview feature. See [Exporting Your Data](exporting-your-data.md#background-async-exports).
