@@ -31,9 +31,15 @@ The form is divided into three sections:
 3. In the third section, you can indicate:
    1. The expected amount
    2. The expected payment method
-   3. The expected date for the funds to arrive
+   3. The expected date for the funds to arrive (see below)
    4. The host fees
    5. An internal note to document information related to this pending contribution
+
+### Expected date
+
+Under **When are these funds expected to arrive?**, choose one of the preset options (within 1 month, 3 months, 6 months, or 1 year), or select **Pick a date** to enter a specific calendar date.
+
+The expected date is a calendar day: it is displayed as the same day for everyone, regardless of their timezone, in the contributions list, the contribution details, and the order page.
 
 ## Review & Edit Expected Funds
 
