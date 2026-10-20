@@ -21,7 +21,7 @@ If your fiscal host allows card requests, switch to your approved Collective and
 * Private notes for the host administrators
 * A spending limit and limit interval
 
-Available intervals can include per authorization, daily, weekly, monthly, yearly, or all time. Review the host's policy and terms, then agree to them before submitting the request. The host will review the request, create the card, assign it to a person, and email you when it is available.
+Available intervals can include per authorization, daily, weekly, monthly, yearly, or all time. Your fiscal host decides which of these intervals can be selected, so you may only see some of them in the request form. Review the host's policy and terms, then agree to them before submitting the request. The host will review the request, create the card, assign it to a person, and email you when it is available.
 
 You can view cards assigned to your Collective, filter them by status or creation date, and view the card details when you need the card number, expiry date, or CVV. Depending on the card and your permissions, you can pause, resume, delete, or edit card details, and view the card's transactions.
 
@@ -39,9 +39,14 @@ From your fiscal host dashboard, go to **Settings > Virtual Cards**. You can:
 * Automatically notify Collectives about missing receipts after 15 and 29 days
 * Automatically suspend cards with pending receipts after 31 days, then resume them after all receipts are submitted
 * Pause unused cards after a period of inactivity
+* Choose the **Limit policies for card requests**
 * Publish a card-use policy of up to 3,000 characters
 
 The policy is shown to Collective admins when they request a card. Use it to explain receipt deadlines, allowed charges, limits, and who to contact with questions.
+
+#### Limit policies for card requests
+
+Use the **Limit policies for card requests** checkboxes to choose which spending limit intervals (per authorization, daily, weekly, monthly, yearly, all time) Collectives can select when requesting a card. All intervals are enabled by default, and at least one must stay enabled. Disabled intervals are hidden from the **Request card** form, and requests that use a disabled interval are rejected.
 
 ### Review requests and issue cards
 
