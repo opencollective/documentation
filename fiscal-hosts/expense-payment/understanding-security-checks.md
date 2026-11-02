@@ -38,3 +38,15 @@ When you click on the shield icon for the expense, it will display only the chec
 {% hint style="info" %}
 Red indicators are warnings, not blocks. Fiscal Host admins can still proceed with processing payments even if a red security check is applied to an expense.
 {% endhint %}
+
+### Legal document checks
+
+If the Fiscal Host processing an expense requires US tax forms, the payee's most recent received tax form (W-9, W-8BEN or W-8BEN-E) is compared with the payee's account details. These checks appear under the **Legal Document** scope and flag:
+
+* **Name mismatch:** neither the individual nor the entity name on the tax form matches the payee's legal name (or display name if no legal name is set).
+* **Address mismatch:** the city or postal code on the tax form differs from the payee's address. Street addresses are not compared.
+* **Country mismatch:** the country on the tax form differs from the payee's country.
+
+If the expense is paid to a bank account, the tax form is also compared with the bank account's holder name, address (city and postal code), and country.
+
+These checks are warnings only. They never block payment, and the check details never show tax ID numbers. A field is only compared when it is filled in on both sides. Tax forms collected through the legacy HelloWorks / Dropbox Forms system and documents with no form data submitted on Open Collective (such as manually uploaded files) are not checked.
