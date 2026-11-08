@@ -37,6 +37,15 @@ Your estimated annual budget is calculated based on factors including:
 * any inactive monthly subscriptions from the last year
 {% endhint %}
 
+{% hint style="info" %}
+**Funds** display their totals differently from Collectives, Projects and Events:
+
+* **Total raised** is the total amount contributed to the Fund, **before fees**.
+* **Total disbursed** is the total raised minus the current balance, so it **includes fees**.
+
+This way, the amount shown as raised matches what donors actually gave. For Collectives, Projects and Events, "Total raised" is shown net of fees.
+{% endhint %}
+
 Your budget will not show private information, such as the email addresses of your expense submitters and any receipts they attached.
 
 You can also use the menu buttons to view a record of “expenses” (money going out) and “transactions” (money coming in).
