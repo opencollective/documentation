@@ -42,8 +42,8 @@ Payment methods that require bank authorization (such as ACH, SEPA or BACS) may 
 
 If you don’t complete a manual bank transfer, the pending order will expire after two months and no further action will be required.
 
-{% hint style="warning" %}
-If you attempt to schedule a recurring contribution via PayPal and it fails, you may be charged for all your failed scheduled donations once you reestablish the connection.
+{% hint style="info" %}
+If a scheduled payment of a recurring contribution via PayPal fails, the missed payment is not added to your next charge: each successful payment is only charged the amount of a single period. Missed payments are not billed automatically later.
 {% endhint %}
 
 #### Setting up a preferred payment method
