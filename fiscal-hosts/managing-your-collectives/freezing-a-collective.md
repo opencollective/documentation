@@ -22,10 +22,23 @@ If a Collective is frozen, it cannot:
 * Accept contributions
 * Post updates
 * Create new Events or Projects
-* Add or remove new team members<br>
+* Add, edit or remove team members<br>
 
 However, any recurring contributions that were set up before the freeze will continue to be paid as normal.
 {% endhint %}
+
+### Team changes are locked
+
+While a Collective is frozen, its team cannot change. This also applies to the Collective's Events and Projects. Collective admins cannot:
+
+* Invite new members or admins
+* Change a member's role or details
+* Remove members
+* Edit or cancel pending invitations
+
+People who were invited before the freeze also cannot accept or decline their invitation. Pending invitations stay as they are until the Collective is unfrozen.
+
+This lets a Fiscal Host keep the team stable while an issue is being resolved, for example during a dispute between admins.
 
 If a Collective is frozen, the Collective admins will be notified via an email notification. The Collective's page will also no longer display contributions and expenses, and a message will be displayed explaining that "some actions are temporarily limited".
 
