@@ -19,6 +19,10 @@ If you wish to define custom host fees for selected collectives you can do so vi
 You can also define custom host fees when adding funds manually. Learn more on the [Adding Funds page](../receiving-money/adding-funds-manually.md).
 {% endhint %}
 
+{% hint style="info" %}
+Host Fees are never charged on money going to your Fiscal Host itself, or to Events and Projects created directly under your Fiscal Host's own account. Events and Projects that belong to one of your hosted Collectives are still charged the Collective's Host Fee as usual.
+{% endhint %}
+
 ### **How fees affect your Open Collective pricing**
 
 If you do not charge any fees to your Collectives as a Fiscal Host, we will not charge you for using the Open Collective platform. This will give you access to all of our tools and features for free.
