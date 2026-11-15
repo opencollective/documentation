@@ -159,7 +159,7 @@ As an added security and compliance measure for Fiscal Hosts, their Admins can n
 
 Freezing a Collective means temporarily limiting what a Collective (and their connected Projects & Events) can and cannot do on the platform.
 
-Freezing a Collective will block all financial activity within that Collective. They will not be able to accept funds, pay out expenses, post updates, create new Events or Projects, or add new Team members under this Collective. However, they will still continue to receive recurring donations that were started before this freeze.
+Freezing a Collective will block all financial activity within that Collective. They will not be able to accept funds, pay out expenses, post updates, create new Events or Projects, or add, edit or remove Team members under this Collective (pending team invitations also can't be accepted until the Collective is unfrozen). However, they will still continue to receive recurring donations that were started before this freeze. See [Freezing a Collective](freezing-a-collective.md) for details.
 
 Contributions and expenses will be removed from the Collective's public profile, and admins will be informed of why the action was taken.
 
