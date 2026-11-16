@@ -21,8 +21,6 @@ Berlin, Germany
 
 Staff Software Engineer
 
-Security, compliance and platform resilience
-
 La Ciotat, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin](https://www.linkedin.com/in/benjaminpiouffle/)
