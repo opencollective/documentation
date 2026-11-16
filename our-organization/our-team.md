@@ -11,6 +11,8 @@ Open Collective has a small, fully remote team with members around the world. Yo
 
 Staff Software Engineer
 
+Platform affordability, quality, scalability and performance
+
 Berlin, Germany
 
 [Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin](https://www.linkedin.com/in/francoishodierne/)
@@ -18,6 +20,8 @@ Berlin, Germany
 #### **Benjamin Piouffle** <a href="#benjamin-piouffle" id="benjamin-piouffle"></a>
 
 Staff Software Engineer
+
+Security, compliance and platform resilience
 
 La Ciotat, France
 
