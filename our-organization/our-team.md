@@ -9,7 +9,7 @@ Open Collective has a small, fully remote team with members around the world. Yo
 
 #### **François Hodierne** <a href="#francois-hodierne" id="francois-hodierne"></a>
 
-Senior Software Engineer
+Staff Software Engineer
 
 Berlin, Germany
 
@@ -17,7 +17,7 @@ Berlin, Germany
 
 #### **Benjamin Piouffle** <a href="#benjamin-piouffle" id="benjamin-piouffle"></a>
 
-Senior Software Engineer
+Staff Software Engineer
 
 La Ciotat, France
 
