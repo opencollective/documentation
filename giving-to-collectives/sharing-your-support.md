@@ -12,14 +12,6 @@ Spreading the word about a Collective can boost awareness about their work, and 
 
 So why not tell your friends and colleagues about the groups that mean something to you?
 
-### Adding a badge to your website
-
-{% hint style="warning" %}
-The `collectives.js` / `widget.js` badge that listed the Collectives you support has been removed. Existing embeds of `https://opencollective.com/USERNAME/collectives.js` (or `collectives.html`, `widget.js`, `widget.html`) no longer display anything: the script loads but does nothing, and the embedded page is blank. You can safely remove these snippets from your website.
-{% endhint %}
-
-To show your support on your website, link to the Collectives you back, or use the buttons, badges and banners that Collectives can generate from their own profile. See [Adding Donation Buttons, Badges and Banners](../collectives/raising-money/adding-donation-buttons-badges-and-banners.md).
-
 ### Sharing on social media
 
 You can also let people know about your support on your social platforms.
