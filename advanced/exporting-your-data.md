@@ -54,6 +54,10 @@ By default, the platform will select the "Platform Default" export set, but if y
 
 ### &#x20;Export data as JSON files
 
+{% hint style="warning" %}
+**Deprecated.** These members JSON and CSV exports (`/<slug>/members.json`, `/<slug>/members/<type>.json`, `/<slug>/tiers/<tier>/<type>.json`, `/<slug>/events/<event>/<role>.json`, and the same with `.csv`) still work but are deprecated. Use the **Export CSV** button in your Dashboard > Contributors, or `https://rest.opencollective.com/v2/<slug>/contributors.json` (or `.csv`) instead.
+{% endhint %}
+
 You can also export your data as a JSON file, which can be used with other applications. The information you download can be filtered by:
 
 Options:
