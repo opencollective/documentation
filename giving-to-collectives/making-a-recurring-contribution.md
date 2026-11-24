@@ -73,3 +73,18 @@ From an active recurring contribution, you can:
 {% hint style="info" %}
 Contributions using some payment methods (such as ACH and SEPA) do not support changes. If you wish to change a recurring contribution using these methods, please cancel and create a new one instead.&#x20;
 {% endhint %}
+
+#### Changing to a different tier
+
+When you update your contribution amount, you can also pick a different tier. A new amount is always billed from your next charge. When the tier itself changes depends on whether you have already paid for it:
+
+* **Moving to a cheaper tier, to no tier (custom amount), or to a tier your latest payment already covers:** the change applies immediately.
+* **Upgrading to a more expensive tier:** your new amount is saved right away, but you stay on your current tier until your next payment at the new amount succeeds. You are then moved to the new tier automatically.
+
+While an upgrade is waiting, your Dashboard shows it as pending: the Contributions table shows "_Tier name_ after next payment", and the contribution details and the edit form say you will move to the new tier after the next payment, with its date.
+
+{% hint style="info" %}
+* If the next payment fails, or you cancel the contribution before it is charged, the tier change is never applied.
+* Picking another tier while an upgrade is pending replaces it. Picking your current tier again removes the pending change.
+* For monthly contributions this means the new tier usually applies within a month; for yearly contributions it can take up to a year.
+{% endhint %}
