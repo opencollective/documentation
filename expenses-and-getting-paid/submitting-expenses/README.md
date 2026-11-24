@@ -74,6 +74,12 @@ We currently offer the option to be paid by bank account or PayPal. When filling
 
 Your address and bank account details are always required to process an expense. This information will not be displayed publicly, only admins of the Collective and Fiscal Host you work with and specific members of the Open Collective staff will have access. You must also supply your Legal Name on your account info, but only your Display Name will be shown publicly.
 
+{% hint style="info" %}
+**What the Fiscal Host can see.** Fiscal Host admins can access the payee's legal name and the address submitted with the expense in order to process it, and this address may remain attached to the expense record.
+
+If you are paid as an individual, once the expense is paid the admins of the Fiscal Host that paid it keep access to your current email address and private address, including any later updates, even if the Collective later leaves or changes Fiscal Host. This does not apply when the payee is an Organization, Collective or Vendor. The expense form shows this notice when you submit an expense for yourself.
+{% endhint %}
+
 {% hint style="success" %}
 Find out how to set your Display Name and Legal Name on the [Setting up an Account](../../getting-started/setting-up-your-account.md) page.
 {% endhint %}
