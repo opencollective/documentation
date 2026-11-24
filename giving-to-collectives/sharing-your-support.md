@@ -14,13 +14,11 @@ So why not tell your friends and colleagues about the groups that mean something
 
 ### Adding a badge to your website
 
-If you want to tell people which Collectives you’re backing, add this script to your website:
+{% hint style="warning" %}
+The `collectives.js` / `widget.js` badge that listed the Collectives you support has been removed. Existing embeds of `https://opencollective.com/USERNAME/collectives.js` (or `collectives.html`, `widget.js`, `widget.html`) no longer display anything: the script loads but does nothing, and the embedded page is blank. You can safely remove these snippets from your website.
+{% endhint %}
 
-`<script src="https://opencollective.com/USERNAME/collectives.js?role=backer"></script>`
-
-Make sure to replace  `USERNAME` with your individual profile's handle. This can be found in your profile settings.&#x20;
-
-You can change your role by editing “role=backer” to “role=admin”, “role=member” or “role=host”, or simply leave it empty.
+To show your support on your website, link to the Collectives you back, or use the buttons, badges and banners that Collectives can generate from their own profile. See [Adding Donation Buttons, Badges and Banners](../collectives/raising-money/adding-donation-buttons-badges-and-banners.md).
 
 ### Sharing on social media
 
