@@ -36,7 +36,12 @@ Use the filter bar to narrow results:
 * **Search** by name or email
 * **Relation Type** - admin, contributor, expense submitter, payee, and other roles
 * **Account** - filter by a specific hosted collective
-* **Total Contributed** and **Total Expended** - amount ranges
+* **Total Contributed** and **Total Expended** - amount ranges, with an optional **year** (All time, or one of the last 10 years). Each filter can use a different year, for example contributed in 2024 and received in 2025. Accounts with no activity in the selected year count as zero. When sorting by total contributed or total expended, the year of the matching filter is used.
+* **Missing information** - show accounts missing any of the selected fields:
+  * **Legal name**
+  * **Address**
+  * **Country of incorporation**
+  * **US Tax Form for {year}** (current and previous year) - accounts required to file a US tax form for that year that have not submitted one. Any received US tax form counts as filed. Only shown to hosts with the Tax Forms feature enabled.
 * **Sort** by name, date created, total contributed, or total expended
 
 ### Columns
@@ -114,4 +119,4 @@ When KYC is enabled, shows verification history and a button to submit a new man
 
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
 * [Dashboard Navigation](https://github.com/opencollective/documentation/blob/main/fiscal-hosts/dashboard-navigation.md)
-* [Vendors](managing-your-collectives/vendors.md) - separate vendor directory for organizations
+* [Vendors](managing-your-collectives/vendors.md) - separate vendor directory for organizations. The **Platform Organizations** tab of the Vendors dashboard supports the same **Missing information** filter and year option on the amount filters.
