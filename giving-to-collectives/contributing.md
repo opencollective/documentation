@@ -34,7 +34,7 @@ You are able to select who the contribution is from. If you don’t log in to Op
 If you are logged in, you will have the option to choose from:
 
 * **Your personal account:** You will be listed as a contributor on the collective’s page, and the email address linked to your account will be visible to the collective admins.&#x20;
-* **Incognito:** Stay Anonymous. We understand that not everyone can or wants to show their real name on public Collective budgets. The amount you give will be public, but your name and details will not. Administrators of the Collective and Fiscal Host, and certain Open Collective staff members will still be able to see your details.
+* **Incognito:** Stay Anonymous. We understand that not everyone can or wants to show their real name on public Collective budgets. The amount you give will be public, but your name and details will not. Administrators of the Collective's Fiscal Host and certain Open Collective staff members will still be able to see your details. Administrators of the Collective itself (or of its parent Collective) cannot see the identity or private details behind an incognito contribution.
 * **An Organization:** If you are an admin, you can give on behalf of an organization, including Fiscal Hosts. [Find out more about setting up an organization.](../getting-started/creating-an-organization.md)
 * **A Collective:** If you are an admin, you can give on behalf of a collective. Find out more about [giving as a collective.](giving-to-other-collectives.md)
 
