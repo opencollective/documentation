@@ -12,16 +12,6 @@ Spreading the word about a Collective can boost awareness about their work, and 
 
 So why not tell your friends and colleagues about the groups that mean something to you?
 
-### Adding a badge to your website
-
-If you want to tell people which Collectives you’re backing, add this script to your website:
-
-`<script src="https://opencollective.com/USERNAME/collectives.js?role=backer"></script>`
-
-Make sure to replace  `USERNAME` with your individual profile's handle. This can be found in your profile settings.&#x20;
-
-You can change your role by editing “role=backer” to “role=admin”, “role=member” or “role=host”, or simply leave it empty.
-
 ### Sharing on social media
 
 You can also let people know about your support on your social platforms.
