@@ -28,6 +28,14 @@ Every month, the total amount of money owed from platform tips sent to the Fisca
 
 Platform Settlement Expenses will automatically appear once per month if any tips or host fee shares are due to be transferred to Open Collective. You can proceed to approve and pay it like any other expense including via card using Stripe.
 
+### Which payout method is used
+
+Platform settlements and platform subscription bills share the same payout method selection:
+
+* **Last used method is remembered.** New settlements and bills use the payout method of your last paid platform expense of either kind (settlement or platform bill), so switching the method on one carries over to the next one. Bills or settlements paid manually to the bank account count too. Expenses paid with "other" are ignored, so the automated methods are tried again.
+* **Large amounts don't default to Stripe.** Settlements and platform bills above $1,000 USD do not default to Stripe (card) payment. They default to the bank account instead (or PayPal / other when applicable). For settlements, the limit applies to the combined amount owed.
+* **Changing the payout method keeps the status.** Switching the payout method on a settlement or platform bill no longer sends it back to **Pending**, so it can still be paid without being approved again. Changing the amount, items or currency still resets the status.
+
 ### Where to see platform tip activity
 
 Tips collected on your behalf are tracked on an internal Platform Tips account. These internal billing flows are hidden from the default Budget and Transactions sections on your Fiscal Host's public profile page, so visitors see your activity with hosted collectives rather than platform settlements.
