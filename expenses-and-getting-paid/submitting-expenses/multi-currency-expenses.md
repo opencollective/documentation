@@ -10,6 +10,10 @@ icon: circle-yen
 
 When submitting an invoice or reimbursement, you can choose to submit in the currency of the Collective or the currency of your payment method.&#x20;
 
+{% hint style="info" %}
+This is only possible when the Collective uses the same currency as its Fiscal Host. Otherwise, the expense must be submitted in the Collective's currency.
+{% endhint %}
+
 #### Supported Currencies
 
 * **Wise**: Collective currency or payout method currency, with the limitation of the[ currencies that are supported by Wise](https://wise.com/help/articles/2897238/which-currencies-can-i-add-keep-and-receive-in-my-wise-account)

@@ -33,7 +33,7 @@ Learn how to amend an expense to correct or add details
 
 Learn what you can expect and our estimate
 
-[**Get paid through Wise and Payoneer**](getting-paid-through-wise.md)
+[**Get paid through Wise**](getting-paid-through-wise.md)
 
 Information on how to use payment services platforms
 
