@@ -11,8 +11,15 @@ Added funds are funds that are manually added to Collective accounts by Fiscal H
 
 1. They are initiated by a Fiscal Host admin and not by a contributor.
 2. They are created in response to manual data entry (and not automated interaction with a payment processor system).
-3. They can be manually dated by the Fiscal Host admin to reflect when the funds actually arrived. In such cases, the “Transaction Date” will show the date (and time) the transaction itself was created in the ledger and the “Effective Date” will show the date entered by the Fiscal Host admin.
+3. They can be manually dated by the Fiscal Host admin to reflect when the funds actually arrived. In such cases, the “Date” will show the date (and time) the transaction itself was created in the ledger and the “Effective Date” will show the date entered by the Fiscal Host admin.
 
 Added funds transaction groups typically look like contributions in the ledger, but instead of a pair of CONTRIBUTION transactions, there will be a pair of ADDED\_FUNDS transactions.
+
+Added funds are never eligible for platform tips, so they don't create PLATFORM\_TIP transactions. The other transactions follow the same rules as [contributions](contributions-in-the-ledger.md):
+
+1. If the Fiscal Host admin entered a payment processor fee, there will be a pair of PAYMENT\_PROCESSOR\_FEE transactions.
+2. If the Fiscal Host charges a host fee, there will be a pair of HOST\_FEE transactions.
+3. If the Fiscal Host has a revenue share agreement with the platform, there will be a pair of HOST\_FEE\_SHARE transactions. Because the platform cannot collect its share directly from added funds, there will also be a pair of HOST\_FEE\_SHARE\_DEBT transactions (credited to the Fiscal Host and debited from the platform) that is later collected through a [Platform settlement expense](../../fiscal-hosts/platform-settlements.md).
+4. If the Fiscal Host admin entered a tax (such as VAT or GST), there will be a pair of TAX transactions.
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt="A table showing an example of Added Funds in the ledger. The first transaction has the Kind &#x22;Added Funds,&#x22; the Type &#x22;CREDIT,&#x22; the Account &#x22;Collective B,&#x22; and the Amount &#x22;$1,000.00.&#x22; The second transaction has the Kind &#x22;Added Funds,&#x22; the Type &#x22;DEBIT,&#x22; the Account &#x22;Contributor A,&#x22; and the Amount &#x22;-$1,000.00.&#x22; The third transaction has the Kind &#x22;Host Fee,&#x22; the Type &#x22;CREDIT,&#x22; the Account &#x22;Fiscal Host C,&#x22; and the Amount &#x22;$100.00.&#x22; The fourth transaction has the Kind &#x22;Host Fee,&#x22; the Type &#x22;DEBIT,&#x22; the Account &#x22;Collective B,&#x22; and the Amount &#x22;-$100.00.&#x22; The fifth transaction has the Kind &#x22;Host Fee Share,&#x22; the Type &#x22;CREDIT,&#x22; the Account &#x22;Platform,&#x22; and the Amount &#x22;$15.00.&#x22; The sixth transaction has the Kind &#x22;Host Fee Share,&#x22; the Type &#x22;DEBIT,&#x22; the Account &#x22;Fiscal Host C,&#x22; and the Amount &#x22;-$15.00.&#x22;"><figcaption></figcaption></figure>

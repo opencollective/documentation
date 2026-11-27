@@ -13,6 +13,11 @@ description: >-
 3. If a Fiscal Host has a revenue share agreement with the platform then there will also be a pair of HOST\_FEE\_SHARE transactions:
    1. If HOST\_FEE\_SHARE applies and the payment processor supports it, the contribution will be split during processing: the Fiscal Host and the platform will each receive their portions, and the HOST\_FEE\_SHARE amount will be sent directly to the platform.&#x20;
    2. If that is not possible, the entire contribution amount (minus the payment processor fee) is directed to the Fiscal Host and a pair of HOST\_FEE\_SHARE\_DEBT transactions are also created to account for money owed by the Fiscal Host to the platform. The debt transactions are later aggregated and used to generate an expense through which the Fiscal Host pays the platform and the debt is reconciled.
+4. If the contributor added a platform tip, the tip is recorded as a separate pair of PLATFORM\_TIP transactions (credited to the platform and debited from the contributor), and it is not included in the CONTRIBUTION amount:
+   1. If the payment processor supports it, the tip is sent directly to the platform during processing.
+   2. If that is not possible, the Fiscal Host receives the tip and a pair of PLATFORM\_TIP\_DEBT transactions is also created to account for money owed by the Fiscal Host to the platform. Like the host fee share debt, it is later collected through a Platform settlement expense.
+   3. For some Fiscal Hosts, the tip is instead credited to the Fiscal Host's internal Platform Tips account. When the tip is collected directly by Stripe, a pair of APPLICATION\_FEE transactions records it moving from that account to the platform. Otherwise it stays on the Platform Tips account until it is collected through a Platform settlement expense.
+5. If the contribution includes a tax (such as VAT or GST), there will also be a pair of TAX transactions: the tax amount is debited from the Collective and credited to the tax account.
 
 As a result, a single contribution can result in a set of transactions:
 
@@ -28,7 +33,9 @@ When contributions are refunded, a new transaction group is created. It contains
 2. The host fees are returned: debited from the Fiscal Host and credited to the Collective.
 3. The host fee share paid to the platform is returned: it is debited from the platform and credited to the Fiscal Host.
 4. The host fee share debt is cancelled: it is debited from the Fiscal Host and credited to the platform.
-5. Payment processor fee transactions are **not** reversed since they are typically not refunded by the payment processors. In such cases, Fiscal Hosts cover the payment processor fees that have not been refunded, and this is represented in the ledger with a pair of PAYMENT\_PROCESSOR\_COVER transactions.
+5. The platform tip, if any, is returned: it is debited from the platform (or from the Fiscal Host's Platform Tips account) and credited to the contributor. Any platform tip debt or application fee for that tip is reversed as well.
+6. The tax, if any, is returned: it is debited from the tax account and credited to the Collective.
+7. Payment processor fee transactions are only reversed for the part of the fee that the payment processor refunds, which is typically nothing. Fiscal Hosts cover the payment processor fees that have not been refunded, and this is represented in the ledger with a pair of PAYMENT\_PROCESSOR\_COVER transactions.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="A table showing an example of a refunded contribution. The table is nearly identical to the one above, with a few exceptions. The first two transactions in the table are for the contribution with a DEBIT from the Collective and a CREDIT to the original contributor. The next two transactions are for the Host Fee, with a DEBIT from the Fiscal Host and a CREDIT to the Collective. The next two transactions are for the Host Fee Share with a DEBIT from the platform and a CREDIT to the Fiscal Host. The next two transactions are for the Host Fee Share Debt, with a DEBIT from the Fiscal Host and a CREDIT to the platform. The final two transactions are to cover the Payment Processor fees that were not refunded with a DEBIT from the Fiscal Host and a CREDIT to the Collective."><figcaption></figcaption></figure>
 
@@ -36,7 +43,7 @@ As a result, the ledger footprint of a refunded contribution includes:
 
 1. The contribution transactions are one transaction group.
 2. The refund transactions are a second transaction group.
-3. There is a relationship between the transactions in the two transaction groups. Each transaction in the contribution transaction group (except the payment processor fees) will have a Refund Transaction ID that points to the opposite transaction in the refund transaction group.
+3. There is a relationship between the transactions in the two transaction groups. Each transaction in the contribution transaction group (except payment processor fees that were not refunded) will have a Refund Transaction ID that points to the opposite transaction in the refund transaction group.
 4. The contribution transactions will be marked as REFUNDED.
 5. The related refund transactions will be marked as REFUND.
 
@@ -52,7 +59,7 @@ From a contributor's perspective, a refunded contribution looks like a straightf
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt="A table showcasing an example of a refunded contribution from the contributor&#x27;s perspective. The first transaction has the type &#x22;DEBIT,&#x22; a property that states &#x22;REFUNDED,&#x22; and an amount of &#x22;-$10.00.&#x22; The second transaction has a type &#x22;CREDIT,&#x22; a property that says &#x22;REFUND,&#x22; and an amount &#x22;$10.00.&#x22;"><figcaption></figcaption></figure>
 
-From a Collective's perspective, a refunded contribution looks slightly less symmetric because the PAYMENT PROCESSOR FEE transaction is not refunded and is instead reflected by the PAYMENT PROCESS COVER transaction:
+From a Collective's perspective, a refunded contribution looks slightly less symmetric because the PAYMENT PROCESSOR FEE transaction is not refunded and is instead reflected by the PAYMENT PROCESSOR COVER transaction:
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt="A table showing an example of a refunded contribution from a Collective&#x27;s perspective. The first three transactions are associated with the initial contribution and feature a transaction labelled &#x22;Contribution,&#x22; another labeled &#x22;Payment Processor Fee,&#x22; and a final one labeled &#x22;Host Fee.&#x22; The Contribution and Host Fee transactions have a property labeled &#x22;REFUNDED,&#x22; while Payment Processor Fee does not. The last three transactions roughly correspond to the original three transactions, but in reverse: Contribution, Host Fee, and Payment Processor Cover. All three have the label &#x22;REFUND.&#x22;"><figcaption></figcaption></figure>
 
@@ -68,6 +75,6 @@ From a Fiscal Host “Managed Funds” perspective, a refunded contribution look
 
 A dispute occurs when a contributor files a complaint with a payment processor (usually because of suspected fraud). If a dispute is settled in favor of the Fiscal Host the contribution transactions in the ledger remain unchanged. If a dispute is settled in favor of a contributor the transaction will be refunded (and refund transactions will be created in the ledger).
 
-Regardless of the dispute outcome, payment processors charge a dispute fee (paid by the Fiscal Host) which is recorded in the platform as an additional pair of PAYMENT\_PROCESSOR\_DISPUTE\_FEE transactions:
+Regardless of the dispute outcome, payment processors may charge a dispute fee (paid by the Fiscal Host). When they do, it is recorded in the platform as an additional pair of PAYMENT\_PROCESSOR\_DISPUTE\_FEE transactions when the dispute is closed:
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt="A table showing an example of transactions associated with a disputed contribution. Both transactions have the Kind &#x22;Payment Processor Dispute Fee.&#x22; The first has the Type &#x22;CREDIT,&#x22; the Account &#x22;Stripe,&#x22; and the amount &#x22;$12.00.&#x22; The second transaction has the Type &#x22;DEBIT,&#x22; the Account &#x22;Fiscal Host C,&#x22; and the Amount &#x22;-$12.00.&#x22;"><figcaption></figcaption></figure>
