@@ -8,7 +8,11 @@ icon: hand-holding-circle-dollar
 
 # Platform Tips
 
-When you are making a [contribution to a collective](../giving-to-collectives/contributing.md), you will also be asked if you want to add a platform tip. This is totally optional, and the amount can be changed to any amount you wish.
+When you are making a [contribution to a collective](../giving-to-collectives/contributing.md), you will usually also be asked if you want to add a platform tip. This is totally optional, and the amount can be changed to any amount you wish.
+
+{% hint style="info" %}
+Platform tips are not offered on every contribution. Whether they are available depends on the collective and its Fiscal Host, and they are never offered on event tickets or free contributions.
+{% endhint %}
 
 #### What is a platform tip?
 
@@ -38,10 +42,10 @@ Once you have set the level and frequency of your donation, you will be able to 
 
 There are four ways to set your platform tip total:
 
-* Keep the platform tip at the default amount
-* Adjust the slider to your chosen total
-* Select your currency, and type in your amount in the box&#x20;
-* Add a tip which is a percentage of your contribution
+* Keep the platform tip at the default amount (15% of your contribution)
+* Pick another percentage of your contribution (for example 10% or 20%)
+* Choose “Other” or “Custom” and type in your own amount&#x20;
+* Opt out by ticking the box saying you don't want to contribute to Open Collective
 
 Remember to check your total to ensure that you are happy with your tip amount. You can change your tip at any point up until you complete your payment.
 
@@ -54,10 +58,10 @@ If you already have an active recurring contribution, you can change your platfo
 3. Open the recurring contribution you want to update.
 4. Choose **Update platform tip amount**.
 
-You can set the tip to a preset percentage, adjust the slider, or enter a custom amount—including $0 to remove the tip. The new tip amount applies to future charges.
+You can set the tip to a preset percentage or enter a custom amount, including $0 to remove the tip. The new tip amount applies to future charges. For contributions paid with PayPal, you will be asked to approve the change in PayPal.
 
 {% hint style="info" %}
-Platform tip updates are only available for active recurring contributions where tips are enabled. One-time contributions and some payment methods (such as ACH and SEPA) do not support changes after checkout. See [Making a Recurring Contribution](making-a-recurring-contribution.md) for details on managing recurring payments.
+Platform tip updates are only available for active recurring contributions where tips are enabled. One-time contributions cannot be changed after checkout, and you cannot change a recurring contribution while one of its payments is still processing (bank debits such as ACH or SEPA can take several days). See [Making a Recurring Contribution](making-a-recurring-contribution.md) for details on managing recurring payments.
 {% endhint %}
 
 #### Giving directly to the platform
