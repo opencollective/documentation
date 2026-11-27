@@ -21,9 +21,12 @@ This section covers the role of a Fiscal Host in the expense payment process. If
 
 #### Payment Processor Status
 
-When you connect your Fiscal Host to Wise, PayPal, and Stripe, they are added to your expense page to help you keep track of your money on the various platforms where it may be processed.&#x20;
+The **Pay Disbursements** page shows status cards to help you keep track of your money on the platforms where it may be processed:&#x20;
 
-For each payment processor, the card will show the balance of the corresponding account and a button that redirects you to the payment processor to add funds to your balance. If the payment processor is connected as a payout method, like Wise or PayPal, it will also show the cumulative total of expenses that are ready to pay out through that processor, and the cumulative total of expenses that have currently been batched to pay simultaneously.
+* **Wise:** shows the balance of your connected Wise account in your Fiscal Host's currency, the total of expenses that are ready to pay through Wise, and the total of expenses that are currently batched to pay together. It includes a **Refill Balance** button that opens Wise (or **Connect Wise** if Wise is not connected yet), and a **Pay Batch** button when batched expenses can be paid.
+* **Stripe Issuing:** if your Fiscal Host uses Stripe virtual cards, shows your Stripe Issuing balance with a **Refill Balance** button that opens Stripe.
+
+PayPal balances are not shown on this page.
 
 #### Expense List
 
@@ -106,19 +109,19 @@ If you are happy with the expense, you can select this option to begin paying it
 
 You will either be able to pay out the expense with a connected external payment processor like Wise (learn more on our [Payouts with Wise](paying-expenses-with-wise.md) page) or you can pay the expense manually.
 
-When paying manually, if the [Balance & clearing accounts](../../advanced/preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled, you can select a **Payment device** (balance or clearing account) so the payout is attributed to the bank or processor that sent the money. See [Chart of Accounts](../chart-of-accounts.md#balance-and-clearing-accounts).&#x20;
+When paying manually, if the [Balance & clearing accounts](../../advanced/preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled, you can select the balance or clearing account the funds were **Paid from** so the payout is attributed to the bank or processor that sent the money. See [Chart of Accounts](../chart-of-accounts.md#balance-and-clearing-accounts).&#x20;
 
 If you wish to represent expenses previously paid and you don’t need to actually move any money you can utilize [Vendors](../managing-your-collectives/vendors.md). This will debit the amount from the balance and record the details of the expense.
 
 #### **Mark the expense as incomplete or on hold**
 
-By clicking on the “Approved” status button, you will see the option to “Mark as Incomplete” or “Put on Hold”. You can do this if you wish to request more information about the expense. You can read more about this on our [Asking for Information about Expenses](asking-for-information-about-expenses.md) page.
+By clicking on the “Approved” status button, you will see the option to “Mark as Incomplete” or “Put On Hold”. You can do this if you wish to request more information about the expense. You can read more about this on our [Asking for Information about Expenses](asking-for-information-about-expenses.md) page.
 
 #### **Edit**&#x20;
 
 If you have received clarification or additional information about the expense, you can edit it directly using this option. If this does not require a substantial change to the expense, you may then decide to begin the payment process.
 
-#### **Request Re-approval**
+#### **Request re-approval**
 
 If you or the expense submitter have edited the information in the expense in a substantial way since it was approved by the Collective admin (for example, by changing the amount), you should re-submit it to the Collective for re-approval.
 
@@ -134,4 +137,6 @@ Select this option to send a direct link to the expense on the platform. This co
 
 ### Rejecting an expense
 
-If you wish to reject an expense outright, you will need to go to the Collective’s page, and access the expense in the “Transactions” section.
+You can reject an expense from the **More actions** menu of the expense in your Dashboard, as long as it is pending approval or marked as incomplete.
+
+An approved expense cannot be rejected directly. To reject it, first use **Mark as Incomplete** or **Request re-approval**, then select **Reject**.
