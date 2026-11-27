@@ -43,4 +43,4 @@ You can find a particular page in the docs by browsing the left-hand sidebar. Yo
 
 ### Haven't found what you're looking for?
 
-If you still can’t find an answer to your question, you can [contact our support team](https://opencollective.com/contact) or join our [Discord Community Space](https://discord.gg/bv36mu5Z) and let us know.<br>
+If you still can’t find an answer to your question, you can [contact our support team](https://opencollective.com/contact) or join our [Discord Community Space](https://discord.opencollective.com/) and let us know.<br>

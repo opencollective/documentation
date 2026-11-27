@@ -17,7 +17,7 @@ If you want more specific Fiscal Host Documentation, please visit the links belo
 
 [Open Collective Europe](https://opencollective.com/europe) - [Documentation](https://docs.opencollective.com/oceurope) -[ Website](https://www.oceurope.org/)
 
-[All for Climate](https://allforclimate.earth/) -[ Documentation](https://docs.allforclimate.earth/) -[ Website](https://opencollective.com/allforclimate)
+[All for Climate](https://opencollective.com/allforclimate) -[ Documentation](https://docs.allforclimate.earth/) -[ Website](https://allforclimate.earth/)
 
 [The Social Change Nest](https://opencollective.com/the-social-change-nest) -[ Documentation](https://docs.google.com/document/d/1zHArRkjHIstk8b_rMDhHGFnKLfWYCeVhLYLWHEEunlY/edit) -[ Website](https://thesocialchangeagency.org/)
 
