@@ -61,6 +61,6 @@ Both are registered as “Expected Funds” that do not generate ledger transact
 
 The ledger can be accessed:
 
-1. Directly in the platform via the dashboard [Transactions tool](individual-transactions.md)
+1. Directly in the platform via the dashboard [Transactions tool](viewing-transactions.md)
 2. [As exported CSV Files](exporting-transactions.md)
 3. [Through the API](../../development/api.md)
