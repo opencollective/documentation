@@ -10,13 +10,13 @@ icon: money-check-dollar-pen
 
 You can manually add funds to a Collective. This is useful when you have received a contribution for a Collective outside the Open Collective platform (via bank transfer, Patreon, Eventbrite, or another service) and want to apply it to a Collective's budget.&#x20;
 
-1. Navigate to your Fiscal Host Dashboard > Hosting > Hosted Collectives
+1. Navigate to your Fiscal Host Dashboard > Hosting > Collectives
 2. Use the search bar to find the Collective you want to add funds to
 3. Click on the three dots > Add funds <br>
 
 Fill the form with all required information to add the funds to that Collective with the following information:
 
-* The **source** of the funds. It can be your Fiscal Host, another Collective, an Organization or a [Vendor](../managing-your-collectives/vendors.md).
+* The **source** of the funds. This is a [Vendor](../managing-your-collectives/vendors.md): pick an existing one or create a new one from the field. Fiscal Hosts that are allowed to add funds from any account can also pick an Organization.
 * The **tier** to which the donation applies (if any)
 * A **short description** of the funds.
 * The **date** the funds were accepted.
@@ -40,6 +40,6 @@ The memo will appear to any administrator under 'view details on the transaction
 
 ## Refunding added funds
 
-If you need to reverse added funds, open **Dashboard > Transactions**, find the transaction, and click **Refund**. Because added funds were not processed through a payment provider, the dialog will ask you to **Mark contribution as refunded** and confirm that you have returned or will return the money off-platform.
+If you need to reverse added funds, open **Dashboard > Ledger > Transactions**, find the transaction, and click **Refund**. Because added funds were not processed through a payment provider, the dialog will ask you to **Mark contribution as refunded** and confirm that you have returned or will return the money off-platform.
 
 This action only updates the ledger — no money is moved by Open Collective. See [Processing Refunds](../processing-refunds.md#manual-contributions-and-added-funds) for details.
