@@ -18,13 +18,13 @@ Navigate to your Fiscal Host Dashboard and select Vendors.
 
 ## Review Existing Vendors
 
-Utilize our potential Vendor tool to transform any past organizations into Vendors and contribute to a cleaner platform.
+The Vendors page has three tabs: **Managed Vendors**, **Platform Organizations** and **Archived Vendors**.
 
-These are organizations that any admin of your Fiscal Host is also an admin of. These organizations have been used to submit an expense to either your Fiscal Host or any of your Collectives.
+The **Platform Organizations** tab lists the Organizations on the platform that have interacted with your Fiscal Host or your hosted Collectives, for example by contributing or by submitting expenses. You can transform some of them into Vendors and contribute to a cleaner platform: open an Organization and click "Convert to Vendor". This button is only available when the Organization has only transacted with your Fiscal Host and all of its admins are also admins of your Fiscal Host. Once converted, the Organization is no longer accessible to its admins as an Organization and no longer has a public profile.
 
 ## Create a Vendor
 
-You can create a Vendor by clicking on “Create Vendor”
+You can create a Vendor by clicking on “Create vendor”
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt="Screenshot of Vendor settings featuring the &#x22;Create Vendor +&#x22; button."><figcaption></figcaption></figure>
 
@@ -36,6 +36,9 @@ You will then be prompted to provide the following Vendor information:
 - Contributor Profile (optional)
   - When enabled, the vendor will have a public profile page displaying their contributions to collectives
   - When disabled (default), the vendor has no public presence and only appears in host admin views
+- Visibility
+  - Where can this vendor be used? Only in relation to your Fiscal Host, in relation to your Fiscal Host and hosted Collectives (default), or only with selected accounts
+  - Who can attribute financial activities to this vendor? Your host default (see [below](#enable-other-expense-submitters-to-submit-expenses-on-behalf-of-vendors)), only your Fiscal Host admins, your Fiscal Host admins and Collective admins, or all expense submitters
 - Tax Form (optional)
   - Tax Form URL (optional)
 - Tax Identification
@@ -61,23 +64,23 @@ Automatic tax form collection is not active by default for Vendors. When creatin
 
 ## Edit and Update a Vendor
 
-Click on an existing Vendor to open a side-drawer that will display the current Vendor information.
+Click on an existing Vendor to open its details page, which displays the current Vendor information and activity.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt="Screenshot of &#x22;Update Vendor&#x22; side bar view."><figcaption></figcaption></figure>
 
-To edit the Vendor details click on Edit Vendor
+To edit the Vendor details, click on More Actions > Edit (or on the three dots at the end of the Vendor's row in the list, then Edit).
 
-When you are done editing, click “Update Vendor.”
+When you are done editing, click “Update vendor.”
 
 If your fiscal host requires [two-factor authentication for admins](../../advanced/security-for-accounts/two-factor-authentication.md#enforce-2fa-for-all-admins), you will be prompted for a 2FA code when adding or updating a vendor payout method.
 
 ### Archive/Unarchive a Vendor
 
-Click on the three dots to the right of Vendor and then select the Archive button.
+Click on the three dots to the right of Vendor and then select "Archive Vendor".
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt="Screenshot of Vendor view with Archive option shown."><figcaption></figcaption></figure>
 
-You can view all archived Vendors in the archived tab. Within this view, you can unarchive Vendors.
+You can view all archived Vendors in the "Archived Vendors" tab. Within this view, you can unarchive Vendors with "Unarchive Vendor".
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt="Screenshot of Archived Vendor settings with Unarchive option showing. "><figcaption></figcaption></figure>
 
@@ -109,9 +112,11 @@ You will not be prompted for a payment method. The payment method that is listed
 
 ## Enable Other Expense Submitters to Submit Expenses on Behalf of Vendors
 
-By default, only Fiscal Host admins are able to submit expenses to Vendors. However, you can enable expense submitters to also submit expenses to your Vendors.&#x20;
+By default, only Fiscal Host admins are able to submit expenses to Vendors. However, you can enable other people to also submit expenses to your Vendors.&#x20;
 
-To enable this, go to the Fiscal Host Dashboard > Settings > Policies. There you will find an option to enable all users to submit expenses to Vendors.
+To enable this, go to the Fiscal Host Dashboard > Settings > Policies. In the **Vendors** section, choose who can attribute financial activities to vendors: only your Fiscal Host admins, your Fiscal Host admins and Collective admins, or anybody.
+
+This is the default for all your Vendors. You can override it for a specific Vendor in its Visibility settings, and limit where it can be used.
 
 ### Creating vendors inline
 
