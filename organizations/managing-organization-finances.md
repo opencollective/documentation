@@ -33,17 +33,19 @@ Organizations that manage their own finances on Open Collective can review and p
 
 This page lists payment requests submitted to your Organization. You can filter by status, amount, payout method, and other criteria, and use tabs to switch between **All**, **Pending**, **Approved**, **Rejected**, and **Paid** requests.
 
-When your Organization has connected Wise or Stripe, a **payment processor overview** appears at the top of the page. For each connected processor, it shows:
+A **payment processor overview** appears at the top of the page. The Wise card shows:
 
-* The current balance in your connected account
-* A link to add funds on the processor's website
-* The total amount of approved expenses ready to pay through that processor
-* The total amount of expenses currently batched for batch payment (Wise)
+* The current balance in your Wise account
+* A **Refill Balance** link to add funds on Wise, or a **Connect Wise** button if Wise is not connected yet
+* **Ready to Pay**: the number and total amount of approved bank transfer expenses ready to pay
+* **Total Batched**: the number and total amount of expenses currently scheduled for batch payment
+
+If your Organization uses Stripe Issuing (virtual cards), a second card shows your Stripe Issuing balance with a **Refill Balance** link.
 
 This overview updates automatically when you approve, schedule, pay, or batch expenses, so you can see whether you have enough balance before paying.
 
 If you use Wise and your account requires One-Time Token (OTT) authorization, you can schedule expenses for batch payment and use the **Pay Batch** button from the banner on this page. Learn more in the [batch payment section](../fiscal-hosts/expense-payment/paying-expenses-with-wise.md#batching-and-paying-expenses-using-ott) of our Wise guide.
 
 {% hint style="info" %}
-The payment processor overview on Payment Requests is only shown for Organizations that manage their own money on the platform. Collectives hosted by a Fiscal Host use the host's **Pay Disbursements** page instead.
+The payment processor overview on Payment Requests is only shown for Organizations that manage their own money on the platform. If your Organization also has Fiscal Hosting enabled, **Payment Requests** is replaced by **Pay Disbursements**, **Paid Disbursements**, **Approve Payment Requests** and **All Payment Requests**. Collectives hosted by a Fiscal Host have their expenses paid from the host's **Pay Disbursements** page.
 {% endhint %}
