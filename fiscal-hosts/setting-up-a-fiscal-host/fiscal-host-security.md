@@ -34,7 +34,7 @@ For the first expense that you’re paying in a session, you will be prompted to
 
 Then click the pay button in the modal again. If the code is correct, the payment will go through.&#x20;
 
-Now that you have been authenticated by inputting your 2FA code, you can make payments until the sum of their amounts adds up to a limit specified in your Fiscal Host Dashboard > Settings > Security (which defaults to $10,000.00). When the sum of the payment amounts goes over the limit, you will be asked to enter a new 2FA code to keep making payments.
+Now that you have been authenticated by inputting your 2FA code, you can make payments until the sum of their amounts adds up to a limit specified in your Fiscal Host Dashboard > Settings > Security (which defaults to 10,000 in your Fiscal Host's currency). When the sum of the payment amounts goes over the limit, you will be asked to enter a new 2FA code to keep making payments.
 
 If you and another admin or accountant for your organization are making payments at the same time, you each get your own limit instead of working with a shared one.
 
