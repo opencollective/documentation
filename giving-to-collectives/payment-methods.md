@@ -18,7 +18,7 @@ Your choices will depend on:
 * Your location
 
 {% hint style="warning" %}
-In some rare cases, it may be possible to use cryptocurrencies to give to a collective, but not all. Check with your Fiscal Host to see if they support crypto for your transaction.
+Cryptocurrencies are not available as a payment method when contributing on Open Collective. If you want to give in crypto, check with the collective's Fiscal Host to see if they can accept it directly.
 {% endhint %}
 
 #### Choosing your payment option
@@ -57,19 +57,19 @@ An account can save up to 100 credit cards. If you reach this limit, remove an e
 #### To set up your payment method:
 
 1. Navigate to your personal account Dashboard > Settings.
-2. Click “Payment Methods.” You will be prompted to add a Credit Card.
+2. Click “Payment Methods”, then click “Add credit card”.
 3. Fill in your Credit Card details in the space provided.
 
 {% hint style="warning" %}
-Updating your payment method does not change the card which your contributions are currently being made with.&#x20;
+Adding a new payment method does not change the card which your contributions are currently being made with.&#x20;
 
-If you want to change the payment method of one of your subscriptions you will need to cancel the subscription and set up a new one with the desired card and amount. Go to the [Making a Recurring Payment](making-a-recurring-contribution.md) page to learn more.&#x20;
+If you want to change the payment method of one of your recurring contributions, open it from your Dashboard > Contributions and choose **Update payment method**. Go to the [Making a Recurring Contribution](making-a-recurring-contribution.md#cancel-or-change-your-contributions) page to learn more.&#x20;
 {% endhint %}
 
 #### Removing or changing your payment method
 
 If you wish to remove or change your preferred payment method, go to your Payment Methods page.
 
-Each card you have added will have its own entry, with the option to “Remove” on the right hand side.
+Each card you have added will have its own entry, with a “Remove payment method” (trash) button on the right hand side.
 
-If your card is linked to any recurring contributions on Open Collective, you will need to cancel these contributions before you can remove the card.
+If your card is linked to any recurring contributions on Open Collective, removing it also cancels these contributions. The confirmation message lists the collectives whose recurring contributions will be canceled. To keep a contribution going, first switch it to another payment method with **Update payment method**.
