@@ -9,7 +9,7 @@ icon: receipt
 
 You can view a record of all the contributions you have made to Collectives in your Open Collective account. This includes contributions processed through the platform and contributions recorded by a fiscal host through [added funds](../fiscal-hosts/receiving-money/adding-funds-manually.md).
 
-This means you can search payments by Collective or time period and download your receipts.
+This means you can browse your receipts by time period and Fiscal Host, and download them.
 
 {% hint style="warning" %}
 **Is my contribution tax deductible?**
@@ -27,10 +27,12 @@ If you are searching your account for a transaction, make sure you are signed in
 
 To find a list of your receipts, navigate to your **Dashboard > Settings > Payment Receipts**. This page is available for individual accounts, organizations, and funds.
 
-You will then be able to search a list of all your contributions. You can:
+You will then see consolidated receipts for your contributions, grouped by Fiscal Host. You can:
 
-* Use the Search function to find a specific transaction
-* Use the Download Receipts option to download all receipts from a specific time period
+* Use the Time period selector to show the past 12 months or a specific year
+* Use the Download receipt button to download a receipt for a month, or, when you select a past year, a single annual receipt for each Fiscal Host
+
+To find one specific transaction, search the Collective's transactions as described below.
 
 ### Searching a Collective’s page for your transaction
 
