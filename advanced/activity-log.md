@@ -14,11 +14,9 @@ On Open Collective, there are a few ways to get an overview of your activity on 
 
 ## Recent Activity
 
-If you’d like a quick overview of all of the Expenses and Contributions related to your personal account, and Activities and Updates from the Collectives and Fiscal Hosts that you follow or are an administrator for, navigate to your Personal Dashboard > Overview. On this page, by clicking on the dropdown menu in the top right corner, you can filter the activity by type:
+If you’d like a quick overview of all of the Expenses and Contributions related to your personal account, and Activities and Updates from the Collectives and Fiscal Hosts that you follow or are an administrator for, navigate to your Personal Dashboard > Overview and look at the **Recent activity** section.
 
-* Expenses
-* Contributions
-* Activities and Updates
+This section shows a selection of recent activities and cannot be filtered. To see every activity and filter by type, use the [Activity Log](#activity-log) described below.
 
 <figure><img src="https://codahosted.io/docs/EguIswyoKq/blobs/bl-RBFBRUWgG1/57ec67f78a85073124ee3b543807f7f25cae9d062aa9393f68e54900a7b8cbb40484de1aec74475a2366fd1d8ad99b344aca08da3689f932e46ee04f1ce5de8f510369ac5206bb9fa0bb7dc75ea9a66b32631d93afa698e242902c2542eff3d1a56fd773" alt="A screenshot showing the Recent Activity view inside of a user&#x27;s personal Dashboard."><figcaption></figcaption></figure>
 
