@@ -17,7 +17,7 @@ This may be because:
 
 ## **Changing your expense details**
 
-If you need to change the information on your expense, first make sure you are logged in, then navigate to either the “expenses” area on your Personal Dashboard, the budget section on the Collective which you submitted the expense or to your profile page.\
+If you need to change the information on your expense, first make sure you are logged in, then navigate to either the **Payment Requests** area on your Personal Dashboard, the budget section on the Collective which you submitted the expense or to your profile page.\
 \
 Locate the desired expense and click on the title to open the dedicated expense page. You will then see edit icons on the various expense components.&#x20;
 
@@ -39,7 +39,7 @@ Virtual card charges that are already paid or processing do not go back to Pendi
 
 If a Collective or Fiscal Host admin has a question about your expense, they may choose to send you a comment.
 
-These comments are only visible to the expense submitter and the Collective and Fiscal Host admins, as they may contain private information.
+These comments are only visible to the expense submitter and the Collective and Fiscal Host admins and accountants, as they may contain private information.
 
 Expense comments can be used for a variety of reasons, including:
 
@@ -69,3 +69,7 @@ If you have submitted an expense to a Collective, and no longer wish to do so, y
 5. Selecting "Delete"
 
 This will delete the expense and it will not be processed.
+
+{% hint style="info" %}
+You can only delete your expense while it is a draft or **Pending**, or once it has been rejected or canceled. Expenses in any other status, such as approved, incomplete or paid, cannot be deleted.
+{% endhint %}
