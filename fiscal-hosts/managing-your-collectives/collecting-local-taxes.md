@@ -20,18 +20,19 @@ VAT will only apply if the Collective create a **service** or **product** tier o
 Once VAT is set up for a Collective, we will ask for the country of residence and an optional VAT number on an as-needed basis. We will apply the VAT rules accordingly:
 
 * Charge VAT from the country of the event, if it's an event
-* VAT percentage depends on the country where the Collective is
+* Otherwise, the VAT percentage depends on the country of the Fiscal Host, or on the country of the Collective if it uses its own VAT number
+* Don't charge VAT if the contributor is outside the EU
 * Don't charge VAT if a VAT number is provided and the contribution comes from another EU country
 
 ### Enable VAT at the host level
 
-If the host is the one supposed to collect VAT (which is the most common case) then you can enable it by going to the Edit section (`https://opencollective.com/HOST_SLUG/admin`) and set your country to a European country. The form will then ask for a VAT number.
+If the host is the one supposed to collect VAT (which is the most common case) then you can enable it by going to your Fiscal Host Dashboard > Settings > Info and setting your country to a European country. A "VAT settings" field will then appear: select "Enable VAT" and enter your VAT number.
 
-Your host is now ready to start accepting VAT. You still need to enable it on a per-collective basis by setting a country and a "VAT setting" for the Collective on the Collective admin page (`https://opencollective.com/COLLECTIVE_SLUG/admin`).
+Your host is now ready to start accepting VAT. Your hosted Collectives use your host VAT settings by default, so you don't need to enable VAT for each Collective. Collective admins can see this in their Dashboard > Settings > Info, where the "VAT settings" field is set to "Use the host VAT settings".
 
 ### Enable VAT at the collective level
 
-If the Collective has a VAT number and should be responsible for collecting VAT itself, you can enable that by following the exact same steps as before, except you'll choose the option "Use my own VAT number" on the last step.
+If the Collective has a VAT number and should be responsible for collecting VAT itself, its admins can go to the Collective's Dashboard > Settings > Info, choose "Use my own VAT number" in the "VAT settings" field and enter the VAT number. The same field also has a "Disable VAT" option, which requires approval from the Fiscal Host.
 
 
 
