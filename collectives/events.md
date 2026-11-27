@@ -7,13 +7,13 @@ icon: calendar-day
 
 # Events
 
-If you want to bring your community together, you can set up an Event and post it on your Collective page. You can also sell tickets for the Event. The proceeds of any sales will go directly to your Collective’s budget.
+If you want to bring your community together, you can set up an Event and post it on your Collective page. You can also sell tickets for the Event. The proceeds of any sales go to the Event’s own balance, which is managed by your Collective. You can move this money to your Collective at any time (see [Moving money](managing-money/moving-money.md)).
 
 ### **Creating an Event**
 
 Only an admin of the parent account can create an Event. The parent can be a Collective or Organization. Go to its page, scroll down to the “Events” section, and click on the “Create Event” button.
 
-You will then have the option to fill in your Event details, including a **name, short description, start and end times, your preferred time zone, your event URL, your location, and any private instructions**. Private instructions will be sent by email to registered participants and/or attendees.
+You will then have the option to fill in your Event details, including a **name, short description, start and end times, your preferred time zone, your location, and any private instructions**. The Event URL is generated automatically from its name. Private instructions will be sent by email to registered participants and/or attendees.
 
 <figure><img src="../.gitbook/assets/image (71).png" alt="Screenshot of an automated event registration email featuring Private Instructions."><figcaption><p>Screenshot of an automated event registration email featuring Private Instructions.</p></figcaption></figure>
 
@@ -27,7 +27,7 @@ Once you’ve created your event, you can access it via the “Events” section
 
 From your Event’s page, you can add a profile image, as well as a cover image by clicking the buttons in your top banner.
 
-To customize your event info, Navigate to your Event Dashboard > Settings.&#x20;
+To customize your event, navigate to your Event Dashboard. Most options are under **Settings**, while tickets, sponsorship tiers and team members have their own sections in the Dashboard menu.&#x20;
 
 From there, you can:
 
@@ -70,7 +70,7 @@ You also have the option to add a standalone page for this ticket, where you can
 
 <figure><img src="../.gitbook/assets/image (41).png" alt="Screenshot of an in-progress standalone ticket page."><figcaption><p>Screenshot of an in-progress standalone ticket page.</p></figcaption></figure>
 
-To remove tickets, click on the “Remove Ticket” text in the top right corner.
+To remove a ticket, click “Edit Ticket” on the ticket card, then click “Delete”.
 
 
 
@@ -78,7 +78,7 @@ To remove tickets, click on the “Remove Ticket” text in the top right corner
 
 Tiers can be used if people want to donate to your Event, but not attend. You can invite flexible contributions, or create your own tiers.
 
-**Flexible Contributions:** These allow contributors to set their own amount and frequency. It is selected as a default option, but you can disable it.
+**Flexible Contributions:** These allow contributors to set their own amount and frequency. This default contribution tier is disabled when you create an Event. To turn it on, go to your Event Dashboard > Sponsorship tiers and check “Enable default contribution tier”.
 
 **Create your own tiers:** Create a tier with its own name and description. Set a fixed donation amount and frequency, and limit to a certain number if you wish.
 
@@ -90,7 +90,7 @@ If you’d like to email your event attendees, you can do so by using [Updates](
 
 ### Managing team members
 
-All Collective team members are part of the Event team, but you can add or remove team members from your Event without affecting the Collective's team.&#x20;
+All Collective team members are part of the Event team. They are shown as “Inherited” and cannot be removed from the Event. You can add or remove other team members from your Event without affecting the Collective's team.&#x20;
 
 If you add a team member to an Event, they do not become an admin of your Collective. Therefore, you can give people responsibility for an Event without giving them access to the Collective itself.
 
