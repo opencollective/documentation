@@ -11,7 +11,7 @@ There are a number of ways to display your Collective information on your own si
 
 ### Accessing widgets and badges from your settings
 
-A selection of badges and widgets are available for you to edit and customize from the “Export” section of your Collective’s “Settings” menu.
+A selection of badges and widgets are available for you to edit and customize from the “Widgets” section of your Collective’s Dashboard > Settings menu.
 
 You can find:
 
@@ -26,7 +26,7 @@ To place a donate button on your website, add this script:
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://opencollective.com/YOURCOLLECTIVE /VERB/button.js" color="[white|blue]"></script>
+<script src="https://opencollective.com/YOURCOLLECTIVE/VERB/button.js" color="[white|blue]"></script>
 ```
 {% endcode %}
 
@@ -58,28 +58,22 @@ Showing a list of sponsors can be a good way to recognize those who have support
 
 {% code overflow="wrap" %}
 ```html
-<script src="https://opencollective.com/YOURCOLLECTIVE /banner.js"></script>
+<script src="https://opencollective.com/YOURCOLLECTIVE/banner.js"></script>
 
 ```
 {% endcode %}
 
 Remember to replace `YOURCOLLECTIVE` with your Collective’s handle
 
-You can also style how your display looks by using this script template (in React style). If you alter this example script, remember that your version must still be parsable with JSON.stringify.
+You can also style how your display looks by using this script template (in React style). If you alter this example script, remember that your version must still be valid JSON. Only the `h2` (titles) and `a` (links) keys are used, and values can only contain letters, numbers, spaces and the characters `# ( ) , . % _ + -`: other values are ignored.
 
 {% code overflow="wrap" %}
 ```html
-<script src='https://opencollective.com/YOURCOLLECTIVE /banner.js?style={"a":{"color":"red"},"h2":{"fontFamily":"Verdana","fontWeight":"normal","fontSize":"20px"}}'></script>
+<script src='https://opencollective.com/YOURCOLLECTIVE/banner.js?style={"a":{"color":"red"},"h2":{"fontFamily":"Verdana","fontWeight":"normal","fontSize":"20px"}}'></script>
 ```
 {% endcode %}
 
-This script will use the default `h1` and `h2` tags that you have set on your website, but you can edit them with a command such as the one below:
-
-```css
-#opencollective-banner h1 {
-  color: black;
-}
-```
+The banner is displayed in an iframe, so the CSS of your own website does not apply to its content. Use the `style` parameter above to change how it looks.
 
 An example of a styled banner can be found on the [Spina site](https://spinacms.com/).
 
@@ -120,7 +114,6 @@ You can edit the script based on a range of parameters:
 | `limit`        | max number of members to show                        | (unlimited) |
 | `avatarHeight` | max height of each avatar / logo                     | <p><br></p> |
 | `button`       | show "become a backer/sponsor" button                | true        |
-| `format`       | format of the image (replace .svg with .png or .jpg) | <p><br></p> |
 
 You can also show all your contributors using,&#x20;
 
