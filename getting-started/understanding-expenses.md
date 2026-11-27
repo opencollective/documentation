@@ -33,7 +33,7 @@ If you’re an expense submitter who wants to find out how to create and/or edit
 
 #### 2. The Collective reviews the expense
 
-The expense now becomes the responsibility of the Collective’s admins. They review it in the expenses section in their Dashboard, and decide whether it’s a valid expense.
+The expense now becomes the responsibility of the Collective’s admins. They review it in their Dashboard under **Outgoing Money > Payment Requests** (or **Expenses > Payment Requests** if the Sidebar Reorganization preview feature is turned off), and decide whether it’s a valid expense.
 
 They can:&#x20;
 
@@ -73,5 +73,5 @@ Once the expense has been approved by the collective admin and reviewed by a Fis
 Sometimes, an error occurs during the payment process, or is flagged by the chosen third-party payment provider. In this situation, the payer (usually the Fiscal Host) can either try again or seek out necessary information from the expense submitter or the Collective.
 
 {% hint style="info" %}
-If you’re a Fiscal Host looking for information on how to pay an expense, go to our [Paying Expenses as a Host](../collectives/spending-money/) section.
+If you’re a Fiscal Host looking for information on how to pay an expense, go to our [Paying Expenses as a Host](../fiscal-hosts/expense-payment/paying-expenses-as-a-fiscal-host.md) section.
 {% endhint %}

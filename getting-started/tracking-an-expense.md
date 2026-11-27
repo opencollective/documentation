@@ -13,19 +13,19 @@ Below are the various stages an expense may go through, and what they mean:
 
 
 
-**Draft:** The expense submitter has been sent a partially completed expense to fill in, but the expense submitter has not yet completed or submitted it. After 30 days, this draft will expire. <br>
+**Draft:** The expense submitter has been sent a partially completed expense to fill in, but the expense submitter has not yet completed or submitted it. If a draft is not updated for 2 months, it is deleted. <br>
 
-**Unverified:** The expense submitter has submitted their expense, but has not yet verified their email. They need to do this before it can move to the next step.<br>
+**Unverified:** The expense submitter has submitted their expense, but has not yet verified their email. They need to do this before it can move to the next step. If an unverified expense is not updated for 2 months, it is deleted.<br>
 
 **Pending:** The expense has now been submitted to the Collective. The Collective admin now has the ability to review and approve it. The submitter can also delete or edit the expense to make amendments.<br>
 
-**Approved:** The Collective admin has approved the expense, the Collective has sufficient funds to pay, and the Fiscal Host admin now has the ability to review and pay it.
+**Approved:** The Collective admin has approved the expense, and the Fiscal Host admin now has the ability to review and pay it.
 
 
 
 **Rejected:** The expense has been rejected by either the Collective or Fiscal Host admin.<br>
 
-**Spam:** Once an expense has been rejected, it can also be marked as spam. The expense submitter will no longer be able to submit expenses to this Collective.<br>
+**Spam:** Once an expense has been rejected, it can also be marked as spam. The expense submitter will no longer be able to submit expenses on Open Collective until our team reviews their account.<br>
 
 **Incomplete:** The Fiscal Host admin has asked the expense submitter for more information.&#x20;
 
@@ -41,8 +41,8 @@ Below are the various stages an expense may go through, and what they mean:
 \
 **Error:** Something went wrong with the processing of the expense. The Fiscal Host will now try again, reject the expense, or ask the expense submitter for more information. \
 \
-**Ready to Pay:** The expense is ready to be paid, this status is only visible to admins able to make payments.\
+**Ready to Pay:** The expense is approved, not on hold, the Collective has enough funds to pay it, and any required tax form has been submitted. This status is only visible to admins able to make payments.\
 \
-**Cancelled:** The payment has been processed, but there has been a problem with the payment. The payer (usually your host) will need to investigate.  <br>
+**Cancelled:** The charge was reversed before it was completed. This applies to virtual card expenses, when the card provider reverses a card authorization.  <br>
 
 **Paid:** The expense has been confirmed as paid.
