@@ -31,8 +31,11 @@ Once you have an account, the next step is to add more information about yoursel
 * **Currency:** Your preferred currency.
 * **Tags:** Select keywords, themes, and areas that apply to you, so that people who share your mission can find you.
 * **Website/Social Links:** Link to your Website, GitHub repository, or other social media accounts (e.g., Discord, Discourse, Facebook, Ghost, Git Repository, GitHub, GitLab, Instagram, LinkedIn, Mastodon, Mattermost, Meetup, Peertube, Pixelfed, Slack, TikTok, Tumblr, Twitter, YouTube).
-* **Location:** Your Location can be where you are providing support. For example, your legal address might be in Los Angeles, but you primarily offer support to groups in Ukraine. Therefore, we advise you to say 'Ukraine' here.&#x20;
-* **Address:** Your Address should be your registered address. For example, if you are a Los Angeles-based collective providing support to Ukraine, your location should be your legal street address, Los Angeles, California. (This will appear on your receipts.)&#x20;
+* **Country and Address:** Select your country, then fill in your address. This should be your legal address. (This will appear on your receipts.)&#x20;
+
+{% hint style="info" %}
+Collectives, Organizations, and Fiscal Hosts have a single **Location** field instead. It can be where you are providing support. For example, your legal address might be in Los Angeles, but you primarily offer support to groups in Ukraine. Therefore, we advise you to say 'Ukraine' here.
+{% endhint %}
 
 You also have a range of advanced options, such as changing your email, improving account security, adding payment methods, viewing payment receipts, customizing the order of your profile page, enabling two-factor authentication, authorized apps, and developer extras.
 
@@ -62,4 +65,4 @@ To learn more about setting up payment methods on the platform, visit our [Payme
 
 ## Changing your email address
 
-To change your email address, navigate to your Dashboard > Profile > Settings > Advanced and enter your preferred new email address. We will send a confirmation email to that address for verification.
+To change your email address, navigate to your Dashboard > Settings > Advanced and enter your preferred new email address. We will send a confirmation email to that address for verification.

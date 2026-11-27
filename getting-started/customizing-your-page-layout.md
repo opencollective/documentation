@@ -9,7 +9,7 @@ icon: sliders-up
 
 Your profile page will show people what you do, how they can back your cause, and allow them to see your latest news and updates.
 
-We’ve made the page customizable so you can showcase your most important information. Navigate to your Dashboard > Public Profile to change what is shown and in what order.
+We’ve made the page customizable so you can showcase your most important information. Navigate to your Dashboard > Settings > Profile Sections to change what is shown and in what order.
 
 ### Hiding and showing sections
 

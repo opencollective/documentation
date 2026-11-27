@@ -27,7 +27,7 @@ You can change your team members by navigating to your Dashboard > Team.&#x20;
 
 #### **Add a team member**
 
-Click "Invite Team Member."
+Click "Invite member."
 
 You can search for an Open Collective account holder by typing their name in the User Field, or click 'Invite New User' to invite them to sign up for the platform. This will ask you for an email address and their full name.
 
@@ -49,6 +49,6 @@ If you are still not successful, please [reach out to our team](https://opencoll
 
 #### Editing and removing team members
 
-If you wish to change any team member’s details or level of access, you should click the “pencil icon” button to the top right of their profile picture.
+If you wish to change any team member’s details or level of access, click the actions menu (“...”) at the end of their row and select “Edit”.
 
 This will also give you the option to remove them if required.<br>
