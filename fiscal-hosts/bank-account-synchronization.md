@@ -18,10 +18,10 @@ Open Collective supports Off-Platform Transactions across two major regions thro
 
 Before you can set up Off-Platform Transactions, make sure you have:
 
-1. **Fiscal Host Status**: You must be set up as a Fiscal Host on Open Collective
+1. **Fiscal Host Status**: You must be set up as a Fiscal Host on Open Collective, or have money management activated on your Organization
 2. **Feature Access**: Your account must have access to the Off-Platform Transactions feature (this may require a platform subscription upgrade)
 3. **Administrative Permissions**: You need admin access to your Fiscal Host account
-4. **Two-Factor Authentication**: [2FA enabled on your user account](../advanced/security-for-accounts/two-factor-authentication.md). You are prompted for a code when starting a new bank connection.
+4. **Two-Factor Authentication**: If [2FA is enabled on your user account](../advanced/security-for-accounts/two-factor-authentication.md), or your Fiscal Host requires 2FA for its admins, you are prompted for a code each time you start a new bank connection.
 5. **Bank Account Access**: Valid credentials for the bank accounts you want to connect
 6. **Supported Region**: Your bank must be located in a supported region (US or Europe)
 
@@ -31,7 +31,7 @@ Before you can set up Off-Platform Transactions, make sure you have:
 
 1. Log in to your Open Collective account
 2. Navigate to your **Fiscal Host Dashboard**
-3. Click **"Connected Bank Accounts"** in the left sidebar
+3. Go to **Settings > Connected Bank Accounts** in the left sidebar
 4. You'll see a page showing any existing connections and a **"New Connection"** button
 
 #### **Step 2: Start a New Connection**
@@ -57,8 +57,8 @@ Before you can set up Off-Platform Transactions, make sure you have:
 1. Select **"Europe"** in the region selection
 2. **Choose your country**: Select your bank's country from the list of 31 supported countries
 3. **Select your bank**: Browse or search for your specific financial institution
-4. **Review connection details**: See information about data access period and available transaction history
-5. **Confirm connection**: Click **"Connect to \[Bank Name]"**
+4. **Review connection details**: Check the selected bank and the steps that follow (redirect to GoCardless, sign in to your bank, return to Open Collective)
+5. **Confirm connection**: Click **"Connect Bank"**
 6. **Authenticate with your bank**: You'll be redirected to your bank's official website or mobile app
 7. **Authorize Open Collective**: Grant permission for GoCardless to access your account data
 8. **Return to Open Collective**: You'll be redirected back with a successful connection
@@ -68,7 +68,7 @@ Before you can set up Off-Platform Transactions, make sure you have:
 Once connected, you can configure how your bank account integration works:
 
 1. **Account Selection**: If your bank has multiple accounts, choose which ones to sync
-2. **Sync Settings**: Configure how often you want transactions to be imported
+2. **Synchronization**: Synchronization is automatic and its frequency cannot be configured. In the connection **Settings**, the **Advanced** tab shows the last sync time and lets you request a sync with **Force synchronization**
 3. **Assignment Rules**: Set up automatic assignment rules for certain types of transactions
 4. **Balance or clearing account** (when the [Balance & clearing accounts](../advanced/preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled): assign each synced bank sub-account in **Settings > Chart of Accounts > Payment device assignments**. Matched transactions inherit that account. See [Chart of Accounts](chart-of-accounts.md#balance-and-clearing-accounts).
 
@@ -82,7 +82,7 @@ Each connected bank account shows a status on the **Connected Bank Accounts** pa
 | **Expired** | The bank authorization has lapsed and new transactions are not imported |
 | **Archived** | The connection was removed or is no longer active |
 
-If a connection shows **Expired**, reconnect the account using **Update Connection** on that row. European bank connections through GoCardless require periodic re-authorization; U.S. connections through Plaid may also need refresh if credentials change.
+If a connection shows **Expired**, reconnect the account: open **Settings** from that row's actions menu, go to the **Advanced** tab, and click **Reconnect** under **Update connection**. European bank connections through GoCardless require periodic re-authorization; U.S. connections through Plaid may also need refresh if credentials change.
 
 ## Working with Imported Transactions
 
@@ -97,16 +97,18 @@ Once your bank account is connected, Open Collective will begin importing your t
 
 **Ongoing Synchronization**: New transactions are imported automatically:
 
-* **Plaid (US)**: Real-time updates via webhooks (usually within minutes)
-* **GoCardless (Europe)**: Scheduled synchronization every 10 minutes
+* **Plaid (US)**: Imported when Plaid notifies Open Collective that new transactions are available
+* **GoCardless (Europe)**: Each connection is checked for new transactions about once per hour
+
+Only settled transactions are imported. Pending bank transactions appear once they have settled.
 
 ### Transaction Statuses
 
 Every imported transaction has a status that indicates what needs to be done with it:
 
 * **Pending**: Newly imported transactions that haven't been processed yet
-* **Processed**: Transactions that have been successfully matched or categorized
-* **Ignored**: Transactions you've marked as not relevant to your Open Collective operations
+* **Imported**: Transactions that have been matched with, or recorded as, an expense or a contribution
+* **No action**: Transactions you've marked as not relevant to your Open Collective operations
 * **On Hold**: Transactions that need review before they can be processed
 
 #### The Off-Platform Transactions Dashboard
@@ -114,7 +116,7 @@ Every imported transaction has a status that indicates what needs to be done wit
 To view and manage your imported transactions:
 
 1. Go to your **Fiscal Host Dashboard**
-2. Click **"Off-Platform Transactions"** in the left sidebar
+2. Go to **Ledger > Bank Account Sync** in the left sidebar
 3. You'll see a comprehensive view with:
    * **Summary statistics** showing counts of transactions by status
    * **Filter options** to find specific transactions
@@ -132,18 +134,17 @@ If you see a message that the bank connection request could not be verified, the
 1. Check the connection status on **Connected Bank Accounts** — an **Expired** badge means you need to reconnect
 2. Check if your bank credentials have changed
 3. Verify your bank account is still active
-4. Try reconnecting using the **"Update Connection"** option
+4. Try reconnecting with **Reconnect** under **Update connection** (connection **Settings > Advanced**)
 5. Contact support if issues persist
 
 **Missing Transactions**:
 
 1. Check if transactions fall within the supported date range
-2. Verify the transaction amount meets minimum thresholds
-3. Confirm the transaction has fully settled in your bank account
-4. Try manually triggering a sync
+2. Confirm the transaction has fully settled in your bank account (pending transactions are not imported)
+3. Try manually triggering a sync
 
 **Duplicate Transactions**:
 
 * The system automatically prevents duplicate imports
-* If you see duplicates, they may be from different accounts or pending vs. settled transactions
+* If you see duplicates, they may be from different accounts
 * Use filters to identify and manage any apparent duplicates
