@@ -19,9 +19,10 @@ description: >-
 | Account ID               | The account to which this transaction is attributed.                                                                                                                                                                   |
 | Opposite Account ID      | The other account related to the transaction.                                                                                                                                                                          |
 | Host Collective ID       | If the collective is hosted by a fiscal host, this references the host (at the time the transaction was created).                                                                                                      |
-| Is Refunded              | If a transaction was refunded then this field indicates “REFUNDED” otherwise it is empty.                                                                                                                              |
-| Is Refund                | If the transaction is a refund then this field indicates “REFUND” otherwise it is empty.                                                                                                                               |
-| Refund Transaction ID    | If the transaction has been refunded, this will have the transaction ID of the related refund transaction.                                                                                                             |
+| Is Reverse               | If the transaction reverses another transaction (for example a refund, a rejection or a correction) then this field indicates “REVERSE” otherwise it is empty. |
+| Is Reversed              | If the transaction was reversed then this field indicates “REVERSED” otherwise it is empty. |
+| Reverse Transaction ID   | If the transaction has been reversed, this will have the transaction ID of the related reverse transaction. |
+| Reverse Kind             | The reason the transaction was reversed: REFUND, REJECT, EDIT, DUPLICATE or DISPUTE. |
 | Payment Processor        | The payment processor associated to the transaction (eg: Stripe, Paypal, Wise, Open Collective, Other).                                                                                                                |
 | Payment Method           | The payment method associated to the transaction (eg: Credit Card, Balance)                                                                                                                                            |
 | Merchant ID              | A reference number provided by the payment processor.                                                                                                                                                                  |
@@ -41,6 +42,9 @@ These additional fields have been deprecated but may still apply to older transa
 | Payment Processor Fee  | Until the year 2024 payment processor fees were stored as fields of a transaction. Since 2024 they are stored as separate transactions.                                                                   |
 | Platform Fee           | Platform fees were once stored as transaction fields. They are now separate transactions.                                                                                                                 |
 | Host Fee               | Host fees were once stored as transaction fields. They are now separate transactions.                                                                                                                     |
+| Is Refund              | Replaced by Is Reverse. Indicates “REFUND” if the transaction reverses another transaction, otherwise it is empty. |
+| Is Refunded            | Replaced by Is Reversed. Indicates “REFUNDED” if the transaction was reversed, otherwise it is empty. |
+| Refund Transaction ID  | Replaced by Reverse Transaction ID. |
 
 
 
@@ -58,9 +62,10 @@ Each transaction is of a single “kind.” The following are the "kinds" of tra
 | EXPENSE                          | Records an expense made through the platform.                                                                                                                                       |
 | PLATFORM\_TIP                    | Records a platform tip added by a contributor to their contribution. On Fiscal Host accounts, also records tips collected on the internal Platform Tips child account (money owed to the platform). |
 | PLATFORM\_TIP\_DEBT              | Records a debt to the platform due to a PLATFORM\_TIP that has not been transferred to the platform.                                                                                |
-| APPLICATION\_FEE                 | Records an internal transfer of platform revenue between a Fiscal Host and the platform (for example, when platform tips or host fee share are settled). Only appears on host-side accounts. |
+| APPLICATION\_FEE                 | Records a platform tip collected through Stripe that is transferred directly from the Fiscal Host's internal Platform Tips account to the platform. Only appears on host-side accounts. |
 | PAYMENT\_PROCESSOR\_COVER        | Records payment processor fees that are covered by a fiscal host when a transaction is refunded (the payment processor do not refund the fees related to the original transaction). |
 | PAYMENT\_PROCESSOR\_DISPUTE\_FEE | Records a fee paid by fiscal host when a contribution is disputed through a payment processor (dispute fees are charged regardless of dispute outcome).                             |
 | BALANCE\_TRANSFER                | Usually done when emptying balance (Collective to Host, Project or Event to Collective). Or in some cases, moving balance between Fiscal Hosts.                                     |
+| TAX                              | Records a tax (for example VAT or GST) applied to a contribution or expense, as a separate transaction.                                                                             |
 | PREPAID\_PAYMENT\_METHOD         | \[LEGACY, discontinued] records a transaction used for implementing gift cards.                                                                                                |
 | UNNAMED                          | \[LEGACY] records transactions that date earlier then 2018 that experience migration challenges to later ledger versions.                                                           |
