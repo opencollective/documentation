@@ -26,7 +26,7 @@ Once the Project is live, you can click on “settings” to edit and customize 
 * **Editing your info:** You can edit basic information, add tiers and goals and customize your page.&#x20;
 * **Adding contribution tiers and goals:** This operates similarly to your collective page. [Learn more about this here](../raising-money/setting-goals-and-tiers.md).
 * **Adding updates:** You can update your community on your Project’s progress. To enable, go to your Project’s “profile page” and select “always visible” next to your updates box. Learn more about [updates](../../advanced/keeping-your-community-updated/).&#x20;
-* **Managing Team Members:** All Collective team members are part of the Project team, but you can add or remove team members from your project without affecting the Collective.
+* **Managing Team Members:** All Collective team members are part of the Project team. They are shown as “Inherited” and cannot be removed from the Project. You can add or remove other team members from your project without affecting the Collective.
 
 {% hint style="success" %}
 If you add a team member to a Project, they do not become an admin of your Collective. Therefore, you can give people responsibility for a Project without giving them access to the Collective itself.

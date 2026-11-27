@@ -19,6 +19,10 @@ You can transfer money from your Collective to your Project or Event by followin
 4. Use the “Contribute as…” dropdown menu to select your Collective
 5. Select the Collective’s balance as the payment method
 
+{% hint style="info" %}
+New Events are created with the custom (default) contribution tier turned off. To use this method for an Event, first go to the Event's Dashboard > Sponsorship tiers and check “Enable default contribution tier”. Collective admins can also move money between the Collective and its Projects and Events with “New internal transfer” in the Collective's Dashboard > Accounts.
+{% endhint %}
+
 ### Transferring money from a Project or Event to a Collective
 
 To move a set amount of money from your Project or Event to your Collective:

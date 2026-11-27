@@ -62,4 +62,4 @@ This can be useful when telling the story about your financial status and well-b
 
 To make the most of your Budget Visualization view, we recommend tagging your expenses.
 
-You can find out more about how to do this in the [Paying Expenses](../spending-money/) section.
+You can find out more about how to do this in the [Tagging expenses](tagging-expenses.md) section.
