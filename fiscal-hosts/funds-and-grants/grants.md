@@ -5,7 +5,7 @@ icon: hand-holding-dollar
 
 # Grants
 
-From **Dashboard > Funds & Grants > Grants**, you can see and manage every Grant associated with your Funds.
+From **Dashboard > Funds & Grants > Hosted Grant Requests**, you can see and manage every Grant associated with your Funds.
 
 ### Hosted Grant Requests
 
