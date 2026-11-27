@@ -38,7 +38,7 @@ _For contributions or expenses made after January 2024, separate transactions wi
 
 ### CSV Export Backwards Compatibility
 
-The default export configuration hasn’t changed and still includes a column for payment processor fees. However, from 2024, payment processor fees are exported as separate transactions and the payment processor fee column will be set to zero. If you need to continue to export data (from the 1st of January 2024 and onward) with payment processor fees as a column (instead of separate transactions) enable the “Separate transactions compatibility” option. This will convert the newly separated payment processor fee transactions back into transaction columns.
+From 2024, payment processor fees are exported as separate transactions. The “Platform Default” export set does not include a payment processor fee column. The “Legacy Platform Default (Pre-2024)” export set still includes one. If you need to continue to export data (from the 1st of January 2024 and onward) with payment processor fees as a column (instead of separate transactions) enable the “Export taxes and payment processor fees as columns” option. This will convert the newly separated payment processor fee and tax transactions back into transaction columns. Without this option, the payment processor fee column is zero for transactions from 2024 onward. Selecting the “Legacy Platform Default (Pre-2024)” export set turns this option on automatically.
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt="A screenshot of a toggle setting with the text &#x22;Export taxes and payment processor fees as columns.&#x22;"><figcaption></figcaption></figure>
 
