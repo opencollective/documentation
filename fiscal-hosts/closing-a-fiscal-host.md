@@ -10,6 +10,13 @@ Before closing your Fiscal Host, you will need to zero the Fiscal Host’s balan
 Fiscal Hosts with any recorded transactions can only be archived, not deleted.&#x20;
 {% endhint %}
 
+### Deactivating Fiscal Hosting and Money Management
+
+You can't archive or delete an Organization while it manages money on the platform. Before archiving or deleting, go to your Fiscal Host's Dashboard > Settings > Advanced and, under "Manage Functionalities":
+
+1. Click "Deactivate" next to **Fiscal Hosting**. This is only possible once you no longer host any Collectives: move them to a different Fiscal Host or archive them first. Any pending applications to your host are closed.
+2. Click "Deactivate" next to **Money Management**. This also disconnects your Stripe and Wise accounts.
+
 ### Archiving a Fiscal Host
 
 If you have any transactions, you will need to archive your Fiscal Host.

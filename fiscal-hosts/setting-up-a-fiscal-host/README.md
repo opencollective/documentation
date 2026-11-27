@@ -35,7 +35,7 @@ Integrate third-party services to receive  payments
 
 Integrate third-party services to make payments
 
-[**Upgrade your security**](fiscal-host-security-old.md)
+[**Upgrade your security**](fiscal-host-security.md)
 
 Enable services such as Two-factor Authentication
 
