@@ -20,11 +20,12 @@ Fiscal Hosts can create and manage categories by navigating to their Fiscal Host
 * **Friendly Name:** The Friendly Name is an optional identifier for a category that is displayed in place of the Name. This is useful if the accountant requires a specific Name, but you would like for what is displayed on the platform to be different. For example, an organization may have a category named "Expenses - Travel," but a Friendly Name "Travel" to make the selection process cleaner.
 * **Visibility**: A category can be made visible only to host admins so that expense submitters cannot select it when submitting an expense. Balance and clearing accounts are always managed by host admins.
 * **Kind:** A category can either be applied to expenses or contributions. These are profit-and-loss categories: they describe the kind of expense or revenue.
-* **Applies to:** A category can either be applied to Organizational Funds or Managed Funds. Organizational Funds are transactions that are related to the Fiscal Host itself, and Managed Funds are transactions related to hosted Collectives. Balance and clearing accounts apply to all funds and do not use this field.
+* **Applies to:** A category can be applied to **All** funds, to **Operational Funds**, or to **Managed Funds**. Operational Funds are transactions that are related to the Fiscal Host itself, and Managed Funds are transactions related to hosted Collectives. This field is only shown to Fiscal Hosts that host collectives. Balance and clearing accounts apply to all funds and do not use this field.
 * **Expense types:** Open Collective features different kinds of expenses. This property can be used to ensure that specific categories can only be used with specific expense types. The expense types that are possible to select here are:
   * Virtual Card Charges
   * Grants
   * Invoices
+  * Platform Billing
   * Reimbursements
   * Settlements
   * Unclassified
@@ -35,7 +36,7 @@ If you have the [Balance & clearing accounts](../advanced/preview-features.md#ba
 
 ### Create Category
 
-To create a new category, navigate to Fiscal Host Dashboard > Settings > Chart of Accounts. On this page, click "Create Category +" in the top right corner.
+To create a new category, navigate to Fiscal Host Dashboard > Settings > Chart of Accounts. On this page, click "Create category" in the top right corner.
 
 On the page that appears, you will then be able to configure the category according to the properties outlined above. There is also an additional field for Instructions that allows you to enter in more information about the specific category.
 
@@ -65,7 +66,7 @@ If you have not connected any payment devices yet, the tab explains how to conne
 
 ### Policies
 
-Within a Fiscal Host's Policy settings, Admins can set requirements for categorization of Expenses. Navigate to your Fiscal Host Dashboard > Policies, and scroll to **Expense categorization**. There, you will be able to:
+Within a Fiscal Host's Policy settings, Admins can set requirements for categorization of Expenses. Navigate to your Fiscal Host Dashboard > Settings > Policies, and scroll to **Expense categorization**. There, you will be able to:
 
 * Require expense submitters to select a category when submitting an expense
 * Require Collective admins to verify expense categories when reviewing and approving expenses
