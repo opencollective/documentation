@@ -23,7 +23,10 @@ The next step is to create an Organization. In your account profile menu, go to 
 
 **Step Three: Transform your Organization into a Fiscal Host**
 
-Go to your Organization’s Dashboard > Settings > Advanced. You should now have the option to "Activate as Host".
+Go to your Organization’s Dashboard > Settings > Advanced. Under "Manage Functionalities":
+
+1. Click "Activate" next to **Money Management**.
+2. Click "Activate" next to **Fiscal Hosting**. This option requires Money Management, so it stays disabled until Money Management is active.
 
 You will then be able to fill in all the details of your Fiscal Host, including your information, host fees, and so on.
 
@@ -36,12 +39,11 @@ For you to be able to receive money from Collectives, you will need to configure
 If you wish to set up both a Collective and a Fiscal Host:
 
 1. Set up your individual Open Collective account as in Step One.
-2. Go to your account profile menu, find the "My Collectives" section, and click "+".
-3. Follow the instructions to [set up a Collective](../../collectives/creating-a-collective/).
-4. When you're asked to add a Fiscal Host, select the Start Accepting Contributions option.
-5. When asked who will hold the money, choose Our Organization.
-6. You can then choose to add an existing Organization as a Fiscal Host, or create a new one.
-7. You will need to connect a Stripe account or bank account to start receiving contributions.
+2. Create your Organization and activate it as a Fiscal Host, as in Steps Two and Three.
+3. Go to your account profile menu, find the "My Collectives" section, and click "+".
+4. Follow the instructions to [set up a Collective](../../collectives/creating-a-collective/).
+5. Go to your Collective's Dashboard > Settings > Fiscal Host. Under "Who will hold money on behalf of this Collective?", choose "Our Own Fiscal Host", then select your Organization. This option only appears if you are an admin of an Organization with Fiscal Hosting activated.
+6. You will need to connect a Stripe account or bank account to start receiving contributions.
 
 ### I want to leave my current Fiscal Host and set one up myself
 
@@ -50,7 +52,7 @@ If you feel you wish to host your own Collective, you have two options:
 \
 **Convert your Collective to an Organization**
 
-This means you will be in control of all the finances and admin of your account, and will need your own legal status and bank account. See our [Organizations](https://github.com/opencollective/documentation/blob/main/fiscal-hosts/organizations/organizations.md) section for more information.
+This means you will be in control of all the finances and admin of your account, and will need your own legal status and bank account. See our [Converting between Collectives and Organizations](../../organizations/creating-an-organization/README.md#converting-between-collectives-and-organizations) section for more information.
 
 **Set up a Fiscal Host**
 
