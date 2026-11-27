@@ -9,10 +9,10 @@ icon: door-closed
 Collectives with any recorded transactions can only be archived, not deleted.&#x20;
 {% endhint %}
 
-Before closing your Collective, you will need to [zero the Collective’s balance](zero-collective-balance.md) (including any Projects or Events). You will also need to ensure that any outstanding expenses are paid. See our documentation on [Spending Money](../spending-money/) for more information.
+Before closing your Collective, you will need to [zero the Collective’s balance](zero-collective-balance.md) (including any Projects or Events). You should also make sure that any outstanding expenses are paid: archiving cancels all expenses that have not been paid yet, and you can't archive while an expense is still being processed. See our documentation on [Spending Money](../spending-money/) for more information.
 
 * [Submitting expenses to withdraw funds](../../expenses-and-getting-paid/submitting-expenses/)
-* [Donating to another Collective in the same Fiscal Host](../../giving-to-collectives/contributing.md)
+* [Donating to another Collective in the same Fiscal Host](../../giving-to-collectives/giving-to-other-collectives.md)
 * [Transferring the remaining balance to your new Fiscal Host](../changing-fiscal-host.md)
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt="Screenshot of the Collective&#x27;s Advanced Settings showing &#x22;Archive&#x22; and &#x22;Delete&#x22; options."><figcaption><p>Screenshot of the Collective's Advanced Settings showing "Archive" and "Delete" options.</p></figcaption></figure>
@@ -20,7 +20,7 @@ Before closing your Collective, you will need to [zero the Collective’s balanc
 {% hint style="info" %}
 **Want to pause or stop accepting Contributions?**&#x20;
 
-Remove all tiers and turn off flexible contributions.
+Remove all tiers and uncheck “Enable default contribution tier” in your Collective's Dashboard > Tiers.
 {% endhint %}
 
 ### Archiving a Collective
@@ -37,11 +37,11 @@ If you want to cancel all contributions coming into your Collective, you can sim
 If you simply need to pause new contributions without cancelling current ones, please [get in touch with us](https://opencollective.com/help) to make it happen.
 {% endhint %}
 
-If you want to activate your Collective again at a later date, navigate to the same “Advanced” page and find the “Unarchive This Collective” option. This will make your Collective visible to others again, but will not restart any old recurring contributions.
+If you want to activate your Collective again at a later date, navigate to the same “Advanced” page and find the “Unarchive This Collective” option. This will make your Collective visible to others again, but will not restart any old recurring contributions. Archiving also removes your Collective from its Fiscal Host, so after unarchiving you will need to [apply to a Fiscal Host](../choosing-a-fiscal-host.md) again before you can receive or spend money.
 
 ### Deleting a Collective
 
-You can only delete a Collective if it has no history of transactions or financial activity.
+You can only delete a Collective if it has no history of transactions or financial activity (contributions or expenses), and no Events or Projects.
 
 Deleting it will remove all data, including membership and payment methods.
 
