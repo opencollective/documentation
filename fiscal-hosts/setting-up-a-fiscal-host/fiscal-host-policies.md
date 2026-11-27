@@ -21,7 +21,7 @@ You can set a Contribution policy to let potential contributors know what kind o
 It can be daunting to file an expense if you're not sure what's allowed. Provide a clear policy to guide expense submitters. You can provide different policies for the various types of expenses that are possible to submit on Open Collective:
 
 * Invoice Expenses Policy
-* Receipt Expenses Policy
+* Reimbursement Expenses Policy
 * Grant Expenses Policy
 * Expenses Title Policy
 
@@ -46,7 +46,7 @@ The Expense Approval settings allow you to set specific requirements for expense
 * Enabling and disabling **collective admins** from approving their own expenses
   * Options for only enforcing this under specific circumstances, like if a certain payment minimum is hit.
   * When both your Fiscal Host and a hosted Collective set this policy, the stricter threshold applies to collective admins.
-  * **Fiscal Host admins** who submit expenses as the payee are evaluated only against the Fiscal Host policy, not the hosted Collective's policy. A host admin can approve their own expense at the collective level unless your Fiscal Host policy blocks it.
+  * **Fiscal Host admins** who submitted an expense are evaluated only against the Fiscal Host policy, not the hosted Collective's policy. A host admin can approve their own expense at the collective level unless your Fiscal Host policy blocks it. The exception is a host admin who is also the only admin of the Collective: if the Collective has the policy turned on and your Fiscal Host policy is not enforced on single-admin Collectives, the Collective's policy applies.
 * Enabling and disabling non-team members and contributors from submitting expenses to your hosted Collectives
 
 ## Expense Types
@@ -59,7 +59,11 @@ If you wish to set custom options for specific Collectives, navigate to the Host
 
 ## Vendors
 
-By default only fiscal host administrators can submit expenses on behalf of vendors. You can allow other users who submit expenses to collectives you host to also submit expenses on behalf vendors.
+Choose who can attribute financial activities (such as expenses) to vendors:
+
+* Only admins of your Fiscal Host (the default)
+* Your Fiscal Host admins and collective admins
+* Anybody
 
 ## Expense Categorization
 
@@ -75,7 +79,7 @@ Specify any category of contributor that you do not want to accept money from to
 Choose from the following categories:
 
 * Adult websites&#x20;
-* Affliate and review websites&#x20;
+* Affiliate and review websites&#x20;
 * Casinos and gambling&#x20;
 * Insurance & financial products (credit)
 * Pharmacy products (weight loss, anti-aging)
