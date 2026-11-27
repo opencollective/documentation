@@ -15,7 +15,7 @@ Our [Explore](https://opencollective.com/search) feature is built to help you fi
 \
 Admins for Collectives and Fiscal Hosts are encouraged to tag the impact areas in which they work. The most popular categories are available to filter. Clicking an impact area will show only items that have identified themselves as working in that impact area. \
 \
-Similarly, Admins are encouraged to share the location where they are based.  You'll find filters below the category filters in the sidebar. Check any region, country, or city that you're interested in to show only Collectives in those areas.&#x20;
+Similarly, Admins are encouraged to share the location where they are based. Use the **Country** filter to show only results based in that country.&#x20;
 
 {% hint style="info" %}
 Administrators can only choose one location and may opt to add the area where they predominantly work, rather than their headquarters.
@@ -23,15 +23,11 @@ Administrators can only choose one location and may opt to add the area where th
 
 ### Using Search
 
-Can't find what you're looking for with our [Explore ](explore.md#exploring-collectives)feature? Don't worry; we have full search functionality too.
+Can't find what you're looking for with our [Explore ](explore.md#exploring)feature? Don't worry; we have full search functionality too.
 
-Search is always available from the primary navigation. Alternatively, you can hit the `/` key to open a search anywhere on Open Collective. Finally, you can go straight to [https://search.opencollective.com](http://search.opencollective.com)
+Search is always available from the primary navigation. Alternatively, you can hit the `/` key to open a search anywhere on Open Collective. Finally, you can go straight to [https://opencollective.com/search](https://opencollective.com/search)
 
 Our site-wide search allows you to filter by entity type ([Collectives](../collectives/collectives.md), [Projects](../collectives/managing-money/projects.md), [Events](../collectives/events.md), [Organizations](creating-an-organization.md), etc), country, and tag.
-
-{% hint style="info" %}
-If you wish to search for a specific region or city, we recommend using the Explore feature.
-{% endhint %}
 
 ### Understanding a Collective
 
