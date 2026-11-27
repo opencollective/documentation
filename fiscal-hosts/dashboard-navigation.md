@@ -26,9 +26,9 @@ Use the account switcher in the top-left corner to move between profiles where y
 | **Outgoing Money** | Pay Disbursements, Paid Disbursements, Approve Payment Requests, All Payment Requests, Outgoing Contributions | Review, approve, and pay expenses; track outgoing contributions from this account |
 | **Incoming Money** | Incoming Contributions, Expected Funds, Incomplete Contributions, Issued Payment Requests | Track contributions received, pending bank transfers, and payment requests you submitted |
 | **Internal Transfers** | Internal Transfers | Move funds between accounts you manage (preview) |
-| **Funds & Grants** | Hosted Funds, Hosted Grant Requests, Grants, Approve Grant Requests | Manage grant programs and hosted funds |
+| **Funds & Grants** | Hosted Funds, Hosted Grant Requests, Grant Requests, Approve Grant Requests | Manage grant programs and hosted funds |
 | **Ledger** | Transactions, Bank Account Sync, CSV Imports | Full transaction history and off-platform reconciliation |
-| **Hosting** | Hosted Collectives, Applications | Manage hosted collectives and incoming applications |
+| **Hosting** | Collectives, Applications | Manage hosted collectives and incoming applications |
 | **People** | People | Search accounts, roles, KYC status, and exports |
 | **Vendors** | Vendors | Vendor directory for your host |
 | **Reports** | Transactions, Expenses, Contributions | Downloadable reports |
@@ -36,7 +36,7 @@ Use the account switcher in the top-left corner to move between profiles where y
 
 ### Hosted collectives
 
-Hosted collectives see a smaller set of sections focused on fundraising and spending: **Overview**, **Outgoing Money**, **Incoming Money**, **Transactions**, **Contributors**, **Tiers**, **Team**, and **Settings**.
+Hosted collectives see a smaller set of sections focused on fundraising and spending: **Overview**, **Accounts**, **Outgoing Money**, **Incoming Money**, **Internal Transfers**, **Transactions**, **Contributors**, **Reports**, **Updates**, **Tiers**, **Team**, and **Settings**. Depending on the fiscal host and the collective's activity, **Grants** and **Virtual Cards** can also appear.
 
 ### Individual accounts
 
@@ -58,7 +58,7 @@ Use this table when following older documentation or support articles that refer
 | **Incomplete Contributions** | **Incoming Money > Incomplete Contributions** | Contributions that need follow-up |
 | Contributions - from this account | **Outgoing Money > Outgoing Contributions** | Contributions this account made to others |
 | Expenses - submitted by this account | **Incoming Money > Issued Payment Requests** | Payment requests you submitted |
-| **Collectives** | **Hosting > Hosted Collectives** | List of hosted collectives |
+| **Collectives** | **Hosting > Collectives** | List of hosted collectives |
 | **Contributors** (on hosted collective) | **Contributors** | Unchanged for hosted collectives |
 | **Contributors** / community (fiscal host) | **People** | Host-wide account directory |
 | **Transactions** (with money management) | **Ledger > Transactions** | Full ledger view |
