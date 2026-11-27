@@ -35,7 +35,7 @@ If you already have a Collective or Organization on Open Collective, you can cha
 
 Account admins can find these options under **Dashboard > Settings > Advanced**. You can also start the Collective-to-Organization flow from **Dashboard > Settings > Fiscal Host** using the **Convert this account to an Organization** link.
 
-Both conversions require [two-factor authentication](../../advanced/security-for-accounts/two-factor-authentication.md). These options are not available for private accounts.
+If you have [two-factor authentication](../../advanced/security-for-accounts/two-factor-authentication.md) enabled, or your account requires it for admins, you will be asked for a 2FA code to confirm either conversion. These options are not available for private accounts.
 
 #### Convert a Collective to an Organization
 
@@ -52,7 +52,7 @@ To convert:
 1. Go to **Dashboard > Settings > Advanced**.
 2. In the **Convert to Organization** section, click **Convert to Organization**.
 3. Enter your Organization's legal name. This should match the legal name on your bank account.
-4. Confirm the conversion. You will be prompted for two-factor authentication.
+4. Confirm the conversion. If you have two-factor authentication enabled, you will be prompted for a 2FA code.
 
 The conversion enables money management on your account. After converting, connect your bank account and payment processor (such as Stripe) to start receiving contributions. See [Managing Organization Finances](../managing-organization-finances.md).
 
@@ -71,7 +71,7 @@ To convert:
 
 1. Go to **Dashboard > Settings > Advanced**.
 2. In the **Convert to Collective** section, click **Convert to Collective**.
-3. Confirm the conversion. You will be prompted for two-factor authentication.
+3. Confirm the conversion. If you have two-factor authentication enabled, you will be prompted for a 2FA code.
 
 After converting, your account becomes a Collective. You will need to [apply to a Fiscal Host](../../collectives/choosing-a-fiscal-host.md) before you can raise or spend money again.
 
