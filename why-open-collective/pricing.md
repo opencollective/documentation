@@ -39,7 +39,7 @@ Organization admins manage billing from **Dashboard > Settings > Platform Billin
 
 If your collective joins a fiscal host, the host may charge a **host fee** (typically 4-10%, sometimes higher). This covers taxes, admin, payment approval, and compliance services.
 
-Host fees are charged on the total contribution amount before payment processor fees are deducted.
+Host fees are calculated on the contribution amount before payment processor fees are deducted. Platform tips and taxes (such as VAT or GST) collected with the contribution are excluded from that amount.
 
 ### Payment processor fees
 
@@ -56,6 +56,6 @@ View the previous model at [legacy pricing](https://opencollective.com/legacy-pr
 
 ## Platform tips
 
-When someone contributes to a collective, they can optionally add a platform tip to support Open Collective. The amount is entirely voluntary.
+When someone contributes to a collective whose fiscal host has Platform Tips enabled, they can optionally add a platform tip to support Open Collective. The amount is entirely voluntary. Tips are not offered on event tickets.
 
 Learn more on the [Platform Tips](../giving-to-collectives/platform-tips.md) page.
