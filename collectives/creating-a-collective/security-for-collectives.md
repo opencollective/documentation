@@ -9,7 +9,7 @@ icon: shield-check
 
 Two-factor authentication (2FA) adds another level of security to accounts.
 
-If an account’s password is hacked, it requires the user to provide another proof of identity, such as a security question or a code generated from an authenticator app.
+If an account’s password is hacked, it requires the user to provide another proof of identity, such as a code generated from an authenticator app or a security key.
 
 Collectives and their Fiscal Hosts can choose to force all admins to have 2FA enabled. This will block any admin from accessing admin pages or completing tasks until they’ve done so.
 

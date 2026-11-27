@@ -9,7 +9,7 @@ icon: link
 
 When a Collective or initiative takes off, it’s not uncommon for local projects or separate Collectives to branch out from it.
 
-You have the ability to display these “Connected Collectives” on your Collective page, so that people can view and potentially support these spinoff initiatives. These are displayed on the Collective’s page under “More Ways to Contribute”.
+You have the ability to display these “Connected Collectives” on your Collective page, so that people can view and potentially support these spinoff initiatives. These are displayed in the “Connected Collectives” section of the Collective’s page, under the Contribute menu.
 
 Connected Collectives:&#x20;
 

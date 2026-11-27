@@ -17,7 +17,7 @@ You will be able to customize your policy using the following options:
 
 **Contribution policy:** Outline the types of contributions you are willing to accept and which are likely to be rejected. For example, you may not be willing to accept donations from groups that do not match your ethical standards.
 
-**Expenses policy:** Give submitters an idea of what they need to do to get their expenses approved. You can include details such as:
+**Expenses policy:** Give submitters an idea of what they need to do to get their expenses approved. You can write separate policies for invoices, reimbursements and grant requests, plus a policy for expense titles. You can include details such as:
 
 * How to title and describe expenses
 * Which types of expense are acceptable
@@ -25,7 +25,7 @@ You will be able to customize your policy using the following options:
 * Where to make invoices out to
 * How quickly invoices are paid (and whether you do so at a particular time of the month)
 
-This will be shown to the right of the expense submission process.&#x20;
+These policies are shown in the expense submission form when the submitter picks the matching expense type, and they need to confirm they have read them before submitting.&#x20;
 
 {% hint style="info" %}
 If you are a Collective hosted by a Fiscal Host, you may wish to link to their policy page or info here as well (if available). You should also check to make sure your policies are consistent with theirs.
@@ -35,6 +35,6 @@ If you are a Collective hosted by a Fiscal Host, you may wish to link to their p
 
 You can also limit expense submissions to team members and financial contributors.
 
-**Rejected categories:** This enables you to automatically block certain categories of contributor from submitting expenses. Learn more about this on our [Rejecting and Refunding Financial Contributions](../raising-money/rejecting-and-refunding-financial-contributions.md) page.
+**Rejected categories:** This lets you list categories of contributor that you do not wish to accept money from, to prevent these types of contributions. Learn more about this on our [Rejecting and Refunding Financial Contributions](../raising-money/rejecting-and-refunding-financial-contributions.md) page.
 
 **Fiscal Host Policies:** Fiscal Hosts can set policies that apply to hosted projects in addition to their own collectives. For more information, see [Fiscal Hosts](../../fiscal-hosts/fiscal-hosts.md).
