@@ -15,7 +15,7 @@ On Fiscal Host public profile pages, the Budget and Transactions sections no lon
 
 These flows are settled separately through [Platform Settlements](../../fiscal-hosts/platform-settlements.md) and are not part of the host's activity with hosted collectives.
 
-Fiscal Host admins can still view them in **Dashboard > Transactions** using the **Kind** filter. Dashboard exports and the API are unchanged. Contributors and other account types still see their own platform tip transactions in the default view.
+Fiscal Host admins can still view them in **Dashboard > Ledger > Transactions** using the **Kind** filter. Dashboard exports and the API are unchanged. Contributors and other account types still see their own platform tip transactions in the default view.
 
 ## January 2024: Separate payment processor fees and taxes&#x20;
 
