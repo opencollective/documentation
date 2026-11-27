@@ -8,7 +8,7 @@ description: >-
 
 Browse the Open Collective Ledger with the Dashboard Transactions tool. We have designed it to look and operate similarly to a bank statement.
 
-To view the Transactions page, navigate to your **Dashboard** and then **Transactions**. Utilize the account switcher to switch between accounts.&#x20;
+To view the Transactions page, navigate to your **Dashboard** and then **Transactions**. For Fiscal Hosts and other accounts with money management, **Transactions** is under the **Ledger** menu (**Dashboard > Ledger > Transactions**). Utilize the account switcher to switch between accounts.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-29 at 4.50.27 PM.png" alt="A screenshot of a user&#x27;s Transaction page within their Dashboard. On the top left, there is the Open Collective logo, a button for Dashboard and a button for Explore. On the top right there is a Search box, an icon for notifications, and the user&#x27;s profile picture. On the left there is the account switcher module, and the full Dashboard list of pages. The majority of the page is the Transactions table, featuring Transactions for a Fiscal Host, a search box, options for adding filters and sorting type, and an Export CSV button."><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ To dive in and review any particular transaction, click to trigger a draw to sli
 * Payment Method
 * Merchant ID
 * Accounting Category
-* Balance Accounting Category (when the [Balance & clearing accounts](../preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled)
+* Balance / clearing account (when the [Balance & clearing accounts](../preview-features.md#balance-and-clearing-accounts-closed-beta) preview is enabled)
 * Group ID
 * Opposite transaction ID&#x20;
 * Related contribution
@@ -91,7 +91,7 @@ On a Fiscal Host's **public profile page**, the Budget and Transactions sections
 
 These transaction kinds are not part of the host's day-to-day activity with hosted collectives, so they no longer appear in the default Budget and Transactions sections on the public profile.
 
-To review them, open **Dashboard > Transactions** and use the **Kind** filter to include **Platform tip** or **Application fee**. CSV exports and the API are unchanged.
+To review them, open **Dashboard > Ledger > Transactions** and use the **Kind** filter to include **Platform tip** or **Application fee**. CSV exports and the API are unchanged.
 
 {% hint style="info" %}
 On other account types, **Platform tip** transactions in the default view show tips that account gave to the platform (for example, tips added at checkout). Only Fiscal Host profiles hide platform tip transactions from the default public view.
