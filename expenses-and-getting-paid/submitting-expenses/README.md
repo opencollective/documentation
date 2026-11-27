@@ -11,7 +11,7 @@ You can submit an expense by either [finding the Organization or Collective's pa
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt="Screenshot of a Collective&#x27;s header with a red outline highlighting the location of the &#x22;Submit Expense&#x22; button on the page."><figcaption><p>Screenshot of a Collective's header with a red outline highlighting the location of the "Submit Expense" button on the page.</p></figcaption></figure>
 
-Or by navigating to your personal **Dashboard > Incoming Money > Issued Payment Requests** and clicking **New Expense** in the top right corner.
+Or by navigating to your personal **Dashboard > Payment Requests** and clicking **New expense** in the top right corner. On the dashboard of an Organization with money management, or of a Collective, go to **Incoming Money > Issued Payment Requests** instead.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-10-28 at 5.30.03 PM.png" alt="Screenshot of your personal dashboard, expenses page. Highlighting the new expense button"><figcaption><p><sub>Screenshot of your personal dashboard, expenses page. Highlighting the new expense button</sub></p></figcaption></figure>
 
@@ -102,7 +102,7 @@ If you select **Chinese Alipay** as your transfer type, you will be asked for yo
 
 If you already have an Alipay payout method saved without a date of birth, edit the payout method and add this field before submitting new expenses.
 
-If you are not able to use these methods for whatever reason, you can also select a "custom payout method," which invites you to share details of how you would prefer to be paid.
+If you are not able to use these methods for whatever reason, you can also select **Other**, which invites you to share details of how you would prefer to be paid.
 
 {% hint style="info" %}
 Additional payout methods are available at the discretion of the Collective's Fiscal Host. If you need to discuss alternatives, contact the Fiscal Host directly.
@@ -143,7 +143,7 @@ You must then provide details of your invoice. These include:
 * **The date**: This is the date you're submitting your invoice, rather than the date the service was carried out.&#x20;
 * **The amount you are invoicing for**: See earlier on this page for help in selecting the appropriate currency.&#x20;
 
-You can add multiple invoices by clicking the "Add New Item" option next to the "Set Invoice details" section.
+You can add multiple invoice items by clicking **Add item** below your items.
 
 Check that the "Total Amount" you are invoicing is correct to avoid confusion.
 
@@ -155,18 +155,18 @@ Expense titles are limited to 255 characters. Use the description and additional
 
 You can then adjust your **expense title**. In most cases the expense title will be very similar to your expense item description, so to save you the time we've copied it here and allowed it to be edited. Remember this will be displayed publicly, so do not include any information you want to remain private.
 
-You can also add a **private note**, which will only be seen by the Fiscal Host admins. This enables you to provide information that will help them to approve your expense.
+You can also add **Additional notes**, which will only be visible to you, the Collective admins and its Fiscal Host. This enables you to provide information that will help them to approve your expense.
 
 ## Review your expense
 
 Before submitting your expense, you will be asked to review all the information provided.
 
-If you need to make any changes, you can do this by clicking "Edit Expense".
+The summary is shown at the bottom of the form. If you need to make any changes, scroll back up to the relevant section and update it before clicking **Submit expense**.
 
 {% hint style="info" %}
-Once you have submitted an expense, you can find it on your public profile page, in your **Dashboard > Incoming Money > Issued Payment Requests**, or in the Organization or Collective's budget.
+Once you have submitted an expense, you can find it on your public profile page, in your **Dashboard > Payment Requests**, or in the Organization or Collective's budget.
 
-By selecting the **More Actions** menu for the expense, you can edit it, download it, or **Copy link**. The copied link is a [permalink](../../advanced/permmlinks-and-ids.md) that opens the expense in the correct dashboard view for each viewer.
+To edit the expense, use the edit icons on the expense page. By selecting the **More actions** menu for the expense, you can download it or **Copy link**. The copied link is a [permalink](../../advanced/permmlinks-and-ids.md) that opens the expense in the correct dashboard view for each viewer.
 
 Downloading an expense is only available for invoices, and not reimbursements.
 {% endhint %}

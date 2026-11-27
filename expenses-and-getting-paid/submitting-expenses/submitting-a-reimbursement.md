@@ -36,9 +36,9 @@ We recommend filling in the description of the expense and including information
 For example: "Lunch with a client during Funding the Commons conference (September 2023)".
 
 {% hint style="info" %}
-While the expense title, the amount, and your Display Name will be shown publicly on the Collective's budget, attached receipts, descriptions, and payment details will only be visible to admins.
+The expense title, the amount, the description of each item and your Display Name will be shown publicly on the Collective's budget. Attached receipts, additional notes and payment details will only be visible to you, the Collective admins and its Fiscal Host.
 {% endhint %}
 
-If you wish to submit multiple receipts, you can do so by clicking "Add New Receipt".
+If you wish to submit multiple receipts, you can do so by clicking **Add item**.
 
 Once you have done this, you will be asked to review your details before submitting.
