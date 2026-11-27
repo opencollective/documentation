@@ -28,6 +28,6 @@ First you need to set up an individual profile, which you can do by following th
 
 Then click on profile switcher, which is located to the left on your dashboard. You should see My Organizations within the drop down menu.
 
-Click on the + button. You can then fill in your details on the "Create Organization" page.
+Click the **Create an Organization** button (or the + button next to My Organizations if you already manage an organization). You can then fill in your details on the "Create an organization" page.
 
 Once your organization is set up, you can toggle between your personal, Collective and/or Organization profiles with the profile switcher.<br>

@@ -20,10 +20,6 @@ When you first arrive, your Dashboard shows your **personal account**. From here
 * View contributions you have made on the platform
 * Update account settings such as email, security, and payment methods
 
-You can follow specific collectives and fiscal hosts from their public profile pages using the **Follow** button under their name.
-
-<figure><img src="../.gitbook/assets/image (75).png" alt="A screenshot of a Collective&#x27;s profile with the Follow button emphasized."><figcaption></figcaption></figure>
-
 Platform announcements appear when you click the megaphone icon in the top-right corner, next to the search bar.
 
 {% hint style="info" %}
@@ -68,12 +64,12 @@ If you prefer the previous sidebar labels (**Expenses** and **Contributions**), 
 | ---- | ----------- |
 | Pay or approve expenses (fiscal host) | **Outgoing Money** (see sub-pages in [Dashboard Navigation](../fiscal-hosts/dashboard-navigation.md)) |
 | Review received contributions | **Incoming Money > Incoming Contributions** |
-| Manage hosted collectives | **Hosting > Hosted Collectives** |
-| View all transactions | **Ledger > Transactions** (organizations and hosts) or **Transactions** (collectives) |
+| Manage hosted collectives | **Hosting > Collectives** |
+| View all transactions | **Ledger > Transactions** (fiscal hosts and organizations with money management) or **Transactions** (all other accounts) |
 | Account settings | **Settings** (any subsection) |
 | Team members | **Team** |
 | Fundraising tiers | **Tiers** |
 
 {% hint style="success" %}
-We welcome feedback on the dashboard. Use **Give Feedback** in your Dashboard or [this form](https://opencollective.com/redirect?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1-WGUCUF_i5HPS6AsN8kTfqofyt0q0HB-q7na4cQL788%2Fviewform).
+We welcome feedback on the dashboard. Use the **Give feedback** link in [Preview Features](../advanced/preview-features.md) or [this form](https://opencollective.com/redirect?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1-WGUCUF_i5HPS6AsN8kTfqofyt0q0HB-q7na4cQL788%2Fviewform).
 {% endhint %}
