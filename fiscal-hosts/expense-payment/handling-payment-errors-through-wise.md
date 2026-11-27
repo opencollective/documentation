@@ -23,11 +23,11 @@ For **Chinese Alipay** payouts, missing or incorrect payee details — such as d
 
 ### Insufficient Wise balance
 
-Before creating a transfer on Wise, Open Collective checks that your connected Wise account holds enough funds in the payout currency. If the balance is too low, payment is blocked immediately with a message such as:
+Before creating a transfer on Wise, Open Collective checks that your connected Wise account holds enough funds in your Fiscal Host's currency, which is the currency used to fund Wise transfers. If the balance is too low, payment is blocked immediately with a message such as:
 
 > Insufficient balance in USD to cover this expense amount, you need 101.14 USD and you currently have 50 USD. Please add funds to your Wise USD account.
 
-In this case the expense **stays approved** (it is not marked as “Error”). Add funds to your Wise account and try paying again from **Dashboard > Outgoing Money > Pay Disbursements**.
+In this case the expense **stays approved** (it is not marked as “Error”), although the failed attempt is still recorded as a host-only **Expense payment error** entry in the expense timeline. Add funds to your Wise account and try paying again from **Dashboard > Outgoing Money > Pay Disbursements**.
 
 ### Resolving payment errors
 
@@ -49,7 +49,7 @@ If you are happy with the information received, or simply wish to try again, you
 
 #### **Reject the expense**
 
-If the information you have received leads you to believe the expense is no longer suitable for payment, you can choose to reject it. The expense submitter will be informed and will have to resubmit the expense if they want it to be paid.
+If the information you have received leads you to believe the expense is no longer suitable for payment, you can choose to reject it. An expense with the “Error” status cannot be rejected directly: first mark it as **Incomplete** or use **Request re-approval**, then select **Reject**. The expense submitter will be informed and will have to resubmit the expense if they want it to be paid.
 
 {% hint style="info" %}
 There may be a number of reasons that an expense has not been paid into the expense submitter’s account. We recommend examining the issue on a case-by-case basis, and our [support team](http://opencollective.com/help) can also support you where appropriate.

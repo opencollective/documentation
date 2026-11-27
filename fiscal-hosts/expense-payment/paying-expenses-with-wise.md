@@ -21,7 +21,9 @@ The fees are charged by Wise and its value will vary with the currencies and val
 
 ### Who pays these fees? <a href="#who-pays-these-fees" id="who-pays-these-fees"></a>
 
-These fees are paid by the Collective the expense was submitted for. This means that transactions in Wise will display the fees, but that value will also be deducted from the Collective balance in our platform as a _payment processor fee_.
+By default, these fees are paid by the Collective the expense was submitted for. This means that transactions in Wise will display the fees, but that value will also be deducted from the Collective balance in our platform as a _payment processor fee_.
+
+When the expense, the Collective and your Fiscal Host all use the same currency, you can instead check **The payee is covering the fees** in the _Pay expense_ modal. The fees are then deducted from the amount sent to the payee.
 
 
 
@@ -84,7 +86,7 @@ In order to reduce risks related to having an active API token that is able to c
   * If Wise revokes your OAuth token (for example, after you remove Open Collective's access in Wise, or when a token expires and cannot be refreshed), Open Collective automatically disconnects the integration and notifies Fiscal Host admins.
   * Reconnect from **Dashboard > Settings > Sending Money** using **Connect Wise**. Expenses that were approved before the disconnect cannot be paid through the integration until you reconnect.
 * **Insufficient balance**
-  * Before creating a transfer, Open Collective checks your Wise balance in the payout currency. If funds are too low, payment is blocked with a clear message and the expense stays approved — add funds to Wise and try again. See [Handling Payment Errors Through Wise](handling-payment-errors-through-wise.md) for details.
+  * Before creating a transfer, Open Collective checks your Wise balance in your Fiscal Host's currency (the currency used to fund transfers). If funds are too low, payment is blocked with a clear message and the expense stays approved. Add funds to Wise and try again. See [Handling Payment Errors Through Wise](handling-payment-errors-through-wise.md) for details.
 * **`Unable to fund transfer`**
   * Double-check if you have enough funds in your Wise balance. You'll be using the balance with the same currency as your Open Collective account.
 * **Other payment failures**
