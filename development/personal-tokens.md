@@ -6,17 +6,17 @@ icon: ticket
 
 Personal tokens are used to authenticate with the Open Collective API. They are not tied to a specific application and can be used for various purposes, such as automating tasks or integrating with other services. To use a personal token, you can pass it as a `Personal-Token` HTTP header or as a `personalToken` query parameter in the URL.
 
-If your goal is to have other users authenticating with your app/script, you should look into [OAuth](https://docs.opencollective.com/help/developers/oauth) rather than personal tokens.
+If your goal is to have other users authenticating with your app/script, you should look into [OAuth](oauth.md) rather than personal tokens.
 
 **Creating Personal Tokens**
 
 To create a personal token, follow these steps:
 
-1. Go to your Open Collective account workspace.
+1. Go to the dashboard of your personal account. Personal tokens are always tied to your user, so they can't be created from a collective or organization dashboard.
 2. Navigate to the "For developers" section.
-3. Click on the "Create Personal Token" button.
+3. Click on the "Create personal token" button.
 4. Enter a name for your personal token and select the scopes you want it to have.
-5. Optionally tick the checkbox for "Advanced privileges" if you want your token to be able to call queries and mutations that require 2FA (see ).
+5. Optionally tick the checkbox for "Advanced privileges" if you want your token to be able to call queries and mutations that require 2FA (see "Advanced privileges" below).
 6. Optionally set an expiration date.
 7. Click on the "Create token" button.
 
@@ -32,7 +32,7 @@ https://api.opencollective.com/graphql/v2?personalToken=my-token
 
 **Scopes**
 
-Personal tokens support the same scopes as OAuth apps. Scopes determine what actions a personal token can perform. You can find a complete list of scopes in the[ OAuth documentation](https://docs.opencollective.com/help/developers/oauth).
+Personal tokens support the same scopes as OAuth apps, plus the `applications` (create and manage OAuth applications) and `connectedAccounts` (create and manage connected accounts) scopes. Scopes determine what actions a personal token can perform. You can find the list of OAuth scopes in the [OAuth documentation](oauth.md#scopes-for-oauth-apps).
 
 **Advanced privileges**
 
