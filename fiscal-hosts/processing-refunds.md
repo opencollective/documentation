@@ -7,9 +7,9 @@ icon: coins
 
 # Processing Refunds
 
-Collective admins are able to approve refunds for up to 30 days from the date the donation was made, as long as the payment provider supports the transaction.
+By default, Collective admins are able to approve refunds for up to 30 days from the date the donation was made, as long as the payment provider supports the transaction. Fiscal Host admins can turn this off for all their hosted Collectives by unchecking **Allow collective admins to refund contributions for up to 30 days after the transaction date** under **Dashboard > Settings > Policies > Refunds**.
 
-After that point, donations can only be refunded by Fiscal Host admins.
+After that point, or when this option is turned off, donations can only be refunded by Fiscal Host admins.
 
 {% hint style="warning" %}
 Open Collective has a platform wide [Refund Policy](../giving-to-collectives/requesting-refunds/refund-policy.md). Fiscal Host admins should familiarize themselves with this policy before they develop their own.
