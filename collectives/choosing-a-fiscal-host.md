@@ -38,16 +38,17 @@ When you first set up your collective, you will be invited to select your Fiscal
 
 You will be asked to specify who will hold money on behalf of your collective.
 
-There are four options:
+The options are:
 
 * No one - No bank account or Host connected, you are not able to receive and spend money
-* Organization - Manage money using your own bank account and legal status&#x20;
-* Our Own Fiscal Host - Manage multiple collectives with your own Fiscal Host.&#x20;
 * Apply to a Fiscal Host - Join a Fiscal Host that provides access to a legal status and bank account to multiple collectives.&#x20;
+* Our Own Fiscal Host - Use a Fiscal Host that you already manage for multiple collectives. This option is only shown if you are an admin of an account that has Fiscal Hosting enabled.&#x20;
 
-We will focus on the fourth and last option for now.
+Below these options, the **Already have a legal entity?** section lets you convert your Collective to an Organization, to manage money using your own bank account and legal status.&#x20;
 
-If you click “Apply to a Fiscal Host”, you will be given the option to search for and select the Fiscal Host for you.
+We will focus on the "Apply to a Fiscal Host" option for now.
+
+If you select “Apply to a Fiscal Host” and click “Choose a Fiscal Host”, you will be given the option to search for and select the Fiscal Host for you.
 
 To apply, find the “apply” button on a Fiscal Host’s page. It is often located on the right-hand side of the page menu. Sometimes, it is nested under the actions button.&#x20;
 
@@ -67,7 +68,7 @@ Hosts also have policies which they will make you aware of during your applicati
 
 ## **Alternatives to finding a Fiscal Host**
 
-If you do not wish to be hosted by a Fiscal Host, you can select one of three other options. However, each of these comes with certain responsibilities or limitations.&#x20;
+If you do not wish to be hosted by a Fiscal Host, there are three alternatives. However, each of these comes with certain responsibilities or limitations.&#x20;
 
 {% hint style="info" %}
 Before connecting an account or joining a fiscal host, you’ll be able to create your Collective’s profile, but you will not be able to collect donations.
@@ -76,11 +77,11 @@ Before connecting an account or joining a fiscal host, you’ll be able to creat
 **No one**\
 You can choose not to select a host or connect a bank account. This means that you will not be able to receive or spend money on the platform.
 
-**Organization**\
-This allows you to manage money using your own bank account and legal status. This means that you do not have to pay fees or follow the policies of any host. But you will be solely responsible for your accounting, taxes, payments and liability. [Find out more about Organizations](../organizations/organizations.md)
+**Convert to an Organization**\
+If you already have a legal entity, you can convert your Collective to an Organization from the **Already have a legal entity?** link on the Fiscal Host settings page (or from your Collective's Dashboard > Settings > Advanced). This allows you to manage money using your own bank account and legal status. This means that you do not have to pay fees or follow the policies of any host. But you will be solely responsible for your accounting, taxes, payments and liability. [Find out more about Organizations](../organizations/organizations.md)
 
 **Our Own Fiscal Host**\
-You can choose to set up your own Fiscal Host to manage the money, legal status and tax accounts of other collectives.&#x20;
+If you are an admin of an account with Fiscal Hosting enabled, you can select it to hold the money of your Collective. A Fiscal Host can also manage the money, legal status and tax accounts of other collectives.&#x20;
 
 {% hint style="danger" %}
 [Becoming a Fiscal Host](../fiscal-hosts/fiscal-hosts.md) can be very technical, so we strongly advise you not to do this unless you have the relevant experience, time and expertise.

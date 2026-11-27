@@ -69,6 +69,6 @@ Let people know what your collective is doing, and build your audience.
 
 Sell tickets and bring your community together.
 
-#### [Connect your social media](../collective-settings/integrations.md)
+#### [Connect your social media](../getting-started/setting-up-your-account.md#filling-in-your-account-information)
 
 Show people where to find your social accounts.

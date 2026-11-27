@@ -9,19 +9,17 @@ icon: plus
 
 You’ll need an Open Collective account to create a Collective. To find out how to do that, go to [Setting up your account](../../getting-started/setting-up-your-account.md).&#x20;
 
-Once you’ve done that, click on your profile picture in the top right hand corner and click on the Create a Collective button or press the + next to my collectives. You will see two options:
+Once you’ve done that, click on your profile picture in the top right hand corner, then click on the **Create a Collective** button or press the **+** next to **My Collectives**.
 
-1. **For Open Source projects**
+You’ll be asked to fill in some details: your Collective's name, your preferred profile URL, a short description of what your Collective does, its location, and tags that help people discover it. Click **Create Collective**, then invite up to five team members to help you manage it. You can also click **Skip to Dashboard** and [add your team](../../getting-started/adding-and-removing-team-members.md) later.
 
-This is for anyone that wants to set up an open source collective. You’ll be directed to apply to the Open Source Collective (OSC) Fiscal Host.&#x20;
+There’s no verification process at this stage, so you’re ready to take the next step.
 
-You’ll need to complete a short verification process.
+{% hint style="info" %}
+**For Open Source projects**
 
-2. **For the community**
-
-If you’re starting any other kind of collective, select this option. You’ll be asked to fill in some details, including the name of your collective, your preferred collective URL, and a brief description of what you do.
-
-There’s no verification process for this option, so you’re ready to take the next step.
+If you are creating a Collective for an open source project, you can [apply to the Open Source Collective (OSC)](https://opencollective.com/opensource/apply/intro) Fiscal Host directly. You’ll need to complete a short verification process.
+{% endhint %}
 
 
 
@@ -49,7 +47,7 @@ Update your images and choose what people see when they visit your page.
 
 Add your team members/collaborators who can help you manage your collective page and what they can access.
 
-[**Set goals and tiers**](../raising-money/setting-goals-and-tiers.md#setting-goals)
+[**Set goals and tiers**](../raising-money/setting-goals-and-tiers.md#goals)
 
 Get your targets and offer incentives to your community.
 
