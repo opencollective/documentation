@@ -11,7 +11,11 @@ We want to make sure that Fiscal Hosts are confident an expense is accurate and 
 
 This is why we carry out some automated Security Checks for factors you may want to keep in mind during the approval process.
 
-You can find the results of these checks by clicking the shield icon on the bottom right of any expense.
+You can find the results of these checks by clicking the shield icon on the bottom right of an expense. The shield icon only appears when at least one check applies to the expense.
+
+{% hint style="info" %}
+Security Checks are only shown to Fiscal Host admins. They are available to Fiscal Hosts whose plan includes Expense Security Checks and that Open Collective has marked as trusted. They are not run on virtual card charges. If you don't see Security Checks on your expenses, [contact support](https://opencollective.com/help).
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt="Example of security check details pop up."><figcaption><p>Example of security check details pop up.</p></figcaption></figure>
 
