@@ -24,8 +24,10 @@ If a Collective is frozen, it cannot:
 * Create new Events or Projects
 * Add or remove new team members<br>
 
-However, any recurring contributions that were set up before the freeze will continue to be paid as normal.
+By default, freezing a Collective also pauses its active recurring contributions. They are resumed when you unfreeze the Collective. You can turn off the "Pause recurring contributions" option when freezing if you want them to continue.
 {% endhint %}
+
+Only Collectives and Funds can be frozen. Their Events and Projects are frozen with them: to freeze an Event or Project, freeze its parent Collective.
 
 If a Collective is frozen, the Collective admins will be notified via an email notification. The Collective's page will also no longer display contributions and expenses, and a message will be displayed explaining that "some actions are temporarily limited".
 
@@ -34,15 +36,16 @@ If a Collective is frozen, the Collective admins will be notified via an email n
 ## Freeze a Collective:
 
 1. Make sure you have set your profile to your Fiscal Host Admin account
-2. Go to your Fiscal Host Dashboard > Hosting > Hosted Collectives&#x20;
+2. Go to your Fiscal Host Dashboard > Hosting > Collectives (for Funds, go to Funds & Grants > Hosted Funds)&#x20;
 3. Locate the Collective you wish to freeze in your list of hosted Collectives
-4. Click on the three dots to the bottom right of the Collective's card (see image)
-5. Choose "Freeze"
+4. Click on the three dots at the end of the Collective's row
+5. Choose "Freeze collective"
+6. Check the box confirming you understand the consequences, then click "Freeze Collective"
 
 You can opt to send the Collective admins a message explaining the reasons for this action, and outlining what they may need to do to resolve the situation. This will be sent to them via email but will not be displayed publicly.
 
 ## Unfreeze a Collective:
 
-1. Find the card for the Collective you previously froze in your list of Hosted Collectives
-2. Click the three dots
-3. Select "Unfreeze"
+1. Find the Collective you previously froze in your list of hosted Collectives (use the Frozen tab)
+2. Click the three dots at the end of its row
+3. Select "Unfreeze collective", then confirm with "Unfreeze"
