@@ -22,9 +22,9 @@ Navigate to your Collective's Dashboard > Tiers&#x20;
 
 ### Goals
 
-You have two ways of setting goals on Open Collective.
+You can pick one of three goal types on Open Collective.
 
-You can set a goal balance, which shows how much you have raised so far toward a set total. You can also set a yearly budget goal, which sets a target amount you want to have in your account after operating costs.&#x20;
+You can set a **Balance** goal, which shows how much you have raised so far toward a set total. You can also set a **Yearly budget** or **Monthly budget** goal, which compares your target with your Collective's estimated budget for the year (or month). That estimate is based on your active recurring contributions and the one-time contributions received over the past year.&#x20;
 
 These goals will be sent in your emails to contributors, and you can also choose to show them on your collective page.
 
@@ -123,7 +123,7 @@ If in doubt, use the "Generic" tier.
 
 **Amount:** If your tier asks for a fixed amount, write it here. If the amount is flexible, you can add a suggested amount as well as a minimum.
 
-**Available quantity:** You can limit how many people can contribute to each tier. This is useful for special edition items or one-time events. Each contributor occupies one slot, including recurring contributors — monthly or yearly billing does not use extra slots. A refunded one-time contribution frees its slot. An active recurring contribution still occupies a slot even if some charges were refunded.&#x20;
+**Available quantity:** You can limit how many people can contribute to each tier. This is useful for special edition items or one-time events. Each contribution occupies one slot per unit (a ticket or product contribution with a quantity of 3 uses 3 slots), including recurring contributions: monthly or yearly billing does not use extra slots. A refunded one-time contribution frees its slot. An active recurring contribution still occupies a slot even if some charges were refunded.&#x20;
 
 **Button text:** You can add your own text for the tier button to make it more compelling. Such as donate, join, contribute. You can also add emojis if you wish.&#x20;
 
@@ -135,12 +135,12 @@ If in doubt, use the "Generic" tier.
 
 If you wish to edit the details of your tiers, navigate to your Collective's Dashboard > Tiers. Find the desired tier and click “edit tier”. Once you’ve made your changes, click “save” and the new version will go live.
 
-To delete your tier entirely, click the “delete” button at the bottom of the form.
+To delete your tier entirely, click the “delete” button at the bottom of the form. You will be asked whether you want to continue the existing recurring contributions to this tier (they continue by default).
 
 {% hint style="info" %}
-Deleting a tier does not cancel the contributions of people that signed up to it. However, instead of being listed as supporters of that tier, they will be listed as “custom contributions”.
+Unless you choose to stop them when deleting the tier, the contributions of people that signed up to it continue. However, instead of being listed as supporters of that tier, they will be listed as “custom contributions”.
 
-Recurring contributions will only stop when the contributor cancels it, when an admin opts to "reject" the donation, or when the Collective is archived.&#x20;
+Otherwise, recurring contributions only stop when the contributor cancels it, when an admin opts to "reject" the donation, when the Fiscal Host cancels it, or when the Collective is archived.&#x20;
 
 See [Making a Recurring Payment](../../giving-to-collectives/making-a-recurring-contribution.md) for details on canceling.
 {% endhint %}
