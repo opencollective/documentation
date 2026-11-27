@@ -25,9 +25,9 @@ You can also implement measures such as requiring Collectives to have two admins
 
 **Viewing a pending application**
 
-Pending applications can be found in the "Collectives" section of your Dashboard menu. Make sure your profile is set to your Organization Admin account.\
+Pending applications can be found under Hosting > Applications in your Dashboard menu. Make sure your profile is set to your Organization Admin account.\
 \
-You can find the list of **pending, approved, and rejected Collectives** on the "Applications" page.
+On the "Host Applications" page, use the tabs to see **unreplied, pending, approved, and rejected** applications. The "Unreplied" tab lists applications where the last comment was posted by the applying Collective's admins.
 
 You can also sort the applications by **most recent and oldest**.
 
@@ -43,4 +43,6 @@ When a Collective applies to a Fiscal Host, the admin is encouraged to provide:
 
 You can either make a decision to approve or reject based on the information you have, or contact the applicant for more information.
 
-To do this, click the mail icon next to the Collective that has applied to your host.
+To do this, click on the application (or on the three dots at the end of its row, then "View details") to open it. In the **Comments** section, post a comment: comments from host admins are sent by email to the applying Collective's admins, and they can reply in the same thread. You can also post a private note, which is only visible to your Fiscal Host's admins.
+
+Use the "Approve" or "Reject" buttons at the bottom of a pending application to make your decision. When rejecting, you can add an optional message, which is sent as a private email to the Collective's admins. If your Fiscal Host requires a minimum number of admins, you cannot approve an application until the Collective has enough admins (pending admin invitations count toward this).
