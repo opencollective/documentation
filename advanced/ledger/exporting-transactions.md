@@ -11,20 +11,23 @@ From your transactions you can export a CSV file that can be used to further pro
 
 To download a CSV of your transactions click on the "**Export CSV"** button in the top right hand corner.&#x20;
 
-If you have applied any filters on the transactions page these will be applied to the export set. At the bottom left corner of the export screen you will see a confirmation of the number of transactions included in that set.&#x20;
+If you have applied any filters on the transactions page these will be applied to the export set. When the export downloads directly (see below), the bottom left corner of the export screen shows the number of transactions included in that set.&#x20;
 
-You then have an option to decide which fields you would like to export. The “Platform Default” export is a selection of fields created to answer typical reporting and accounting needs. So it may be a good starting point. If it is, simply click “Export CSV” and your export file will begin to download.
+You then have an option to decide which fields you would like to export. The “Platform Default” export is a selection of fields created to answer typical reporting and accounting needs. So it may be a good starting point. If it is, start the export:
 
-Host admins and accountants can add **Balance Accounting Category Code** and **Balance Accounting Category Name** to a custom preset. These fields record the balance or clearing account the funds moved through. See [Chart of Accounts](../../fiscal-hosts/chart-of-accounts.md#balance-and-clearing-accounts).
+* **Collectives, Projects, Events and Fiscal Hosts:** admins and accountants of the account, of its parent account or of its fiscal host see a **Generate Export** button. You can name the export, and it is generated in the background. Download it from the export window when it is ready, or later from the **Exports** section of your dashboard. See [Background (async) exports](../exporting-your-data.md#background-async-exports).
+* **Other accounts:** click **Export CSV** and your export file will begin to download. Direct downloads are limited to 100,000 rows; if your selection is larger, change your filters to export fewer transactions.
+
+If the [Balance & clearing accounts](../preview-features.md#balance-and-clearing-accounts-closed-beta) preview feature is enabled for you, you can add **Balance Accounting Category Code** and **Balance Accounting Category Name** to a custom preset. These fields record the balance or clearing account the funds moved through. See [Chart of Accounts](../../fiscal-hosts/chart-of-accounts.md#balance-and-clearing-accounts).
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-27 at 13.25.50.png" alt="A screenshot of the Export Transactions pop up module. In the top left is the title Export Transactions, while in the top right there is an exit button. Below that there is the title &#x22;Selected export set&#x22; above a module for selecting what export set to use, in this case it is set to &#x22;Platform Default.&#x22; Below that is a section labeled &#x22;Selected fields for export (24 out of 61),&#x22; below which is a subtitle that reads &#x22;Fields will be exported in the order they&#x27;re displayed in below. Drag and drop them to reorder them.&#x22; Below that is a field with 24 drag-and-droppable properties, such as &#x22;Effective Date &#x26; Time,&#x22; &#x22;Transaction ID,&#x22; and &#x22;Description.&#x22; Below that there is a toggle for the option &#x22;Export taxes and payment processor fees as columns.&#x22; In the final section of the pop up, there is text that displays the number of rows being exported and buttons to &#x22;Export Sample&#x22; and &#x22;Export CSV.&#x22;"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Platform Legacy Export (pre 2024)**\
 \
-At the beginning of 2024 we made some changes to the ledger that affect the transaction export. This included a shift from representing payment processor fees as fields of transactions to [representing them as separate transactions](https://docs.opencollective.com/help/product/ledger#separate-payment-processor-fees-and-taxes). If you require backwards compatibility with the exports that were generated before we introduced these changes:
+At the beginning of 2024 we made some changes to the ledger that affect the transaction export. This included a shift from representing payment processor fees as fields of transactions to [representing them as separate transactions](ledger-changelog.md#january-2024-separate-payment-processor-fees-and-taxes). If you require backwards compatibility with the exports that were generated before we introduced these changes:
 
-1. Select the export set “Legacy Platform Export (Pre-2024)”
+1. Select the export set “Legacy Platform Default (Pre-2024)”
 2. Make sure that the option “Export taxes and payment processor fees as columns” is turned on.
 {% endhint %}
 
@@ -50,4 +53,4 @@ You are also able to clear the selection to start your preset from scratch
 
 You have the option to save the preset, this will make it available to all admins of your Collective/Fiscal Host.&#x20;
 
-Export a Sample to test the data set before committing and downloading the full CSV via **Export CSV.**
+Export a Sample to test the data set before committing and exporting the full CSV via **Generate Export** or **Export CSV.**
