@@ -22,6 +22,8 @@ An expense transaction group will typically include:
 
 1. A pair of EXPENSE transactions.
 2. A pair of PAYMENT PROCESSOR FEE transactions.
+3. If the expense includes taxes (such as VAT or GST), a pair of TAX transactions: the tax amount is debited from the payee and credited to the tax account. In this case, the EXPENSE transactions are for the full amount, taxes included.
+4. If the payee is a Collective hosted by a different Fiscal Host that charges a host fee, a pair of HOST\_FEE transactions: the host fee is debited from the payee and credited to the payee's Fiscal Host.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt="A table showing an example of an expense. The first transaction has a Kind &#x22;Expense,&#x22; a Type &#x22;CREDIT,&#x22; an Account &#x22;Vendor D,&#x22; and an Amount &#x22;$213.00.&#x22; The second transaction has a Kind &#x22;Expense,&#x22; a Type &#x22;DEBIT,&#x22; an Account &#x22;Collective B,&#x22; and an Amount &#x22;-$213.00.&#x22; The third transaction has a Kind &#x22;Payment Processor Fee,&#x22; a Type &#x22;DEBIT,&#x22; an Account &#x22;Collective B,&#x22; and an Amount &#x22;-$13.00.&#x22; The fourth transaction has a Kind &#x22;Payment Processor Fee,&#x22; a Type &#x22;CREDIT,&#x22; an Account &#x22;Stripe,&#x22; and an Amount &#x22;$13.00.&#x22;"><figcaption></figcaption></figure>
 
@@ -30,7 +32,12 @@ An expense transaction group will typically include:
 Fiscal Hosts are able to mark expenses as unpaid when they encounter a payment error (it is the responsibility of the Fiscal Host admin to verify that the funds paid are accounted for). When an expense is marked as unpaid a new transaction group is created in which:
 
 1. The expense is credited back to the paying collective and debited from the payee.
-2. Payment processor fees for transactions are **not** reversed since they are typically not refunded by the payment processors. In such cases, Fiscal Hosts cover the not-refunded payment processor fees. This is represented in the ledger with a pair of PAYMENT\_PROCESSOR\_COVER transactions.
+2. Taxes and host fees recorded on the expense, if any, are reversed as well.
+3. When marking the expense as unpaid, the Fiscal Host admin chooses whether the payment processor fees were also refunded with the **Also refund payment processor fees?** checkbox (checked by default):
+   1. If it is checked, the PAYMENT\_PROCESSOR\_FEE transactions are reversed too: the fee is debited from the payment processor and credited back to the paying collective.
+   2. If it is unchecked, the payment processor fees are **not** reversed. Instead, Fiscal Hosts cover the not-refunded payment processor fees. This is represented in the ledger with a pair of PAYMENT\_PROCESSOR\_COVER transactions. No cover is recorded when the payee was set to pay the payment processor fees.
+
+The example below shows an expense marked as unpaid without refunding the payment processor fees:
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt="A table showing an example of transactions associated with an expense that has been marked as unpaid. The first transaction has a Kind &#x22;Expense,&#x22; a Type &#x22;DEBIT,&#x22; an Account &#x22;Vendor D,&#x22; and an Amount &#x22;-$213.00.&#x22; The second transaction has a Kind &#x22;Expense,&#x22; a Type &#x22;CREDIT,&#x22; an Account &#x22;Collective B,&#x22; and an Amount &#x22;$213.00.&#x22; The third transaction has a Kind &#x22;Payment Processor Cover,&#x22; a Type &#x22;DEBIT,&#x22; an Account &#x22;Fiscal Host C,&#x22; and an Amount &#x22;-$13.00.&#x22; The fourth transaction has a Kind &#x22;Payment Processor Cover,&#x22; a Type &#x22;CREDIT,&#x22; an Account &#x22;Collective B,&#x22; and an Amount &#x22;$13.00.&#x22;"><figcaption></figcaption></figure>
 
@@ -38,7 +45,7 @@ A complete transaction set for an expense marked as unpaid will therefore includ
 
 1. The expense payment transactions are one transaction group.
 2. The expense "unpaid"  transactions are a second transaction group.
-3. Relationships between the transactions in the two transaction groups. Each transaction in the expense transaction group (except the payment processor fees) will have a Refund Transaction ID that points to the opposite transaction in the "unpaid" transaction group.
+3. Relationships between the transactions in the two transaction groups. Each transaction in the expense transaction group (except payment processor fees that were not refunded) will have a Refund Transaction ID that points to the opposite transaction in the "unpaid" transaction group.
 4. The expense transactions will be marked as REFUNDED.
 5. The related "unpaid" transactions will be marked as REFUND.
 
@@ -54,11 +61,11 @@ From the perspective of the payee (the person or organization being paid) the ex
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt="A table showing an expense that was marked as unpaid from the perspective of the payee. The first transaction has the property &#x22;REFUNDED,&#x22; the Kind &#x22;Expense,&#x22; the Type &#x22;CREDIT,&#x22; and the amount &#x22;$213.00.&#x22; The second transaction has the property &#x22;REFUND,&#x22; the Kind &#x22;Expense,&#x22; the Type &#x22;DEBIT,&#x22; and the amount &#x22;-$213.00.&#x22; Both have the Account &#x22;Vendor D.&#x22;"><figcaption></figcaption></figure>
 
-From the perspective of the paying Collective, an expense and payment processor fee were first debited from the Collective, and then when the expense was marked as unpaid, the funds were credited back to the Collective together with credit from the Fiscal Host to cover the payment processor fees:
+From the perspective of the paying Collective, an expense and payment processor fee were first debited from the Collective, and then when the expense was marked as unpaid, the funds were credited back to the Collective together with credit from the Fiscal Host to cover the payment processor fees (or, if the payment processor fees were refunded, a refund of the PAYMENT PROCESSOR FEE transaction):
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt="A table showing an example of an expense that was marked as unpaid from the perspective of the Collective. The first transaction has a property &#x22;REFUNDED,&#x22; the Kind &#x22;Expense,&#x22; the Type &#x22;DEBIT,&#x22; and the Amount &#x22;-$213.00.&#x22; The second transaction has the Kind &#x22;Payment Processor Fee,&#x22; the Type &#x22;DEBIT,&#x22; and the Amount &#x22;-$13.00.&#x22; The third transaction has a property &#x22;REFUND,&#x22; the Kind &#x22;Expense,&#x22; the Type &#x22;CREDIT,&#x22; and the Amount &#x22;$213.00.&#x22; The fourth transaction has a property &#x22;REFUND,&#x22; the Kind &#x22;Payment Processor Cover,&#x22; the Type &#x22;CREDIT,&#x22; and the Amount &#x22;$13.00.&#x22;"><figcaption></figcaption></figure>
 
-From a Fiscal Host's “Operational Funds” perspective, an “Unpaid” expense leaves only a PAYMENT PROCESSOR COVER transaction debited from the Fiscal Host to the Collective to cover the un-refunded payment processor fees:
+From a Fiscal Host's “Operational Funds” perspective, an “Unpaid” expense whose payment processor fees were not refunded leaves only a PAYMENT PROCESSOR COVER transaction debited from the Fiscal Host to the Collective to cover the un-refunded payment processor fees. If the payment processor fees were refunded, there is no transaction on the Fiscal Host's operational funds:
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt="A table showing an example of what an expense that is marked as unpaid looks like from a Fiscal Host&#x27;s &#x22;Operational Funds&#x22; perspective. There is only a single transaction, it has a property of &#x22;REFUND,&#x22; the Kind &#x22;Payment Processor Cover,&#x22; a Type &#x22;DEBIT,&#x22; the Account &#x22;Fiscal Host C,&#x22; and the Amount &#x22;-$13.00.&#x22;"><figcaption></figcaption></figure>
 
