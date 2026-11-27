@@ -35,9 +35,9 @@ You can set the notifications you receive based on your preferences. If you are 
 
 ### Collectives you host
 
-If you are the admin of a Fiscal Host, find this section to bring up a list of all the collectives you are currently hosting. By using the toggle, you can choose which collectives will send you non-essential notifications.
+If you are the admin of a Fiscal Host, find this section to see each Fiscal Host you administer, along with the number of collectives it hosts. Use the toggle next to a Fiscal Host to turn its non-essential notifications on or off.
 
-Click “show advanced settings” to alter which notifications to filter, including activities, funds, events, and monthly reports.
+Click “show advanced settings” to choose which types of notifications you receive for that Fiscal Host, using the same categories as listed below (for example expenses, contributions, funds and events, and monthly reports).
 
 
 
