@@ -11,7 +11,7 @@ icon: hand-holding-circle-dollar
 {% hint style="success" %}
 The settlement process is only triggered after the cumulative amount of money owed passes $10.&#x20;
 
-For example, if in January your Fiscal Host owes $5 and in February your collective owes $6, in February you will be charged $11.
+For example, if in January your Fiscal Host owes $5 and in February your collective owes $6, the settlement created at the start of March (covering February) will be for $11.
 {% endhint %}
 
 A special type of expense is created when you owe Open Collective money from Platform Tips or Host Fees.&#x20;
@@ -22,9 +22,9 @@ A special type of expense is created when you owe Open Collective money from Pla
 When a payment with a tip goes through Stripe, the tip is automatically diverted to Open Collective, and you don't need to do anything.
 {% endhint %}
 
-**Host Fee Share** is the 15% a Fiscal Host pays to Open Collective when they charge their hosted Collectives a [Host Fee](setting-up-a-fiscal-host/setting-your-fiscal-host-fees.md).&#x20;
+**Host Fee Share** (shown as "Platform Share" on the expense) is the 15% a Fiscal Host on legacy pricing pays to Open Collective when they charge their hosted Collectives a [Host Fee](setting-up-a-fiscal-host/setting-your-fiscal-host-fees.md). Fiscal Hosts on a [platform subscription](../organizations/platform-subscription.md) don't pay a Host Fee Share.&#x20;
 
-Every month, the total amount of money owed from platform tips sent to the Fiscal Host through manual bank transfers and host fee share is calculated and submitted to the Fiscal Host as an expense. We refer to this total figure as the **Platform Settlement**.
+Every month, the total amount of money owed from platform tips sent to the Fiscal Host through manual bank transfers and host fee share is calculated and submitted to the Fiscal Host as an expense. We refer to this total figure as the **Platform Settlement**. Platform Tips and Host Fee Share are billed in separate settlement expenses, so you may receive more than one in the same month.
 
 Platform Settlement Expenses will automatically appear once per month if any tips or host fee shares are due to be transferred to Open Collective. You can proceed to approve and pay it like any other expense including via card using Stripe.
 
@@ -40,4 +40,4 @@ Platform settlements and platform subscription bills share the same payout metho
 
 Tips collected on your behalf are tracked on an internal Platform Tips account. These internal billing flows are hidden from the default Budget and Transactions sections on your Fiscal Host's public profile page, so visitors see your activity with hosted collectives rather than platform settlements.
 
-To review platform tip and application fee transactions, open **Dashboard > Transactions** and filter by **Kind**. See [Viewing Transactions](../advanced/ledger/viewing-transactions.md#public-profile-vs.-dashboard) for details.
+To review platform tip and application fee transactions, open **Dashboard > Ledger > Transactions** and filter by **Kind**. See [Viewing Transactions](../advanced/ledger/viewing-transactions.md#public-profile-vs.-dashboard) for details.

@@ -21,9 +21,9 @@ You can also define custom host fees when adding funds manually. Learn more on t
 
 ### **How fees affect your Open Collective pricing**
 
-If you do not charge any fees to your Collectives as a Fiscal Host, we will not charge you for using the Open Collective platform. This will give you access to all of our tools and features for free.
+Fiscal Hosts on a platform subscription pay for the platform based on their activity, such as the number of Collectives they host and the expenses they process. Open Collective does not take a share of their Host Fees.
 
-However, if you do decide to add a Host Fee, we will charge you a 15% Platform Share, which is 15% of incoming revenue from Collectives. \
+Fiscal Hosts still on legacy pricing are charged based on their Host Fees instead. If you do not charge any fees to your Collectives, we will not charge you for using the Open Collective platform. If you do add a Host Fee, we will charge you a 15% Platform Share, which is 15% of your Host Fee revenue. No Platform Share is taken on contributions where the contributor was offered a [Platform Tip](../../giving-to-collectives/platform-tips.md). \
 \
 For example, if you charge a 10% fee, the share may look like this:
 
@@ -47,7 +47,7 @@ These pages can be included in your policies or on your docs pages. Here are som
 
 ### Seeing Host Fees in your accounts
 
-Each month, you will receive a host report, which includes the amount that you have brought in via Host Fees.
+You can track the amount that you have brought in via Host Fees in your Fiscal Host Dashboard > Reports.
 
 Some hosts choose to move these fees to their own Collective for extra transparency.&#x20;
 

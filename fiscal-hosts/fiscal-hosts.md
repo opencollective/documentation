@@ -23,7 +23,7 @@ By sharing a host, Collectives are effectively mutualizing the cost and overhead
 
 ## What are some examples of Fiscal Hosts? <a href="#what-are-some-examples-of-fiscal-hosts" id="what-are-some-examples-of-fiscal-hosts"></a>
 
-Fiscal Hosts can be in any location and take any form of legal entity (as long as they have a bank account, PayPal account, and Stripe account). Each one determines its own policies for which Collectives it will host and what fees it will charge.
+Fiscal Hosts can be in any location and take any form of legal entity (as long as they have a bank account). Each one determines its own policies for which Collectives it will host and what fees it will charge.
 
 Below are a few examples of Fiscal Hosts.
 
