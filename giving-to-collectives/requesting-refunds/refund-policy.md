@@ -19,11 +19,11 @@ Open Collective has the technical ability to process refunds for the following:
 * Added funds and manual bank transfers (This will only reverse the transaction on Open Collective, the Fiscal Host will need to ensure the refund is issued manually).
 * Platform tips
 * Event tickets
-* Balance transfers
 
 Refunds via Open Collective are not possible for:
 
 * Expenses (Invoices/Reimbursements/Grants). Please coordinate with the expense payer or payee regarding the return of any expense.
+* Balance transfers between accounts on the same Fiscal Host, such as internal transfers or emptying a balance to a parent Collective or to the Fiscal Host.
 
 3. **Common Valid Reasons for Refund Requests:**
 
