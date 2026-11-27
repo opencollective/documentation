@@ -10,10 +10,10 @@ icon: money-check-dollar
 
 There are two types of expected funds on the platform:
 
-1. The first are automatically generated when contributors use the “bank transfer” payment method and then manually complete payment at a later time.
+1. The first are automatically generated when contributors use the “bank transfer” payment method and then manually complete payment at a later time. They can be found in your Fiscal Host Dashboard > Incoming Money > Incomplete Contributions (see [Bank Transfers](bank-transfers.md)).
 2. The other are pending contributions created by a Fiscal Host to track expected funds as a consequence of fund-raising efforts by either the Fiscal Host or Collective. Documenting expected incoming contributions will make it easier for you to track them down and reconcile them when they appear in your bank account.
 
-They can be found in your Fiscal Host Dashboard > Incoming Money > Expected Funds.
+The pending contributions created by your Fiscal Host can be found in your Fiscal Host Dashboard > Incoming Money > Expected Funds.
 
 ## Recording Expected Funds
 
@@ -43,9 +43,9 @@ The expected date is a calendar day: it is displayed as the same day for everyon
 
 ## Review & Edit Expected Funds
 
-When you find a pending contribution (see Searching for Pending Contributions), you can click on its title to review its details.
+When you find a pending contribution (see Finding Expected Funds), you can click on it to review its details.
 
-Click on “Edit Contribution” to modify the pending contribution details.
+Click on “Edit expected funds” (or “Edit Contribution” on the contribution page) to modify the pending contribution details.
 
 ### Finding Expected Funds
 
@@ -53,7 +53,7 @@ You can search for a pending contribution based on any of the information you’
 
 ### Reconciling Expected Funds
 
-When you’ve found a pending contribution that matches incoming funds, you can reconcile it by clicking on “Mark as Completed" which will display this reconciliation screen.
+When you’ve found a pending contribution that matches incoming funds, you can reconcile it by clicking on “Add received funds” (or “Mark as completed” on the contribution page), which will display this reconciliation screen.
 
 This screen will be populated with the information from the pending contribution. You can modify the amounts to match the funding that was actually received, payment processor fees and the host fees.
 
@@ -74,7 +74,7 @@ The reconciled pending contribution will no longer appear under pending contribu
 
 The expected dates on pending contributions are informational estimates. When the expected date passes it will be emphasized with a highlight to indicate it may be overdue.
 
-If you no longer expect a pending contribution to be fulfilled, you can mark it as expired.
+If you no longer expect a pending contribution to be fulfilled, you can mark it as expired by clicking “Expire” (or “Mark as expired” on the contribution page).
 
 If for some reason, the funds for an expired pending contribution do arrive, you will still be able to search for it and reconcile it.
 
