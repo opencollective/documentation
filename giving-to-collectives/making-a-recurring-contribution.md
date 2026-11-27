@@ -71,7 +71,7 @@ From an active recurring contribution, you can:
 * **Cancel** — stop future payments
 
 {% hint style="info" %}
-Contributions using some payment methods (such as ACH and SEPA) do not support changes. If you wish to change a recurring contribution using these methods, please cancel and create a new one instead.&#x20;
+You cannot edit a recurring contribution while one of its payments is still processing. Bank debits such as ACH, SEPA or BACS can take several days to process. Once the payment has completed, the edit options are available again.
 {% endhint %}
 
 #### Changing to a different tier
