@@ -17,7 +17,16 @@ Open Collective provides transparent and public budgets for all its collectives,
 
 This is to ensure that collectives are able to maintain the integrity and accuracy of their records. In these cases, you will need to archive your account instead, using the steps outlined below.
 
-If you have no activity registered on your account, you can delete your account by navigating to your Dashboard > Settings > Advanced, and clicking Delete This Account.
+An account cannot be deleted if any of the following applies:
+
+* It has transactions.
+* It has made or received contributions that were paid, are active, or were cancelled.
+* It has submitted or received expenses, whatever their status.
+* It has events, projects, or other accounts under it.
+* It is a personal account that is the only admin of a Collective or Organization. Add another admin to that account, or delete it, first.
+* It is an Organization with money management or fiscal hosting turned on. Turn these off first.
+
+If none of these applies, you can delete your account by navigating to your Dashboard > Settings > Advanced, and clicking Delete This Account. If you have two-factor authentication enabled, you will be asked for a code.
 
 ### Archiving your account
 
