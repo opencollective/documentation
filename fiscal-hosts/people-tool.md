@@ -93,13 +93,13 @@ Full transaction history with date, amount, search, accounting category, and hos
 
 Click a contribution row to open the contribution drawer. From there, host admins can manage that person's contributions without leaving the People tool:
 
-* **Update payment method** — for active recurring contributions
+* **Update payment method** - for active recurring contributions
 * **Update contribution amount**
-* **Update platform tip amount** — when the contribution is eligible for platform tips
-* **Resume contribution** — for paused recurring contributions
+* **Update platform tip amount** - when the contribution is eligible for platform tips
+* **Resume contribution** - for paused recurring contributions
 * **Cancel contribution**
-* **View transactions** — jump to the related ledger entries
-* **Mark as paid / Expire** — for pending expected funds
+* **View transactions** - jump to the related ledger entries
+* **Add received funds / Expire** - for pending contributions, such as expected funds
 
 These actions mirror what is available on the Incoming Contributions page, but scoped to the person you are reviewing.
 
@@ -118,5 +118,5 @@ When KYC is enabled, shows verification history and a button to submit a new man
 ## Related documentation
 
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
-* [Dashboard Navigation](https://github.com/opencollective/documentation/blob/main/fiscal-hosts/dashboard-navigation.md)
+* [Dashboard Navigation](dashboard-navigation.md)
 * [Vendors](managing-your-collectives/vendors.md) - separate vendor directory for organizations. The **Platform Organizations** tab of the Vendors dashboard supports the same **Missing information** filter and year option on the amount filters.
