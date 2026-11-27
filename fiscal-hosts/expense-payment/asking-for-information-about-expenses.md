@@ -21,9 +21,9 @@ As such, you may wish to confirm more details about the submitter, the amount an
 
 If you want to find out more information about an expense, we would advise changing the status of the expense first so that everyone involved is kept informed.
 
-You can find both of the following options by clicking the blue “Approved” status dropdown option on the expense itself on your Transactions list. Alternatively, you can click the title of the expense and find the options in the “More Actions” menu at the bottom of the expense page. You can choose to:
+You can find both of the following options by clicking the “Approved” status dropdown on the expense in your expenses list under **Dashboard > Outgoing Money**. Alternatively, you can click the title of the expense and find the options in the “More actions” menu at the bottom of the expense page. You can choose to:
 
-#### **Put on Hold**
+#### **Put On Hold**
 
 This option can be used if you are planning to consult an expert about a detail or issue, and return to the expense when you have received a reply.
 
@@ -35,7 +35,7 @@ You should use this option if you wish to ask the expense submitter for more inf
 
 You will have the option to submit a comment directly to the expense submitter making your request. You should try to be as clear as possible about what you want and why, and what the expense submitter needs to do to resolve the issue.
 
-The comment exchange will only be visible to Fiscal Host admins, Collective admins and the expense submitter themselves, since it may contain private information.
+The comment exchange will only be visible to Fiscal Host admins, Collective admins, accountants, the payee and the expense submitter themselves, since it may contain private information.
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt="Screenshot of comment text box with options for rich text formatting and additional privacy."><figcaption><p>Screenshot of comment text box with options for rich text formatting and additional privacy.</p></figcaption></figure>
 
@@ -59,13 +59,13 @@ If the information provided requires the Fiscal Host admin to change the expense
 
 They may choose to do this if the amount has changed, the reason for the expense is now different, or the identity and payment destination have significantly changed. This step occurs to ensure that the Collective is fully informed, and still willing to pay the expense in its new state.
 
-To do this, the Fiscal Host should find the expense in question in their Dashboard and select “Request Re-Approval.”
+To do this, the Fiscal Host should find the expense in question in their Dashboard and select “Request re-approval.”
 
 This will move the expense back into the Collective admin’s queue to be reviewed and approved again. When they have done this, it will return to the Fiscal Host’s queue for review and payment.
 
 ### Posting a private comment
 
-Comments are only visible to Collective admins, Fiscal Host admins, and the expense submitter. However, you may wish to post a comment that is only visible to other Fiscal Host admins.
+Comments are only visible to Collective admins, Fiscal Host admins, accountants, the payee and the expense submitter. However, you may wish to post a comment that is only visible to other Fiscal Host admins.
 
 This may be because:
 
@@ -73,4 +73,4 @@ This may be because:
 * You wish to flag potential concerns
 * You wish to provide instructions to other admins about how to process this expense
 
-To do this, you should use the same comment box as above. But remember to check the “Post Private Comment” option underneath the comment box.
+To do this, you should use the same comment box as above. But remember to check the “Post as a private note for the host admins” option underneath the comment box.
