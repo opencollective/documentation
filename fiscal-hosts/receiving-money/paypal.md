@@ -35,7 +35,7 @@ Once we have enabled PayPal for your host, in order to connect your business Pay
 
     * Open a new tab and go to [Open Collective](https://www.opencollective.com/).
     * Navigate to your Fiscal Host Dashboard > Settings > Receiving Money
-    * You will see a new section called PayPal and under that there will be two inputs named "Client Id" and "Secret"
-    * Enter your "Client Id" and "Secret" which you've obtained before and click "Connect to PayPal"
+    * You will see a new section called PayPal and under that there will be two inputs named "Client ID" and "Secret"
+    * Enter your "Client ID" and "Secret" which you've obtained before and click "Connect PayPal"
 
     ![](https://docs.opencollective.com/help/~gitbook/image?url=https%3A%2F%2F2931279126-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LWSZizTt4ZC1UNDV89f%252F-MYKpVN8PgQ47PpB4drG%252F-MYKpfCzAawOBmgn7Hjp%252FPeek%25202021-04-15%252016-00.gif%3Falt%3Dmedia%26token%3D9647b087-6ae9-412a-b900-f7a800553e01\&width=768\&dpr=4\&quality=100\&sign=caf555fb\&sv=2)
