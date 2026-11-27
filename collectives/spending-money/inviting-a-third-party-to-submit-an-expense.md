@@ -17,7 +17,7 @@ This can be useful when:
 You can then invite the person or group in question to complete the expense and submit it on the platform.
 
 {% hint style="warning" %}
-Invitations expire after a month if they are not accepted. You will then need to repeat the process to deliver a new invitation.
+Invitations expire if the draft expense is not updated for two months. The draft is then deleted, and you will need to repeat the process to deliver a new invitation.
 {% endhint %}
 
 ### Inviting an existing Open Collective user
@@ -30,10 +30,10 @@ An Open Collective profile can be an individual, Collective, project, event, org
 
 1. Navigate to the page that you wish to expense.&#x20;
 2. Go to the “Submit Expense” button in the top right hand corner.&#x20;
-3. Select “Invoice”.
-4. Type their username or email into the “Payee Information” section and select them from the drop-down menu.
-5. You can then add details as you choose, such as the title, amount, and even a note which will be received by the user you invited.
-6. Submit the invite to them to complete the expense.&#x20;
+3. In the “Who is getting paid” step, select “Invite someone”.
+4. Search for their profile and select it from the drop-down menu.
+5. You can then add details as you choose, such as the type of expense, the items and amounts, the title, and a note in “Notes for the recipient”, which will be received by the user you invited.
+6. Click “Submit Expense” to send them the invite to complete the expense.&#x20;
 
 They will then receive an email notification which they can use to finish the expense and submit it.
 
@@ -43,7 +43,7 @@ The invited payee can add or update the payout method while completing the draft
 
 #### Cross-host draft invites
 
-When the payee is a collective hosted by a different fiscal host than the one paying the expense, the invitation is sent to the payee's **fiscal host admins** (not just the payee's collective admins). This lets the recipient host help complete payout details on their side.
+When the payee is a collective hosted by a different fiscal host than the one paying the expense, the invitation is sent to the payee's **fiscal host admins** instead of the payee's collective admins. This lets the recipient host help complete payout details on their side.
 
 A payee host admin who opens the invite link can:
 
@@ -59,14 +59,13 @@ If the person or group you are inviting does not currently have an Open Collecti
 
 1. Navigate to the page that you wish to expense.
 2. Go to the “Submit Expense” button in the top right hand corner.&#x20;
-3. Select “Invoice”.
-4. Go to the “Payee Information” section.
-5. Locate the section in the drop-down menu that says “Invite Someone To Submit An Expense”.
-6. Choose whether they will need to set up a Personal or an Organization Account. Selecting (Organization will invite them to create an Organization account where they are the admin.)
-7. Fill in any other relevant information, such as their contact name, email address etc.
-8. You can then add details as you choose, such as the title, amount, and even a note which will be received by the user you invited.
-9. Submit the invite to them to complete the expense.&#x20;
+3. In the “Who is getting paid” step, select “Invite someone”.
+4. Open the drop-down menu and select “Invite someone to submit an expense”.
+5. Choose whether they will need to set up a Personal Account or an Organization Account. (Selecting Organization Account will invite them to create an Organization account where they are the admin.)
+6. Fill in any other relevant information, such as their contact name, email address etc.
+7. You can then add details as you choose, such as the type of expense, the items and amounts, the title, and a note in “Notes for the recipient”, which will be received by the user you invited.
+8. Click “Submit Expense” to send them the invite to complete the expense.&#x20;
 
 The payee will receive an email inviting them to submit the expense. They will need to confirm or fill in the remaining details—including their payout method—and submit the expense. An Open Collective account will be created for them within this process, or they will be prompted to login.
 
-The expense will be marked as “Unverified” until they have verified their email address.<br>
+If they submit the expense with the email address you invited, it goes straight to review. If they use a different email address, the expense will be marked as “Unverified” until they have verified that email address. Unverified expenses are deleted if they are not verified within two months.<br>
