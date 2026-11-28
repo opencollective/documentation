@@ -32,9 +32,9 @@ When you receive an expense, you have a few options:
 
 As a Collective admin, it’s your responsibility to ensure that the submitted expense is legitimate. If you believe this is the case, you can approve it. This will send a notification to the submitter.
 
-If the collective has sufficient funds to pay the expense, it will also notify the Fiscal Host admin(s), who will need to review the expense to ensure it is legally and fiscally valid.
+It will also notify the Fiscal Host admin(s), who will need to review the expense to ensure it is legally and fiscally valid.
 
-If the collective does not have sufficient funds, the expense will wait until sufficient funds are available.&#x20;
+If the collective does not have sufficient funds, the expense cannot be paid until sufficient funds are available.&#x20;
 
 Once both parties are satisfied, the expense will be paid by the Fiscal Host.
 
@@ -48,7 +48,7 @@ You cannot delete an expense until you have rejected it.
 
 #### Marking the expense as spam
 
-If you do not recognize the expense or the sender, you can reject the expense and then mark it as spam. This will remove all transactions from this user, and block the sender from submitting any more expenses on Open Collective.
+If you do not recognize the expense or the sender, you can reject the expense and then mark it as spam. This will mark the expense as spam, stop any future occurrences if it is a recurring expense, and block the sender from submitting any more expenses on Open Collective.
 
 ### Tagging your expenses
 
