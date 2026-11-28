@@ -29,20 +29,20 @@ If enabled by the Fiscal Host, Collective admins can refund financial contributi
 
 To refund a contribution:
 
-1. Navigate to your Dashboard > Ledger > Transactions
+1. Navigate to your Collective's Dashboard > Transactions (Fiscal Host admins: your host's Dashboard > Ledger > Transactions)
 2. Find the contribution
-3. Click "View Details"
+3. Click it to open its details
 4. Click **Refund** and confirm the operation
 
 For contributions paid through **Stripe** or **PayPal**, the platform returns funds through the original payment method after you confirm.
 
-When you confirm the refund, you can optionally:
+If you are a Fiscal Host admin, when you confirm the refund of a contribution you can optionally:
 
 * Cancel any linked recurring contribution
 * Remove the contributor from your Collective's sponsor list
 * Send the contributor a message explaining the refund
 
-Leave those options unchecked if you only want to return the payment and keep their membership as-is.
+Leave those options unchecked if you only want to return the payment and keep their membership as-is. Collective admins only get a confirmation step: the refund returns the payment, and does not cancel the recurring contribution or remove the contributor.
 
 ### Rejecting financial contributions
 
@@ -58,9 +58,9 @@ If you only need to return the payment and want to keep the contributor as a mem
 
 To reject a contribution:
 
-1. Navigate to your Collective's Dashboard >  Transactions
+1. Navigate to your Collective's Dashboard > Transactions
 2. Find the contribution
-3. Click "View Details"
+3. Click it to open its details
 4. Click the “Reject” button.
 
 You can also send them a message, explaining the reasons for your decision.&#x20;
@@ -74,13 +74,15 @@ You may choose to prohibit certain types of group from contributing to your Coll
 We offer the option to block the following groups:
 
 * Adult websites
-* Casino/gambling websites
-* SEO services
-* VPN/proxy services
+* Affiliate and review websites
+* Casinos and gambling
+* Insurance & financial products (credit)
+* Pharmacy products (weight loss, anti-aging)
+* SEO services & social media buying
+* VPN and proxy services
 * Essay writing services
-* Affiliate/review services
 
-If you wish to block one or more of these, navigate to your Collective's Dashboard > Settings > Policies and find the drop-down under “Rejected Categories”.
+If you wish to block one or more of these, navigate to your Collective's Dashboard > Settings > Policies and find the drop-down under “Rejected categories”.
 
 Once you have made your selection, any account that has been tagged by the Open Collective team as belonging to one of these categories will not be able to contribute to your Collective.
 
