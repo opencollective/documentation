@@ -71,5 +71,5 @@ We strongly advise you to establish strong policies to decide which Collectives 
 {% hint style="info" %}
 Many Fiscal Hosts charge a fee in exchange for the services they provide. On Open Collective, this is often a percentage of the Collective's incoming funds (typically between 5-15%, depending on the host). See [Setting Your Fiscal Host Fees](setting-up-a-fiscal-host/setting-your-fiscal-host-fees.md) for more on this.
 
-If you do not charge fees to your Collectives, you will be able to use the Open Collective platform for free. If you charge, we will charge you a Platform Share of 15% of your incoming revenue. For more information, visit our [Pricing](../why-open-collective/pricing.md) page.
+Fiscal Hosts pay for the platform through a platform subscription based on their activity. Fiscal Hosts still on legacy pricing can use the platform for free if they do not charge fees to their Collectives, and pay a Platform Share of 15% of their Host Fee revenue if they do. For more information, visit our [Pricing](../why-open-collective/pricing.md) page.
 {% endhint %}
