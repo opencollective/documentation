@@ -9,7 +9,7 @@ icon: people-roof
 
 Open Collective makes it easy to keep track of all the Collectives that you host.
 
-To view a list of all your Hosted Collectives, navigate to your Fiscal Host’s Dashboard > Hosting > Hosted Collectives.
+To view a list of all your Hosted Collectives, navigate to your Fiscal Host’s Dashboard > Hosting > Collectives. Hosted Funds are listed separately, under Funds & Grants > Hosted Funds.
 
 #### Search
 
@@ -17,13 +17,13 @@ Either find the Collective listed on the page or look them up by their name via 
 
 #### Tabs
 
-Utilize the tabs to view all, active, frozen or unhosted Collectives.&#x20;
+Utilize the tabs to view All, Hosted (active), Frozen or Unhosted Collectives.&#x20;
 
 #### Filters
 
 You can use several filters to narrow your list of hosted Collectives:
 
-* **Type:** The page is automatically set to show Collectives and Funds. You can customize this to also show projects and events.
+* **Type:** The page is automatically set to show Collectives. You can customize this to also show Projects and Events.
 * **Fee structure:** Global host fee (the standard fee you set in your settings) or a custom fee.
 * **Status**
 * **Balance**
@@ -38,7 +38,7 @@ You can also sort by the period of time you've hosted them — most recent and o
 
 Host admins can create a new hosted collective directly from the dashboard, without waiting for an application. This is useful when you are onboarding a group yourself or setting up accounts on their behalf.
 
-To create a collective, go to **Dashboard > Hosting > Hosted Collectives** and click **Create collective**.
+To create a collective, go to **Dashboard > Hosting > Collectives** and click **Create collective**.
 
 ### Form fields
 
@@ -159,7 +159,7 @@ As an added security and compliance measure for Fiscal Hosts, their Admins can n
 
 Freezing a Collective means temporarily limiting what a Collective (and their connected Projects & Events) can and cannot do on the platform.
 
-Freezing a Collective will block all financial activity within that Collective. They will not be able to accept funds, pay out expenses, post updates, create new Events or Projects, or add new Team members under this Collective. However, they will still continue to receive recurring donations that were started before this freeze.
+Freezing a Collective will block all financial activity within that Collective. They will not be able to accept funds, pay out expenses, post updates, create new Events or Projects, or add new Team members under this Collective. By default, their active recurring contributions are also paused until the Collective is unfrozen. See [Freezing a Collective](freezing-a-collective.md).
 
 Contributions and expenses will be removed from the Collective's public profile, and admins will be informed of why the action was taken.
 
@@ -168,12 +168,11 @@ Contributions and expenses will be removed from the Collective's public profile,
 We've also added the ability to unhost a Collective, which can be used to free a Collective to choose another host or to become an [Organization](../../organizations/organizations.md).
 
 * This Fiscal Host will no longer manage money on behalf of the Collective.
-* Any active recurring PayPal contributions or Virtual Cards will be cancelled.
+* Any Virtual Cards of the Collective will be deleted.
+* All active recurring contributions to the Collective are either paused or cancelled. When unhosting, you choose which: pause them if the Collective intends to stay on Open Collective (contributors are told they can resume their contributions once the Collective is ready), or cancel them if the Collective is leaving the platform. You must also write a message that is sent to the contributors.
 * Unhosted Collectives can then apply to a different fiscal host or become an [Organization](../../organizations/organizations.md).
-* When we trigger recurring contributions at the beginning of the month, valid Stripe configurations (through a Fiscal Host or via an Organization) will be charged.
-* Stripe recurring contributions can be transferred to a new host. If the collective has a new host, they will continue as usual. If they don't, the contribution will be cancelled.
 
-Before unhosting, a Collective's [balance must be zeroed](../../collectives/closing-a-collective/zero-collective-balance.md) by paying expenses, making contributions to other Collectives or gifting the balance to the host.
+Before unhosting, a Collective's [balance must be zeroed](../../collectives/closing-a-collective/zero-collective-balance.md), including the balance of its Events and Projects, by paying expenses, making contributions to other Collectives or gifting the balance to the host.
 
 #### Steps to unhost a Collective (if they want to join another Fiscal Host)
 

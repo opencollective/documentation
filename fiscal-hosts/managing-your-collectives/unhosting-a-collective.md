@@ -16,7 +16,14 @@ For example:
 
 
 
-**You will only be able to do this if the Collective has reduced its balance to zero.** A guide on how a Collective can empty their balance can be found on the [Zero Collective Balance](../../collectives/closing-a-collective/zero-collective-balance.md) page.
+**You will only be able to do this if the Collective has reduced its balance to zero, including the balance of its Events and Projects.** Unhosting is also blocked while the Collective has expenses in a "Processing" state. A guide on how a Collective can empty their balance can be found on the [Zero Collective Balance](../../collectives/closing-a-collective/zero-collective-balance.md) page.
+
+To unhost a Collective, go to your Fiscal Host Dashboard > Hosting > Collectives, click the three dots at the end of the Collective's row and choose "Unhost". If the Collective has active recurring contributions, you will be asked what should happen to them:
+
+* **Pause** them if the Collective intends to stay on Open Collective, with another Fiscal Host or as an independent Collective. Contributors are notified that they can resume their contributions once the Collective is ready.
+* **Cancel** them if the Collective is leaving Open Collective. Contributors are notified that their recurring contributions have been cancelled.
+
+You must also write a message for contributors in this case. Unhosting a frozen Collective automatically unfreezes it.
 
 A Collective admin can "zero" the balance by taking the money out via expenses. Other options include giving money to other Collectives and gifting the remaining balance to its Fiscal Host.
 
