@@ -13,7 +13,7 @@ You can customize the text that your community receives in these emails to match
 
 ### Custom Thank You Emails
 
-You can edit the email message sent by your Collective by navigating to your Collective's Dashboard > Settings > Custom emails.&#x20;
+You can edit the email message sent by your Collective by navigating to your Collective's Dashboard > Settings > Custom Email.&#x20;
 
 Here you can use our text editor to compose your message. You can also add images if you wish.
 
