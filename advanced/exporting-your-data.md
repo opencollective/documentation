@@ -15,7 +15,7 @@ If you want to know how to export data to display on your website, go to the [Ad
 
 ### Export Transactions
 
-Go to your Collective or Fiscal Host's Dashboard > Transactions and click "Export CSV" in the top right.
+Go to your Collective's Dashboard > Transactions and click "Export CSV" in the top right. For a Fiscal Host or an Organization with money management enabled, go to Dashboard > Ledger > Transactions.
 
 You can download a CSV file of all transactions or use the filters to choose which groups of transactions to download, like expenses or contributions.
 
@@ -30,7 +30,7 @@ Transaction exports are processed in the background for the following accounts:
 
 Background exports are available to admins and accountants of the account, of its parent account (for Projects and Events), or of its fiscal host. For these users, the export window shows a **Generate Export** button and lets you name the export. There is no 100,000-row limit on background exports.
 
-Open the **Exports** section of your dashboard to check the status of an export and download completed files. You will also receive an email with a link to the export when it is ready.
+Open **Settings > Exports** in your dashboard to check the status of an export and download completed files. You will also receive an email with a link to the export when it is ready.
 
 Other accounts (for example, Organizations without money management and individual profiles) and other viewers keep the direct CSV download.
 
@@ -42,13 +42,15 @@ If an export fails, the platform automatically retries it a limited number of ti
 
 ### Export Contributors
 
-Go to your Collective or Fiscal Host's Dashboard > Contributors and click "Export CSV" in the top right.
+Go to your Collective's Dashboard > Contributors and click "Export CSV" in the top right.
+
+For an Organization with money management enabled but without fiscal hosting, go to Dashboard > People and click "Export Contributors" instead. Fiscal Hosts do not have a contributors export in the dashboard.
 
 
 
 ### Export Collectives
 
-Go to your Collective or Fiscal Host's Dashboard > Collectives and click "Export CSV" in the top right.
+This export is available to Fiscal Hosts. Go to your Fiscal Host's Dashboard > Hosting > Collectives and click "Export CSV" in the top right. The same button is available in Dashboard > Funds & Grants > Hosted Funds.
 
 By default, the platform will select the "Platform Default" export set, but if you'd like to add or remove fields like Name or Currency, click the drop down and then "New Preset."
 
