@@ -18,11 +18,11 @@ This page shows your current tier, monthly price, included collectives and expen
 
 ## Choose or change a plan
 
-From Platform Billing you can compare **Discover**, **Basic**, and **Pro** tiers and choose a plan that fits your organization's activity level.
+From Platform Billing, open **Manage Subscription > Modify Subscription** to compare **Discover**, **Basic**, and **Pro** tiers and choose a plan that fits your organization's activity level.
 
 Plans scale with the number of **active collectives** and **paid expenses per month** you process. Each tier offers a different feature set. View current tiers, features, and prices on the public [pricing page](https://opencollective.com/pricing).
 
-Use **See more plans** on the pricing page to compare package sizes within a tier.
+On the pricing page, use the drop-down on each tier to compare package sizes (number of active collectives and paid expenses per month) within that tier.
 
 If you need a feature that is not on your current tier, upgrade from Platform Billing.
 
