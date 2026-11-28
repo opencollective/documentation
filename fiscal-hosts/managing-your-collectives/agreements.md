@@ -14,20 +14,20 @@ If a Fiscal Host has added Agreements for a specific Collective, whenever an exp
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-When Agreements are added, only admins of the Fiscal Host can see them.&#x20;
+Agreements are only visible to the admins and accountants of the Fiscal Host. Only Fiscal Host admins can add, edit or delete them.&#x20;
 {% endhint %}
 
 ## Adding Agreements
 
 Navigate to your Fiscal Host Dashboard > Agreements. Click "Add New +" in the top right corner of the page. On the side page that opens up, you can then fill in the following information:
 
-* **Collective:** Agreements are only assigned to individual Collectives. Select the relevant Collective here.
+* **Account:** Agreements are only assigned to individual hosted accounts. Select the relevant Collective here.
 * **Title:** Collectives can have more than one associated Agreement. Use this title to help distinguish between different Agreements and indicate to your fellow admins the purpose of this Agreement.
 * **Agreement file:** Some Agreements are tied to specific documents. If necessary, use this field to upload them to the platform for easy access.
 * **Expiration date:** Use this field to indicate if an Agreement is only relevant up to a specific date.&#x20;
 * **Notes:** Add any additional information necessary for the specific Agreement. Because the Agreement file is optional, Fiscal Host admins can also use this field alone to define an Agreement if there are no related documents.
 
-Alternatively, navigate to your Fiscal Host Dashboard > Hosting > Hosted Collectives, find the specific Collective that you'd like to add an Agreement to, click on the Collective, and at the bottom of the side panel click More Actions > Add Agreement.
+Alternatively, navigate to your Fiscal Host Dashboard > Hosting > Collectives, find the specific Collective that you'd like to add an Agreement to, click on the Collective, and at the bottom of the side panel click More Actions > Add Agreement.
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt="Screen shot of the &#x22;Add Agreement&#x22; page."><figcaption></figcaption></figure>
 
