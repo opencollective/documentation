@@ -27,9 +27,11 @@ Under **Receipt title** you can enter a specific identifier for the receipt. Thi
 
 **Custom Message** is a field that allows you to enter whatever text may be relevant to your specific situation, such as tax ID number or information about the tax deductibility of contributions.&#x20;
 
+**Embedded Image** lets you add an image to the receipt, such as a signature or logo (up to 1MB). Use the **Preview** button to check how your receipt will look.
+
 ### Alternative Receipts
 
-If your organization has a need for more than one receipt type, it is possible to add alternative receipt templates. In the **Alternative receipt template** section, click the "+ Add alternative receipt" button and fill out both of the fields that appear.&#x20;
+If your organization has a need for more than one receipt type, it is possible to add one alternative receipt template. In the **Alternative receipt template** section, click the "+ Add alternative receipt" button and fill out the fields that appear (Receipt title, Custom Message and Embedded Image).&#x20;
 
 To select which receipt you would like used, navigate to your Fiscal Host Dashboard > Tiers and select the tier that you would like to change. At the bottom of the page, in the **Choose receipt** drop down, select from your available receipt templates.
 
