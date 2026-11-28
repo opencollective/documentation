@@ -35,17 +35,12 @@ You can use this feature to:
 
 You can use our rich editor to send messages, and include photos and videos if you wish.
 
-Your updates will be emailed to your contributors and appear publicly on your Collective page. But you can click the “Private Update” box when drafting your message if you only want it to be visible to your contributors.
+When drafting your update, use the **Update type** option to choose who can read it:
 
+* **Public**: the update appears publicly on your Collective page.
+* **Restricted**: only your contributors and team can read it. Fiscal Hosts can instead restrict it to the admins of the collectives they host. You can also set a date to automatically make it public.
 
-
-{% hint style="info" %}
-If you want to send updates directly through email, address your email to:\
-\
-backers@COLLECTIVE\_SLUG.opencollective.com\
-\
-You need to replace `COLLECTIVE_SLUG` with the handle of your Collective which you set on your profile info (For example, backers@webpack.opencollective.com)<br>
-{% endhint %}
+Use **Who should be notified?** to choose whether the update is emailed to your contributors. New updates default to **No one**, so select **Contributors** if you want them to receive it by email. Fiscal Hosts can also choose to notify the admins of the collectives they host.
 
 Do you want to contact your contributors in a different way? Learn how to export a list of your contributors emails in the [exporting your data section](../exporting-your-data.md). &#x20;
 

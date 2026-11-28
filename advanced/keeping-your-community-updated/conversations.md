@@ -9,7 +9,7 @@ icon: messages
 
 Conversations are a discussion forum for your Collective, Fiscal Host, or Organization. They are public threads that everyone can read and participate in. Use them to get feedback from your community or to organize your actions!
 
-Conversations are enabled by default. If you would like to disable this option, you can navigate to your Dashboard > Settings > Conversations.&#x20;
+Conversations are enabled by default and there is no setting to turn them off. If you do not want the Conversations section to appear on your profile, navigate to your Dashboard > Settings > Profile Sections and set the Conversations section to "Disabled". Remember to click Save.&#x20;
 
 
 
