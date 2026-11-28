@@ -21,9 +21,9 @@ This page will provide some basic details on what you may be asked to do. Howeve
 
 ### **Submitting expenses to a Collective with a US-Based Fiscal Host**
 
-If you submit expenses totalling $2000 or more in a year to a US-based Fiscal Host, it may be required to collect certain information. This applies even if you are based outside the US. The threshold applies to the total of qualifying expenses paid by that host.
+If you submit expenses totalling $2000 or more in a year to a US-based Fiscal Host, it may be required to collect certain information. This applies even if you are based outside the US. The threshold applies to the total of your qualifying expenses to that host in the year, including expenses that are pending or approved but not paid yet.
 
-The default $2000 threshold applies to invoice expenses, not expenses such as payroll, grants or reimbursements. Fiscal Hosts may use different thresholds for US and non-US people or entities, including a threshold of zero that requires a tax form regardless of the amount.
+The threshold applies to invoices and grants, not to reimbursements. Fiscal Hosts may use different thresholds for US and non-US people or entities, including a threshold of zero that requires a tax form regardless of the amount.
 
 Once your qualifying expenses to a particular US-based host reach the applicable threshold for the year, expect to be contacted by the Fiscal Host and asked to fill out a tax form. The applicable threshold is determined separately for each Fiscal Host.
 
@@ -67,4 +67,4 @@ A Fiscal Host will generally not ask you to fill out a 1099 form if:
 
 * You are a corporation (1099s are generally issued to contractors and service providers)
 * You are a PayPal payee (PayPal tends to issue 1099s to payees itself if required, so the Fiscal Host will not need to do it)
-* You are submitting a reimbursement (reimbursement expenses do not require you to fill out a tax form, only invoices)
+* You are submitting a reimbursement (reimbursement expenses do not require you to fill out a tax form, only invoices and grants)
