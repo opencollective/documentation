@@ -71,10 +71,6 @@ Navigate expense workflows faster with keyboard shortcuts.
 
 Shows action buttons on table rows when you hover over them, so you can perform common actions without opening the row menu.
 
-### Crowdfunding Redesign (public beta)
-
-Preview of redesigned crowdfunding and profile pages, including separate fundraising and storytelling views and improved goal tracking. See the [blog post](https://blog.opencollective.com/open-collective-crowdfunding-redesign/) for details.
-
 ### Balance & clearing accounts (closed beta) <a href="#balance-and-clearing-accounts-closed-beta" id="balance-and-clearing-accounts-closed-beta"></a>
 
 Attribute payments to **balance** and **clearing** accounts from your [Chart of Accounts](../fiscal-hosts/chart-of-accounts.md). This lets fiscal hosts record which payment device (Stripe, PayPal, Wise, a manual payment method, or a connected bank account) money moved through, separately from the profit-and-loss category (the kind of expense or contribution).
@@ -99,6 +95,7 @@ When enabled, click a hosted collective or fund in the list to open its profile.
 | **Overview** | Account details, platform activity, balance and all-time totals, financial charts, contribution and payout analytics, recent transactions, and hosting settings (fee structure, expense types, payout method visibility) |
 | **Accounts** | Projects, events, and child accounts under the hosted account |
 | **Money Movements** | Full transaction history filtered by contributions or payouts |
+| **Payment Requests** | Payment requests (expenses) submitted to this account and its projects and events |
 | **Expected Funds** | Pending offline or bank contributions for this account |
 | **Agreements** | Host agreements linked to the account |
 | **Updates** | Public updates published by the account |
@@ -121,6 +118,7 @@ The **Overview** tab is the main financial and operational snapshot for a hosted
 
 See [Hosted Collectives](../fiscal-hosts/managing-your-collectives/hosted-collectives.md) and [Funds](../fiscal-hosts/funds-and-grants/funds.md).
 
-## Graduated features
+## Removed and graduated features
 
+* **Crowdfunding Redesign** - this preview of redesigned crowdfunding and profile pages has been removed and is no longer available.
 * **Async Exports** — released to everyone and no longer a preview feature. See [Exporting Your Data](exporting-your-data.md#background-async-exports).
